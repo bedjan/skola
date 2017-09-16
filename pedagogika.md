@@ -1,51 +1,16 @@
 
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 **PEDAGOGIKA OBSAH:**
+[1](#1)
+[2](#2)
+[3](#3)
+[4](#4)
+[5](#5)
 
-[1\. PEDAGOGIKA – její předmět, základní ped. disciplíny](#1)
 
-[2\. Nejvýznamnější problémy současné pedagogiky, kurikulární reforma, alternativní školy](#2)
-
-[3\. Výukové metody – klasifikace, charakteristiky](#3)
-
-[4\. Organizační formy výuky či vzdělávání (OFV)](#4)
-
-[5\. Didaktické zásady ve výuce,význam,realizace](#5)
-
-[6\. SOCIÁLNÍ PEDAGOGIKA ( vybrané pojmy, hlavní okruhy problémů )](#6)
-
-[7\. Výchova – vymezení pojmu, složky výchovy, výchovně vzdělávací cíle](#7)
-
-[8\. Pedagogicko-psychologická diagnostika – součást výchovně-vzdělávacího procesu školy](#8)
-
-[9\. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY ŠKOLNÍHO HODNOCENÍ](#9)
-
-[10\. Diferenciace a individualizace; rozvoj aktivity, samostatnosti a tvořivosti žáků](#10)
-
-[11\. Pedagogická komunikace ve výuce, řešení problémových situací](#11)
-
-[12\. Pedagogika tradiční, moderní, základní pedagogické pojmy,  
-inovace výuky](#12)
-
-[13\. OSOBNOSTNÍ A KVALIFIKAČNÍ PŘEDPOKLADY PEDAG. PROFESE](#13)
-
-[14\. Příprava učitele na výuku](#14)
-
-[15\. VÝCHOVNÉ PŮSOBENÍ ŠKOLY A RODINY,  
-PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY](#15)
-
-[16\. Metodologie pedagogického výzkumu](#16)
-
-[17\. Současný školský systém ČR](#17)
-
-[18\. Výchova a vzdělávání žáků se speciálními vzdělávacími potřebami](#18)
-
-[19\. Klíčové kompetence pedagogických pracovníků a žáků](#19)
-
-[20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE](#20)
 
 * * *
 
