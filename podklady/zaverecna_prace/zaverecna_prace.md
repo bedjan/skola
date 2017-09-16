@@ -60,47 +60,48 @@ Podpis:
  
 ##### Obsah:	
 
-1	Úvod	
+[1 Úvod](1_úvod)	
 
-2	Cíl	
+[2 Cíl](2_Cíl)	
 
-3	Pojem autorita	
+[3 Pojem autorita](3_pojem_autorita)	
 
-3.1	Různá pojetí autority	
+[3.1 Různá pojetí autority](31_různá_pojetí_autority)	
 
-3.2	Druhy autority	
+[3.2 Druhy autority](32_druhy_autority)	
 
-3.3	Autorita učitele	
+[3.3 Autorita učitele](33_autorita_učitele)	
 
-3.4	Přirozená autorita	
+[3.4 Přirozená autorita](34_přirozená_autorita)	
 
-4	Faktory ovlivňující vznik a ztrátu autority	
+[4 Faktory ovlivňující vznik a ztrátu autority](4_faktory_ovlivňující_vznik_a_ztrátu_autority)	
 
-4.1	Faktory posilující vznik autority
+[4.1 Faktory posilující vznik autority](4_1_faktory_posilující_vznik_autority)
 
-4.2	Faktory oslabující autoritu
+[4.2 Faktory oslabující autoritu](42_faktory_oslabující_autoritu)
 
-5.	Uplatňování autority v praxi	
+[5. Uplatňování autority v praxi](5_uplatňování_autority_v_praxi)	
 
-5.1	Pomocí síly	
+[5.1 Pomocí síly](51_pomocí_síly)	
 
-5.2	Pomocí asertivního chování	
+[5.2 Pomocí asertivního chování](52_pomocí_asertivního_chování)	
 
-5.3	Pomocí vlivu osobnosti učitele	
+[5.3 Pomocí vlivu osobnosti učitele](53_pomocí_vlivu_osobnosti_učitele)	
 
-6.	Zpracování a výsledky empirické části	
+[6. Zpracování a výsledky empirické části](6_zpracování_a_výsledky_empirické_části)	
 
-7.	Závěr	
+[7. Závěr](7_závěr)	
 
-8.	Seznam použité literatury	
+[8. Seznam použité literatury](8_seznam použité_literatury)	
 
-9.	Seznam tabulek	
+[9. Seznam tabulek](9_seznam_tabulek)	
 
-10.	Seznam grafů	
+[10. Seznam grafů](10_seznam_grafů)	
 
-11.	Záznam o průběhu Pedagogické	praxe	(originál)	
+[11. Záznam o průběhu Pedagogické praxe \(originál)\](11_záznam_o_průběhu_pedagogické_praxe)	
 
-12.	Přílohy
+[12. Přílohy](12_přílohy)
+
  
 ##### 1 Úvod
 
