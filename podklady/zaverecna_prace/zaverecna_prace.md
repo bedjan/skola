@@ -1,3 +1,6 @@
+[Github závěrečná práce](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md)
+
+
 ~~závěrečná práce přehled~~ 
 :book:
 
@@ -82,7 +85,7 @@ Podpis:
 
 [5. Uplatňování autority v praxi](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#5-uplat%C5%88ov%C3%A1n%C3%AD-autority-v-praxi-51-pomoc%C3%AD-s%C3%ADly)	
 
-[5.1 Pomocí síly](51_pomocí_síly)	
+[5.1 Pomocí síly](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#51-pomoc%C3%AD-s%C3%ADly)	
 
 [5.2 Pomocí asertivního chování](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#52-pomoc%C3%AD-asertivn%C3%ADho-chov%C3%A1n%C3%AD)	
 
