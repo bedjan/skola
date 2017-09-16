@@ -181,7 +181,7 @@ Za nejvyšší považuje Maslow potřebu seberealizace, jíž označuje lidskou 
 
 - Podnícení k činnosti a udržení jejího průběhu až k uspokojení potřeby, popř. dosažení cíle, nebývá jednoduché a bez komplikací = __konflikt__ – důležitý druh motivačních procesů, i když mají zároveň aspekty kognitivní, emoční a volní.  
 
-__Konflikt – soubor rozmanitých situací, kdy v lidském životě působí protichůdné motivy, cíle, __ obecněji podmínky, vlivy.  
+__Konflikt – soubor rozmanitých situací, kdy v lidském životě působí protichůdné motivy, cíle,__ obecněji podmínky, vlivy.  
 Problematiku konfliktu zdůraznila od počátku 20\. stol. psychoanalýza a další směry na ni navazující. Byly zkoumány hlavně u psychiatrických pacientů – konflikty mezi základními organickými potřebami.  
 Kurt Lewin – rozpracoval konflikty ve 30\. letech 20\. stol. – konflikty v každodenním životě dětí.  
 
@@ -196,58 +196,62 @@ __3\. Konflikt mezi pozitivní a negativní silou__ – např. dítě by rádo p
 __4\. Dvojitý konflikt kladných a negativních sil__ – dítě chce vylézt na strom, ale bojí se, přitom je sledováno kamarády a dítě chce získat obdiv svým výkonem, ale zároveň se bojí posměchu v případě nezdaru.  
 
 Někdy se rozlišují vnější a vnitřní konflikty:  
-- vnější konflikt – střetnutí dítěte s rodičem, učitelkou, se skupinou kamarádů  
-- vnitřní konflikt – střetnutí dvou zájmů, potřeb  
+- _vnější konflikt_ – střetnutí dítěte s rodičem, učitelkou, se skupinou kamarádů  
+- _vnitřní konflikt_ – střetnutí dvou zájmů, potřeb  
 
-__City, emoce  __
+__City, emoce__
 - jsou těsně spjaty s motivací, mohou podněcovat, motivovat k činnosti tak jako potřeby, v tom smyslu patří emoce k motivům. Zároveň emoce doprovázejí průběh činnosti, uspokojování nebo neuspokojování potřeb, dosahování cíle nebo jeho zmaření.
 
 - Základní dvojice protikladných citů:  
--libost – uspokojení potřeby, úspěšný průběh činnosti s dosažením cíle  
--nelibost – opačná situace než u libosti.  
+- __libost__ – uspokojení potřeby, úspěšný průběh činnosti s dosažením cíle  
+- __nelibost__ – opačná situace než u libosti.  
 Širší seznam základních emocí – radost x smutek; strach x úleva; vztek, důvěra, znechucení, překvapení, …  
-- V emocích lze rozlišit několik momentů navzájem spjatých:  
+
+- __V emocích lze rozlišit několik momentů navzájem spjatých:__
 - hodnocení situace či události – hodnocení má aspekt kognitivní (poznávací) a také emoční (poznávám a také mohu slovně vyjádřit co, se stalo, jaká je situace, zda je to dobré x špatné, příznivé x nepříznivé)  
 - autonomní aktivace – změny ve funkčním stavu CNS a činnosti vnitřních orgánů (např. ↑ tep, dech, bušení srdce)  
 - vnější projevy emocí – mimika, gestikulace, zblednutí  
 - emoční zážitek – prožívání uvedených momentů  
-- Emoce jsou psychické procesy, které hodnotí – z hlediska potřeb, cílů a sociálního významu – různé skutečnosti, situace, události, průběh a výsledky činnosti jedince.
+- __Emoce jsou psychické procesy, které hodnotí__ – z hlediska potřeb, cílů a sociálního významu – __různé skutečnosti, situace, události, průběh a výsledky činnosti jedince.__
 
-- Ambivalence – jedinec má současně nebo střídavě kladný a záporný emoční vztah (matka – dítě)
+- __Ambivalence__ – jedinec má současně nebo střídavě kladný a záporný emoční vztah (matka – dítě)
 
-- Afekty – vztek, strach, bouřlivá radost jsou součástí takové reakce, která aktivuje organismus k velkému výkonu. Afekty patří k vývojově starším, nižším emocím. K těm se řadí také city libosti a nelibosti spjaté s hladem, žízní.
+- __Afekty__ – vztek, strach, bouřlivá radost jsou součástí takové reakce, která aktivuje organismus k velkému výkonu. Afekty patří k vývojově starším, nižším emocím. K těm se řadí také __city libosti a nelibosti__ spjaté s hladem, žízní.
 
 - Život ve společnosti, vývoj kultury, morálky a výchovy vedl ke vzniku nových vyšších, vývojově mladších emocí:  
-a) morální (etické) emoce – vyjadřují hodnocení činů, lidí a jejich vlastností z hlediska lidského soužití, morálky  
-b) estetické emoce – při hodnocení krásy a ošklivosti zvláště v přírodě a ve styku s uměleckými díly  
-c) intelektuální emoce – při poznávání a řešení problémů (radostné překvapení při novém poznání, neklid při zdlouhavém řešení problémů a pak uvolnění a radost při jeho zvládnutí), jsou důležitým motivem v učení, vzdělávání, poznání; obohacují život podobně jako estetické emoce  
-d) sociální emoce – ve vztahu k lidem a sociálním skupinám (spoluprožívání radosti i starostí blízkého člověka, láska a úcta, obdiv, nenávist, …)  
-- Citové stavy = nálada (radostná x smutná, klidná x podrážděná, stav úzkosti) – na rozdíl od emočních procesů mají delší trvání (hodiny až dny).  
+a) __morální (etické) emoce__ – vyjadřují hodnocení činů, lidí a jejich vlastností z hlediska lidského soužití, morálky  
+b) __estetické emoce__ – při hodnocení krásy a ošklivosti zvláště v přírodě a ve styku s uměleckými díly  
+c) __intelektuální emoce__ – při poznávání a řešení problémů (radostné překvapení při novém poznání, neklid při zdlouhavém řešení problémů a pak uvolnění a radost při jeho zvládnutí), jsou důležitým motivem v učení, vzdělávání, poznání; obohacují život podobně jako estetické emoce  
+d) __sociální emoce__ – ve vztahu k lidem a sociálním skupinám (spoluprožívání radosti i starostí blízkého člověka, láska a úcta, obdiv, nenávist, …)  
+- Citové stavy = __nálada__ (radostná x smutná, klidná x podrážděná, stav úzkosti) – na rozdíl od emočních procesů mají delší trvání (hodiny až dny).  
 Nálady jsou rozlišeny rozmanitými podmínkami (podněty z prostředí a událostmi, naším zdravotním stavem, úspěchem či neúspěchem v činnosti, jednotlivými emočními procesy).  
 Emoční procesy i stavy jedince jsou ovlivňovány sociální komunikací a emocemi druhých lidí.
 
-- Emoční vlastnosti – ty charakteristiky osobnosti, které se vyjadřují výrazem vztahy (láska, sympatie, nenávist, lhostejnost, antipatie).  
-Vůle  
-- psychické procesy a vlastnosti, které zajišťují řízení činnosti a dosahování cílů, zvláště v situacích, kdy je zapotřebí rozhodnout se mezi několika možnostmi a překonávat překážky.
+- __Emoční vlastnosti__ – ty charakteristiky osobnosti, které se vyjadřují výrazem vztahy (láska, sympatie, nenávist, lhostejnost, antipatie).  
+
+__Vůle__  
+
+- __psychické procesy a vlastnosti, které zajišťují řízení činnosti a dosahování cílů, zvláště v situacích, kdy je zapotřebí rozhodnout se mezi několika možnostmi a překonávat překážky.__
 
 - těsně souvisí motivací a emocemi
 
-- „vůle“ souvisí se slovy velet a volba – k dosažení cíle potřebujeme volit, rozhodnout se (mezi několika možnými cíli nebo mezi cílem a nečinností, mezi různými cestami vedoucími k cíli), po volbě potřebujeme „velet“, řídit druhé i sami sebe (např. přimět kamarádky k úsilí a dosažení úspěchu sportovního oddílu, zejména však přimět sami sebe k vytrvání v činnosti navzdory organizačním překážkám, únavě, …)
+- „vůle“ souvisí se slovy __velet a volba__ – k dosažení cíle potřebujeme volit, rozhodnout se (mezi několika možnými cíli nebo mezi cílem a nečinností, mezi různými cestami vedoucími k cíli), po volbě potřebujeme „velet“, řídit druhé i sami sebe (např. přimět kamarádky k úsilí a dosažení úspěchu sportovního oddílu, zejména však přimět sami sebe k vytrvání v činnosti navzdory organizačním překážkám, únavě, …)
 
-Volní procesy – vyskytují se ve všech fázích lidské činnosti:  
-1\. v přípravné fázi činnosti – volní, popř. motivačně-volní procesy – uvědomění si vnějšího požadavku a vnitřního motivu (požadavku rodičů a učitelů, kamarádů, skupiny a tomu odpovídajících, odporujících vnitřních motivů, zájmů, potřeb a citů).  
-2\. následují procesy volby cíle a rozhodování, někdy přímo boj protichůdných motivů, řešení konfliktů – rozhodování a boj motivů vyúsťuje do rozhodnutí pro určitý cíl a způsob jeho dosahování, zahrnuje také poznávací procesy (shromažďování informací potřebných pro řešení problému a vytvoření kognitivního modelu řešení i formulování postupu realizace) = analýza informací a jejich syntéza
+__Volní procesy__ – vyskytují se ve všech fázích lidské činnosti:  
+1\. v přípravné fázi činnosti – volní, popř. motivačně-volní procesy – __uvědomění si vnějšího požadavku a vnitřního motivu__ (požadavku rodičů a učitelů, kamarádů, skupiny a tomu odpovídajících, odporujících vnitřních motivů, zájmů, potřeb a citů).  
+2\. __následují procesy volby cíle a rozhodování, někdy přímo boj protichůdných motivů, řešení konfliktů__ – rozhodování a boj motivů vyúsťuje do rozhodnutí pro určitý cíl a způsob jeho dosahování, zahrnuje také poznávací procesy (shromažďování informací potřebných pro řešení problému a vytvoření kognitivního modelu řešení i formulování postupu realizace) = analýza informací a jejich syntéza
 
 Volní procesy jsou těsně spjaty s řečí (vnější i vnitřní) – při rozhodování často probíhá vnitřní dialog a někdy se přenáší do vnější řeči; při obtížném rozhodování člověk může přejít k hlasité řeči o samotě nebo vyhledat blízkého člověka, ujasňovat si problém rozhodování v rozhovoru.
 
-Volní procesy, řeč, kognitivní, motivační i emoční procesy – s nimiž jsou těsně spojeny – jsou funkcí různých etáží CNS, včetně nejvyšších regulačních center prefrontální kůry.  
-Společné znaky psychických procesů:  
-1\. Psychické procesy jsou začleněny v lidských činnostech: herních, učebních, pracovních  
-2\. Psychické procesy jsou funkcí mozku  
-3\. Mají výrazné sociální aspekty: formulují se ve styku s druhými lidmi  
-4\. Mění se a vyvíjejí se  
-5\. Jsou spjaty navzájem s psychickými stavy a vlastnostmi osobnosti  
-6\. Jsou variabilní, vykazují značné individuelní rozdíly
+__Volní procesy, řeč, kognitivní, motivační i emoční procesy__ – s nimiž jsou těsně spojeny – jsou funkcí různých etáží CNS, včetně nejvyšších regulačních center prefrontální kůry.  
+
+__Společné znaky psychických procesů:__ 
+1\. __Psychické procesy jsou začleněny v lidských činnostech: herních, učebních, pracovních__  
+2\. __Psychické procesy jsou funkcí mozku__  
+3\. __Mají výrazné sociální aspekty: formulují se ve styku s druhými lidmi__  
+4\. __Mění se a vyvíjejí se__  
+5\. __Jsou spjaty navzájem s psychickými stavy a vlastnostmi osobnosti__  
+6\. __Jsou variabilní, vykazují značné individuelní rozdíly__
 
 <a id="4"></a>
 
@@ -258,55 +262,55 @@ pro edukační proces**
 
 - Aktuálními stavy se zabývá jak psychologie, tak fyziologie. Psychický stav můžeme chápat jako aspekt nebo součást celkového funkčního stavu organismu, zejména mozku.
 
-- Pojmy:  
+- __Pojmy:__  
 • Vlastnost – znak člověka, který je dlouhodobý a stálý  
 • Stav – vyjadřuje, jaký je člověk nebo i neživý předmět v určité době a situaci; je to znak přechodný měnící se podle situace
 
-- Celkový stav organismu označujeme v psychologii termínem aktivační úroveň (aktivace) – má různé stupně či úrovně  
-1) Nízká aktivace – spánek, zpomalení dechu a srdeční činnosti, svalová relaxace, zpomalená mozková aktivita  
-2) Snížená aktivace – přechod mezi bděním a spánkem, útlumové stavy, pozornost je zhoršena, pohyby jsou ztížené a nepřesné (např. při únavě, při psychických poruchách)  
-3) Střední aktivace – stav, kdy se nám dobře daří, jsme svěží, dokážeme soustředit pozornost bez obtíží  
-4) Zvýšená aktivace – zvýšené úsilí a vypětí při náročných výkonech, zvýšená pozornost (jen krátkodobě)  
-5) Vysoká aktivace – vzrušení, předrážděnost, afekt
+- Celkový stav organismu označujeme v psychologii termínem __aktivační úroveň (aktivace)__ – má různé stupně či úrovně  
+1) __Nízká aktivace__ – spánek, zpomalení dechu a srdeční činnosti, svalová relaxace, zpomalená mozková aktivita  
+2) __Snížená aktivace__ – přechod mezi bděním a spánkem, útlumové stavy, pozornost je zhoršena, pohyby jsou ztížené a nepřesné (např. při únavě, při psychických poruchách)  
+3) __Střední aktivace__ – stav, kdy se nám dobře daří, jsme svěží, dokážeme soustředit pozornost bez obtíží  
+4) __Zvýšená aktivace__ – zvýšené úsilí a vypětí při náročných výkonech, zvýšená pozornost (jen krátkodobě)  
+5) __Vysoká aktivace__ – vzrušení, předrážděnost, afekt
 
 - Aktivace se mění pod vlivem podmětů a činností, při nedostatku podmětů a činností se snižuje aktivační úroveň (za tmy, v tichu a v nečinnosti člověk usíná).  
-Aktivační úroveň se zvyšuje, pozornost se zlepšuje působení slabých a krátkodobých podmětů (např. rozcvičením, omytím chladnou vodou) = přirozené stimulátory.  
-Umělé stimulátory – kofein, …
+Aktivační úroveň se zvyšuje, pozornost se zlepšuje působení slabých a krátkodobých podmětů (např. rozcvičením, omytím chladnou vodou) = __přirozené stimulátory.__  
+__Umělé stimulátory__ – kofein, …
 
-- Psychologie vyčleňuje různé druhy psychických stavů:
+- Psychologie vyčleňuje různé __druhy psychických stavů:__
 
-- Inspirace – stav, kdy velmi dobře probíhají kognitivní (poznávací) procesy, řešení obtížných problémů  
-- Nerozhodnost – může být omezena na určitou situaci, může být i dlouhodobá (chápána jako vlastnost)  
-- Pozornost – psychický stav projevující se soustředěním vnímáním jevu nebo činnosti  
- pozornost je výběrová – jsme soustředěni na jeden objekt, na jednu činnost, dokážeme však vykonávat 2 různé činnosti  
- přenášení pozornosti z jedné činnosti na druhou (např. rozhovor při řízení vozidla přerušíme, když se dostaneme do složitější dopravní situace)  
- bezděčná pozornost – je podnícena změnou v prostředí (nečekaným zvukem, světlem, silnými podněty), je rychle upoutána a také rychle pomíjí, nestačí k dlouhodobé činnosti  
- záměrná pozornost – závislá na cíli a úsilí, je dlouhodobá ne však neomezená, slouží k dlouhodobé činnosti  
-Soustředění záměrné pozornosti je podporováno řadou podmínek:  
+- _Inspirace_ – stav, kdy velmi dobře probíhají kognitivní (poznávací) procesy, řešení obtížných problémů  
+- _Nerozhodnost_ – může být omezena na určitou situaci, může být i dlouhodobá (chápána jako vlastnost)  
+- _Pozornost_ – psychický stav projevující se soustředěním vnímáním jevu nebo činnosti  
+- _pozornost_ je výběrová – jsme soustředěni na jeden objekt, na jednu činnost, dokážeme však vykonávat 2 různé činnosti  
+- _přenášení pozornosti_ z jedné činnosti na druhou (např. rozhovor při řízení vozidla přerušíme, když se dostaneme do složitější dopravní situace)  
+- _bezděčná pozornost_ – je podnícena změnou v prostředí (nečekaným zvukem, světlem, silnými podněty), je rychle upoutána a také rychle pomíjí, nestačí k dlouhodobé činnosti  
+- _záměrná pozornost_ – závislá na cíli a úsilí, je dlouhodobá ne však neomezená, slouží k dlouhodobé činnosti  
+Soustředění záměrné pozornosti je podporováno __řadou podmínek:__  
 a) motivace k příslušné činnosti  
 b) zařazování přestávek, popř. střídání různých činností  
 c) celkový stav organismu a CNS, aktivační úroveň (střední a zvýšená)  
 d) návyk soustředěně se věnovat činnosti, počínaje dětskými hrami přes učení a zájmové činnosti po práci  
- rozvinutá pozornost – je podmínkou náročných pracovních, učebních i zájmových činností, je výsledkem vývoje osobnosti, výchovy a sebevýchovy, závisí na současné životní situaci jedince a na jeho aktuálním stavu  
- individuální rozdíly v pozornosti – zejm. v záměrném soustřeďování (jak dlouho a jak snadno člověk dokáže záměrně soustředit pozornost)  
- roztržitost – člověk nevěnuje pozornost tomu, co vyžaduje situace, takže přehlédnou, přeslechnou a dopouštějí se chyb
+- __rozvinutá pozornost__ – je podmínkou náročných pracovních, učebních i zájmových činností, je výsledkem vývoje osobnosti, výchovy a sebevýchovy, závisí na současné životní situaci jedince a na jeho aktuálním stavu  
+- individuální rozdíly v pozornosti – zejm. v __záměrném soustřeďování__ (jak dlouho a jak snadno člověk dokáže záměrně soustředit pozornost)  
+- roztržitost – člověk nevěnuje pozornost tomu, co vyžaduje situace, takže přehlédnou, přeslechnou a dopouštějí se chyb
 
-- Zaměřenost – zahrnuje pozornost a motivaci, ale také vytčení cíle a jeho sledování = volní procesy  
--krátkodobá – přestane působit po dosažení blízkého cíle (např. zakoupit něco, co naléhavě potřebujeme)  
--dlouhodobá až celoživotní – odpovídá zájmům a životním cílům  
-- Vědomí – souvisí s úrovněmi aktivace a pozornosti, vyjadřuje skutečnost s větším počtem aspektů a projevů, ztotožňuje se s prožíváním a s psychickými procesy od vnímání přes myšlení až po volní procesy; vědomé je to, co prožívám a mohu to vyjádřit slovy  
-• bdělost, bdění – adekvátní vnímání vnějšího světa, myšlení a řešení problémů, uvědomování si poznávaných skutečností i prožívaných emocí  
+- _Zaměřenost_ – zahrnuje pozornost a motivaci, ale také vytčení cíle a jeho sledování = volní procesy  
+- __krátkodobá__ – přestane působit po dosažení blízkého cíle (např. zakoupit něco, co naléhavě potřebujeme)  
+- __dlouhodobá__ až celoživotní – odpovídá zájmům a životním cílům  
+- _Vědomí_ – souvisí s úrovněmi aktivace a pozornosti, vyjadřuje skutečnost s větším počtem aspektů a projevů, ztotožňuje se s prožíváním a s psychickými procesy od vnímání přes myšlení až po volní procesy; vědomé je to, co prožívám a mohu to vyjádřit slovy  
+• __bdělost, bdění__ – adekvátní vnímání vnějšího světa, myšlení a řešení problémů, uvědomování si poznávaných skutečností i prožívaných emocí  
 a) jasné  
 b) snížené  
 c) zastřené  
-• spánek – obnovuje funkční pohotovost organismu po stránce somatické, psychické; uvolňují se svaly, mění se tepová frekvence, krevní tlak, metabolismus, …;  
+• __spánek__ – obnovuje funkční pohotovost organismu po stránce somatické, psychické; uvolňují se svaly, mění se tepová frekvence, krevní tlak, metabolismus, …;  
 snižuje se tonus CNS.  
 Spánek se během noci mění – střídá se:  
--aktivní REM fáze – rychlé oční pohyby při zavřených víčkách, svalové záškuby končetin – pomáhá likvidovat emoční tenzi  
--Non-Rem fáze spánku – hluboký spánek, při něm prožíváme sny, bez pohybu očních bulbů – pomáhá zklidněním  
+-aktivní __REM fáze__ – rychlé oční pohyby při zavřených víčkách, svalové záškuby končetin – pomáhá likvidovat emoční tenzi  
+- __Non-Rem fáze__ spánku – hluboký spánek, při něm prožíváme sny, bez pohybu očních bulbů – pomáhá zklidněním  
 Délka spánku se mění v průběhu života, s věkem se potřeba spánku snižuje…
 
-Existuje škála rozmanitých stavů vědomí včetně stavů relaxace, hypnózy, změněného prožívání a chování v davu, při praktikách meditace.
+Existuje __škála rozmanitých stavů vědomí__ včetně stavů relaxace, hypnózy, _změněného_ prožívání a chování v davu, při praktikách meditace.
 
 - Bio-psycho-sociální aspekty člověka, jeho života i činností jsou navzájem těsně spjaty. Zanedbání kteréhokoliv z 3 aspektů vede k jednostrannostem a chybám. Bez biologického pohledu se ztrácí nervové mechanismy, bez sociálního pohledu se ztrácí specifičnost člověka, sociální determinace a komunikace a bez psychologického hlediska se ztrácí osobnost a její specifičnost, je ovlivněné vnímání, nálady, emoce i zdraví.
 
@@ -601,21 +605,21 @@ Dá se ovlivnit, ale musí být tento postup promyšlený, několik doporučení
 5) rozhodnout o oblastech, v nichž by bylo třeba klima třídy rozhodně změnit k lepšímu  
 6) promyslet pedagogické postupy, které by dovolily, by dovolily zlepšit klima výuky. Každá proměnná vyžaduje poněkud odlišný postup např.:  
 a) vztahy mezi žáky ve třídě  
- snažit se, aby soudržnost třídy vzrůstala a celkově převažovala pozitiv. orientace třídy  
- organizovat i akce mimo třídu a mimo školu (aby se žáci i učitelé lépe poznali)  
- zařazovat do výuky situace, aby žáci spíše spolupracovali než soutěžit  
- využívat formy skupinového vyučování, či ve dvojicích  
- vést žáky k tomu, aby uměli vhodným způsobem řešit mezilidské konflikty  
- cíleně eliminovat ze života třídy projevy agrese, šikany apod.  
+- snažit se, aby soudržnost třídy vzrůstala a celkově převažovala pozitiv. orientace třídy  
+- organizovat i akce mimo třídu a mimo školu (aby se žáci i učitelé lépe poznali)  
+- zařazovat do výuky situace, aby žáci spíše spolupracovali než soutěžit  
+- využívat formy skupinového vyučování, či ve dvojicích  
+- vést žáky k tomu, aby uměli vhodným způsobem řešit mezilidské konflikty  
+- cíleně eliminovat ze života třídy projevy agrese, šikany apod.  
 b) zájem o průběh výuky  
- výuku učinit zajímavější  
- zařazovat úlohy ukazující praktickou užitečnost učiva  
- vést žáky k navazování kontaktů s dalšími lidmi (special. v určitém oboru, rodiči spolužáků, sociálními pracovníky)  
- saturovat u žáků potřeby kompetence, potřebu sebeurčení, sebeuplatnění  
+- výuku učinit zajímavější  
+- zařazovat úlohy ukazující praktickou užitečnost učiva  
+- vést žáky k navazování kontaktů s dalšími lidmi (special. v určitém oboru, rodiči spolužáků, sociálními pracovníky)  
+- saturovat u žáků potřeby kompetence, potřebu sebeurčení, sebeuplatnění  
 c) klid a pořádek ve třídě  
- ve třídě by měl být klid na učení  
- ve třídě by se mělo postupně odstraňovat cílené rušení výuky (provokace žáků…)  
- zjistit důvod vyrušování – na čí straně, pokud celá třída, učitel by si měl uvědomit, že pokud nezaujme, pedagogicky neexistuje  
+- ve třídě by měl být klid na učení  
+- ve třídě by se mělo postupně odstraňovat cílené rušení výuky (provokace žáků…)  
+- zjistit důvod vyrušování – na čí straně, pokud celá třída, učitel by si měl uvědomit, že pokud nezaujme, pedagogicky neexistuje  
 7) provádět vše cíleně, citlivě, adresně a systematicky  
 8) vyhodnotit účinnost zásahů pomocí dotazníku a současně pomocí rozhovorů se žáky i učiteli
 
@@ -834,16 +838,16 @@ c) vlivy adekvátní regenerace sil: formy aktivního odpočinku, zájmové krou
 • předmětem jsou psychické jevy (studium psychiky) – prožívání, chování  
 • studium podmínek a zákonitostí psychického vývoje (od početí) a psychických změn průběhu života  
 - Chování (behavior) – je vidět, měřitelné, objektivní  
- zahrnuje všechny pohyby, reakce, úkony člověka – jeho vnější činnost  
- lze ho pozorovat, registrovat pomocí přístrojů (měřit)  
- zahrnuje i mimiku, gestiku projevující radost, smutek..  
- vegetativní reakce- změny dýchání, akce srdeční, bledost, zčervenání…  
- řeč
+- zahrnuje všechny pohyby, reakce, úkony člověka – jeho vnější činnost  
+- lze ho pozorovat, registrovat pomocí přístrojů (měřit)  
+- zahrnuje i mimiku, gestiku projevující radost, smutek..  
+- vegetativní reakce- změny dýchání, akce srdeční, bledost, zčervenání…  
+- řeč
 
 - Prožívání (experience) – vnitřní prožívání, vědomé a nevědomé stavy, subjektivní zážitky  
- vjemy, představy, emoce  
- procesy řešení problémů, rozhodování  
- vybavování si z paměti  
+- vjemy, představy, emoce  
+- procesy řešení problémů, rozhodování  
+- vybavování si z paměti  
 - Chování a prožívání jsou vždy projevem osobnosti, určitého člověka s obecně lidskými a individuálními vlastnostmi, cíli, radostmi a problémy. Chování a prožívání je součástí práce člověka, jeho učení a ostatních činností, jeho vztahů k druhým lidem, jeho vzájemného působení s prostředím, jeho vývoje od dětství k dospělosti a stáří. To vše zkoumá psychologie.
 
 - Psychologické discipliny  
