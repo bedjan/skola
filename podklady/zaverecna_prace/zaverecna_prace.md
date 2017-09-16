@@ -11,6 +11,7 @@
 [Markdown online](https://dillinger.io/)
 [Markdown syntaxe](https://guides.github.com/features/mastering-markdown/)
 [Markdown emotikony](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+[Markdown ukázky](https://github.github.com/gfm/#example-264)
 
 ![NIDV Ústí nad Labem](https://github.com/bedjan/skola/raw/master/podklady/zaverecna_prace/nidv.png "NIDV Ústí nad Labem")
 
