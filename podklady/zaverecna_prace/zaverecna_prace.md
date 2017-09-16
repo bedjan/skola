@@ -1,31 +1,3 @@
-
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-	- [Anotace](#)
-- [Prohlášení](#)
-	- [Obsah:](#)
-	- [1 Úvod](#)
-	- [2 Cíl práce](#)
-	- [3 Pojem autorita](#)
-	- [3.1 Různá pojetí autority](#)
-	- [3.2 Druhy autority](#)
-	- [3.3 Autorita učitele](#)
-	- [3.4 Přirozená autorita](#)
-	- [4.	Faktory ovlivňující vznik a ztrátu autority](#)
-	- [4.1 Faktory posilující vznik autority](#)
-	- [4.2 Faktory oslabující autoritu](#)
-	- [5. Uplatňování autority v praxi](#)
-	- [5.1 Pomocí síly](#)
-	- [5.2 Pomocí asertivního chování](#)
-	- [6. Zpracování a výsledky empirické části práce](#)
-	- [7. Závěr](#)
-	- [8.	Seznam použité literatury:](#)
-	- [9. Seznam tabulek:](#)
-	- [10. Seznam grafů:](#)
-	- [11. Záznam o průběhu pedagogické praxe ( orginál)](#)
-	- [12. Přílohy:](#)
-	
-	
 [Github závěrečná práce](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md)
 
 
