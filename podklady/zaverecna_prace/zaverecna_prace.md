@@ -1,6 +1,6 @@
 ~~závěrečná práce přehled~~ 
 :bowtie:
-/play trombone
+\ignorování formátování\
 `závěrečná práce `
 [x]  zadání práce
 [ ]  obsah
