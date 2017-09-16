@@ -60,47 +60,47 @@ Podpis:
  
 ##### Obsah:	
 
-[1 Úvod](#1_Úvod)	
+[1 Úvod](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#1-%C3%9Avod)	
 
-[2 Cíl](#2_Cíl)	
+[2 Cíl](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#2-c%C3%ADl-pr%C3%A1ce)	
 
-[3 Pojem autorita](3_pojem_autorita)	
+[3 Pojem autorita](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#3-pojem-autorita)	
 
-[3.1 Různá pojetí autority](31_různá_pojetí_autority)	
+[3.1 Různá pojetí autority](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#31-r%C5%AFzn%C3%A1-pojet%C3%AD-autority)	
 
-[3.2 Druhy autority](32_druhy_autority)	
+[3.2 Druhy autority](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#32-druhy-autority)	
 
-[3.3 Autorita učitele](33_autorita_učitele)	
+[3.3 Autorita učitele](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#33-autorita-u%C4%8Ditele)	
 
-[3.4 Přirozená autorita](34_přirozená_autorita)	
+[3.4 Přirozená autorita](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#34-p%C5%99irozen%C3%A1-autorita)	
 
-[4 Faktory ovlivňující vznik a ztrátu autority](4_faktory_ovlivňující_vznik_a_ztrátu_autority)	
+[4 Faktory ovlivňující vznik a ztrátu autority](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#4faktory-ovliv%C5%88uj%C3%ADc%C3%AD-vznik-a-ztr%C3%A1tu-autority)	
 
-[4.1 Faktory posilující vznik autority](4_1_faktory_posilující_vznik_autority)
+[4.1 Faktory posilující vznik autority](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#41-faktory-posiluj%C3%ADc%C3%AD-vznik-autority)
 
-[4.2 Faktory oslabující autoritu](42_faktory_oslabující_autoritu)
+[4.2 Faktory oslabující autoritu](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#42-faktory-oslabuj%C3%ADc%C3%AD-autoritu)
 
-[5. Uplatňování autority v praxi](5_uplatňování_autority_v_praxi)	
+[5. Uplatňování autority v praxi](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#5-uplat%C5%88ov%C3%A1n%C3%AD-autority-v-praxi-51-pomoc%C3%AD-s%C3%ADly)	
 
 [5.1 Pomocí síly](51_pomocí_síly)	
 
-[5.2 Pomocí asertivního chování](52_pomocí_asertivního_chování)	
+[5.2 Pomocí asertivního chování](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#52-pomoc%C3%AD-asertivn%C3%ADho-chov%C3%A1n%C3%AD)	
 
-[5.3 Pomocí vlivu osobnosti učitele](53_pomocí_vlivu_osobnosti_učitele)	
+[5.3 Pomocí vlivu osobnosti učitele](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#6-zpracov%C3%A1n%C3%AD-a-v%C3%BDsledky-empirick%C3%A9-%C4%8D%C3%A1sti-pr%C3%A1ce)	
 
-[6. Zpracování a výsledky empirické části](6_zpracování_a_výsledky_empirické_části)	
+[6. Zpracování a výsledky empirické části](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#6-zpracov%C3%A1n%C3%AD-a-v%C3%BDsledky-empirick%C3%A9-%C4%8D%C3%A1sti-pr%C3%A1ce)	
 
-[7. Závěr](7_závěr)	
+[7. Závěr](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#7-z%C3%A1v%C4%9Br)	
 
-[8. Seznam použité literatury](8_seznam použité_literatury)	
+[8. Seznam použité literatury](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#8seznam-pou%C5%BEit%C3%A9-literatury)	
 
-[9. Seznam tabulek](9_seznam_tabulek)	
+[9. Seznam tabulek](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#9-seznam-tabulek)	
 
-[10. Seznam grafů](10_seznam_grafů)	
+[10. Seznam grafů](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#10-seznam-graf%C5%AF)	
 
-[11. Záznam o průběhu Pedagogické praxe \(originál)\](11_záznam_o_průběhu_pedagogické_praxe)	
+[11. Záznam o průběhu Pedagogické praxe originál](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#11-z%C3%A1znam-o-pr%C5%AFb%C4%9Bhu-pedagogick%C3%A9-praxe--orgin%C3%A1l)	
 
-[12. Přílohy](12_přílohy)
+[12. Přílohy](https://github.com/bedjan/skola/blob/master/podklady/zaverecna_prace/zaverecna_prace.md#12-p%C5%99%C3%ADlohy)
 
  
 ##### 1 Úvod
@@ -369,7 +369,9 @@ f)	manipulativní chování, hrozby.
 
  
 
-##### 5. Uplatňování autority v praxi 5.1 Pomocí síly
+##### 5. Uplatňování autority v praxi 
+
+##### 5.1 Pomocí síly
 
 Učitel, který formuluje svoje požadavky vždy z pozice síly, nepřipouští diskuzi a žádá plnění požadavků bez dalších otázek, 
 
