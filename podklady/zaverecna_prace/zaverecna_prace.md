@@ -60,9 +60,9 @@ Podpis:
  
 ##### Obsah:	
 
-[1 Úvod](1_úvod)	
+[1 Úvod](#1_Úvod)	
 
-[2 Cíl](2_Cíl)	
+[2 Cíl](#2_Cíl)	
 
 [3 Pojem autorita](3_pojem_autorita)	
 
