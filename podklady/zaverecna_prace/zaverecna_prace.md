@@ -1,6 +1,6 @@
 ~~závěrečná práce přehled~~ 
-:bowtie:
-\ignorování formátování\
+:book:
+
 `závěrečná práce `
 [x]  zadání práce
 [ ]  obsah
