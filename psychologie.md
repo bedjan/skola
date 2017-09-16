@@ -156,7 +156,8 @@ __2\. potřeba uznání, úcty__ (být vážený, mít úspěch v očích jinýc
 __3\. potřeba lásky, sounáležitosti__ (vedou k touze někam a k někomu patřit, být přijímán a milován)  
 __4\. potřeba bezpečí, jistoty__ (projevuje se především vyhýbáním se všemu neznámému, neobvyklému či hrozivému)  
 __5\. základna pyramidy__ – fyziologické potřeby __(potřeba potravy, tepla, vyměšování)
-[Pyramida maslow](https://github.com/bedjan/skola/raw/master/podklady/psychologie/maslow_pyramida.png)
+
+![Pyramida maslow](https://github.com/bedjan/skola/raw/master/podklady/psychologie/maslow_pyramida.png "Pyramida maslow")
 
 __Vždy začínáme od nejzákladnějších potřeb__ – elementární, biologické, fyziologické, základní na základně pyramidy – níže položené potřeby jsou významnější a jejich alespoň částečné uspokojení je podmínkou pro vznik méně naléhavých a vývojově vyšších potřeb.  
 
