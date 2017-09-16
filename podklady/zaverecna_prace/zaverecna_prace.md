@@ -1,17 +1,26 @@
+~~závěrečná práce přehled~~ 
+:bowtie:
 `závěrečná práce `
+[x]  zadání práce
+[ ]  obsah
+[ ]  datum odevzdání
+[ ]  atd.
+`závěrečná práce `
+
 [Markdown online](https://dillinger.io/)
-[Markdown syntaxe](http://jecas.cz/markdown)
+[Markdown syntaxe](https://guides.github.com/features/mastering-markdown/)
+[Markdown emotikony](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ![NIDV Ústí nad Labem](https://github.com/bedjan/skola/raw/master/podklady/zaverecna_prace/nidv.png "NIDV Ústí nad Labem")
 
 
-**NÁRODNÍ INSTITUT PRO DALŠÍ VZDĚLÁVÁNÍ (zařízení pro další vzdělávání pedagogických pracovníků - www.nidv.cz)**
+__NÁRODNÍ INSTITUT PRO DALŠÍ VZDĚLÁVÁNÍ (zařízení pro další vzdělávání pedagogických pracovníků - www.nidv.cz)__
 
-**AUTORITA UČITELE**
+__AUTORITA UČITELE__
 
-**Závěrečná práce**
+__Závěrečná práce__
 
-**„Studia pedagogiky"**
+__„Studia pedagogiky"__
 
 období od 1. září 2017 do 30. června 2018
 
