@@ -223,9 +223,9 @@ Někdy se rozlišují vnější a vnitřní konflikty:
 
 - Základní dvojice protikladných citů**:**
 
-Ä **libost** – uspokojení potřeby, úspěšný průběh činnosti s dosažením cíle
+- **libost** – uspokojení potřeby, úspěšný průběh činnosti s dosažením cíle
 
-Ä **nelibost** – opačná situace než u libosti.
+- **nelibost** – opačná situace než u libosti.
 
 Širší seznam základních emocí – radost x smutek; strach x úleva; vztek, důvěra, znechucení, překvapení, …
 
@@ -299,7 +299,7 @@ Volní procesy jsou těsně spjaty s řečí (vnější i vnitřní) – při ro
 
 - **Pojmy:**
 
-· **_Vlastnost_**– znak člověka, který je dlouhodobý a stálý
+· **_Vlastnost_** – znak člověka, který je dlouhodobý a stálý
 
 · **_Stav_** – vyjadřuje, jaký je člověk nebo i neživý předmět v určité době a situaci; je to znak přechodný měnící se podle situace
 
@@ -329,13 +329,13 @@ Aktivační úroveň se zvyšuje, pozornost se zlepšuje působení slabých a k
 
 - **_Pozornost_** – psychický stav projevující se soustředěním vnímáním jevu nebo činnosti
 
-§ **pozornost** je výběrová – jsme soustředěni na jeden objekt, na jednu činnost, dokážeme však vykonávat 2 různé činnosti
+- **pozornost** je výběrová – jsme soustředěni na jeden objekt, na jednu činnost, dokážeme však vykonávat 2 různé činnosti
 
-§ **přenášení pozornosti** z jedné činnosti na druhou (např. rozhovor při řízení vozidla přerušíme, když se dostaneme do složitější dopravní situace)
+- **přenášení pozornosti** z jedné činnosti na druhou (např. rozhovor při řízení vozidla přerušíme, když se dostaneme do složitější dopravní situace)
 
-§ **bezděčná pozornost –** je podnícena změnou v prostředí (nečekaným zvukem, světlem, silnými podněty), je rychle upoutána a také rychle pomíjí, nestačí k dlouhodobé činnosti
+- **bezděčná pozornost –** je podnícena změnou v prostředí (nečekaným zvukem, světlem, silnými podněty), je rychle upoutána a také rychle pomíjí, nestačí k dlouhodobé činnosti
 
-§ **záměrná pozornost** – závislá na cíli a úsilí, je dlouhodobá ne však neomezená, slouží k dlouhodobé činnosti
+- **záměrná pozornost** – závislá na cíli a úsilí, je dlouhodobá ne však neomezená, slouží k dlouhodobé činnosti
 
 Soustředění záměrné pozornosti je podporováno **řadou podmínek**:
 
@@ -347,17 +347,17 @@ c) celkový stav organismu a CNS, aktivační úroveň (střední a zvýšená)
 
 d) návyk soustředěně se věnovat činnosti, počínaje dětskými hrami přes učení a zájmové činnosti po práci
 
-§ **rozvinutá pozornost** – je podmínkou náročných pracovních, učebních i zájmových činností, je výsledkem vývoje osobnosti, výchovy a sebevýchovy, závisí na současné životní situaci jedince a na jeho aktuálním stavu
+- **rozvinutá pozornost** – je podmínkou náročných pracovních, učebních i zájmových činností, je výsledkem vývoje osobnosti, výchovy a sebevýchovy, závisí na současné životní situaci jedince a na jeho aktuálním stavu
 
-§ _individuální rozdíly v pozornosti_ – zejm. v **záměrném soustřeďování** (jak dlouho a jak snadno člověk dokáže záměrně soustředit pozornost)
+- _individuální rozdíly v pozornosti_ – zejm. v **záměrném soustřeďování** (jak dlouho a jak snadno člověk dokáže záměrně soustředit pozornost)
 
-§ **roztržitost** – člověk nevěnuje pozornost tomu, co vyžaduje situace, takže přehlédnou, přeslechnou a dopouštějí se chyb
+- **roztržitost** – člověk nevěnuje pozornost tomu, co vyžaduje situace, takže přehlédnou, přeslechnou a dopouštějí se chyb
 
 - **_Zaměřenost_** – zahrnuje pozornost a motivaci, ale také vytčení cíle a jeho sledování = volní procesy
 
-Ä **krátkodobá** – přestane působit po dosažení blízkého cíle (např. zakoupit něco, co naléhavě potřebujeme)
+- **krátkodobá** – přestane působit po dosažení blízkého cíle (např. zakoupit něco, co naléhavě potřebujeme)
 
-Ä **dlouhodobá** až celoživotní – odpovídá zájmům a životním cílům
+- **dlouhodobá** až celoživotní – odpovídá zájmům a životním cílům
 
 - **_Vědomí_ –** souvisí s úrovněmi aktivace a pozornosti, vyjadřuje skutečnost s větším počtem aspektů a projevů, ztotožňuje se s prožíváním a s psychickými procesy od vnímání přes myšlení až po volní procesy; vědomé je to, co prožívám a mohu to vyjádřit slovy
 
@@ -375,9 +375,9 @@ snižuje se tonus CNS.
 
 Spánek se během noci mění – střídá se:
 
-Ä aktivní **REM fáze** – rychlé oční pohyby při zavřených víčkách, svalové záškuby končetin – pomáhá likvidovat emoční tenzi
+- aktivní **REM fáze** – rychlé oční pohyby při zavřených víčkách, svalové záškuby končetin – pomáhá likvidovat emoční tenzi
 
-Ä **Non-Rem fáze** spánku – hluboký spánek, při něm prožíváme sny, bez pohybu očních bulbů – pomáhá zklidněním
+- **Non-Rem fáze** spánku – hluboký spánek, při něm prožíváme sny, bez pohybu očních bulbů – pomáhá zklidněním
 
 Délka spánku se mění v průběhu života, s věkem se potřeba spánku snižuje…
 
@@ -501,21 +501,21 @@ Existuje **škála rozmanitých stavů vědomí** včetně stavů **_relaxace_**
 
 · **Funkce učení:**
 
-Ä přizpůsobování organismu k prostředí a ke změnám v tomto prostředí
+- přizpůsobování organismu k prostředí a ke změnám v tomto prostředí
 
-Ä poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
+- poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
 
 · **Formy lidského učení:**
 
 **A. Dle toho, jaké výsledky převažují**
 
-- **_Vědomosti_ **–představy a pojmy
+- **_Vědomosti_ ** –představy a pojmy
 
-- **_Senzorické a senzomotorické dovednosti_**– zdokonalení procesu vnímání (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a pohybů (např. při psaní, ve sportu)
+- **_Senzorické a senzomotorické dovednosti_** – zdokonalení procesu vnímání (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a pohybů (např. při psaní, ve sportu)
 
-- **_Intelektové dovednosti a rozvíjení intelektových schopností_**– např. při vyučování matematice a jazykům
+- **_Intelektové dovednosti a rozvíjení intelektových schopností_** – např. při vyučování matematice a jazykům
 
-- **_Návyky, postoje, rozvíjení vlastností osobnosti_ **– např. vytrvalosti a svědomitosti
+- **_Návyky, postoje, rozvíjení vlastností osobnosti_ ** – např. vytrvalosti a svědomitosti
 
 Vědomost = soustava informací (představ a pojmů), které si člověk osvojil
 
@@ -527,9 +527,9 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 - **_Elementární učení_**
 
-Ä tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy, představami a city)
+- tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy, představami a city)
 
-Ä podmiňování:
+- podmiňování:
 
 1\. klasické (Pavlovovo) – organismus se učí, že 2 události následují za sebou, nezávisle na jedincově aktivitě (reflex – slinná reakce psa na zvonek)
 
@@ -541,19 +541,19 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 - **_Komplexní učení_** – osvojení postupů při řešení problémů, vytváření mentálních map jedincova prostředí, osvojování principů a systémů učiva
 
-- **_Sociální učení_**– učení se sociální komunikaci, interakci a percepci (vnímání), sociálním rolím, formám společenského styku
+- **_Sociální učení_** – učení se sociální komunikaci, interakci a percepci (vnímání), sociálním rolím, formám společenského styku
 
 · **Typy lidského učení:**
 
 **_1\. Učení signálům_** – získáváme zkušenost, že po určitém podnětu následuje něco příjemného nebo naopak nepříjemného (klasické podmiňování dle Pavlova)
 
-**_2\. Tvoření spojů S-R (stimul, podnět – reakce)_ **– naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
+**_2\. Tvoření spojů S-R (stimul, podnět – reakce)_ ** – naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
 
-**_3\. Řetězení_ **– spojení několika spojů S-R, pohybů do řetězu
+**_3\. Řetězení_ ** – spojení několika spojů S-R, pohybů do řetězu
 
-**_4\. Slovní asociace_ **– spojení řady hlásek či slov
+**_4\. Slovní asociace_ ** – spojení řady hlásek či slov
 
-**_5\. Mnohonásobná diskriminace_ **– rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
+**_5\. Mnohonásobná diskriminace_ ** – rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
 
 **_6\. Učení pojmům_**
 
@@ -561,7 +561,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_8\. Řešení problémů_**
 
-· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení **– zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
+· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení ** – zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
 
 **2) <u>PAMĚŤ</u>**
 
@@ -583,7 +583,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_A. Krátkodobá_** – k zapamatování na dobu několika sekund
 
-**_B. Pracovní_ **– uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
+**_B. Pracovní_ ** – uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
 
 **_C. Dlouhodobá_** – k zapamatování na delší dobu, popř. celý život (nutné opakování)
 
@@ -595,9 +595,9 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 - **_Nedeklarativní (procedurální)_** – neuvědomělé podmiňování a osvojování senzomotorických dovedností
 
-- **_Deklarativní_ **– vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
+- **_Deklarativní_ ** – vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
 
-- **_Názorná_**– názorné obrazy, představy odpovídající jednotlivým druhům vnímání; je funkcí pravé poloviny mozku
+- **_Názorná_** – názorné obrazy, představy odpovídající jednotlivým druhům vnímání; je funkcí pravé poloviny mozku
 
 - **_Sémantická (logická)_** – info vyjádřené slovně a zpracované myšlenkově; je funkcí levé poloviny mozku
 
@@ -625,11 +625,11 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 **A. Vývojové hledisko – tři formy:**
 
-**_1\. Motorické_**(je konkrétní myšlení) – řešení problému pohybovou manipulací s předměty
+**_1\. Motorické_** (je konkrétní myšlení) – řešení problému pohybovou manipulací s předměty
 
-**_2\. Imaginativní_**(je konkrétní myšlení) – pracuje s názornými obrazy či představami
+**_2\. Imaginativní_** (je konkrétní myšlení) – pracuje s názornými obrazy či představami
 
-**_3\. Propoziční_ **(je myšlení abstraktní) – operuje se slovy, větami a pojmy
+**_3\. Propoziční_ ** (je myšlení abstraktní) – operuje se slovy, větami a pojmy
 
 **B. Deduktivní a induktivní myšlení**
 
@@ -641,7 +641,7 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 **C. Reproduktivní a produktivní myšlení**
 
-- **_Reproduktivní_ **– při řešení problému opakuje postup, který již byl jedinci znám
+- **_Reproduktivní_ ** – při řešení problému opakuje postup, který již byl jedinci znám
 
 - **_Produktivní (tvůrčí)_** – hledá a tvoří postup nový, jedinci dosud neznámý, popřípadě postup, jež dosud nebyl vůbec nalezen a popsán v literatuře
 
@@ -849,35 +849,35 @@ c) Umět (na základě zjištěných skutečností) navrhnout a provést vhodnou
 
 **a) vztahy mezi žáky ve třídě**
 
-§ snažit se, aby soudržnost třídy vzrůstala a celkově převažovala pozitiv. orientace třídy
+- snažit se, aby soudržnost třídy vzrůstala a celkově převažovala pozitiv. orientace třídy
 
-§ organizovat i akce mimo třídu a mimo školu (aby se žáci i učitelé lépe poznali)
+- organizovat i akce mimo třídu a mimo školu (aby se žáci i učitelé lépe poznali)
 
-§ zařazovat do výuky situace, aby žáci spíše spolupracovali než soutěžit
+- zařazovat do výuky situace, aby žáci spíše spolupracovali než soutěžit
 
-§ využívat formy skupinového vyučování, či ve dvojicích
+- využívat formy skupinového vyučování, či ve dvojicích
 
-§ vést žáky k tomu, aby uměli vhodným způsobem řešit mezilidské konflikty
+- vést žáky k tomu, aby uměli vhodným způsobem řešit mezilidské konflikty
 
-§ cíleně eliminovat ze života třídy projevy agrese, šikany apod.
+- cíleně eliminovat ze života třídy projevy agrese, šikany apod.
 
 **b) zájem o průběh výuky**
 
-§ výuku učinit zajímavější
+- výuku učinit zajímavější
 
-§ zařazovat úlohy ukazující praktickou užitečnost učiva
+- zařazovat úlohy ukazující praktickou užitečnost učiva
 
-§ vést žáky k navazování kontaktů s dalšími lidmi (special. v určitém oboru, rodiči spolužáků, sociálními pracovníky)
+- vést žáky k navazování kontaktů s dalšími lidmi (special. v určitém oboru, rodiči spolužáků, sociálními pracovníky)
 
-§ saturovat u žáků potřeby kompetence, potřebu sebeurčení, sebeuplatnění
+- saturovat u žáků potřeby kompetence, potřebu sebeurčení, sebeuplatnění
 
 **c) klid a pořádek ve třídě**
 
-§ ve třídě by měl být klid na učení
+- ve třídě by měl být klid na učení
 
-§ ve třídě by se mělo postupně odstraňovat cílené rušení výuky (provokace žáků…)
+- ve třídě by se mělo postupně odstraňovat cílené rušení výuky (provokace žáků…)
 
-§ zjistit důvod vyrušování – na čí straně, pokud celá třída, **učitel by si měl uvědomit, že pokud nezaujme, pedagogicky neexistuje**
+- zjistit důvod vyrušování – na čí straně, pokud celá třída, **učitel by si měl uvědomit, že pokud nezaujme, pedagogicky neexistuje**
 
 7) provádět vše cíleně, citlivě, adresně a systematicky
 
@@ -927,19 +927,19 @@ schopností stagnuje nebo se dokonce snižuje
 
 **_a) vnější podmínky:_**
 
-Ä rodina
+- rodina
 
-Ä vrstevníci, jednotlivci, skupiny
+- vrstevníci, jednotlivci, skupiny
 
-Ä škola
+- škola
 
-Ä lokalita, národnostní a jiné skupiny ovlivňující rodinu a dítě
+- lokalita, národnostní a jiné skupiny ovlivňující rodinu a dítě
 
-Ä životní prostředí
+- životní prostředí
 
 **_b) vnitřní podmínky:_**
 
-Ä biologické podmínky:
+- biologické podmínky:
 
 _1) dědičnost_ – zděděná výbava od rodičů
 
@@ -949,19 +949,19 @@ _3) vrozená výbava_ – změny vyvolané v průběhu vývoje plodu do porodu (
 
 _4) konstituční výbava_ – vlivy prostředí na organismus během vývoje jedince po narození (postnatální)
 
-Ä psychické procesy – kognitivní (poznávací), motivační, emoční a volní
+- psychické procesy – kognitivní (poznávací), motivační, emoční a volní
 
-Ä psychické vlastnosti – temperament, charakter, schopnosti, motivace, …
+- psychické vlastnosti – temperament, charakter, schopnosti, motivace, …
 
 **_c) mechanismy interakce osobnosti s prostředím:_**
 
-Ä činnosti a učení
+- činnosti a učení
 
-Ä socializace
+- socializace
 
-Ä sociální učení, interakce, komunikace, vnímání
+- sociální učení, interakce, komunikace, vnímání
 
-Ä přejímání sociálních rolí, popř. jejich konflikt
+- přejímání sociálních rolí, popř. jejich konflikt
 
 - **podmínky jsou individualizované** (např. v jedné třídě mají různí žáci odlišné postavení a liší se jejich spokojenost či nespokojenost se spolužáky
 
@@ -983,15 +983,15 @@ Biologicky dané předpoklady, které si dítě přináší na svět se týkají
 
 2) rané dětství – do 3 let věku dítěte
 
-**_a) novorozenec_ **(28 dnů po porodu)
+**_a) novorozenec_ ** (28 dnů po porodu)
 
 **_b) kojenec_** (29\. den – 1 rok života dítěte)
 
 **_c) batole_** (1-3 roky)
 
-Ä mladší batolecí období (1-2 roky)
+- mladší batolecí období (1-2 roky)
 
-Ä starší batolecí období (2-3 roky)
+- starší batolecí období (2-3 roky)
 
 3) předškolní věk – 3-6 let
 
@@ -1033,7 +1033,7 @@ F jsou důležité 2 speciální problémy:
 
 **_B. Koncepce stádií ve vývoji intelektu (J.Piaget)_** – rozvinuté abstraktní myšlení dospělého je výsledkem složitého vývoje, který začíná v raném dětství a vyvíjí se z konkrétního myšlení. Vývoj morálního hodnocení se podobá vývoji intelektu, také prochází vývojovými stádii.
 
-**_C. Koncepce vývoje morálního usuzování(L.Kohlberg)_ **– 3 hlavní stádia morálního vývoje:
+**_C. Koncepce vývoje morálního usuzování(L.Kohlberg)_ ** – 3 hlavní stádia morálního vývoje:
 
 1\. Předkonvenční úroveň – dítě se chová bez ohledu na druhé, morální normu dodržuje jen pod tlakem odměn a trestů
 
@@ -1043,13 +1043,13 @@ F jsou důležité 2 speciální problémy:
 
 **_D. vývojových úkolů (R.J.Havinghurst)_** – v každém životním období je člověk postaven před úkoly vyplývající z:
 
-Ä biologických podmínek (vývoj pohybů, pohlavní dospívání, menopauza, …)
+- biologických podmínek (vývoj pohybů, pohlavní dospívání, menopauza, …)
 
-Ä sociálních souvislostí (požadavky na vzdělání a volbu povolání ve společnosti)
+- sociálních souvislostí (požadavky na vzdělání a volbu povolání ve společnosti)
 
-Ä psychologických aspektů (formování cílů, hodnot, sebehodnocení, …)
+- psychologických aspektů (formování cílů, hodnot, sebehodnocení, …)
 
-**_E. Koncepce kritických životních událostí_ **– např. narození sourozence, změna ekonomické situace rodiny, těžký úraz, smrt člena rodiny, válka, …, záleží na tom, jak člověk kritickou životní událost (situaci) zvládne, jsou důležité 3 momenty:
+**_E. Koncepce kritických životních událostí_ ** – např. narození sourozence, změna ekonomické situace rodiny, těžký úraz, smrt člena rodiny, válka, …, záleží na tom, jak člověk kritickou životní událost (situaci) zvládne, jsou důležité 3 momenty:
 
 1\. člověk se snaží vysvětlit si příčinu události, jde o to, aby se nedopouštěl zkreslení skutečnosti
 
@@ -1237,23 +1237,23 @@ F všechny uvedené koncepce se prolínají a navzájem doplňují k ucelenějš
 
 - **Chování (behavior) –** je vidět, měřitelné, objektivní
 
-§ zahrnuje všechny pohyby, reakce, úkony člověka – jeho vnější činnost
+- zahrnuje všechny pohyby, reakce, úkony člověka – jeho vnější činnost
 
-§ lze ho pozorovat, registrovat pomocí přístrojů (měřit)
+- lze ho pozorovat, registrovat pomocí přístrojů (měřit)
 
-§ zahrnuje i mimiku, gestiku projevující radost, smutek..
+- zahrnuje i mimiku, gestiku projevující radost, smutek..
 
-§ vegetativní reakce- změny dýchání, akce srdeční, bledost, zčervenání…
+- vegetativní reakce- změny dýchání, akce srdeční, bledost, zčervenání…
 
-§ řeč
+- řeč
 
 - **Prožívání (experience)** – vnitřní prožívání, **vědomé a nevědomé stavy**, subjektivní zážitky
 
-§ vjemy, představy, emoce
+- vjemy, představy, emoce
 
-§ procesy řešení problémů, rozhodování
+- procesy řešení problémů, rozhodování
 
-§ vybavování si z paměti
+- vybavování si z paměti
 
 - **Chování a prožívání jsou vždy projevem osobnosti, určitého člověka s obecně lidskými a individuálními vlastnostmi, cíli, radostmi a problémy. Chování a prožívání je součástí práce člověka, jeho učení a ostatních činností, jeho vztahů k druhým lidem, jeho vzájemného působení s prostředím, jeho vývoje od dětství k dospělosti a stáří. To vše zkoumá psychologie.**
 
@@ -1339,13 +1339,13 @@ d) myšlení spjaté s řečí a myšlenkové řešení problémů
 
 - **Funkce kognitivních procesů:**
 
-Ä v poznávání
+- v poznávání
 
-Ä v řízení činnosti
+- v řízení činnosti
 
-Ä v sociální komunikaci
+- v sociální komunikaci
 
-Ä v uvědomování si emocí, v řešení konfliktů mezi motivy, v rozhodování a v realizaci vytčených cílů
+- v uvědomování si emocí, v řešení konfliktů mezi motivy, v rozhodování a v realizaci vytčených cílů
 
 - jsou vzájemně propojené, a to i s ostatními procesy (emočními, motivačními, volními)
 
@@ -1357,7 +1357,7 @@ d) myšlení spjaté s řečí a myšlenkové řešení problémů
 
 **A. Vnímání** = poznávací proces zachycující to, co působí na naše smysly
 
-F k vnímání je potřeba **_analyzátor_ **(= receptor, dostředivá dráha a mozkové centrum) – jeho hlavní funkcí je analýza, rozklad, rozlišování podnětů
+F k vnímání je potřeba **_analyzátor_ ** (= receptor, dostředivá dráha a mozkové centrum) – jeho hlavní funkcí je analýza, rozklad, rozlišování podnětů
 
 a) **_analyzátor pohybový_** (kinestetický, proprioceptivní) – slouží ke kontrole pohybů a polohy jednotlivých částí těla, je spojen s vnímáním a udržováním rovnováhy
 
@@ -1401,9 +1401,9 @@ e. zpracování info – srovnání s dřívějšími zkušenostmi uloženými v
 
 F vnímání je výběrové – vnímání není jen pasivní reagování na podněty, člověk si z množství podnětů vybírá (= pozornost a zaměřenost)
 
-Ä figura = to, na co se pozornost soustřeďuje v daném okamžiku
+- figura = to, na co se pozornost soustřeďuje v daném okamžiku
 
-Ä pozadí = vše ostatní
+- pozadí = vše ostatní
 
 F transdukce = převod proměn zevního prostředí při zrakovém vnímání proměn elektromagnetického spektra na nervové vzruchy (impulsy)
 
@@ -1417,21 +1417,21 @@ F mapování = vytváření vnitřní mapy, obrazu, modelu
 
 · **Funkce učení:**
 
-Ä přizpůsobování organismu k prostředí a ke změnám v tomto prostředí
+- přizpůsobování organismu k prostředí a ke změnám v tomto prostředí
 
-Ä poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
+- poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
 
 · **Formy lidského učení:**
 
 **C. Dle toho, jaké výsledky převažují**
 
-- **_Vědomosti_ **–představy a pojmy
+- **_Vědomosti_ ** –představy a pojmy
 
-- **_Senzorické a senzomotorické dovednosti_**– zdokonalení procesu vnímání (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a pohybů (např. při psaní, ve sportu)
+- **_Senzorické a senzomotorické dovednosti_** – zdokonalení procesu vnímání (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a pohybů (např. při psaní, ve sportu)
 
-- **_Intelektové dovednosti a rozvíjení intelektových schopností_**– např. při vyučování matematice a jazykům
+- **_Intelektové dovednosti a rozvíjení intelektových schopností_** – např. při vyučování matematice a jazykům
 
-- **_Návyky, postoje, rozvíjení vlastností osobnosti_ **– např. vytrvalosti a svědomitosti
+- **_Návyky, postoje, rozvíjení vlastností osobnosti_ ** – např. vytrvalosti a svědomitosti
 
 Vědomost = soustava informací (představ a pojmů), které si člověk osvojil
 
@@ -1443,9 +1443,9 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 - **_Elementární učení_**
 
-Ä tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy, představami a city)
+- tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy, představami a city)
 
-Ä podmiňování:
+- podmiňování:
 
 3\. klasické (Pavlovovo) – organismus se učí, že 2 události následují za sebou, nezávisle na jedincově aktivitě (reflex – slinná reakce psa na zvonek)
 
@@ -1457,19 +1457,19 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 - **_Komplexní učení_** – osvojení postupů při řešení problémů, vytváření mentálních map jedincova prostředí, osvojování principů a systémů učiva
 
-- **_Sociální učení_**– učení se sociální komunikaci, interakci a percepci (vnímání), sociálním rolím, formám společenského styku
+- **_Sociální učení_** – učení se sociální komunikaci, interakci a percepci (vnímání), sociálním rolím, formám společenského styku
 
 · **Typy lidského učení:**
 
 **_9\. Učení signálům_** – získáváme zkušenost, že po určitém podnětu následuje něco příjemného nebo naopak nepříjemného (klasické podmiňování dle Pavlova)
 
-**_10\. Tvoření spojů S-R (stimul, podnět – reakce)_ **– naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
+**_10\. Tvoření spojů S-R (stimul, podnět – reakce)_ ** – naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
 
-**_11\. Řetězení_ **– spojení několika spojů S-R, pohybů do řetězu
+**_11\. Řetězení_ ** – spojení několika spojů S-R, pohybů do řetězu
 
-**_12\. Slovní asociace_ **– spojení řady hlásek či slov
+**_12\. Slovní asociace_ ** – spojení řady hlásek či slov
 
-**_13\. Mnohonásobná diskriminace_ **– rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
+**_13\. Mnohonásobná diskriminace_ ** – rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
 
 **_14\. Učení pojmům_**
 
@@ -1477,7 +1477,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_16\. Řešení problémů_**
 
-· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení **– zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
+· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení ** – zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
 
 **Paměť = vlastnost a soubor procesů, které umožňují osvojení informací, jejich uchování a vybavení,** nejdůležitější vlastnost živých organismů
 
@@ -1495,7 +1495,7 @@ Rozlišují se **3 hlavní skupiny paměťových procesů:**
 
 **_D. Krátkodobá_** – k zapamatování na dobu několika sekund
 
-**_E. Pracovní_ **– uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
+**_E. Pracovní_ ** – uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
 
 **_F. Dlouhodobá_** – k zapamatování na delší dobu, popř. celý život (nutné opakování)
 
@@ -1505,9 +1505,9 @@ V paměťových procesech spolupracuje více mozkových center – **paměť pra
 
 - **_Nedeklarativní (procedurální)_** – neuvědomělé podmiňování a osvojování senzomotorických dovedností
 
-- **_Deklarativní_ **– vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
+- **_Deklarativní_ ** – vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
 
-- **_Názorná_**– názorné obrazy, představy odpovídající jednotlivým druhům vnímání; je funkcí pravé poloviny mozku
+- **_Názorná_** – názorné obrazy, představy odpovídající jednotlivým druhům vnímání; je funkcí pravé poloviny mozku
 
 - **_Sémantická (logická)_** – info vyjádřené slovně a zpracované myšlenkově; je funkcí levé poloviny mozku
 
@@ -1517,9 +1517,9 @@ V paměťových procesech spolupracuje více mozkových center – **paměť pra
 
 Názorné poznání skutečnosti zahrnuje vnímání a s ním těsně spjaté imaginativní procesy. Ty se tradičně vyjadřují zejména termíny představy a fantazie.
 
-Ä **Představa –** je názorný obraz něčeho, co v daném okamžiku nepůsobí na naše smyslové orgány. Zakládá se na minulém vnímání. Představa je většinou méně výstižná a živá než vjem. Představu si můžeme vytvořit prostřednictvím zraku, sluchu, vůně a chuti. Rozlišujeme druhy představ v souhlasu s druhy vnímání a s jednotlivými smyslovými orgány. **Elementární druh představ jsou** **paměťové představy**. Jsou vybavením z paměti obrazů či událostí, tak jak jsme je dříve vnímali. Jsou to více nebo méně adekvátní reprodukce.
+- **Představa –** je názorný obraz něčeho, co v daném okamžiku nepůsobí na naše smyslové orgány. Zakládá se na minulém vnímání. Představa je většinou méně výstižná a živá než vjem. Představu si můžeme vytvořit prostřednictvím zraku, sluchu, vůně a chuti. Rozlišujeme druhy představ v souhlasu s druhy vnímání a s jednotlivými smyslovými orgány. **Elementární druh představ jsou** **paměťové představy**. Jsou vybavením z paměti obrazů či událostí, tak jak jsme je dříve vnímali. Jsou to více nebo méně adekvátní reprodukce.
 
-Ä **Fantazie –** (obrazotvornost) je psychický proces, ve kterém vytváříme relativně nové představy. Základem je vždy naše zkušenost, vjemy a paměťové představy.
+- **Fantazie –** (obrazotvornost) je psychický proces, ve kterém vytváříme relativně nové představy. Základem je vždy naše zkušenost, vjemy a paměťové představy.
 
 - **Druhy fantazie:**
 
@@ -1565,11 +1565,11 @@ B) I.P.Pavlov – typ myslitelský a umělecký
 
 **a) Vývojové hledisko – tři formy:**
 
-**_4\. Motorické_**(je konkrétní myšlení) – řešení problému pohybovou manipulací s předměty
+**_4\. Motorické_** (je konkrétní myšlení) – řešení problému pohybovou manipulací s předměty
 
-**_5\. Imaginativní_**(je konkrétní myšlení) – pracuje s názornými obrazy či představami
+**_5\. Imaginativní_** (je konkrétní myšlení) – pracuje s názornými obrazy či představami
 
-**_6\. Propoziční_ **(je myšlení abstraktní) – operuje se slovy, větami a pojmy
+**_6\. Propoziční_ ** (je myšlení abstraktní) – operuje se slovy, větami a pojmy
 
 **b) Deduktivní a induktivní myšlení**
 
@@ -1581,7 +1581,7 @@ B) I.P.Pavlov – typ myslitelský a umělecký
 
 **c) Reproduktivní a produktivní myšlení**
 
-- **_Reproduktivní_ **– při řešení problému opakuje postup, který již byl jedinci znám
+- **_Reproduktivní_ ** – při řešení problému opakuje postup, který již byl jedinci znám
 
 - **_Produktivní (tvůrčí)_** – hledá a tvoří postup nový, jedinci dosud neznámý, popřípadě postup, jež dosud nebyl vůbec nalezen a popsán v literatuře
 
@@ -1621,21 +1621,21 @@ F v matematické logice i v psychologii – **průnik, sjednocení, negace, impl
 
 · **Funkce učení:**
 
-Ä přizpůsobování organismu k prostředí a ke změnám v tomto prostředí
+- přizpůsobování organismu k prostředí a ke změnám v tomto prostředí
 
-Ä poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
+- poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
 
 · **Formy lidského učení:**
 
 **E. Dle toho, jaké výsledky převažují**
 
-- **_Vědomosti_ **–představy a pojmy
+- **_Vědomosti_ ** –představy a pojmy
 
-- **_Senzorické a senzomotorické dovednosti_**– zdokonalení procesu vnímání (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a pohybů (např. při psaní, ve sportu)
+- **_Senzorické a senzomotorické dovednosti_** – zdokonalení procesu vnímání (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a pohybů (např. při psaní, ve sportu)
 
-- **_Intelektové dovednosti a rozvíjení intelektových schopností_**– např. při vyučování matematice a jazykům
+- **_Intelektové dovednosti a rozvíjení intelektových schopností_** – např. při vyučování matematice a jazykům
 
-- **_Návyky, postoje, rozvíjení vlastností osobnosti_ **– např. vytrvalosti a svědomitosti
+- **_Návyky, postoje, rozvíjení vlastností osobnosti_ ** – např. vytrvalosti a svědomitosti
 
 Vědomost = soustava informací (představ a pojmů), které si člověk osvojil
 
@@ -1647,9 +1647,9 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 - **_Elementární učení_**
 
-Ä tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy, představami a city)
+- tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy, představami a city)
 
-Ä podmiňování:
+- podmiňování:
 
 5\. klasické (Pavlovovo) – organismus se učí, že 2 události následují za sebou, nezávisle na jedincově aktivitě (reflex – slinná reakce psa na zvonek)
 
@@ -1661,19 +1661,19 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 - **_Komplexní učení_** – osvojení postupů při řešení problémů, vytváření mentálních map jedincova prostředí, osvojování principů a systémů učiva
 
-- **_Sociální učení_**– učení se sociální komunikaci, interakci a percepci (vnímání), sociálním rolím, formám společenského styku
+- **_Sociální učení_** – učení se sociální komunikaci, interakci a percepci (vnímání), sociálním rolím, formám společenského styku
 
 · **Typy lidského učení:**
 
 **_17\. Učení signálům_** – získáváme zkušenost, že po určitém podnětu následuje něco příjemného nebo naopak nepříjemného (klasické podmiňování dle Pavlova)
 
-**_18\. Tvoření spojů S-R (stimul, podnět – reakce)_ **– naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
+**_18\. Tvoření spojů S-R (stimul, podnět – reakce)_ ** – naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
 
-**_19\. Řetězení_ **– spojení několika spojů S-R, pohybů do řetězu
+**_19\. Řetězení_ ** – spojení několika spojů S-R, pohybů do řetězu
 
-**_20\. Slovní asociace_ **– spojení řady hlásek či slov
+**_20\. Slovní asociace_ ** – spojení řady hlásek či slov
 
-**_21\. Mnohonásobná diskriminace_ **– rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
+**_21\. Mnohonásobná diskriminace_ ** – rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
 
 **_22\. Učení pojmům_**
 
@@ -1681,7 +1681,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_24\. Řešení problémů_**
 
-· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení **– zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
+· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení ** – zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
 
 **4) <u>PAMĚŤ</u>**
 
@@ -1703,7 +1703,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_G. Krátkodobá_** – k zapamatování na dobu několika sekund
 
-**_H. Pracovní_ **– uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
+**_H. Pracovní_ ** – uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
 
 **_I. Dlouhodobá_** – k zapamatování na delší dobu, popř. celý život (nutné opakování)
 
@@ -1715,9 +1715,9 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 - **_Nedeklarativní (procedurální)_** – neuvědomělé podmiňování a osvojování senzomotorických dovedností
 
-- **_Deklarativní_ **– vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
+- **_Deklarativní_ ** – vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
 
-- **_Názorná_**– názorné obrazy, představy odpovídající jednotlivým druhům vnímání; je funkcí pravé poloviny mozku
+- **_Názorná_** – názorné obrazy, představy odpovídající jednotlivým druhům vnímání; je funkcí pravé poloviny mozku
 
 - **_Sémantická (logická)_** – info vyjádřené slovně a zpracované myšlenkově; je funkcí levé poloviny mozku
 
@@ -1727,9 +1727,9 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 Názorné poznání skutečnosti zahrnuje vnímání a s ním těsně spjaté imaginativní procesy. Ty se tradičně vyjadřují zejména termíny představy a fantazie.
 
-Ä **Představa –** je názorný obraz něčeho, co v daném okamžiku nepůsobí na naše smyslové orgány. Zakládá se na minulém vnímání. Představa je většinou méně výstižná a živá než vjem. Představu si můžeme vytvořit prostřednictvím zraku, sluchu, vůně a chuti. Rozlišujeme druhy představ v souhlasu s druhy vnímání a s jednotlivými smyslovými orgány. **Elementární druh představ jsou** **paměťové představy**. Jsou vybavením z paměti obrazů či událostí, tak jak jsme je dříve vnímali. Jsou to více nebo méně adekvátní reprodukce.
+- **Představa –** je názorný obraz něčeho, co v daném okamžiku nepůsobí na naše smyslové orgány. Zakládá se na minulém vnímání. Představa je většinou méně výstižná a živá než vjem. Představu si můžeme vytvořit prostřednictvím zraku, sluchu, vůně a chuti. Rozlišujeme druhy představ v souhlasu s druhy vnímání a s jednotlivými smyslovými orgány. **Elementární druh představ jsou** **paměťové představy**. Jsou vybavením z paměti obrazů či událostí, tak jak jsme je dříve vnímali. Jsou to více nebo méně adekvátní reprodukce.
 
-Ä **Fantazie –** (obrazotvornost) je psychický proces, ve kterém vytváříme relativně nové představy. Základem je vždy naše zkušenost, vjemy a paměťové představy.
+- **Fantazie –** (obrazotvornost) je psychický proces, ve kterém vytváříme relativně nové představy. Základem je vždy naše zkušenost, vjemy a paměťové představy.
 
 - **Druhy fantazie:**
 
@@ -1775,11 +1775,11 @@ D) I.P.Pavlov – typ myslitelský a umělecký
 
 **E. Vývojové hledisko – tři formy:**
 
-**_7\. Motorické_**(je konkrétní myšlení) – řešení problému pohybovou manipulací s předměty
+**_7\. Motorické_** (je konkrétní myšlení) – řešení problému pohybovou manipulací s předměty
 
-**_8\. Imaginativní_**(je konkrétní myšlení) – pracuje s názornými obrazy či představami
+**_8\. Imaginativní_** (je konkrétní myšlení) – pracuje s názornými obrazy či představami
 
-**_9\. Propoziční_ **(je myšlení abstraktní) – operuje se slovy, větami a pojmy
+**_9\. Propoziční_ ** (je myšlení abstraktní) – operuje se slovy, větami a pojmy
 
 **F. Deduktivní a induktivní myšlení**
 
@@ -1793,7 +1793,7 @@ D) I.P.Pavlov – typ myslitelský a umělecký
 
 **G. Reproduktivní a produktivní myšlení**
 
-- **_Reproduktivní_ **– při řešení problému opakuje postup, který již byl jedinci znám
+- **_Reproduktivní_ ** – při řešení problému opakuje postup, který již byl jedinci znám
 
 - **_Produktivní (tvůrčí)_** – hledá a tvoří postup nový, jedinci dosud neznámý, popřípadě postup, jež dosud nebyl vůbec nalezen a popsán v literatuře
 
@@ -1863,27 +1863,27 @@ F velká pětka – 2\. pol. 20\. století, využívá ji řada psychologů pro 
 
 - **Struktura osobnosti – souhrn psychických vlastností**:
 
-Ä **Charakter** - „JAKÝ JSEM“
+- **Charakter** - „JAKÝ JSEM“
 
-Ä **Temperament** – „JAK REAGUJI“
+- **Temperament** – „JAK REAGUJI“
 
-Ä **Inteligence** – „CO ZVLÁDNU“
+- **Inteligence** – „CO ZVLÁDNU“
 
-Ä **Motivační a volní vlastnosti** – „CO CHCI“
+- **Motivační a volní vlastnosti** – „CO CHCI“
 
-Ä **Tělesná konstituce**
+- **Tělesná konstituce**
 
 - **Typologie osobnosti:**
 
-- **(Hippokrates):**
+- ** (Hippokrates):**
 
-F [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") **(krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
+F [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") ** (krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
 
-F [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") **(sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
+F [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") ** (sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
 
-F [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") **(černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
+F [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") ** (černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
 
-F [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") **(žluč)** **– je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert**
+F [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") ** (žluč)** ** – je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert**
 
 - **E. Kretschmer - tři základní typy podle stavby těla**:
 
@@ -1897,9 +1897,9 @@ E. Kretschmer uznával, že mnoho lidí nepatří čistě k jednomu typu, někte
 
 - **C.G. Jung začátkem 20.stol.**
 
-Ä **extrovert** – orientuje se na vnější svět a styk s druhými lidmi
+- **extrovert** – orientuje se na vnější svět a styk s druhými lidmi
 
-Ä **introvert** – je soustředěn na vnitřní prožívání
+- **introvert** – je soustředěn na vnitřní prožívání
 
 - **Etapy vývoje osobnosti:**
 
@@ -1962,7 +1962,7 @@ V tomto stadiu se také podvědomě fixují na rodiče opačného pohlaví a rod
 
 - **Eric Berne** – **TRANSAKČNÍ ANALÝZA** – pozornost na zkoumání transakcí tj. složek vzájemné komunikace, a to nejen mezi osobami, ale také uvnitř osobnosti jedince
 
-- **U**. **Neiser, G. Kelly** **– KOGNITIVISMUS** – poznávací procesy a aspekty osobnosti se neomezují na vědecké poznání, ale lidé jich využívají ve svém každodenním životě, v řešení problémů, rozhodování a jednání
+- **U**. **Neiser, G. Kelly** ** – KOGNITIVISMUS** – poznávací procesy a aspekty osobnosti se neomezují na vědecké poznání, ale lidé jich využívají ve svém každodenním životě, v řešení problémů, rozhodování a jednání
 
 - **Transpersonální psychologie:** východiskem jsou zážitky osob ve stavu změněného vědomí, pod vlivem drog, kterých se užívalo při léčení některých psychiatrických onemocnění, fantazie psychotiků, zážitky při meditaci
 
@@ -2008,27 +2008,27 @@ F velká pětka – 2\. pol. 20\. století, využívá ji řada psychologů pro 
 
 - **Struktura osobnosti – souhrn psychických vlastností**:
 
-Ä **Charakter** - „JAKÝ JSEM“
+- **Charakter** - „JAKÝ JSEM“
 
-Ä **Temperament** – „JAK REAGUJI“
+- **Temperament** – „JAK REAGUJI“
 
-Ä **Inteligence** – „CO ZVLÁDNU“
+- **Inteligence** – „CO ZVLÁDNU“
 
-Ä **Motivační a volní vlastnosti** – „CO CHCI“
+- **Motivační a volní vlastnosti** – „CO CHCI“
 
-Ä **Tělesná konstituce**
+- **Tělesná konstituce**
 
 - **Typologie osobnosti:**
 
-- **(Hippokrates):**
+- ** (Hippokrates):**
 
-F [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") **(krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
+F [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") ** (krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
 
-F [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") **(sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
+F [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") ** (sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
 
-F [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") **(černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
+F [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") ** (černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
 
-F [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") **(žluč)** **– je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert**
+F [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") ** (žluč)** ** – je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert**
 
 - **E. Kretschmer - tři základní typy podle stavby těla**:
 
@@ -2042,9 +2042,9 @@ E. Kretschmer uznával, že mnoho lidí nepatří čistě k jednomu typu, někte
 
 - **C.G. Jung začátkem 20.stol.**
 
-Ä **extrovert** – orientuje se na vnější svět a styk s druhými lidmi
+- **extrovert** – orientuje se na vnější svět a styk s druhými lidmi
 
-Ä **introvert** – je soustředěn na vnitřní prožívání
+- **introvert** – je soustředěn na vnitřní prožívání
 
 - **Etapy vývoje osobnosti:**
 
@@ -2121,13 +2121,13 @@ na rozdíl od motivace nevyjadřuje, proč to dělá
 
 · **druhy rysů:**
 
-Ä Eysenckova dvojice rysů:
+- Eysenckova dvojice rysů:
 
 - **extroverze – introverze**
 
 - **stabilita – labilita**
 
-Ä Learyho dvojice rysů:
+- Learyho dvojice rysů:
 
 - **dominance – submise**
 
@@ -2161,7 +2161,7 @@ v **Temperament** – část osobnosti, která je určována převážně biolog
 
 Od Hippokrata a Galena se traduje učení o čtyřech typech temperamentu:
 
-- **_sangvinik_ **– společenský, činorodý, veselý, bezstarostný, živě reagující, čilý, hovorný a optimista, emočně nestálý
+- **_sangvinik_ ** – společenský, činorodý, veselý, bezstarostný, živě reagující, čilý, hovorný a optimista, emočně nestálý
 
 - **_cholerik_** – nedůtklivý, neklidný, útočný, vznětlivý, impulzivní, spolehlivý a stálý ve svých názorech a životních hodnotách
 
@@ -2272,25 +2272,25 @@ b) **Neverbální –** řeč těla
 
 - Často objasňuje nebo doplňuje význam verbálního sdělení
 
-Ä **Mimika** – výraz obličeje
+- **Mimika** – výraz obličeje
 
-Ä **Pohledy**
+- **Pohledy**
 
-Ä **Proxemika** – vzdálenost mezi osobami (čím dál je učitel od žáků, tím je menší verbální komunikace)
+- **Proxemika** – vzdálenost mezi osobami (čím dál je učitel od žáků, tím je menší verbální komunikace)
 
-Ä **Posturologie** – postoje, držení rukou, nohou
+- **Posturologie** – postoje, držení rukou, nohou
 
-Ä **Kinetika** – pohyby těla, chůze
+- **Kinetika** – pohyby těla, chůze
 
-Ä **Gestika** – komunikování gesty
+- **Gestika** – komunikování gesty
 
-Ä **Haptika** – dotyky (podání ruky, …)
+- **Haptika** – dotyky (podání ruky, …)
 
-Ä **Celkový vzhled** – upravenost, oblečení, účes, ….
+- **Celkový vzhled** – upravenost, oblečení, účes, ….
 
-Ä **Prostředí komunikace**
+- **Prostředí komunikace**
 
-Ä **Paralingvistika** – to co doprovází slovní projev (hlasitost, výška a zabarvení hlasu, rychlost, dikce, intonace a přestávky v řeči)
+- **Paralingvistika** – to co doprovází slovní projev (hlasitost, výška a zabarvení hlasu, rychlost, dikce, intonace a přestávky v řeči)
 
 **Extrovert – komunikuje více než introvert**
 
@@ -2368,7 +2368,7 @@ F perinatální obrobí (porod a období kolem porodu) – zvýšená zranitelno
 
 9) **rané dětství** – do 3 let věku dítěte
 
-**_d) novorozenec_ **(28 dnů po porodu)
+**_d) novorozenec_ ** (28 dnů po porodu)
 
 → **komunikace s matkou** – sluchem rozlišuje matčin hlas (možno i hlas otce)
 
@@ -2392,7 +2392,7 @@ upoutává pozornost druhých úsměvem
 
 **_f) batole_** (1-3 roky)
 
-Ä **mladší batolecí období** (1-2 roky)
+- **mladší batolecí období** (1-2 roky)
 
 → ve vztahu s matkou se dítě učí sociální komunikaci a vztahům k lidem
 
@@ -2408,7 +2408,7 @@ rozvíjí se záměrné jednání (např. plácání do chrastítek k vyvolání
 
 → převažuje **potřeba jistoty a bezpečí**
 
-Ä **starší batolecí období** (2-3 roky)
+- **starší batolecí období** (2-3 roky)
 
 → dítě se stává méně závislým na druhých a získává určitou **samostatnost, autonomii**, ale také přibývá konfliktů s dospělými (brání dětem v pohybu např. k nebezpečným předmětům, do vozovky, …)
 
@@ -2490,11 +2490,11 @@ F **<u>Puberta</u>**
 
 - ohraničuje se **somatickými (tělesnými) změnami:**
 
-Ä u dívek začíná prvními měsíčky (menarche)
+- u dívek začíná prvními měsíčky (menarche)
 
-Ä u chlapců začíná první noční polucí
+- u chlapců začíná první noční polucí
 
-Ä končí dosažením reprodukční schopnosti = trvá zhruba od 13 do 15-16 let, je to individuální
+- končí dosažením reprodukční schopnosti = trvá zhruba od 13 do 15-16 let, je to individuální
 
 - období před pubertou (přechod od dětství k dospívání) = **prepuberta**
 
@@ -2572,7 +2572,7 @@ F **<u>Adolescence</u>**
 
 - senzomotorické i intelektové schopnosti jsou na vysoké úrovni – umožňují dosahovat vysokých výkonů (např. ve sportu, v zájmových činnostech, v učebním předmětu, …)
 
-**_b) sociální aspekty_ **– 2 důležité mezníky sociálního vývoje:
+**_b) sociální aspekty_ ** – 2 důležité mezníky sociálního vývoje:
 
 - ukončení povinné školní docházky
 
@@ -2588,7 +2588,7 @@ adolescenti pokračují v úsilí o nezávislost na rodičích a jiných dospěl
 
 spolehlivější je získat jistotu na vzdělání, schopnostech, výkonech, komunikačních dovednostech a charakterových rysech
 
-- formování vlastního „já“, vlastní identity zahrnuje **_krizi_ **(pochybnosti, váhání mezi možnostmi ve volbě např. povolání, partnera, životního stylu, …), její **_řešení, přijetí závazku_** **_a_** **_úsilí_** při jeho realizaci
+- formování vlastního „já“, vlastní identity zahrnuje **_krizi_ ** (pochybnosti, váhání mezi možnostmi ve volbě např. povolání, partnera, životního stylu, …), její **_řešení, přijetí závazku_** **_a_** **_úsilí_** při jeho realizaci
 
 - jsou velké inter-individuální rozdíly mezi adolescenty – v hodnocení vzdělání, sebehodnocení vlastních schopností, délky závislosti na rodičích, …
 
