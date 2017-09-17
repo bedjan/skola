@@ -100,6 +100,11 @@ podpora pocitu společenské zodpovědnosti
 
 **ZÁKLADNÍ FORMY PST** individuální, skupinová, rodinná, komunitní terapie
 
+<a id="2"></a>
+
+[Zpět k obsahu](#)
+
+
 **2\. SCHOPNOSTI A KREATIVITA JAKO PSYCHOLOGICKÁ KATEGORIE**
 
 **Schopnosti:** jsou vlastnosti, které umožňují člověku naučit se určitým činnostem a dobře je vykonávat
@@ -127,6 +132,11 @@ v psychologii se nejvíce zkoumají ty z uvedených schopností, které se týka
 **_Tvůrčí řešení_** závisí do značné míry na shromáždění rozsáhlých zkušeností, na silné motivaci a vytrvalé práci. Záleží na vědomostech, dovednostech, zkušenostech, motivaci, vytrvalosti, sebeovládání, odpovědnosti. K diagnostice tvořivosti u dětí se užívá testů (liší se od IQ testů) – úlohy, které mají prověřit kreativitu dětí.
 
 Tvořivé děti mají problémy s vrstevníky (konflikty) i v rodině (rodiče jim často vyčítají, že se odlišují od ostatních dětí nebo na ně mají velmi vysoké nároky – očekávají jen vynikající výsledky a úspěchy)
+
+<a id="3"></a>
+
+[Zpět k obsahu](#)
+
 
 **3\. Motivační, emoční a volní procesy**
 
@@ -183,7 +193,7 @@ Význam se rozšířil a označují se jim nejrůznější motivy: potřeba potr
 
 Toto však nelze říci zcela bezvýhradně, uspokojování vyšších potřeb (estetických, duchovních) může napomoci v mezních situacích lidského života, ve kterých je možnost uspokojování nižších potřeb omezena (např. v prostředí [koncentračních táborů](http://cs.wikipedia.org/wiki/Koncentra%C4%8Dn%C3%AD_t%C3%A1bor "Koncentrační tábor"), o čemž referovali mj. [Viktor Frankl](http://cs.wikipedia.org/wiki/Viktor_Frankl "Viktor Frankl")).
 
-Za nejvyšší považuje Maslow potřebu [seberealizace](http://cs.wikipedia.org/w/index.php?title=Seberealizace&action=edit&redlink=1 "Seberealizace (stránka neexistuje)"), jíž označuje lidskou snahu naplnit své [schopnosti](http://cs.wikipedia.org/wiki/Schopnosti "Schopnosti") a [záměry](http://cs.wikipedia.org/w/index.php?title=Z%C3%A1m%C4%9Bry&action=edit&redlink=1 "Záměry (stránka neexistuje)").
+Za nejvyšší považuje Maslo- potřebu [seberealizace](http://cs.wikipedia.org/w/index.php?title=Seberealizace&action=edit&redlink=1 "Seberealizace (stránka neexistuje)"), jíž označuje lidskou snahu naplnit své [schopnosti](http://cs.wikipedia.org/wiki/Schopnosti "Schopnosti") a [záměry](http://cs.wikipedia.org/w/index.php?title=Z%C3%A1m%C4%9Bry&action=edit&redlink=1 "Záměry (stránka neexistuje)").
 
 - **elementární motivační proces – podnícení,** **aktivace příslušné reakce** nebo **činnosti** v situaci, kdy na člověka zapůsobil podnět, zvláště pokud je organismus k takové reakci či činnosti připraven „nabuzen“ (např. hladový jedinec spatřil vhodnou potravu)
 
@@ -291,6 +301,11 @@ Volní procesy jsou těsně spjaty s řečí (vnější i vnitřní) – při ro
 
 **6\. Jsou variabilní, vykazují značné individuelní rozdíly**
 
+<a id="4"></a>
+
+[Zpět k obsahu](#)
+
+
 **4\. Psychické stavy, vědomí, aktivace, pozornost – význam**
 
 **pro edukační proces**
@@ -384,6 +399,11 @@ Délka spánku se mění v průběhu života, s věkem se potřeba spánku sniž
 Existuje **škála rozmanitých stavů vědomí** včetně stavů **_relaxace_**, **_hypnózy_**, **_změněného prožívání a chování v davu_**, při praktikách **_meditace_**.
 
 - Bio-psycho-sociální aspekty člověka, jeho života i činností jsou navzájem těsně spjaty. Zanedbání kteréhokoliv z 3 aspektů vede k jednostrannostem a chybám. Bez biologického pohledu se ztrácí nervové mechanismy, bez sociálního pohledu se ztrácí specifičnost člověka, sociální determinace a komunikace a bez psychologického hlediska se ztrácí osobnost a její specifičnost, je ovlivněné vnímání, nálady, emoce i zdraví.
+
+<a id="5"></a>
+
+[Zpět k obsahu](#)
+
 
 **5\. Nejvýznamnější psychologické metody**
 
@@ -488,6 +508,11 @@ Existuje **škála rozmanitých stavů vědomí** včetně stavů **_relaxace_**
 - **transverzálního** – zjišťuje za pomoci dotazníku údaje od velkého počtu lidí v krátké době
 
 - **longitudinální** – zkoumá menší počet osob dlouhodobě (u dětí od začátku školní docházky až na střední školu. Sledujeme je podrobněji a získáváme cenné poznání individuálních vlastností v psychickém vývoji. Je to výzkum přínosný, ale velmi náročný.
+
+<a id="6"></a>
+
+[Zpět k obsahu](#)
+
 
 **6\. Pojem UČENÍ , paměť, učení a myšlení**
 
@@ -657,19 +682,24 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 - **Myšlení se realizuje souborem myšlenkových procesů či operací:**
 
-F **analýza a syntéza** – rozčlenění celku na části a vystižení toho, jak jsou uspořádány dohromady, jaké vztahy jsou mezi nimi (např. oddělení jednotlivých prvků složité situace)
+- **analýza a syntéza** – rozčlenění celku na části a vystižení toho, jak jsou uspořádány dohromady, jaké vztahy jsou mezi nimi (např. oddělení jednotlivých prvků složité situace)
 
-F **abstrakce a konkretizace** – postup od celistvých, konkrétních „živých“ skutečností k odděleným částem či aspektům, vlastnostem
+- **abstrakce a konkretizace** – postup od celistvých, konkrétních „živých“ skutečností k odděleným částem či aspektům, vlastnostem
 
-F **indukce a dedukce** – postup od obecného ke zvláštnímu (viz induk. a deduk. myšlení)
+- **indukce a dedukce** – postup od obecného ke zvláštnímu (viz induk. a deduk. myšlení)
 
-F **generalizace, zobecnění** – souvisí s předchozími procesy - od jednotlivých případů přecházíme k obecnému pojmu nebo vztahu (pravidlu, zákonu), to se však zakládá na analýze, abstrakci, indukci
+- **generalizace, zobecnění** – souvisí s předchozími procesy - od jednotlivých případů přecházíme k obecnému pojmu nebo vztahu (pravidlu, zákonu), to se však zakládá na analýze, abstrakci, indukci
 
-F **srovnávání, uspořádání, třídění (klasifikace)** – nový pojem, srovnávání s jinými pojmy, které již známe, nový problém srovnávám s předchozími problémy, jejichž způsob řešení již ovládám. Srovnání je spojeno s analýzou a syntézou a dalšími uvedenými operacemi
+- **srovnávání, uspořádání, třídění (klasifikace)** – nový pojem, srovnávání s jinými pojmy, které již známe, nový problém srovnávám s předchozími problémy, jejichž způsob řešení již ovládám. Srovnání je spojeno s analýzou a syntézou a dalšími uvedenými operacemi
 
-F v matematické logice i v psychologii – **průnik, sjednocení, negace, implikace**
+- v matematické logice i v psychologii – **průnik, sjednocení, negace, implikace**
 
 - **Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích** (viz mapa a otázka č. 4\. mozek)
+
+<a id="7"></a>
+
+[Zpět k obsahu](#)
+
 
 **7\. Sociální percepce a interakce v pedagogickém procesu**
 
@@ -720,6 +750,11 @@ Sociální percepce je složitý proces. Člověk má často tendence vnášet d
 **Sociální interakce** je proces, v němž se individua vzájemně stimulují a reagují na sebe, a rozvíjejí tak řetězec akcí a reakcí ( jakýsi psychologický ping – pong)
 
 Sociální interakci a percepci ovlivňují faktory komunikační. Sem řadíme zejména prvky nonverbální komunikace.
+
+<a id="8"></a>
+
+[Zpět k obsahu](#)
+
 
 **8\. Školní třída jako sociální skupina, utváření klimatu školní třídy**
 
@@ -796,10 +831,10 @@ b) Otevřené – přijímání i propouštění členů v průběhu trvání sk
 
 **Sociální skupina jako školní třída a její klima**
 
-F Učení a chování žáků **není pouze individuální záležitostí**, ale **je ovlivňováno mikrosociálním prostředím**, v němž se žáci pohybují. Takováto skupina školní třídy mívá (zejména na dospívající) mnohem větší vliv než učitelé  
+- Učení a chování žáků **není pouze individuální záležitostí**, ale **je ovlivňováno mikrosociálním prostředím**, v němž se žáci pohybují. Takováto skupina školní třídy mívá (zejména na dospívající) mnohem větší vliv než učitelé  
 a rodiče.
 
-F **Vliv skupiny na jedince – klima školní třídy**
+- **Vliv skupiny na jedince – klima školní třídy**
 
 · mikrosociální prostředí, v němž se žáci pohybují – konkrétní skupina žáků, či vrstevníků
 
@@ -884,6 +919,11 @@ c) Umět (na základě zjištěných skutečností) navrhnout a provést vhodnou
 8) vyhodnotit účinnost zásahů pomocí dotazníku a současně pomocí rozhovorů se žáky i učiteli
 
 **Klima našich školních tříd na důkladné zmapování teprve čeká, práce to bude lákavá, nesnadná a velmi užitečná.**
+
+<a id="9"></a>
+
+[Zpět k obsahu](#)
+
 
 **9\. Vývoj, zrání a interakce jedince s prostředím, dědičnost a prostředí**
 
@@ -1005,9 +1045,9 @@ Biologicky dané předpoklady, které si dítě přináší na svět se týkají
 
 **Koncepce vývojových stádií** – způsoby vyjádření běhu lidského života:
 
-F předpokládá, že vývoj osobnosti probíhá ve stádiích, jejichž pořadí je nutné, zákonité
+- předpokládá, že vývoj osobnosti probíhá ve stádiích, jejichž pořadí je nutné, zákonité
 
-F jsou důležité 2 speciální problémy:
+- jsou důležité 2 speciální problémy:
 
 - senzitivní období – období, kdy je organismus přístupný vlivu podnětů k rozvinutí určité funkce
 
@@ -1069,7 +1109,12 @@ F jsou důležité 2 speciální problémy:
 
 2\. pud sebezáchovy
 
-F všechny uvedené koncepce se prolínají a navzájem doplňují k ucelenějšímu vystižení vývoje osobnosti
+- všechny uvedené koncepce se prolínají a navzájem doplňují k ucelenějšímu vystižení vývoje osobnosti
+
+<a id="10"></a>
+
+[Zpět k obsahu](#)
+
 
 **10\. Psychologické podmínky (činitelé) školní úspěšnosti žáků**
 
@@ -1199,6 +1244,11 @@ F všechny uvedené koncepce se prolínají a navzájem doplňují k ucelenějš
 
 - Negativně vždy působí zanedbávání dítěte, nedostatky v emočním klimatu rodiny, chyby ve výchově, rozpornost požadavků, rozdíly socio-kulturních tradic ….
 
+<a id="11"></a>
+
+[Zpět k obsahu](#)
+
+
 **11\. PSYCHOLOGIE – předmět, hlavní odvětví**
 
 -**Definice a úvod:** psychologie je věda o psychice a patří do věd o člověku (zabývá se duševním životem člověka a jeho projevy) **Slovo psychologie** vzniklo složením dvou řeckých slov – **psyché** (dech, duše) a **logos** (učené slovo) = **učené slovo duši** – překlad
@@ -1307,9 +1357,9 @@ F všechny uvedené koncepce se prolínají a navzájem doplňují k ucelenějš
 
 - **Význam psychologie pro pedagogickou praxi**
 
-F Psychologické poznatky a metody usnadňují a zkvalitňují práci pedagogických pracovníků.
+- Psychologické poznatky a metody usnadňují a zkvalitňují práci pedagogických pracovníků.
 
-F **Psychologie nám pomůže si zodpovědět tyto otázky:**
+- **Psychologie nám pomůže si zodpovědět tyto otázky:**
 
 · Jak dobře poznávat žáky, jejich zájmy, schopnosti?
 
@@ -1322,6 +1372,11 @@ F **Psychologie nám pomůže si zodpovědět tyto otázky:**
 · Jak vznikají a vyvíjejí se zájmy dětí a mládeže?
 
 · Proč jsou mezi mládeží velké rozdíly v odpovědnosti, vytrvalosti, ve vztazích k lidem, v postoji k práci a jak tyto rozdíly vznikají?
+
+<a id="12"></a>
+
+[Zpět k obsahu](#)
+
 
 **12\. KOGNITIVNÍ (poznávací) PROCESY – součást intelektuálního vývoje žáka**
 
@@ -1357,13 +1412,13 @@ d) myšlení spjaté s řečí a myšlenkové řešení problémů
 
 **A. Vnímání** = poznávací proces zachycující to, co působí na naše smysly
 
-F k vnímání je potřeba **_analyzátor_ ** (= receptor, dostředivá dráha a mozkové centrum) – jeho hlavní funkcí je analýza, rozklad, rozlišování podnětů
+- k vnímání je potřeba **_analyzátor_ ** (= receptor, dostředivá dráha a mozkové centrum) – jeho hlavní funkcí je analýza, rozklad, rozlišování podnětů
 
 a) **_analyzátor pohybový_** (kinestetický, proprioceptivní) – slouží ke kontrole pohybů a polohy jednotlivých částí těla, je spojen s vnímáním a udržováním rovnováhy
 
 b) **_analyzátor_** **_interoceptivní_** – informuje o změnách ve funkci a stavu vnitřních orgánů (např. hlad, sytost, nevolnost, bolest, …)
 
-F **Druhy vnímání** (informující o vnějším světě)**:**
+- **Druhy vnímání** (informující o vnějším světě)**:**
 
 - _Zrakové_ – umožňuje poznávat předměty i na značnou vzdálenost a s velkou přesností
 
@@ -1375,7 +1430,7 @@ F **Druhy vnímání** (informující o vnějším světě)**:**
 
 - _Hmatové - dotekové_ – poskytuje info kožního a pohybového analyzátoru při aktivním ohmatání předmětů, vnímání doteku, chladu, tepla, bolesti, …
 
-F Ve vnímání se rozlišují **2 typy zážitků:**
+- Ve vnímání se rozlišují **2 typy zážitků:**
 
 **_1\. počitek_** – obraz některého jednotlivého znaku vnímaného předmětu (např. počitek červené barvy, počitek nakyslé chuti, …), nevyskytují se izolovaně, ale jako části složitějších vjemů
 
@@ -1385,9 +1440,9 @@ F Ve vnímání se rozlišují **2 typy zážitků:**
 
 → takto chápe psychologii _celostní_ a _tvarová psychologie_
 
-F nervový systém má rozvinuté mechanismy jak k rozlišování částí a dílčích vlastností, tak k vystižení jejich vztahů, uspořádání, struktury, celistvosti – vnímání je složitá analytická-syntetická činnost
+- nervový systém má rozvinuté mechanismy jak k rozlišování částí a dílčích vlastností, tak k vystižení jejich vztahů, uspořádání, struktury, celistvosti – vnímání je složitá analytická-syntetická činnost
 
-F vnímání je realizováno složitými neurofyziologickými **mechanismy informačních procesů:**
+- vnímání je realizováno složitými neurofyziologickými **mechanismy informačních procesů:**
 
 a. nejprve je zapotřebí odlišit podstatnou info od šumu (množství podnětů, které na nás působí zevnitř i z vnějšku)
 
@@ -1399,15 +1454,15 @@ d. určuje se místo, kde podnět působí na organismus
 
 e. zpracování info – srovnání s dřívějšími zkušenostmi uloženými v paměti (to umožňuje odpovědět na otázku „Co je to?“)
 
-F vnímání je výběrové – vnímání není jen pasivní reagování na podněty, člověk si z množství podnětů vybírá (= pozornost a zaměřenost)
+- vnímání je výběrové – vnímání není jen pasivní reagování na podněty, člověk si z množství podnětů vybírá (= pozornost a zaměřenost)
 
 - figura = to, na co se pozornost soustřeďuje v daném okamžiku
 
 - pozadí = vše ostatní
 
-F transdukce = převod proměn zevního prostředí při zrakovém vnímání proměn elektromagnetického spektra na nervové vzruchy (impulsy)
+- transdukce = převod proměn zevního prostředí při zrakovém vnímání proměn elektromagnetického spektra na nervové vzruchy (impulsy)
 
-F mapování = vytváření vnitřní mapy, obrazu, modelu
+- mapování = vytváření vnitřní mapy, obrazu, modelu
 
 **B. Procesy učení a paměti**
 
@@ -1595,19 +1650,24 @@ B) I.P.Pavlov – typ myslitelský a umělecký
 
 - **Myšlení se realizuje souborem myšlenkových procesů či operací:**
 
-F **analýza a syntéza** – rozčlenění celku na části a vystižení toho, jak jsou uspořádány dohromady, jaké vztahy jsou mezi nimi (např. oddělení jednotlivých prvků složité situace)
+- **analýza a syntéza** – rozčlenění celku na části a vystižení toho, jak jsou uspořádány dohromady, jaké vztahy jsou mezi nimi (např. oddělení jednotlivých prvků složité situace)
 
-F **abstrakce a konkretizace** – postup od celistvých, konkrétních „živých“ skutečností k odděleným částem či aspektům, vlastnostem
+- **abstrakce a konkretizace** – postup od celistvých, konkrétních „živých“ skutečností k odděleným částem či aspektům, vlastnostem
 
-F **indukce a dedukce** – postup od obecného ke zvláštnímu (viz induk. a deduk. myšlení)
+- **indukce a dedukce** – postup od obecného ke zvláštnímu (viz induk. a deduk. myšlení)
 
-F **generalizace, zobecnění** – souvisí s předchozími procesy - od jednotlivých případů přecházíme k obecnému pojmu nebo vztahu (pravidlu, zákonu), to se však zakládá na analýze, abstrakci, indukci
+- **generalizace, zobecnění** – souvisí s předchozími procesy - od jednotlivých případů přecházíme k obecnému pojmu nebo vztahu (pravidlu, zákonu), to se však zakládá na analýze, abstrakci, indukci
 
-F **srovnávání, uspořádání, třídění (klasifikace)** – nový pojem, srovnávání s jinými pojmy, které již známe, nový problém srovnávám s předchozími problémy, jejichž způsob řešení již ovládám. Srovnání je spojeno s analýzou a syntézou a dalšími uvedenými operacemi
+- **srovnávání, uspořádání, třídění (klasifikace)** – nový pojem, srovnávání s jinými pojmy, které již známe, nový problém srovnávám s předchozími problémy, jejichž způsob řešení již ovládám. Srovnání je spojeno s analýzou a syntézou a dalšími uvedenými operacemi
 
-F v matematické logice i v psychologii – **průnik, sjednocení, negace, implikace**
+- v matematické logice i v psychologii – **průnik, sjednocení, negace, implikace**
 
 **Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích**
+
+<a id="13"></a>
+
+[Zpět k obsahu](#)
+
 
 **13\. PROCESY UČENÍ A PAMĚTI**
 
@@ -1723,6 +1783,11 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 · **Zapomínání** = změny v uchování a ve vybavování, ke kterým dochází v průběhu času
 
+<a id="14"></a>
+
+[Zpět k obsahu](#)
+
+
 **14\. IMAGINATIVNÍ PROCESY** , představy, fantazie
 
 Názorné poznání skutečnosti zahrnuje vnímání a s ním těsně spjaté imaginativní procesy. Ty se tradičně vyjadřují zejména termíny představy a fantazie.
@@ -1752,6 +1817,11 @@ D) I.P.Pavlov – typ myslitelský a umělecký
 - **Snění** v bdělém stavu bývá pokračováním skutečných událostí, někdy i pokračováním v řešení otevřeného problému. Právě ve snění – ve chvíli odpočinku, při cestě – se může vybavit rozhodující nápad, princip řešení obtížného problému ať již osobního nebo pracovního. Snění může pomoci plánovat budoucí činnost a život. Někdy snění přináší uklidnění nebo i radostné vzrušení. Někdy se stává náhražkou skutečného života. Může přinášet neklid, úzkost, strach. Ovlivňuje tedy jedincovu náladu, a to často na dlouhou dobu. Sen ve spánku – psychoanalýza a směry na ni navazující podrobně **rozpracovaly teorie snů jako projevů nevědomí.**
 
 - **Jung:** _Sen vyjadřuje často v pozměněné formě- něco důležitého jedincova nevědomí_, např. to co nedořešil, nezvládl, zanedbal, popřípadě potlačil, proto je účelné zamýšlet se nad vlastními sny, tím získáme náměty pro lepší sebepoznání i pro lepší řešení životních problémů, pro realizaci vnitřního dialogu, který je podstatnou podmínkou pro sebepoznání a pro duševní zdraví, pro dobrý vývoj osobnosti.
+
+<a id="15"></a>
+
+[Zpět k obsahu](#)
+
 
 **15\. MYŠLENÍ – charakteristika, druhy myšlení, myšlenkové operace**
 
@@ -1809,19 +1879,24 @@ D) I.P.Pavlov – typ myslitelský a umělecký
 
 - **Myšlení se realizuje souborem myšlenkových procesů či operací:**
 
-F **analýza a syntéza** – rozčlenění celku na části a vystižení toho, jak jsou uspořádány dohromady, jaké vztahy jsou mezi nimi (např. oddělení jednotlivých prvků složité situace)
+- **analýza a syntéza** – rozčlenění celku na části a vystižení toho, jak jsou uspořádány dohromady, jaké vztahy jsou mezi nimi (např. oddělení jednotlivých prvků složité situace)
 
-F **abstrakce a konkretizace** – postup od celistvých, konkrétních „živých“ skutečností k odděleným částem či aspektům, vlastnostem
+- **abstrakce a konkretizace** – postup od celistvých, konkrétních „živých“ skutečností k odděleným částem či aspektům, vlastnostem
 
-F **indukce a dedukce** – postup od obecného ke zvláštnímu (viz induk. a deduk. myšlení)
+- **indukce a dedukce** – postup od obecného ke zvláštnímu (viz induk. a deduk. myšlení)
 
-F **generalizace, zobecnění** – souvisí s předchozími procesy - od jednotlivých případů přecházíme k obecnému pojmu nebo vztahu (pravidlu, zákonu), to se však zakládá na analýze, abstrakci, indukci
+- **generalizace, zobecnění** – souvisí s předchozími procesy - od jednotlivých případů přecházíme k obecnému pojmu nebo vztahu (pravidlu, zákonu), to se však zakládá na analýze, abstrakci, indukci
 
-F **srovnávání, uspořádání, třídění (klasifikace)** – nový pojem, srovnávání s jinými pojmy, které již známe, nový problém srovnávám s předchozími problémy, jejichž způsob řešení již ovládám. Srovnání je spojeno s analýzou a syntézou a dalšími uvedenými operacemi
+- **srovnávání, uspořádání, třídění (klasifikace)** – nový pojem, srovnávání s jinými pojmy, které již známe, nový problém srovnávám s předchozími problémy, jejichž způsob řešení již ovládám. Srovnání je spojeno s analýzou a syntézou a dalšími uvedenými operacemi
 
-F v matematické logice i v psychologii – **průnik, sjednocení, negace, implikace**
+- v matematické logice i v psychologii – **průnik, sjednocení, negace, implikace**
 
 - **Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích** (viz mapa a otázka č. 4\. mozek)
+
+<a id="16"></a>
+
+[Zpět k obsahu](#)
+
 
 **16\. Pojem osobnost, problémy jeho psychologických koncepcí**
 
@@ -1837,19 +1912,19 @@ F v matematické logice i v psychologii – **průnik, sjednocení, negace, impl
 
 - **Psychická struktura osobnosti**
 
-F tvořena psychickými vlastnostmi a rysy osobnosti, které ovlivňují lidské reakce
+- tvořena psychickými vlastnostmi a rysy osobnosti, které ovlivňují lidské reakce
 
-F psychické vlastnosti osobnosti jsou relativně trvalé vlastnosti osobnosti, kterými se vyznačuje
+- psychické vlastnosti osobnosti jsou relativně trvalé vlastnosti osobnosti, kterými se vyznačuje
 
-F ovlivňují prožívání a myšlení, na jejich základě můžeme předpovídat, jak se se člověk zachová či jak bude jednat
+- ovlivňují prožívání a myšlení, na jejich základě můžeme předpovídat, jak se se člověk zachová či jak bude jednat
 
-F Rysy osobnosti jsou psychické vlastnosti člověka, projevují se chováním a jednáním, jsou příznačné pro určitého jedince těmito vlastnostmi se odlišuje od ostatních.
+- Rysy osobnosti jsou psychické vlastnosti člověka, projevují se chováním a jednáním, jsou příznačné pro určitého jedince těmito vlastnostmi se odlišuje od ostatních.
 
 - **Typ osobnosti:**
 
-F vyjadřuje vlastnosti a rysy osobnosti
+- vyjadřuje vlastnosti a rysy osobnosti
 
-F velká pětka – 2\. pol. 20\. století, využívá ji řada psychologů pro určení struktury osobnosti, obsahuje pět základních faktorů:
+- velká pětka – 2\. pol. 20\. století, využívá ji řada psychologů pro určení struktury osobnosti, obsahuje pět základních faktorů:
 
 - Extroverze – mezilidská interakce, začlenění do společenských vztahů
 
@@ -1877,13 +1952,13 @@ F velká pětka – 2\. pol. 20\. století, využívá ji řada psychologů pro 
 
 - ** (Hippokrates):**
 
-F [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") ** (krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
+- [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") ** (krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
 
-F [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") ** (sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
+- [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") ** (sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
 
-F [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") ** (černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
+- [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") ** (černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
 
-F [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") ** (žluč)** ** – je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert**
+- [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") ** (žluč)** ** – je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert**
 
 - **E. Kretschmer - tři základní typy podle stavby těla**:
 
@@ -1968,6 +2043,11 @@ V tomto stadiu se také podvědomě fixují na rodiče opačného pohlaví a rod
 
 - **Logoterapie a existencionální analýza –** třetí vídeňský psychologický a psychoterapeutický směr (V. E. Frankl) „vůli ke smyslu“, v LT a EA jde o to, pomoci člověku najít životní smysl (logos) přitom si tento smysl má jedinec možnost nalézt aktivně, nemůže mu být dán. Zdůrazněna svoboda osoby a možnost volky, zaujetí, postoje.
 
+<a id="17"></a>
+
+[Zpět k obsahu](#)
+
+
 **17\. Struktura osobnosti**
 
 **Osobnost**
@@ -1982,19 +2062,19 @@ V tomto stadiu se také podvědomě fixují na rodiče opačného pohlaví a rod
 
 - **Psychická struktura osobnosti**
 
-F tvořena psychickými vlastnostmi a rysy osobnosti, které ovlivňují lidské reakce
+- tvořena psychickými vlastnostmi a rysy osobnosti, které ovlivňují lidské reakce
 
-F psychické vlastnosti osobnosti jsou relativně trvalé vlastnosti osobnosti, kterými se vyznačuje
+- psychické vlastnosti osobnosti jsou relativně trvalé vlastnosti osobnosti, kterými se vyznačuje
 
-F ovlivňují prožívání a myšlení, na jejich základě můžeme předpovídat, jak se se člověk zachová či jak bude jednat
+- ovlivňují prožívání a myšlení, na jejich základě můžeme předpovídat, jak se se člověk zachová či jak bude jednat
 
-F Rysy osobnosti jsou psychické vlastnosti člověka, projevují se chováním a jednáním, jsou příznačné pro určitého jedince těmito vlastnostmi se odlišuje od ostatních.
+- Rysy osobnosti jsou psychické vlastnosti člověka, projevují se chováním a jednáním, jsou příznačné pro určitého jedince těmito vlastnostmi se odlišuje od ostatních.
 
 - **Typ osobnosti:**
 
-F vyjadřuje vlastnosti a rysy osobnosti
+- vyjadřuje vlastnosti a rysy osobnosti
 
-F velká pětka – 2\. pol. 20\. století, využívá ji řada psychologů pro určení struktury osobnosti, obsahuje pět základních faktorů:
+- velká pětka – 2\. pol. 20\. století, využívá ji řada psychologů pro určení struktury osobnosti, obsahuje pět základních faktorů:
 
 - Extroverze – mezilidská interakce, začlenění do společenských vztahů
 
@@ -2022,13 +2102,13 @@ F velká pětka – 2\. pol. 20\. století, využívá ji řada psychologů pro 
 
 - ** (Hippokrates):**
 
-F [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") ** (krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
+- [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") ** (krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
 
-F [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") ** (sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
+- [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") ** (sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
 
-F [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") ** (černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
+- [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") ** (černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
 
-F [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") ** (žluč)** ** – je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert**
+- [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") ** (žluč)** ** – je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert**
 
 - **E. Kretschmer - tři základní typy podle stavby těla**:
 
@@ -2100,6 +2180,11 @@ V tomto stadiu se také podvědomě fixují na rodiče opačného pohlaví a rod
 9\. _Stádium latence_ – mezistádium (6–11 let), zdánlivá [amnéza](http://cs.wikipedia.org/w/index.php?title=Amn%C3%A9za&action=edit&redlink=1 "Amnéza (stránka neexistuje)") sexuálních pudů.
 
 10\. _Genitální stadium_ – (12 let a výše), období, kdy je člověk schopen pohlavního styku.
+
+<a id="18"></a>
+
+[Zpět k obsahu](#)
+
 
 **18\. Rysy osobnosti, temperament a charakter**
 
@@ -2194,6 +2279,11 @@ Volní vlastnosti (rysy osobnosti) související s charakterem:
 Důležité jsou **psychologické rozdíly mezi muži a ženami** –rozdíly mezi dvěma typy, mezi jejichž vyhraněnými formami existují přechodné formy. Souvisí s biologickými a sociálními rozdíly. Výrazný rozdíl mezi pohlavími je vyjádřen např. již v reakcích na zátěž.
 
 - Poznatky o struktuře osobnosti a o rozdílech v psychických vlastnostech jsou pro učitele nástrojem lepšího poznání žáků. Zároveň jsou předpokladem k pochopení poznatků o vývoji a formování osobnosti.
+
+<a id="19"></a>
+
+[Zpět k obsahu](#)
+
 
 **19\. Sociální komunikace a její základní druhy. Efektivní komunikace**
 
@@ -2348,6 +2438,11 @@ Jedinec si osvojuje a upevňuje takové formy chování, které chápe jako odpo
 
 - Kvalitní sebepoznání, sebehodnocení, sebeprojektování, schopnost soustavné a záměrné sebevýchovy a sebevzdělávání je třeba považovat z**a důležité předpoklady úspěšnosti budoucího odborníka, pedagoga**, a to z hlediska rozvoje jeho osobnosti, tak i z hlediska vytvoření předpokladů pro poznávání, výchovu a vzdělávání jiných.
 
+<a id="20"></a>
+
+[Zpět k obsahu](#)
+
+
 **20\. Průběh vývoje osobnosti s důrazem na období puberty a adolescence**
 
 **Vývoj = jediný celistvý, celoživotní běh**
@@ -2358,13 +2453,13 @@ Jedinec si osvojuje a upevňuje takové formy chování, které chápe jako odpo
 
 8) **prenatální období**
 
-F období před narozením, končí narozením do života
+- období před narozením, končí narozením do života
 
-F **formuje se sociální vztah matky k dítěti**, v příznivé situaci i vztah otce k dítěti
+- **formuje se sociální vztah matky k dítěti**, v příznivé situaci i vztah otce k dítěti
 
-F **plod je i aktivním účastníkem komunikace s matkou**
+- **plod je i aktivním účastníkem komunikace s matkou**
 
-F perinatální obrobí (porod a období kolem porodu) – zvýšená zranitelnost dítěte, zejm. CNS a jeho budoucího vývoje → důležitý přirozený a něžný porod, hned po porodu přiložení dítěte na břicho nebo k prsu matky – umožnit co nejtěsnější kontakt matky a dítěte (formování emočního vztahu)
+- perinatální obrobí (porod a období kolem porodu) – zvýšená zranitelnost dítěte, zejm. CNS a jeho budoucího vývoje → důležitý přirozený a něžný porod, hned po porodu přiložení dítěte na břicho nebo k prsu matky – umožnit co nejtěsnější kontakt matky a dítěte (formování emočního vztahu)
 
 9) **rané dětství** – do 3 let věku dítěte
 
@@ -2420,25 +2515,25 @@ rozvíjí se záměrné jednání (např. plácání do chrastítek k vyvolání
 
 → v tomto období je charakteristická **1\. fáze vzdoru** – negativismus (odmítá výzvy a zákazy, „z principu“ říká pravý opak, …)
 
-F u dětí vyrůstajících bez matky v dětských domovech bývá zpoždění v intelektovém vývoji, nedostatky v emočních vztazích, v sociální adaptaci, popř. v charakteru = **psychická deprivace v dětství**
+- u dětí vyrůstajících bez matky v dětských domovech bývá zpoždění v intelektovém vývoji, nedostatky v emočních vztazích, v sociální adaptaci, popř. v charakteru = **psychická deprivace v dětství**
 
-F **psychická subdeprivace** = narušený vývoj dítěte, které sice vyrůstá v rodině, ale se zhoršenými podmínkami, zejm. v emočním vztahu rodičů k dítěti
+- **psychická subdeprivace** = narušený vývoj dítěte, které sice vyrůstá v rodině, ale se zhoršenými podmínkami, zejm. v emočním vztahu rodičů k dítěti
 
 10) **předškolní věk** – 3-6 let
 
-F **zřetelný pokrok v psychomotorickém vývoji** – dokonalejší pohyby (v manipulaci s míčem, pískem, při kreslení, …), rozšiřuje se slovní zásoba
+- **zřetelný pokrok v psychomotorickém vývoji** – dokonalejší pohyby (v manipulaci s míčem, pískem, při kreslení, …), rozšiřuje se slovní zásoba
 
-F zájem o naslouchání příběhům, pohádkám
+- zájem o naslouchání příběhům, pohádkám
 
-F kognitivní (poznávací) schopnosti – **názorné myšlení**, dítě je v souvislosti zejm. se zrakovým vnímáním schopno usuzovat a vyvozovat závěry, … → **předoperační myšlení** (řídí se názorným poznání, ne logickými operacemi)
+- kognitivní (poznávací) schopnosti – **názorné myšlení**, dítě je v souvislosti zejm. se zrakovým vnímáním schopno usuzovat a vyvozovat závěry, … → **předoperační myšlení** (řídí se názorným poznání, ne logickými operacemi)
 
-F rýsují se **rozdíly v mužských a ženských rolích** – v hračkách, oblékání i v chování
+- rýsují se **rozdíly v mužských a ženských rolích** – v hračkách, oblékání i v chování
 
-F sociálním učením, poznáváním a myšlením si **osvojuje normy chování** (napodobuje chování dospělých, …), formuje se svědomí
+- sociálním učením, poznáváním a myšlením si **osvojuje normy chování** (napodobuje chování dospělých, …), formuje se svědomí
 
-F dítě **je iniciativní** – aktivně se rozvíjí v různých aspektech, hrách, v komunikaci s dospělými i vrstevníky, v pohybech, řeči a myšlení, …
+- dítě **je iniciativní** – aktivně se rozvíjí v různých aspektech, hrách, v komunikaci s dospělými i vrstevníky, v pohybech, řeči a myšlení, …
 
-F tento věk je velmi důležitý pro vývoj osobnosti – formuje se charakter → věnovat velkou péči výchově a učení
+- tento věk je velmi důležitý pro vývoj osobnosti – formuje se charakter → věnovat velkou péči výchově a učení
 
 · **_Mateřská škola:_**
 
@@ -2452,35 +2547,35 @@ F tento věk je velmi důležitý pro vývoj osobnosti – formuje se charakter 
 
 11) **mladší školní věk** – na 1\. stupni ZŠ (od 6 do 11-12 let)
 
-F důležitý životní mezník je **vstup dítěte do školy** → změna ve způsobu života a sociálních vztazích,
+- důležitý životní mezník je **vstup dítěte do školy** → změna ve způsobu života a sociálních vztazích,
 
 nutnost pravidelné docházky do školy, přípravy na další školní den, domácí úkoly – „školní povinnosti“, …
 
 zároveň se dítě přiblížilo cíli „být velký“ – dítě získalo nový **status školáka**
 
-F škola přináší **nové učení a činnosti** a klade na dítě **postupně se zvyšující se nároky, požadavky**
+- škola přináší **nové učení a činnosti** a klade na dítě **postupně se zvyšující se nároky, požadavky**
 
-F **obtíže** vznikají při nedostatečné školní zralosti, nedostatečné připravenosti dítěte pro školu, při jeho nižší inteligenci i při jeho dílčích nedostatcích (specifické poruchy učení – dyslexie, dysgrafie, dyskalkulie, …)
+- **obtíže** vznikají při nedostatečné školní zralosti, nedostatečné připravenosti dítěte pro školu, při jeho nižší inteligenci i při jeho dílčích nedostatcích (specifické poruchy učení – dyslexie, dysgrafie, dyskalkulie, …)
 
-F vznikají **nové vztahy** – k učiteli a ke spolužákům (kamarádské a přátelé vztahy X vztahy nepřátelské, soupeření, agresivita)
+- vznikají **nové vztahy** – k učiteli a ke spolužákům (kamarádské a přátelé vztahy X vztahy nepřátelské, soupeření, agresivita)
 
-F dítě se učí různé formy sociální interakce a komunikace s různými lidmi
+- dítě se učí různé formy sociální interakce a komunikace s různými lidmi
 
-F průběh a výsledky školních činností hodnotí: učitel, rodiče, spolužáci i samotné dítě (sebepojetí, sebehodnocení) → **fáze píle a snaživosti** – dítě plní roli, kterou od něj očekávají jeho blízcí i celá společnost → pochvala, uznání → překonává se pocit méněcennosti, zvyšuje se jeho sebehodnocení a sebevědomí
+- průběh a výsledky školních činností hodnotí: učitel, rodiče, spolužáci i samotné dítě (sebepojetí, sebehodnocení) → **fáze píle a snaživosti** – dítě plní roli, kterou od něj očekávají jeho blízcí i celá společnost → pochvala, uznání → překonává se pocit méněcennosti, zvyšuje se jeho sebehodnocení a sebevědomí
 
 v opačných (nepříznivých) situacích se dítě nesnaží, nevynakládá úsilí, rezignuje → pocit méněcennosti se mění na komplex méněcennosti → úzkost, narušuje se vývoj zájmů, demotivace, špatné vyrovnávání se s náročnými životními situacemi → dítě se na sebe snaží upozornit šaškováním, uličnictvím, …
 
-F v tomto období je přechod od her k náročnějším zájmovým činnostem (sportovní, kulturní, …), drobné práce v rodině
+- v tomto období je přechod od her k náročnějším zájmovým činnostem (sportovní, kulturní, …), drobné práce v rodině
 
-F **myšlení je rozvinutější** – konkrétní operace (logika – děti třídí, řadí, řeší problémy, …) – **realismus** (zájem o objektivní skutečnost)
+- **myšlení je rozvinutější** – konkrétní operace (logika – děti třídí, řadí, řeší problémy, …) – **realismus** (zájem o objektivní skutečnost)
 
-F morální vývoj – přechod mezi dětstvím a dospělostí – **konvenční morálka** (dítě se chová dle pokynů, příkazů a zákazů a očekává pochvalu, která mu přináší uspokojení), někdy se již řídí svým svědomím
+- morální vývoj – přechod mezi dětstvím a dospělostí – **konvenční morálka** (dítě se chová dle pokynů, příkazů a zákazů a očekává pochvalu, která mu přináší uspokojení), někdy se již řídí svým svědomím
 
-F do života dětí významně vstupuje TV, film, reklama, časopisy, … a ovlivňují jej…
+- do života dětí významně vstupuje TV, film, reklama, časopisy, … a ovlivňují jej…
 
 12) **střední a starší školní věk, mládí** – prepuberta, puberta, adolescence (od 11-12 do 20 let)
 
-F **<u>Puberta</u>**
+- **<u>Puberta</u>**
 
 <u>
 
@@ -2554,7 +2649,7 @@ po osamostatnění od rodiny může vést do další závislosti → další vý
 
 - jsou velké individuální rozdíly mezi mladistvými – ve stejné třídě jsou žáci nadprůměrně i podprůměrně somaticky vyspělí; někteří dosahují úrovně formálních operací a abstraktního myšlení, jiní jsou stále ještě v etapě konkrétních operací;někteří se bouří proti rodičům a autoritám, jiní jsou klidnější a rozumnější, …
 
-F **<u>Adolescence</u>**
+- **<u>Adolescence</u>**
 
 <u>
 
