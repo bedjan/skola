@@ -168,23 +168,23 @@ Ad 4)
 
 Pedagogika stejně jako jakákoliv jiná věda musí splňovat těchto pět základních požadavků:
 
- Jakákoliv vědní disciplína by lidem měla být užitečná – měla by přinést nějaký
+- Jakákoliv vědní disciplína by lidem měla být užitečná – měla by přinést nějaký
 
 užitek – reálný význam pro společnost (v ped. např. výchovné a didaktické postupy, a zásady).
 
- Aby věda mohla být vědou, musí mít jasně definovaný předmět zkoumání (v pedagogice výchova a vzdělávání).
+- Aby věda mohla být vědou, musí mít jasně definovaný předmět zkoumání (v pedagogice výchova a vzdělávání).
 
- Každá vědní disciplína musí mít soubor výzkumných metod,
+- Každá vědní disciplína musí mít soubor výzkumných metod,
 
 kterými zkoumá daný předmět ð výzkumné metody (rozhovor, pozorování, expe-riment, srovnávací metody, dotazník, test, expertní šetření …).
 
- Každá věda musí mít vymezený vztah k jiným vědám
+-Každá věda musí mít vymezený vztah k jiným vědám
 
 (musí docházet k výměně informací ð vznikají
 
 mezioborové disciplíny – sociologie výchovy, dějiny pedagogiky, pedagogická psychologie …).
 
- Každá vědní disciplína musí být reálně prováděna odbornými pracovníky tj. – vědci v určitých věd. institucích
+- Každá vědní disciplína musí být reálně prováděna odbornými pracovníky tj. – vědci v určitých věd. institucích
 
 (institucionalizace vědy – VŠ pedagogické a filozofické a jiné fakulty různých uni-verzit, výzkumné ústavy, akademie věd apod.)
 
@@ -194,7 +194,7 @@ Základní pedagogické disciplíny:
 
 Pedagogika se dělí na **_základní_**, **_hraniční_** a **_aplikované_** pedagogické disciplíny
 
-** Základní pedagogické disciplíny:**
+**- Základní pedagogické disciplíny:**
 
 **a) _Obecná pedagogika_** – zabývá se obecnými teoretickými základy pedagog-giky, zkoumá vědosloví a postavení pedagogiky v systému věd o člověku
 
@@ -218,7 +218,7 @@ Pedagogika se dělí na **_základní_**, **_hraniční_** a **_aplikované_** p
 
 **i) _Andragogika_ –** VV dospělých
 
-** Hraniční vědní disciplíny disciplíny:**
+**- Hraniční vědní disciplíny disciplíny:**
 
 **a) _Pedagogická psychologie (pedagogika x psychologie)_**
 
@@ -244,7 +244,7 @@ Pedagogika se dělí na **_základní_**, **_hraniční_** a **_aplikované_** p
 
 **l) _Dramatická výchova_**
 
-** Aplikované pedagogické disciplíny – členění:**
+**- Aplikované pedagogické disciplíny – členění:**
 
 **1\. – z hlediska věkových stadií** rozvoje osobnosti (předškolní ped., ped. ZŠ /tzv. primární ped/, středoškolská ped., vyso-koškolská ped., andragogika, gerontopedago-gika).
 
@@ -451,59 +451,59 @@ _**Waldorfské školy**_
 
 **Definice výchovně vzdělávacích metod:**
 
-Ø způsob práce učitele jímž organizuje činnost žáků k dosažení výchovně vzdělávacích cílů
+-způsob práce učitele jímž organizuje činnost žáků k dosažení výchovně vzdělávacích cílů
 
 **Ad 2)**
 
 **Volbu výchovně vzdělávací metody v praxi ovlivňuje:**
 
-Ø druh a stupeň vzdělávací instituce či školy
+-druh a stupeň vzdělávací instituce či školy
 
-Ø charakter předmětu či oboru
+-charakter předmětu či oboru
 
-Ø počet vyučovaných žáků
+-počet vyučovaných žáků
 
-Ø učební možnosti žáků, jejich osobnostní předpoklady (věkové, úroveň studijní připravenosti, osobnostní charakteristika jedince)
+-učební možnosti žáků, jejich osobnostní předpoklady (věkové, úroveň studijní připravenosti, osobnostní charakteristika jedince)
 
-Ø čas, časová jednotka (vyučovací hodina např. 45 min, nebo 90 min. VŠ)
+-čas, časová jednotka (vyučovací hodina např. 45 min, nebo 90 min. VŠ)
 
-Ø zasazení konkrétní metody do celého systému ostatních vyučovacích metod
+-zasazení konkrétní metody do celého systému ostatních vyučovacích metod
 
-Ø psychologické charakteristiky žáků a třídy (sociální skupiny) jako celku
+-psychologické charakteristiky žáků a třídy (sociální skupiny) jako celku
 
-Ø zvláštnosti vnějších podmínek vyučování ( prostorové uspořádání místa výuky, geografické podmínky)
+-zvláštnosti vnějších podmínek vyučování ( prostorové uspořádání místa výuky, geografické podmínky)
 
-Ø osobnost učitele (úroveň teoretické a praktické přípravy, schopnost metodického mistrovství, osobnostní předpoklady, vlastní zkušenosti z oboru, atd.)
+-osobnost učitele (úroveň teoretické a praktické přípravy, schopnost metodického mistrovství, osobnostní předpoklady, vlastní zkušenosti z oboru, atd.)
 
 V případě, že uvažujeme o **konkrétních metodách na základě formulace cíle** vyučovací hodiny, je třeba upozornit na několik podstatných skutečností:
 
-Ø zvážení vztahu metody a organizační formy (žáci řeší problém kolektivně, individuálně či ve skupinách?)
+-zvážení vztahu metody a organizační formy (žáci řeší problém kolektivně, individuálně či ve skupinách?)
 
-Ø u aktivizujících metod přesně důkladně promyslet formulaci otázky a učební úlohy
+-u aktivizujících metod přesně důkladně promyslet formulaci otázky a učební úlohy
 
-Ø zvážení využití materiálních prostředků (zpětný projektor)
+-zvážení využití materiálních prostředků (zpětný projektor)
 
-Ø promyslet vzhledem k cíli a učivu optimální poměr reproduktivních a produktivních metod či reproduktivní a produktivní varianty jedné metody)
+-promyslet vzhledem k cíli a učivu optimální poměr reproduktivních a produktivních metod či reproduktivní a produktivní varianty jedné metody)
 
-Ø zamyslet se nad výchovnými a vzdělávacími efekty metod (rozvoj vůle, citovosti, charakteru, spolupráce, rozhodovacích schopností)
+-zamyslet se nad výchovnými a vzdělávacími efekty metod (rozvoj vůle, citovosti, charakteru, spolupráce, rozhodovacích schopností)
 
-Ø uvážit to, že v užití metody se v konkrétní učební situaci koncentruje jednota cílů, učiva, organizační formy, materiálních prostředků a činností učitele a žáka.
+-uvážit to, že v užití metody se v konkrétní učební situaci koncentruje jednota cílů, učiva, organizační formy, materiálních prostředků a činností učitele a žáka.
 
 **Ad 3)**
 
 Dělení výchovně vzdělávací metody:
 
-Ø **A) monologické** (založené na využívání souvislého mluveného projevu jednotlivce – učitele či žáka)
+-**A) monologické** (založené na využívání souvislého mluveného projevu jednotlivce – učitele či žáka)
 
-Ø **B) práce s textem** (založené na práci s textovými pomůckami)
+-**B) práce s textem** (založené na práci s textovými pomůckami)
 
-Ø **C) dialogické** (založené především na činnostním principu rozhovoru)
+-**C) dialogické** (založené především na činnostním principu rozhovoru)
 
-Ø **D) názorně–demonstrační a metody praktických činností žáků** (založené na pozorovací činnosti žáků a na vlastní praktické aktivitě)
+-**D) názorně–demonstrační a metody praktických činností žáků** (založené na pozorovací činnosti žáků a na vlastní praktické aktivitě)
 
-Ø **E) rozborové, situační, projektové a inscenační** (založené na analyticko-syntetické činnosti žáka a na principu „hraní rolí“)
+-**E) rozborové, situační, projektové a inscenační** (založené na analyticko-syntetické činnosti žáka a na principu „hraní rolí“)
 
-Ø **F) didaktická hra a soutěž** jako vyučovací metody
+-**F) didaktická hra a soutěž** jako vyučovací metody
 
 **A) MONOLOGICKÉ METODY:**
 
@@ -521,15 +521,15 @@ Struktura výkladu (i přednášky): sdělení tématu (úvod), jádro výkladu,
 
 **Typy přednášek:**
 
-Ø **týmová** – přednášejí dva až tři přednášející na stejné téma
+-**týmová** – přednášejí dva až tři přednášející na stejné téma
 
-Ø **přednáška na principu „tiskové konference“** – před přednáškou jsou sesbírány dotazy k tématu, lektor zapracuje odpovědi na tyto otázky do přednášky
+-**přednáška na principu „tiskové konference“** – před přednáškou jsou sesbírány dotazy k tématu, lektor zapracuje odpovědi na tyto otázky do přednášky
 
-Ø **přednáška ve spojení s diskusí –** vhodné pro výukové situace, v nichž je důležitá výměna názorů mezi učitelem a žáky i mezi žáky navzájem. Lze rozlišit na přednášku s diskuzí na **základě tezí**, se **skupinovou diskusí** a s **pódiovou diskusí**.
+-**přednáška ve spojení s diskusí –** vhodné pro výukové situace, v nichž je důležitá výměna názorů mezi učitelem a žáky i mezi žáky navzájem. Lze rozlišit na přednášku s diskuzí na **základě tezí**, se **skupinovou diskusí** a s **pódiovou diskusí**.
 
-Ø **přednáška ex katedra** – podobná klasické přednášce, navíc je zde doslovné čtení textu
+-**přednáška ex katedra** – podobná klasické přednášce, navíc je zde doslovné čtení textu
 
-Ø **interaktivní přednášky** – v souč. době se prosazují stále více, jde o postup, kdy učitel i během svého monologu vstupuje do většího kontaktu (interakce) se žáky
+-**interaktivní přednášky** – v souč. době se prosazují stále více, jde o postup, kdy učitel i během svého monologu vstupuje do většího kontaktu (interakce) se žáky
 
 Při výkladu i přednášce lze aktivovat nejen jeho interaktivní podobou, ale například i využitím **pomůcek** a **didaktické techniky**. Aktivovat během výkladu či přednášky lze i prostřednictvím **„provokačního principu“**, který spočívá v tom, že vyučující záměrně vyslovuje sporná tvrzení (žáky na tuto možnost může, ale nemusí upozornit).
 
@@ -661,7 +661,7 @@ Všechny organizační formy vyučování – se opírají o didaktický trojúh
 
 = patří sem tyto formy vyučování:
 
-Ø **vyučování individualizované**
+-**vyučování individualizované**
 
 učební činnost žáků učitel neřídí bezprostředně, žáci řeší zadané úkoly (učební programy) samostatně, řízení jejich činnost je zprostředkované učebním úkolem
 
@@ -669,13 +669,13 @@ učební činnost žáků učitel neřídí bezprostředně, žáci řeší zada
 
 tato forma zajišťuje přizpůsobování se potřebám každého jednotlivce, činnost žáka vychází z jeho možností
 
-Ø **vzájemné vyučování**
+-**vzájemné vyučování**
 
 kompromis mezi hromadným a individuálním vyučováním
 
 na 1 učitele připadá skupina žáků, přičemž se žáci učí mezi sebou pomocí nejšikovnějšího – nejchytřejšího ve skupině (=tutoři=pomocníci kantora)
 
-Ø **diferenciované vyučování = výběrové**
+-**diferenciované vyučování = výběrové**
 
 je založeno na rozlišování různých předpokladů u jednotlivých žáků a jejich spojování do stejnorodých skupin (podle zájmů, intelektu, speciálních schopností, nadání, financí a možností dané školy)
 
@@ -683,7 +683,7 @@ zaměření na žákovy pozitivní stránky – široká nabídka možností pro
 
 záporem je, že často studenti na začátku studia SŠ přesně neznají své budoucí povolání či jeho volbu v průběhu studia mění a pak je těžké přecházet ze základní úrovně do úrovně vyšší
 
-Ø **projektové vyučování**
+-**projektové vyučování**
 
 výuka se točí kolem ústředního tématu a zahrnuje látku ze všech předmětů
 
@@ -1232,9 +1232,9 @@ _Poznámka:_
 
 VV cíle se mění dle vývoje společnosti
 
-Obecné cíle vzdělávání jsou ve školském zákoně 561/2004 v § 2 odstavec 2.
+Obecné cíle vzdělávání jsou ve školském zákoně 561/2004 v - 2 odstavec 2.
 
-§2 (2) **Obecnými cíli vzdělávání jsou zejména**
+-2 (2) **Obecnými cíli vzdělávání jsou zejména**
 
 a) rozvoj osobnosti člověka, který bude **_vybaven poznávacími a sociálními způsobilostmi, mravními a duchovními hodnotami pro osobní a občanský život, výkon povolání nebo pracovní činnosti, získávání informací a učení se v průběhu celého života,_**
 
@@ -1250,7 +1250,7 @@ f) **_poznání světových a evropských kulturních hodnot a tradic_**, pochop
 
 g) **_získání a uplatňování znalostí o životním prostředí a jeho ochraně vycházející ze zásad trvale udržitelného rozvoje a o bezpečnosti a ochraně zdraví._**
 
-§2 (3) Vzdělávání poskytované podle tohoto zákona **je veřejnou službou**.
+-2 (3) Vzdělávání poskytované podle tohoto zákona **je veřejnou službou**.
 
 **8\. Pedagogicko-psychologická diagnostika – součást výchovně-vzdělávacího procesu školy**
 
@@ -1606,19 +1606,19 @@ Zásadním problémem hodnocení je jeho objektivnost či subjektivnost, míra s
 
 Diferenciací je myšleno rozdělování, členění kolektivu žáků na základně určitých kritérií:
 
-Ø věku
+-věku
 
-Ø pohlaví
+-pohlaví
 
-Ø podle inteligenčního kvocientu na velmi dobré,průměrné a slabé
+-podle inteligenčního kvocientu na velmi dobré,průměrné a slabé
 
-Ø zájmu
+-zájmu
 
-Ø plánovaném profesním zaměřením
+-plánovaném profesním zaměřením
 
-Ø talentu, dovednostem
+-talentu, dovednostem
 
-Ø víře atd.
+-víře atd.
 
 **klady:**
 
@@ -1626,7 +1626,7 @@ Diferenciací je myšleno rozdělování, členění kolektivu žáků na zákla
 
 **zápory:**
 
-Ø ničí přirozené soci. složení třídy, problematická prostupnost při změně zájmů
+-ničí přirozené soci. složení třídy, problematická prostupnost při změně zájmů
 
 či profesní orientaci
 
@@ -1636,11 +1636,11 @@ Nepreferuje se žádná metoda ani organizační forma vyučování,vyžaduje ot
 
 **Diferenciace a individualizace se realizují v rámci frontálního vyučování prostřednictvím nejrůznějších metod :**
 
-Ø samostatná práce žáků
+-samostatná práce žáků
 
-Ø řešení problémových situací
+-řešení problémových situací
 
-Ø praktické činnosti
+-praktické činnosti
 
 Snaha o dokonalou diferenciaci může vést ke krajní variantě, individualizaci.
 
@@ -1654,13 +1654,13 @@ umožní nalézt optimální cestu pro vlastní vzdělávání.
 
 **2\. Způsoby diferenciace**
 
-Ø **Diferenciace školou**
+-**Diferenciace školou**
 
 - vedle sebe existují různé druhy škol
 
 - kritériem jsou buď **fyzické schopnosti** (např. školy pro zrakově oslabené žáky, sportovní školy), **intelektové schopnosti a nadání v určité oblasti** (školy pro intelektově nadprůměrné žáky, umělecké školy), **zaměření na budoucí profese** (odborné školy) nebo **víra** či **etnikum** žáka (katolické, romské školy).
 
-Ø **Diferenciace uvnitř školy**
+-**Diferenciace uvnitř školy**
 
 Vytváření stejnorodých tříd:
 
@@ -1668,7 +1668,7 @@ Vytváření stejnorodých tříd:
 
 - **Založené na kvalitativním kritériu** – Žáci jsou rozdělení na základě zájmů, motivů, životní orientace apod. Zde existují také dvě možnosti. První je trvalá volba specializované třídy na základě vlastního zájmu žáka. Druhou variantou je nabídka volitelných předmětů v rámci kmenové třídy. Žáci tedy mají v rámci běžné výuky ještě možnost zvolit si předměty, které je zajímají. Tyto homogenní třídy však vznikají pouze účelově, na zbytek předmětů jsou žáci v původních kmenových třídách.
 
-Ø **Diferenciace uvnitř třídy**
+-**Diferenciace uvnitř třídy**
 
 - Jde o vytváření skupinek uvnitř jedné třídy. Může jít například na rozdělení žáků na **„slabší“, „průměrné“ a „dobré“** žáky a následné přizpůsobení výukového plánu jejich potřebám. Toto dělení bývá jen v určitých předmětech, např. matematice. V jiných se skupiny nevytvářejí. Výhodou je snadný přechod mezi jednotlivými úrovněmi. Toto dělení je podmíněno změnou charakteru vyučování.
 
@@ -1684,23 +1684,23 @@ Problémy těchto seskupování:
 
 **Snažit se o toto:**
 
-Ø **Motivace (zaujmout, nabudit) – osobní věc, praxe, aktuální spol. dění, dramatizace atd.**
+-**Motivace (zaujmout, nabudit) – osobní věc, praxe, aktuální spol. dění, dramatizace atd.**
 
-Ø **Příklad – osobní, praxe, společnost, atd.**
+-**Příklad – osobní, praxe, společnost, atd.**
 
-Ø **Dát prostor, důvěru, partnerský přístup**
+-**Dát prostor, důvěru, partnerský přístup**
 
-Ø **Ocenit**
+-**Ocenit**
 
-Ø **Zajímavé VV metody, střídat činnosti, prostředí**
+-**Zajímavé VV metody, střídat činnosti, prostředí**
 
-Ø **Ukázat smysl, cíl – k čemu to je, význam**
+-**Ukázat smysl, cíl – k čemu to je, význam**
 
-Ø **Jasná a akceptovaná pravidla hry**
+-**Jasná a akceptovaná pravidla hry**
 
-Ø **Fantazie se meze nekladou**
+-**Fantazie se meze nekladou**
 
-Ø **Věnovat neustále pozornost**
+-**Věnovat neustále pozornost**
 
 **11\. Pedagogická komunikace ve výuce, řešení problémových situací**
 
@@ -1794,204 +1794,10 @@ V průběhu komunikace (výměny informací) mohou vznikat problémy – např. 
 
 **Schéma sociální komunikace**
 
-<table align="left" cellpadding="0" cellspacing="0">
 
-<tbody>
+![schema_socialni_komunikace](https://github.com/bedjan/skola/raw/master/podklady/pedagogika/schema_socialni_komunikace.png)
 
-<tr>
 
-<td>  
-</td>
-
-<td></td>
-
-<td></td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td></td>
-
-<td rowspan="2">
-
-<table cellpadding="0" cellspacing="0" width="100%">
-
-<tbody>
-
-<tr>
-
-<td>
-
-Moje komunikace a jednání
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-<td></td>
-
-<td>
-
-<table cellpadding="0" cellspacing="0" width="100%">
-
-<tbody>
-
-<tr>
-
-<td>
-
-Subjektivní dojem, pocity druhé osoby
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td></td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-reakcí na ně je
-
-<table align="left" cellpadding="0" cellspacing="0">
-
-<tbody>
-
-<tr>
-
-<td>  
-</td>
-
-</tr>
-
-<tr>
-
-<td></td>
-
-<td>![](file:///I:\Users\Mamka\AppData\Local\Temp\msohtmlclip1\01\clip_image003.gif)</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<table align="left" cellpadding="0" cellspacing="0">
-
-<tbody>
-
-<tr>
-
-<td>  
-</td>
-
-</tr>
-
-<tr>
-
-<td></td>
-
-<td>![](file:///I:\Users\Mamka\AppData\Local\Temp\msohtmlclip1\01\clip_image004.gif)</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-![](file:///I:\Users\Mamka\AppData\Local\Temp\msohtmlclip1\01\clip_image005.gif)![](file:///I:\Users\Mamka\AppData\Local\Temp\msohtmlclip1\01\clip_image006.gif)
-
-<table cellpadding="0" cellspacing="0">
-
-<tbody>
-
-<tr>
-
-<td>
-
-<table cellpadding="0" cellspacing="0" width="100%">
-
-<tbody>
-
-<tr>
-
-<td>
-
-Komunikace a jednání druhé osoby
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<table cellpadding="0" cellspacing="0">
-
-<tbody>
-
-<tr>
-
-<td>
-
-<table cellpadding="0" cellspacing="0" width="100%">
-
-<tbody>
-
-<tr>
-
-<td>
-
-Můj subjektivní dojem, pocit
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-ovlivňuje ovlivňuje reakcí na ně je
 
 3\. Faktory limitující pedagogickou komunikaci
 
@@ -2989,7 +2795,7 @@ _- práva uvedená v odstavci 1 s výjimkou písmen a) a d) mají také zákonn�
 
 _- na informace podle odstavce 1 písm. b) mají v případě zletilých žáků a studentů právo také jejich rodiče, popřípadě osoby, které vůči zletilým žákům a studentům plní vyživovací povinnost._
 
-**Povinnosti žáků a zákonných zástupců nezlETILÝCH žáků (§ 22)**
+**Povinnosti žáků a zákonných zástupců nezlETILÝCH žáků (- 22)**
 
 **_Žáci a studenti jsou povinni_**
 
@@ -3003,7 +2809,7 @@ _- na informace podle odstavce 1 písm. b) mají v případě zletilých žáků
 
 *   informovat školu a školské zařízení o změně zdravotní způsobilosti, zdravotních obtížích nebo jiných závažných skutečnostech, které by mohly mít vliv na průběh vzdělávání,
 *   dokládat důvody své nepřítomnosti ve vyučování v souladu s podmínkami stanovenými školním řádem,
-*   oznamovat škole a školskému zařízení údaje podle § 28 odst. 2 a 3 a další údaje, které jsou podstatné pro průběh vzdělávání nebo bezpečnost žáka a studenta, a změny v těchto údajích.
+*   oznamovat škole a školskému zařízení údaje podle - 28 odst. 2 a 3 a další údaje, které jsou podstatné pro průběh vzdělávání nebo bezpečnost žáka a studenta, a změny v těchto údajích.
 
 **_Zákonní zástupci dětí a nezletilých žáků jsou povinni_**
 
@@ -3012,7 +2818,7 @@ _- na informace podle odstavce 1 písm. b) mají v případě zletilých žáků
 *   na vyzvání ředitele školy nebo školského zařízení se osobně zúčastnit projednání závažných otázek týkajících se vzdělávání dítěte nebo žáka,
 *   informovat školu a školské zařízení o změně zdravotní způsobilosti, zdravotních obtížích dítěte nebo žáka nebo jiných závažných skutečnostech, které by mohly mít vliv na průběh vzdělávání,
 *   dokládat důvody nepřítomnosti dítěte a žáka ve vyučování v souladu s podmínkami stanovenými školním řádem,
-*   oznamovat škole a školskému zařízení údaje podle § 28 odst. 2 a 3 a další údaje, které jsou podstatné pro průběh vzdělávání nebo bezpečnost dítěte a žáka, a změny v těchto údajích.
+*   oznamovat škole a školskému zařízení údaje podle - 28 odst. 2 a 3 a další údaje, které jsou podstatné pro průběh vzdělávání nebo bezpečnost dítěte a žáka, a změny v těchto údajích.
 
 **PRÁVA A POVINNOSTI ŠKOLY**
 
@@ -3059,15 +2865,15 @@ Rozumí se tím:
 
 V pedagogice se nejčastěji zkoumají:
 
-Ø podmínky výchovy a vliv prostředí na proces výchovy a vzdělávání
+-podmínky výchovy a vliv prostředí na proces výchovy a vzdělávání
 
-Ø cíl vzdělávání a jeho obsah
+-cíl vzdělávání a jeho obsah
 
-Ø organizaci vzdělávání...
+-organizaci vzdělávání...
 
-Ø práci učitelů a vychovatelů
+-práci učitelů a vychovatelů
 
-Ø hodnocení výsledků vzdělávání
+-hodnocení výsledků vzdělávání
 
 a mnoho dalších pedagogických jevů
 
@@ -3077,25 +2883,25 @@ a mnoho dalších pedagogických jevů
 
 **Práce podle postavení autora nebo autorů** jsou práce :
 
-Ø individuální
+-individuální
 
-Ø souborné
+-souborné
 
-Ø kolektivní
+-kolektivní
 
 **Výzkumy podle délky trvání** :
 
-Ø krátkodobé
+-krátkodobé
 
-Ø střednědobé
+-střednědobé
 
-Ø dlouhodobé (longitudinální)
+-dlouhodobé (longitudinální)
 
 Významné kriterium rozlišení ped. výzkumu - **kvantitativní** či **kvalitativní výzkum** filozofické základy :
 
-Ø **Kvantitativní** – realita je **poznatelná a měřitelná**
+-**Kvantitativní** – realita je **poznatelná a měřitelná**
 
-Ø **Kvalitativní** – existuje více realit popisovaných různými způsoby
+-**Kvalitativní** – existuje více realit popisovaných různými způsoby
 
 **Ad 2\. Empirický výzkum :**
 
@@ -3129,25 +2935,25 @@ na základě známých poznatků se formuluje **vědecká hypotéza**
 
 - **V jakém čase atd**
 
-Ø Volba metody těsně spjata s tím,
+-Volba metody těsně spjata s tím,
 
-§ jak si klademe otázku
+- jak si klademe otázku
 
-§ jaká je vedoucí idea výzkumu
+- jaká je vedoucí idea výzkumu
 
-§ jak formulujeme hypotézu
+- jak formulujeme hypotézu
 
-§ **Postihuje zvolená metoda jádro problému?**
+- **Postihuje zvolená metoda jádro problému?**
 
-Ø Reálné podmínky k uplatnění metody v praxi
+-Reálné podmínky k uplatnění metody v praxi
 
-§ uskutečnění přirozeného experimentu ve škole
+- uskutečnění přirozeného experimentu ve škole
 
-§ časový faktor
+- časový faktor
 
-Ø Pedagogické riziko metody – sociometrie
+-Pedagogické riziko metody – sociometrie
 
-Ø Metodické vědomosti a zkušenosti výzkumného pracovníka
+-Metodické vědomosti a zkušenosti výzkumného pracovníka
 
 **´**
 
@@ -3157,75 +2963,75 @@ na základě známých poznatků se formuluje **vědecká hypotéza**
 
 v **Pozorování – cíl zkoumání, okruh pedagogických jevů**
 
-§ Přímé pozorování
+- Přímé pozorování
 
-§ Nepřímé pozorování
+- Nepřímé pozorování
 
-§ Krátkodobé pozorování
+- Krátkodobé pozorování
 
-§ Dlouhodobé pozorování
+- Dlouhodobé pozorování
 
 v **Ústní a písemné zkoušky**
 
-Ø Objektivnost
+-Objektivnost
 
-Ø Modelový charakter
+-Modelový charakter
 
-Ø Standardizovanost
+-Standardizovanost
 
-Ø Reliabilita **Reliabilita** ([angl.](http://cs.wikipedia.org/wiki/Angli%C4%8Dtina "Angličtina") _reliability_ – _spolehlivost, hodnověrnost_) je [statistická](http://cs.wikipedia.org/wiki/Statistika "Statistika") veličina, **udávající spolehlivost testu**. Lze ji vyjádřit jako _[relativní](http://cs.wikipedia.org/wiki/Relativn%C3%AD "Relativní") nepřítomnost chyby při [měření](http://cs.wikipedia.org/wiki/M%C4%9B%C5%99en%C3%AD "Měření")_ a lze ji také chápat jako _charakteristiku [testové metody](http://cs.wikipedia.org/wiki/Test "Test")_.<sup><href="#cite_note-psychometrika-0">[1]</href="#cite_note-psychometrika-0"></sup> V těchto významech je používána ve [statistických vědách](http://cs.wikipedia.org/wiki/Matematick%C3%A1_statistika "Matematická statistika"), [psychometrice](http://cs.wikipedia.org/wiki/Psychometrika "Psychometrika"), [ekonometrii](http://cs.wikipedia.org/wiki/Ekonometrie "Ekonometrie") apod
+-Reliabilita **Reliabilita** ([angl.](http://cs.wikipedia.org/wiki/Angli%C4%8Dtina "Angličtina") _reliability_ – _spolehlivost, hodnověrnost_) je [statistická](http://cs.wikipedia.org/wiki/Statistika "Statistika") veličina, **udávající spolehlivost testu**. Lze ji vyjádřit jako _[relativní](http://cs.wikipedia.org/wiki/Relativn%C3%AD "Relativní") nepřítomnost chyby při [měření](http://cs.wikipedia.org/wiki/M%C4%9B%C5%99en%C3%AD "Měření")_ a lze ji také chápat jako _charakteristiku [testové metody](http://cs.wikipedia.org/wiki/Test "Test")_.<sup><href="#cite_note-psychometrika-0">[1]</href="#cite_note-psychometrika-0"></sup> V těchto významech je používána ve [statistických vědách](http://cs.wikipedia.org/wiki/Matematick%C3%A1_statistika "Matematická statistika"), [psychometrice](http://cs.wikipedia.org/wiki/Psychometrika "Psychometrika"), [ekonometrii](http://cs.wikipedia.org/wiki/Ekonometrie "Ekonometrie") apod
 
-Ø Validita **Validita** (z [lat.](http://cs.wikipedia.org/wiki/Latina "Latina") _validus_, statný, silný, zdravý) znamená platnost, například dokumentu, vědeckého postupu nebo argumentu. Odvozeno od **validní** - platný, uznaný; například „validní argument“ nebo „validní dokument“. Opak je **invalidní**, poškozený, neplatný.
+-Validita **Validita** (z [lat.](http://cs.wikipedia.org/wiki/Latina "Latina") _validus_, statný, silný, zdravý) znamená platnost, například dokumentu, vědeckého postupu nebo argumentu. Odvozeno od **validní** - platný, uznaný; například „validní argument“ nebo „validní dokument“. Opak je **invalidní**, poškozený, neplatný.
 
 Při výzkumu zejména v [psychologii](http://cs.wikipedia.org/wiki/Psychologie "Psychologie"), [sociologii](http://cs.wikipedia.org/wiki/Sociologie "Sociologie") a dalších [společenských vědách](http://cs.wikipedia.org/wiki/Spole%C4%8Densk%C3%A9_v%C4%9Bdy "Společenské vědy") stejně jako při statistickém hodnocení technologických procesů (například dodržení standardů kvality služeb) je důležité zkoumat validitu, to jest spolehlivost a **platnost** **získaných výsledků vzhledem ke skutečnosti** - tento postup se nazývá [validizace](http://cs.wikipedia.org/w/index.php?title=Validizace&action=edit&redlink=1 "Validizace (stránka neexistuje)") testu. Kvalitativní anebo nezávislá kvantitativní validace je důležitá zejména tam, kde zkoumaný jev nelze úplně oddělit od dalších vlivů a kde je [interpretace](http://cs.wikipedia.org/wiki/Interpretace "Interpretace") výsledků složitá. [Validizace](http://cs.wikipedia.org/w/index.php?title=Validizace&action=edit&redlink=1 "Validizace (stránka neexistuje)") se používá při [kvantitativním](http://cs.wikipedia.org/wiki/Kvantitativn%C3%AD_v%C3%BDzkum "Kvantitativní výzkum") i [kvalitativním](http://cs.wikipedia.org/wiki/Kvalitativn%C3%AD_v%C3%BDzkum "Kvalitativní výzkum") výzkumu a existují také různé postupy jejího vyčíslení.
 
-Ø Testy inteligence
+-Testy inteligence
 
-§ vědomosti
+- vědomosti
 
-§ osobnosti
+- osobnosti
 
-§ didaktické
+- didaktické
 
 v **Dotazníková metoda**
 
-Ø Jedna z nejčastějších
+-Jedna z nejčastějších
 
-Ø Respondenti – pro koho je, kdo ho vyplňoval atd.
+-Respondenti – pro koho je, kdo ho vyplňoval atd.
 
-Ø Jasně formulované otázky
+-Jasně formulované otázky
 
-Ø Otevřené položky
+-Otevřené položky
 
-Ø Uzavřené položky
+-Uzavřené položky
 
-Ø Škálování atd.
+-Škálování atd.
 
 v **Metoda rozhovoru – interview**
 
-Ø Individuální rozhovor
+-Individuální rozhovor
 
-Ø Skupinový rozhovor
+-Skupinový rozhovor
 
-Ø Standartizované, nestandartizované
+-Standartizované, nestandartizované
 
 v **Obsahová analýza pedagogických dokumentů**
 
-Ø Oficiální dokumenty
+-Oficiální dokumenty
 
-Ø Neoficiální dokumenty
+-Neoficiální dokumenty
 
 v **Pedagogický experiment**
 
-§ Klasický experiment
+- Klasický experiment
 
-§ Vícefaktorový experiment
+- Vícefaktorový experiment
 
 v **Vybrané techniky měření**
 
-Ø Přímé měření
+-Přímé měření
 
-Ø Nepřímé měření
+-Nepřímé měření
 
 v **Projektivní techniky**
 
@@ -3233,41 +3039,41 @@ v **Sociometrie**
 
 **Hypotéza** = předpoklad, v němž se na základě řady faktů vytváří závěr o existenci objektu, souvislosti nebo příčiny jevu, přičemž tento závěr **nelze pokládat za zcela dokázaný**.
 
-Ø Hypotéza **je tvrzení**
+-Hypotéza **je tvrzení**
 
-Ø Hypotéza vyjadřuje **vztah mezi dvěma proměnnými**
+-Hypotéza vyjadřuje **vztah mezi dvěma proměnnými**
 
-Ø Hypotéza musí být **empiricky ověřitelná**
+-Hypotéza musí být **empiricky ověřitelná**
 
 **Vědecká hypotéza (předpoklad)**
 
-Ø vzniká na hlubším teoretickém základě
+-vzniká na hlubším teoretickém základě
 
-Ø má přesnou formu výpovědi
+-má přesnou formu výpovědi
 
-Ø vyjadřuje domněnku o existujících vztazích mezi jevy nebo jejich zákonitostmi, existenci určitého jevu, vlastnostmi nebo výsledky
+-vyjadřuje domněnku o existujících vztazích mezi jevy nebo jejich zákonitostmi, existenci určitého jevu, vlastnostmi nebo výsledky
 
-Ø pravdivost hypotézy – ověření výzkumem
+-pravdivost hypotézy – ověření výzkumem
 
 **Podmínky kladené na hypotézu**
 
-Ø musí souhlasit s fakty nebo alespoň být s přesnými dobře ověřenými fakty slučitelná
+-musí souhlasit s fakty nebo alespoň být s přesnými dobře ověřenými fakty slučitelná
 
 **Zdůvodňování a ověřování hypotéz**
 
-Ø Zdůvodňování hypotézy nejdříve
+-Zdůvodňování hypotézy nejdříve
 
-§ logické prvky v hypotéze
+- logické prvky v hypotéze
 
-§ intuitivní dohady v hypotéze
+- intuitivní dohady v hypotéze
 
-§ vědecká fantazie – empirický výzkum
+- vědecká fantazie – empirický výzkum
 
-Ø Ověření hypotézy = verifikace hypotézy
+-Ověření hypotézy = verifikace hypotézy
 
-§ jedna nebo celá soustava dílčích ověřitelných hypotéz
+- jedna nebo celá soustava dílčích ověřitelných hypotéz
 
-§ hypotézy ověřovány
+- hypotézy ověřovány
 
 ü pozorováním
 
@@ -3275,45 +3081,45 @@ v **Sociometrie**
 
 ü různými druhy praktických činností
 
-Ø Hypotézy po ověření
+-Hypotézy po ověření
 
-§ stávají se vědeckou teorií
+- stávají se vědeckou teorií
 
-§ mění svou podobu
+- mění svou podobu
 
-§ jsou zamítány
+- jsou zamítány
 
-Ø Ověřování hypotéz – volba vhodných výzkumných metod
+-Ověřování hypotéz – volba vhodných výzkumných metod
 
 **Ad 3\. Teoretický výzkum :**
 
 uplatňuje se tzv.**historická metoda**
 
-Ø Abstrakce
+-Abstrakce
 
-Ø Analýza a syntéza
+-Analýza a syntéza
 
-§ Klasifikační analýzy
+- Klasifikační analýzy
 
-§ Vztahová analýza
+- Vztahová analýza
 
-§ Kauzální analýza
+- Kauzální analýza
 
-§ Dialektická analýzy
+- Dialektická analýzy
 
-Ø Srovnávání
+-Srovnávání
 
-Ø Zobecňování a konkretizace
+-Zobecňování a konkretizace
 
-Ø Indukce a dedukce
+-Indukce a dedukce
 
-Ø Metody modelování
+-Metody modelování
 
-§ Modelový experiment
+- Modelový experiment
 
-§ Myšlenkový experiment
+- Myšlenkový experiment
 
-Ø Metody formalizace
+-Metody formalizace
 
 **http://www.csicr.cz/cz/O-nas/Testy-pouzite-pri-pilotnim-testovani**
 
@@ -3542,7 +3348,7 @@ Základní škola speciální – dříve pomocná
 
 Praktická škola jednoletá (pro pomocňáky) a dvouletá(pro zvláštníky)
 
-**561/2004 § 16:**
+**561/2004 - 16:**
 
 Děti, žáci a studenti se speciálními vzdělávacími potřebami mají právo na vzdělávání, jehož obsah, formy a metody odpovídají jejich vzdělávacím potřebám a možnostem, na vytvoření nezbytných podmínek, které toto vzdělávání umožní, a na poradenskou pomoc školy a školského poradenského zařízení. Pro žáky a studenty se zdravotním postižením a zdravotním znevýhodněním se při přijímání ke vzdělávání a při jeho ukončování stanoví vhodné podmínky odpovídající jejich potřebám. Při hodnocení žáků a studentů se speciálními vzdělávacími potřebami se přihlíží k povaze postižení nebo znevýhodnění. Délku středního a vyššího odborného vzdělávání může ředitel školy ve výjimečných případech jednotlivým žákům nebo studentům se zdravotním postižením prodloužit, nejvýše však o 2 školní roky.
 
@@ -3554,7 +3360,7 @@ Děti, žáci a studenti se speciálními vzdělávacími potřebami mají práv
 
 (10) Ke zřízení jednotlivé třídy, oddělení nebo studijní skupiny s upravenými vzdělávacími programy v rámci školy podle odstavce 8 a ke zřízení funkce asistenta pedagoga podle odstavce 9 je v případě škol zřizovaných ministerstvem či registrovanými církvemi nebo náboženskými společnostmi, kterým bylo přiznáno oprávnění k výkonu zvláštního práva zřizovat církevní školy, nezbytný souhlas ministerstva, v případě škol zřizovaných ostatními zřizovateli souhlas krajského úřadu.
 
-§ 17
+- 17
 
 Vzdělávání nadaných dětí, žáků a studentů
 
