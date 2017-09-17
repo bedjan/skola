@@ -256,31 +256,36 @@ Pedagogika se dělí na **_základní_**, **_hraniční_** a **_aplikované_** p
 
 **b) _Školní pedagogika_**
 
-**c) _Mimoškolní pedagogika:_ **w Rodinná výchova
+**c) _Mimoškolní pedagogika:_ **- Rodinná výchova
 
-w Pedagogika dětských a mládežnických organizací
+- Pedagogika dětských a mládežnických organizací
 
-w Pedagogika dospělých
+- Pedagogika dospělých
 
-w Vojenská pedagogika
+- Vojenská pedagogika
 
 **d) _Na hranici mezi školní a mimoškolní pedagogikou se rozvíjejí:_**
 
-w Andragogika
+- Andragogika
 
-w Gerontopedagogika
+- Gerontopedagogika
 
-w Pedagogická prognostika
+- Pedagogická prognostika
 
 ale i
 
-w Oborové didaktiky (zeměpis, jazyky atd.)
+- Oborové didaktiky (zeměpis, jazyky atd.)
 
-w Teorie mravní, náboženské nebo estetické výchovy
+- Teorie mravní, náboženské nebo estetické výchovy
 
-w Polytechnické pedagogiky
+- Polytechnické pedagogiky
 
-w Pedagogika sportu
+- Pedagogika sportu
+
+<a id="2"></a>
+
+[Zpět k obsahu](#)
+
 
 **2\. Nejvýznamnější problémy současné pedagogiky, kurikulární reforma, alternativní školy.**
 
@@ -437,6 +442,11 @@ _**Waldorfské školy**_
 *   Očekávané funkce mohou oborové didaktiky plnit jen jako relativně samostatné pedagogické disciplíny, jejichž základnou je příslušný obor a pedagogika, resp. obecná didaktika.
 *   Prosazení nové koncepce oborových didaktik se urychlí, budou-li se jejich protagonisté opírat i o dobrou znalost edukační praxe a o empirické výzkumy.
 
+<a id="3"></a>
+
+[Zpět k obsahu](#)
+
+
 3\. Výukové metody – klasifikace, charakteristiky
 
 **Osnova:**
@@ -576,6 +586,11 @@ Osvojování metod samostatné práce s učebnicí a tištěnými texty je před
 **I) DIDAKTICKÁ HRA A SOUTĚŽ JAKO VYUČOVACÍ METODY:** herní situace mají pro pedagogiku velký význam, hra má řadu aspektů (poznávací, procvičovací, sociální, diagnostický, terapeutický aj.). Soutěž je nutné od hry odlišit, jejím cílem je především stanovit pořadí účastníků podle předvedených činností nebo výsledků činností. Zatímco prvotním účelem hry je určitá činnost sama o sobě, účelem soutěže je dosáhnout umístění. Pro hru je tedy typická činnost, pro soutěž organizace činnosti. Didaktické hry záměrně evokují produktivní aktivity a rozvíjejí myšlení. Metodická příprava her a organizace soutěží musí vycházet z učitelem sledovaného pedagogického záměru. Hra se zakládá na nápadu, jenž určuje její ráz a tvoří základ pro formulaci pravidel.
 
 Toto téma je zpracováno podrobněji v učebnici Pedagogika pro učitele – Vališová Alena, Kasíková Hana a kolektiv, Grada Publishing 2007, str. 193 - 210
+
+<a id="4"></a>
+
+[Zpět k obsahu](#)
+
 
 **4\. Organizační formy výuky či vzdělávání (OFV)**
 
@@ -729,6 +744,11 @@ výuka se točí kolem ústředního tématu a zahrnuje látku ze všech předm�
 
 např. problémové vyuč., projektové vyuč., otevřené
 
+<a id="5"></a>
+
+[Zpět k obsahu](#)
+
+
 **5\. Didaktické zásady ve výuce,význam,realizace**
 
 **Osnova:**
@@ -845,6 +865,11 @@ za tvůrce moderních didaktických metod je považován J.A.Komenský
 - převádí teoretické (vědecké) poznatky do praxe
 
 **Ad 4\. Realizace didaktických zásad v praxi** Jak to dělám já v předmětech u sebe, v předmětu, škole nebo doma….:-))
+
+<a id="6"></a>
+
+[Zpět k obsahu](#)
+
 
 **6\. SOCIÁLNÍ PEDAGOGIKA ( vybrané pojmy, hlavní okruhy problémů )**
 
@@ -1116,7 +1141,12 @@ Nezralé jedince vábí obřadnictví, záhadnost a pocit příslušnosti ke sku
 
 Nebezpečí je v jejich fanatismu, nesnášenlivosti, pocitu výjimečnosti. Autoritářství vůdčích osobností.
 
-7\. Výchova – vymezení pojmu, složky výchovy, výchovně vzdělávací cíle.
+<a id="7"></a>
+
+[Zpět k obsahu](#)
+
+
+**7\. Výchova – vymezení pojmu, složky výchovy, výchovně vzdělávací cíle.**
 
 Osnova:
 
@@ -1200,33 +1230,33 @@ c) **eticky rozvojové cíle** (vztah k sobě samému, mezilidské vztahy, hodno
 
 **Ad 4) VV cíle mají tyto funkce:**
 
- motivační
+-  motivační
 
- kontrolní
+-  kontrolní
 
- organizační
+-  organizační
 
- ideologickou
+-  ideologickou
 
- syntetizující (slučovací)
+-  syntetizující (slučovací)
 
 **Ad 5) Dělení VV cílů:**
 
 **_VV cíle dělíme podle:_**
 
-1\. **Obecnosti:**  obecné
+1\. **Obecnosti:** -  obecné
 
- specifické
+-  specifické
 
-2\. **Časové následnosti:**  blízké
+2\. **Časové následnosti:** -  blízké
 
- vzdálené
+-  vzdálené
 
- etapové
+-  etapové
 
-3\. **Působení na osobnost:**  vzdělávací
+3\. **Působení na osobnost:** -  vzdělávací
 
- výchovné
+-  výchovné
 
 _Poznámka:_
 
@@ -1251,6 +1281,11 @@ f) **_poznání světových a evropských kulturních hodnot a tradic_**, pochop
 g) **_získání a uplatňování znalostí o životním prostředí a jeho ochraně vycházející ze zásad trvale udržitelného rozvoje a o bezpečnosti a ochraně zdraví._**
 
 -2 (3) Vzdělávání poskytované podle tohoto zákona **je veřejnou službou**.
+
+<a id="8"></a>
+
+[Zpět k obsahu](#)
+
 
 **8\. Pedagogicko-psychologická diagnostika – součást výchovně-vzdělávacího procesu školy**
 
@@ -1466,6 +1501,11 @@ _Pygmalion efekt:_
 
 **_Pedagogickou diagnostikou souvisí i problematiky - Autoevaluace školy –_** _což je soustavný a hodnotící (diagnostický) proces za účelem zvyšování kvality a efektivity výchovně vzdělávací práce._
 
+<a id="9"></a>
+
+[Zpět k obsahu](#)
+
+
 **9\. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY ŠKOLNÍHO HODNOCENÍ**
 
 **Osnova:**
@@ -1592,6 +1632,11 @@ Vytváří postoje a dovednosti pro celoživotní vzdělávání
 
 Zásadním problémem hodnocení je jeho objektivnost či subjektivnost, míra spravedlnosti. Je tedy důležité, kdo hodnotí, jaký má vztah k žákům, jakou má autoritu a jakou úctu požívá.
 
+<a id="10"></a>
+
+[Zpět k obsahu](#)
+
+
 **10\. Diferenciace a individualizace; rozvoj aktivity, samostatnosti a tvořivosti žáků**
 
 **Osnova:**
@@ -1701,6 +1746,11 @@ Problémy těchto seskupování:
 -**Fantazie se meze nekladou**
 
 -**Věnovat neustále pozornost**
+
+<a id="11"></a>
+
+[Zpět k obsahu](#)
+
 
 **11\. Pedagogická komunikace ve výuce, řešení problémových situací**
 
@@ -1914,6 +1964,11 @@ d) prošetřit,
 e) dát zpětnou vazbu, poděkovat a případně nabídnout další spolupráci
 
 f) případně provést nápravu, opatření, zásah,
+
+<a id="12"></a>
+
+[Zpět k obsahu](#)
+
 
 **12\. Pedagogika tradiční, moderní, základní pedagogické pojmy,**
 
@@ -2215,6 +2270,11 @@ nástroj individualizace učení (členění účastníků vzdělávací akce dl
 
 **trénink**:plánovitý proces vedoucí ke změně postoje, vědomostí nebo chování prostřednictvím učební zkušenosti za účelem dosažení efektivního výkonu v nějaké aktivitě nebo řadě aktivit
 
+<a id="13"></a>
+
+[Zpět k obsahu](#)
+
+
 **13\. OSOBNOSTNÍ A KVALIFIKAČNÍ PŘEDPOKLADY PEDAG. PROFESE**
 
 **Osnova:**
@@ -2397,6 +2457,11 @@ Záleží na povaze osobnosti jednotlivých učitelů, jejich věkových a indiv
 
 **i) hranice držet si je – nenechat se sežrat prací, rodinou, atd.**
 
+<a id="14"></a>
+
+[Zpět k obsahu](#)
+
+
 **14\. Příprava učitele na výuku**
 
 **Osnova:**
@@ -2520,6 +2585,11 @@ Při přípravách vždy pedagog dbá na základní didaktické zásady:
 · opákování
 
 · soustavnost a cykličnost
+
+<a id="15"></a>
+
+[Zpět k obsahu](#)
+
 
 **15\. VÝCHOVNÉ PŮSOBENÍ ŠKOLY A RODINY,  
 PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY**
@@ -2836,6 +2906,11 @@ _- na informace podle odstavce 1 písm. b) mají v případě zletilých žáků
 
 - nezletilí žáci s vysokou neomluvenou absencí a projevy asociálního jednání
 
+<a id="16"></a>
+
+[Zpět k obsahu](#)
+
+
 **16\. Metodologie pedagogického výzkumu**
 
 **Osnova:**
@@ -3123,6 +3198,11 @@ uplatňuje se tzv.**historická metoda**
 
 **http://www.csicr.cz/cz/O-nas/Testy-pouzite-pri-pilotnim-testovani**
 
+<a id="17"></a>
+
+[Zpět k obsahu](#)
+
+
 **17\. Současný školský systém ČR**
 
 **Osnova: 1.Základní legislativa 2\. Školy 3\. Školská zařízení 4.Vysoké školy 5.Zvláštnosti našeho školského systému**
@@ -3263,6 +3343,11 @@ _D, GYMNAZIÁLNÍ VZDĚLÁNÍ (maturitní zkouška)_
 
 Jako celek je české školství podobné školstvím v cizích zemích , lze však registrovat nejdůležitější odlišnosti : - **diferenciace** vzdělávání již po ukončení 5\. (7.) ročníku ZŠ = osmi(šesti)letá gymnázia - **vyšší odborné školy** ve smyslu pomaturitního studia, na západě však řešeno formou VŠ
 
+<a id="18"></a>
+
+[Zpět k obsahu](#)
+
+
 **18\. Výchova a vzdělávání žáků se speciálními vzdělávacími potřebami**
 
 **Osnova:**
@@ -3369,6 +3454,11 @@ Vzdělávání nadaných dětí, žáků a studentů
 (2) K rozvoji nadání dětí, žáků a studentů lze uskutečňovat rozšířenou výuku některých předmětů nebo skupin předmětů. Třídám se sportovním zaměřením nebo žákům a studentům vykonávajícím sportovní přípravu může ředitel školy odlišně upravit organizaci vzdělávání.
 
 (3) Ředitel školy může mimořádně nadaného nezletilého žáka na žádost osoby, která je v souladu se zvláštním právním předpisem12) nebo s rozhodnutím soudu oprávněna jednat za dítě nebo nezletilého žáka (dále jen "zákonný zástupce"), a mimořádně nadaného zletilého žáka nebo studenta na jeho žádost přeřadit do vyššího ročníku bez absolvování předchozího ročníku. Součástí žádosti žáka, který plní povinnou školní docházku, je vyjádření školského poradenského zařízení a registrujícího praktického lékaře pro děti a dorost. Podmínkou přeřazení je vykonání zkoušek z učiva nebo části učiva ročníku, který žák nebo student nebude absolvovat. Obsah a rozsah zkoušek stanoví ředitel školy.
+
+<a id="19"></a>
+
+[Zpět k obsahu](#)
+
 
 **19\. Klíčové kompetence pedagogických pracovníků a žáků**
 
@@ -3498,6 +3588,11 @@ smysl pro humor a nadhled
 - souhrn požadavků na profesní standard českého učitele je dosti rozsáhlý a náročný
 
 - v nejrůznějších situacích se projevuje osobnostní a sociální způsobilost učitele, která není totožná se způsobilostí odbornou, předmětovou ani pedagogickou např. smysl pro humor, odvaha riskovat, schopnost rychle se rozhodovat, atd.
+
+<a id="20"></a>
+
+[Zpět k obsahu](#)
+
 
 **20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE**
 
@@ -3662,16 +3757,3 @@ Ze **vzdělávacího oblasti** může vzniknout **vzdělávací obor - předmět
 
 5\. pedagogická autonomie škol a profesní odpovědnost učitelů za výsledky vzdělání
 
-* * *
-
-[[1]](#_ftnref1) _Učitelé diagnostikují stále svým hodnocením J_
-
-[[2]](#_ftnref2) _Biopsychické dispozice - stav a vývoj určen geneticky. Psychické dispozice – procesy a rysy osobnosti. Jsou závislé na učení a zrání. Sociopsychické dispozice – vědomosti, dovednosti, motivační struktury. Formují se učením_
-
-[[3]](#_ftnref3) _Doporučuje I. Růžička J_
-
-[_**[4]**_](#_ftnref4) _**Dispozice** – předpoklad, vyjadřující vnitřní předpoklady pro vykonání daných činností._
-
-[[5]](#_ftnref5) _škatulkování žáků_
-
-[_**[6]**_](#_ftnref6) _holding = stav, kdy žena pečuje o dítě a ochraňuje ho, muž opatruje matku.Winnicott, D. W.: Lidská přirozenost_
