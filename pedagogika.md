@@ -1294,7 +1294,7 @@ g) **_získání a uplatňování znalostí o životním prostředí a jeho ochr
 
 **Ad 1) Diagnóza – vymezení pojmu**
 
-**DIAGNÓZA =** rozpoznání, pojmenování stavu, situace,nemoci[[1]](#_ftn1)
+**DIAGNÓZA =** rozpoznání, pojmenování stavu, situace,nemoci
 
 _( z řečtiny Diagnózis – skrze poznání)_
 
@@ -1328,7 +1328,7 @@ _Testy standardizované, opakování až po určitém čase._
 
 **_Komplexní přístup k diagnostice:_**
 
-*   [****[2]****](#_ftn2)bio – psycho – sociální – spirituální jednotka
+*   bio – psycho – sociální – spirituální jednotka
 *   z toho vyplývají otázky směřující k jednotlivým systémům (společnost, rodina, škola)
 
 Centrem pozornosti pedagogického procesu je **žák**.
@@ -1373,7 +1373,7 @@ _a) porovnání zvládnutí učiva žákem a předem definovanou normou – zpě
 
 _b) porovnání výsledků žáků mezi sebou navzájem – cílem je roztřídit žáky dle znalostí._
 
-_c) individuální sledování pokroku žáka v učení[**[3]**](#_ftn3) - na základě řady časových testů zjistíme pokrok žáka._
+_c) individuální sledování pokroku žáka v učení - na základě řady časových testů zjistíme pokrok žáka._
 
 _d) porovnání výsledku žáka s výsledkem populace – na základě standardizovaných testů zjistíme, na jakém místě v populaci by se žák s daným výkonem umístil._
 
@@ -1458,9 +1458,9 @@ Specializovaná pracoviště:
 
 ## Širší diagnostické kontexty
 
-- při formulování pedagogické diagnózy se nezamýšlíme jen nad úrovní dosaženého vzdělání ( vyjadřovaného např. známkou ), nad hodnocením žáka chování, jeho píle atd., ale zkoumáme též jeho reálné možnosti. Zjišťujeme **předpoklady[**[4]**](#_ftn4)** k učení, zajímáme se o domácí zázemí a zaměřujeme se na podmínky vyučovacího procesu
+- při formulování pedagogické diagnózy se nezamýšlíme jen nad úrovní dosaženého vzdělání ( vyjadřovaného např. známkou ), nad hodnocením žáka chování, jeho píle atd., ale zkoumáme též jeho reálné možnosti. Zjišťujeme **předpoklady k učení, zajímáme se o domácí zázemí a zaměřujeme se na podmínky vyučovacího procesu
 
-**_Rizika subjektivních soudů při diagnostice::[**[5]**](#_ftn5)_**
+**_Rizika subjektivních soudů při diagnostice::_**
 
 _Golem efekt:_
 
@@ -1488,7 +1488,7 @@ _Pygmalion efekt:_
 
 - _rozvod rodičů zvláště v předškolním věku a v dospívání je rizikový pro osobnostní vývoj a duševní zdraví ( školní problémy, úzkostné poruchy, těžší identifikace pak do role dospělých, nedůvěra, promiskuita, delikvence, drogy )_
 
-*   _vztahy mezi rodiči a vliv na dítě: důležitá je výživa, zdravé aktivity a tělesný odpočinek již v těhotenství. Matka by neměla být sama na péči o dítě[**[6]**](#_ftn6). Otec s matkou vystupují vůči dítěti jako pár a měli by se o ně starat oba, protože jsou pak vzorem chování._
+*   _vztahy mezi rodiči a vliv na dítě: důležitá je výživa, zdravé aktivity a tělesný odpočinek již v těhotenství. Matka by neměla být sama na péči o dítě. Otec s matkou vystupují vůči dítěti jako pár a měli by se o ně starat oba, protože jsou pak vzorem chování._
 *   _vztah matky a dítěte: matka přestavuje pro dítě základní jistotu, tj. bazální pocit bezpečí. Narušení vztahu může způsobit poruchy emotivity a nestabilitu._
 *   _vztahy s otcem: S. Freud „Oidipovský komplex“ – dítě začíná žárlit na otce, s nímž se musí dělit o matčinu přízeň. Již batole by mělo tolerovat to, že rodiče sdílí spolu vztah, jehož není součástí. Emancipace – uvolnění ze závislosti a osamostatnění. Důležitost otce při vytvoření si vlastní mužské role. Pro dceru je otec model budoucího partnera._
 *   _vztahy dětí k sourozencům: zatímco jedináčci bývají často závislí na mínění a přízni osob s autoritou, děti z početnější rodiny hledají pozornost jinde, např. u učitele._
