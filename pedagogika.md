@@ -1,9 +1,3 @@
-
-
-
-
-
-
 __OBSAH RYCHLÝ:__
 [1](#1)
 [2](#2)
@@ -2655,8 +2649,8 @@ _KRIZE: zamilovanost mizí-objevují se charakterové vady partnera, spousta nov
 
 _KRIZE: bouřlivá puberta - útěk dítěte z rodiny, nedostatek zájmů - rizikový vrstevníci, nepřiměřené nároky na školní prospěch; málo času věnovaného dětem - vázne komunikace, stereotyp_
 
-**_4\._ opuštění hnízda**: děti se osamostatní, rodiče mají více času, mohou se věnovat práci, koníčkům, soc. kontaktům mimo rodinu, věnování se vnoučatům_  
-KRIZE: pro páry co spolu byli jen kvůli dětem; odchod do důchodu – ztráta návyků a pocitu soc. potřebnosti; postupný příchod stáří – přibývání nemocí; úmrtí jednoho za manželů_
+**_4\._ opuštění hnízda**: děti se osamostatní, rodiče mají více času, mohou se věnovat práci, koníčkům, soc. kontaktům mimo rodinu, věnování se vnoučatům  
+KRIZE: pro páry co spolu byli jen kvůli dětem; odchod do důchodu – ztráta návyků a pocitu soc. potřebnosti; postupný příchod stáří – přibývání nemocí; úmrtí jednoho za manželů
 
 **RODINNÉ KRIZE - > ROZCHODY:**
 
@@ -3036,7 +3030,7 @@ v **Ústní a písemné zkoušky**
 
 -Standardizovanost
 
--Reliabilita **Reliabilita** ([angl.](http://cs.wikipedia.org/wiki/Angli%C4%8Dtina "Angličtina") _reliability_ – _spolehlivost, hodnověrnost_) je [statistická](http://cs.wikipedia.org/wiki/Statistika "Statistika") veličina, **udávající spolehlivost testu**. Lze ji vyjádřit jako _[relativní](http://cs.wikipedia.org/wiki/Relativn%C3%AD "Relativní") nepřítomnost chyby při [měření](http://cs.wikipedia.org/wiki/M%C4%9B%C5%99en%C3%AD "Měření")_ a lze ji také chápat jako _charakteristiku [testové metody](http://cs.wikipedia.org/wiki/Test "Test")_.<sup><href="#cite_note-psychometrika-0">[1]</href="#cite_note-psychometrika-0"></sup> V těchto významech je používána ve [statistických vědách](http://cs.wikipedia.org/wiki/Matematick%C3%A1_statistika "Matematická statistika"), [psychometrice](http://cs.wikipedia.org/wiki/Psychometrika "Psychometrika"), [ekonometrii](http://cs.wikipedia.org/wiki/Ekonometrie "Ekonometrie") apod
+-Reliabilita **Reliabilita** ([angl.](http://cs.wikipedia.org/wiki/Angli%C4%8Dtina "Angličtina") _reliability_ – _spolehlivost, hodnověrnost_) je [statistická](http://cs.wikipedia.org/wiki/Statistika "Statistika") veličina, **udávající spolehlivost testu**. Lze ji vyjádřit jako _[relativní](http://cs.wikipedia.org/wiki/Relativn%C3%AD "Relativní") nepřítomnost chyby při [měření](http://cs.wikipedia.org/wiki/M%C4%9B%C5%99en%C3%AD "Měření")_ a lze ji také chápat jako _charakteristiku [testové metody](http://cs.wikipedia.org/wiki/Test "Test").V těchto významech je používána ve [statistických vědách](http://cs.wikipedia.org/wiki/Matematick%C3%A1_statistika "Matematická statistika"), [psychometrice](http://cs.wikipedia.org/wiki/Psychometrika "Psychometrika"), [ekonometrii](http://cs.wikipedia.org/wiki/Ekonometrie "Ekonometrie") apod
 
 -Validita **Validita** (z [lat.](http://cs.wikipedia.org/wiki/Latina "Latina") _validus_, statný, silný, zdravý) znamená platnost, například dokumentu, vědeckého postupu nebo argumentu. Odvozeno od **validní** - platný, uznaný; například „validní argument“ nebo „validní dokument“. Opak je **invalidní**, poškozený, neplatný.
 
@@ -3191,11 +3185,9 @@ uplatňuje se tzv.**historická metoda**
 
 **Ad 1.Základní legislativa**
 
-• vzdělávací systém je upravován zákonem č. 561/2004 sb. O předkošlním , základním, středním, vyšším odborném a jiném vzdělávání a zákonem o vysokých školách č. 111/1998 Sb
+• vzdělávací systém je upravován zákonem č. 561/2004 sb. O předkošlním , základním, středním, vyšším odborném a jiném vzdělávání a zákonem o vysokých školách č. 111/1998 Sb, ŠKOLY (MŠ, ZŠ, SŠ, konzervatoře,VOŠ,ZUŠ, JŠsPSJZ)
 
-![](file:///I:\Users\Mamka\AppData\Local\Temp\msohtmlclip1\01\clip_image008.gif)1, ŠKOLY (MŠ, ZŠ, SŠ, konzervatoře,VOŠ,ZUŠ, JŠsPSJZ)
-
-![](file:///I:\Users\Mamka\AppData\Local\Temp\msohtmlclip1\01\clip_image009.gif)Vzdělávací soustava
+Vzdělávací soustava
 
 2,ŠKOLSKÁ ZAŘÍZENÍ
 
@@ -3594,7 +3586,7 @@ _V **užším** významu vymezuje: obsah školního učiva, jeho výběr a uspo�
 
 _V **širším** významu zahrnuje komplex problémů: proč, koho, čemu, jak, kdy, za jakých podmínek a s jakými očekávanými efekty učit._
 
-Tyto principy jsou zformulovány v **_Národním programu rozvoje vzdělávání v ČR_ (tzv. Bílá kniha)** a zakotveny v **Z_ákoně č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání_ (školský zákon).**
+Tyto principy jsou zformulovány v **_Národním programu rozvoje vzdělávání v ČR_ (tzv. Bílá kniha)** a zakotveny v **Zákoně č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon).**
 
 - v souladu s Národním programem rozvoje vzdělání ČR a školským zákonem postupně zaváděn nový systém kurikulárních dokumentů pro vzdělávání od 3 do 19 let
 
