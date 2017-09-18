@@ -2100,15 +2100,15 @@ V tomto stadiu se také podvědomě fixují na rodiče opačného pohlaví a rod
 
 - **Typologie osobnosti:**
 
-- ** (Hippokrates):**
+- **(Hippokrates):**
 
-- [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") ** (krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
+- [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") **(krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
 
-- [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") ** (sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
+- [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") **(sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
 
-- [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") ** (černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
+- [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") **(černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
 
-- [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") ** (žluč)** ** – je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert**
+- [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") **(žluč)** – je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert
 
 - **E. Kretschmer - tři základní typy podle stavby těla**:
 
@@ -2300,7 +2300,7 @@ i vztahy k partnerovi a spoustu jiného
 
 - Je důležité vědět, jaké jsou prvky procesu komunikace
 
-- Skládá se z osoby, jež sděluje = **komunikátor** a osoby přijímající informace = **komunikant** a zprávu = **komuniké**, kterou přijal a také **komunikační kanál (**jak je komuniké předáváno), který je předpokladem komunikace
+- Skládá se z osoby, jež sděluje = **komunikátor** a osoby přijímající informace = **komunikant** a zprávu = **komuniké**, kterou přijal a také **komunikační kanál** (jak je komuniké předáváno), který je předpokladem komunikace
 
 - Je třeba sledovat spoustu aspektů, aby informace v komunikačním systému fungovala bezporuchově (forma předávání, prostředí, ….)
 
