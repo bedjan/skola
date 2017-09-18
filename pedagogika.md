@@ -3030,7 +3030,7 @@ v **Ústní a písemné zkoušky**
 
 -Standardizovanost
 
--Reliabilita **Reliabilita** ([angl.](http://cs.wikipedia.org/wiki/Angli%C4%8Dtina "Angličtina") _reliability_ – _spolehlivost, hodnověrnost_) je [statistická](http://cs.wikipedia.org/wiki/Statistika "Statistika") veličina, **udávající spolehlivost testu**. Lze ji vyjádřit jako _[relativní](http://cs.wikipedia.org/wiki/Relativn%C3%AD "Relativní") nepřítomnost chyby při [měření](http://cs.wikipedia.org/wiki/M%C4%9B%C5%99en%C3%AD "Měření")_ a lze ji také chápat jako _charakteristiku [testové metody](http://cs.wikipedia.org/wiki/Test "Test").V těchto významech je používána ve [statistických vědách](http://cs.wikipedia.org/wiki/Matematick%C3%A1_statistika "Matematická statistika"), [psychometrice](http://cs.wikipedia.org/wiki/Psychometrika "Psychometrika"), [ekonometrii](http://cs.wikipedia.org/wiki/Ekonometrie "Ekonometrie") apod
+-Reliabilita **Reliabilita** ([angl.](http://cs.wikipedia.org/wiki/Angli%C4%8Dtina "Angličtina") _reliability_ – _spolehlivost, hodnověrnost_) je [statistická](http://cs.wikipedia.org/wiki/Statistika "Statistika") veličina, **udávající spolehlivost testu**. Lze ji vyjádřit jako _[relativní](http://cs.wikipedia.org/wiki/Relativn%C3%AD "Relativní") nepřítomnost chyby při [měření](http://cs.wikipedia.org/wiki/M%C4%9B%C5%99en%C3%AD "Měření")_ a lze ji také chápat jako charakteristiku [testové metody](http://cs.wikipedia.org/wiki/Test "Test").V těchto významech je používána ve [statistických vědách](http://cs.wikipedia.org/wiki/Matematick%C3%A1_statistika "Matematická statistika"), [psychometrice](http://cs.wikipedia.org/wiki/Psychometrika "Psychometrika"), [ekonometrii](http://cs.wikipedia.org/wiki/Ekonometrie "Ekonometrie") apod
 
 -Validita **Validita** (z [lat.](http://cs.wikipedia.org/wiki/Latina "Latina") _validus_, statný, silný, zdravý) znamená platnost, například dokumentu, vědeckého postupu nebo argumentu. Odvozeno od **validní** - platný, uznaný; například „validní argument“ nebo „validní dokument“. Opak je **invalidní**, poškozený, neplatný.
 
@@ -3058,7 +3058,7 @@ v **Dotazníková metoda**
 
 -Škálování atd.
 
-v **Metoda rozhovoru – interview**
+- **Metoda rozhovoru – interview**
 
 -Individuální rozhovor
 
@@ -3066,27 +3066,27 @@ v **Metoda rozhovoru – interview**
 
 -Standartizované, nestandartizované
 
-v **Obsahová analýza pedagogických dokumentů**
+- **Obsahová analýza pedagogických dokumentů**
 
 -Oficiální dokumenty
 
 -Neoficiální dokumenty
 
-v **Pedagogický experiment**
+- **Pedagogický experiment**
 
 - Klasický experiment
 
 - Vícefaktorový experiment
 
-v **Vybrané techniky měření**
+- **Vybrané techniky měření**
 
 -Přímé měření
 
 -Nepřímé měření
 
-v **Projektivní techniky**
+- **Projektivní techniky**
 
-v **Sociometrie**
+- **Sociometrie**
 
 **Hypotéza** = předpoklad, v němž se na základě řady faktů vytváří závěr o existenci objektu, souvislosti nebo příčiny jevu, přičemž tento závěr **nelze pokládat za zcela dokázaný**.
 
