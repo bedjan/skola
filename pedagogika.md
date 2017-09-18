@@ -22,6 +22,8 @@ __OBSAH RYCHLÝ:__
 
 
 
+**PEDAGOGIKA OBSAH:**
+
 [1\. PEDAGOGIKA – její předmět, základní ped. disciplíny](#1)
 
 [2\. Nejvýznamnější problémy současné pedagogiky, kurikulární reforma, alternativní školy](#2)
