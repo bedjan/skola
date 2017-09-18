@@ -806,51 +806,51 @@ za tvůrce moderních didaktických metod je považován J.A.Komenský
 
 - s úsměvem jde všechno líp (humor, smích, bavit)
 
-## Druhy didaktických zásad
+**Druhy didaktických zásad**
 
-### <a name="Z.C3.A1sada_uv.C4.9Bdom.C4.9Blosti_a_akt"></a>o Zásada uvědomělosti a aktivity
+- Zásada uvědomělosti a aktivity
 
-### o Učitel se snaží, aby žáka pro učení získal, dále aby žák přijal cíle výuky za své a v konečném důsledku vyvíjel žádoucí aktivitu směřující k osobnímu rozvoji.
+- Učitel se snaží, aby žáka pro učení získal, dále aby žák přijal cíle výuky za své a v konečném důsledku vyvíjel žádoucí aktivitu směřující k osobnímu rozvoji.
 
-### <a name="Z.C3.A1sada_komplexn.C3.ADho_rozvoje_.C5"></a>o Zásada komplexního rozvoje žáka
+- Zásada komplexního rozvoje žáka
 
-### o Vybízí učitele, aby v rámci výuky rozvíjel všechny základní komponenty osobnosti žáka. Z hlediska struktury osobnosti se jedná o oblasti poznávací, afektivní a psychomotorické. Z hlediska struktury lidské inteligence se jedná o sedm typů inteligence: jazykovou, matematicko-logickou, vizuální/prostorovou, hudební, interpersonální, intrapersonální a tělesnou/fyzickou. Z hlediska pedagogické jednoty složek výchovy se jedná o výchovu rozumovou, mravní, estetickou, pracovní a tělesnou.
+- Vybízí učitele, aby v rámci výuky rozvíjel všechny základní komponenty osobnosti žáka. Z hlediska struktury osobnosti se jedná o oblasti poznávací, afektivní a psychomotorické. Z hlediska struktury lidské inteligence se jedná o sedm typů inteligence: jazykovou, matematicko-logickou, vizuální/prostorovou, hudební, interpersonální, intrapersonální a tělesnou/fyzickou. Z hlediska pedagogické jednoty složek výchovy se jedná o výchovu rozumovou, mravní, estetickou, pracovní a tělesnou.
 
-### <a name="Z.C3.A1sada_v.C4.9Bdeckosti"></a>o Zásada vědeckosti
+- Zásada vědeckosti
 
-### o Učitel se musí během své pedagogické praxe vyrovnávat nejen s novými poznatky věd (např. rychlý vývoj v oblasti informatiky, biologie apod.), tak s nejnovějšími trendy v rámci učitelské profese (např. nové pedagogické metody apod.).
+- Učitel se musí během své pedagogické praxe vyrovnávat nejen s novými poznatky věd (např. rychlý vývoj v oblasti informatiky, biologie apod.), tak s nejnovějšími trendy v rámci učitelské profese (např. nové pedagogické metody apod.).
 
-### <a name="Z.C3.A1sada_spojen.C3.AD_teorie_s_prax.C"></a>o Zásada spojení teorie s praxí
+- Zásada spojení teorie s praxí
 
-### o Učitelé musí přesvědčit žáky, že probírané učivo dále využijí - ať už v běžném životě nebo v dalším studiu. Důležitý je také přenos dovedností a znalostí tak, aby na něj bylo možno navázat v dalším stupni vzdělávání.
+- Učitelé musí přesvědčit žáky, že probírané učivo dále využijí - ať už v běžném životě nebo v dalším studiu. Důležitý je také přenos dovedností a znalostí tak, aby na něj bylo možno navázat v dalším stupni vzdělávání.
 
-### <a name="Z.C3.A1sada_p.C5.99im.C4.9B.C5.99enosti"></a>o Zásada přiměřenosti
+- Zásada přiměřenosti
 
-### o Vyžaduje, aby cíle, proces i prostředky vzdělávání byly přiměřené. Např. se jedná o přiměřenost k věku vzdělávaných
+- Vyžaduje, aby cíle, proces i prostředky vzdělávání byly přiměřené. Např. se jedná o přiměřenost k věku vzdělávaných
 
-### <a name="Z.C3.A1sada_individu.C3.A1ln.C3.ADho_p.C"></a>o Zásada individuálního přístupu
+- Zásada individuálního přístupu
 
-### o Vychází z toho, že každý žák je individualita a je nutné k němu takto přistupovat. Např. většina žáků stačí tempu hodiny, avšak dva žáci jsou pomalejší, proto je na ně třeba brát ohled. Naopak žáku vysoce inteligentnímu je možno zadat složitější či časově náročnější úkoly.
+- Vychází z toho, že každý žák je individualita a je nutné k němu takto přistupovat. Např. většina žáků stačí tempu hodiny, avšak dva žáci jsou pomalejší, proto je na ně třeba brát ohled. Naopak žáku vysoce inteligentnímu je možno zadat složitější či časově náročnější úkoly.
 
-### <a name="Z.C3.A1sada_emocion.C3.A1lnosti"></a>o Zásada emocionálnosti
+- Zásada emocionálnosti
 
-### o V podstatě vychází z faktu, že ani učitel, ani žáci nejsou stroje. Navzájem se ovlivňují v emocionální sféře. Je prokázáno, že vyučování probíhá lépe v pozitivní atmosféře a proto by se měl učitel snažit o její navození.
+- V podstatě vychází z faktu, že ani učitel, ani žáci nejsou stroje. Navzájem se ovlivňují v emocionální sféře. Je prokázáno, že vyučování probíhá lépe v pozitivní atmosféře a proto by se měl učitel snažit o její navození.
 
-### <a name="Z.C3.A1sada_trvalosti"></a>o Zásada trvalosti
+- Zásada trvalosti
 
-### o Je velmi podstatnou didaktickou zásadou vycházející z prostého faktu, že lidský mozek velmi rychle zapomíná. Naplnění této zásady je spojeno se dvěma procesy - expozicí (=předkládání nových poznatků, získávání požadovaných dovedností) a bojem proti zapomínání. Boj proti zapomínání se realizuje opakováním již naučeného učiva.
+- Je velmi podstatnou didaktickou zásadou vycházející z prostého faktu, že lidský mozek velmi rychle zapomíná. Naplnění této zásady je spojeno se dvěma procesy - expozicí (=předkládání nových poznatků, získávání požadovaných dovedností) a bojem proti zapomínání. Boj proti zapomínání se realizuje opakováním již naučeného učiva.
 
-### <a name="Z.C3.A1sada_n.C3.A1zornosti"></a>o Zásada názornosti
+- Zásada názornosti
 
-### o [Názornost](http://cs.wikipedia.org/wiki/N%C3%A1zornost "Názornost") patří k nejstarším didaktickým zásadám a lze ji najít již v díle Wolfganga Ratkeho z roku 1613\. Zásada vychází z toho, že žáci již mají o určité problematice jisté představy, které je třeba vědecky uchopit, aby žáci problém pochopili.
+- [Názornost](http://cs.wikipedia.org/wiki/N%C3%A1zornost "Názornost") patří k nejstarším didaktickým zásadám a lze ji najít již v díle Wolfganga Ratkeho z roku 1613\. Zásada vychází z toho, že žáci již mají o určité problematice jisté představy, které je třeba vědecky uchopit, aby žáci problém pochopili.
 
-### <a name="Z.C3.A1sada_soustavnosti"></a>o Zásada soustavnosti
+- Zásada soustavnosti
 
-### o Nazývána též zásada systematičnosti. Vyjadřuje požadavky, aby na sebe vyučovací celky logicky navazovaly, aby se probíralo učivo od jednodušší k složitější látce, aby se zvyšovaly nároky na žáky, aby byly probírána základní témata určité vědní disciplíny a aby vyučování a hodnocení bylo soustavné a průběžné.
+- Nazývána též zásada systematičnosti. Vyjadřuje požadavky, aby na sebe vyučovací celky logicky navazovaly, aby se probíralo učivo od jednodušší k složitější látce, aby se zvyšovaly nároky na žáky, aby byly probírána základní témata určité vědní disciplíny a aby vyučování a hodnocení bylo soustavné a průběžné.
 
-### <a name="Z.C3.A1sada_zp.C4.9Btn.C3.A9_vazby"></a>o Zásada zpětné vazby
+- Zásada zpětné vazby
 
-### o Na základě zpětné vazby učitel získá informace o postupu žáka k vytčenému učebnímu cíli, jaká je kvalita výuky a její výsledky. Diagnostikuje (určuje, nalézá) chyby, které jsou přirozenou částí procesu učení, vysvětlí, kde se chyba stala a eventuálně znovu provede výklad nepochopeného učiva.
+- Na základě zpětné vazby učitel získá informace o postupu žáka k vytčenému učebnímu cíli, jaká je kvalita výuky a její výsledky. Diagnostikuje (určuje, nalézá) chyby, které jsou přirozenou částí procesu učení, vysvětlí, kde se chyba stala a eventuálně znovu provede výklad nepochopeného učiva.
 
 **Ad 3\. Význam didaktiky:**
 
