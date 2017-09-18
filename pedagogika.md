@@ -256,7 +256,9 @@ Pedagogika se dělí na **_základní_**, **_hraniční_** a **_aplikované_** p
 
 **b) _Školní pedagogika_**
 
-**c) _Mimoškolní pedagogika:_ **- Rodinná výchova
+**c) _Mimoškolní pedagogika:_**
+
+- Rodinná výchova
 
 - Pedagogika dětských a mládežnických organizací
 
@@ -762,7 +764,7 @@ např. problémové vyuč., projektové vyuč., otevřené
 
 **DIDAKTIKA** = nauka či teorie vyučování, základní vědecká disciplína v ped.
 
-Slovo didaktika je pojem odvozený z řeckého slova **_didasko =_ **učím nebo vyučuji.
+Slovo didaktika je pojem odvozený z řeckého slova **didasko** = učím nebo vyučuji.
 
 **Dělení didaktiky**
 
@@ -973,7 +975,7 @@ Etopedie - zabývá se výchovou a vzděláním dětí, mládeže a dospělých,
 
 - nutno posuzovat co se skrývá za nemluvením pravdy. Závažnější je klamání pro vytěžení zisku nebo pro úmyslné způsobení škody
 
-3**. krádeže**
+3\. **krádeže**
 
 - obohacování se na úkor druhého nebo ublížit či poškodit
 
@@ -2222,11 +2224,11 @@ _Ad 4\. Základní pedagogické pojmy_
 
 **cíl:** očekávaný výsledek výchovně vzdělávací činnosti
 
-**metoda:**způsob práce učitele, kterým dosahuje cíle
+**metoda:** způsob práce učitele, kterým dosahuje cíle
 
-**obsah:**co by si měli žáci osvojit, aby dosáhli cíle
+**obsah:** co by si měli žáci osvojit, aby dosáhli cíle
 
-**forma:**organizace výchovně vzdělávací činnosti (předměty, …)
+**forma:** organizace výchovně vzdělávací činnosti (předměty, …)
 
 **vzdělávání:**
 
@@ -2369,7 +2371,7 @@ kladou důraz na autoritu, umění učit, důslednost, jak je vyučující uprav
 
 spravedlnost, přátelskost, a odbornou zdatnost
 
-**_2\._ ****_Kvalifikační předpoklady pedagogické profese_**
+**2\.Kvalifikační předpoklady pedagogické profese**
 
 Kvalifikační předpoklady učitele jsou jasně dané viz. **Zákon o pedagogických pracovnících** - **563/2004**
 
@@ -2679,31 +2681,11 @@ KRIZE: pro páry co spolu byli jen kvůli dětem; odchod do důchodu – ztráta
 *   pozice v rodině a životní styl („čím více rolí si člověk může ozkoušet, tím výhodněji“)
 *   širší příbuzenské vztahy (tolerance a trpělivost prarodičů, třígenerační bydlení)
 
-<table align="left" cellpadding="0" cellspacing="0">
+![vztahy v rodině](https://github.com/bedjan/skola/raw/master/podklady/pedagogika/vztahy_v_rodine.png)
 
-<tbody>
 
-<tr>
 
-<td>  
-</td>
-
-</tr>
-
-<tr>
-
-<td></td>
-
-<td>![vztahy v rodině](https://github.com/bedjan/skola/raw/master/podklady/pedagogika/vztahy_v_rodine.png)</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-**  
-VÝCHOVNÍ ČINITELÉ**
+**VÝCHOVNÍ ČINITELÉ**
 
 · **rodina má hlavní zodpovědnost za výchovu svých dětí**, v rodině se v pozitivním i negativním smyslu promítají celkové dlouhodobé důsledky výchovy jejich dětí
 
