@@ -586,7 +586,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_8\. Řešení problémů_**
 
-· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení - **zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
+Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení **zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
 
 **2) <u>PAMĚŤ</u>**
 
@@ -1632,7 +1632,7 @@ B) I.P.Pavlov – typ myslitelský a umělecký
 
 - **_Induktivní_** – naopak postupuje od jednotlivých případů k obecnější informaci, k zobecnění dílčích, specifických informací.
 
-- **_z_**ejména v logice se užívá deduktivní a induktivní úsudek
+- **_zejména v logice_** se užívá deduktivní a induktivní úsudek
 
 **c) Reproduktivní a produktivní myšlení**
 
@@ -1741,7 +1741,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_24\. Řešení problémů_**
 
-· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení ** – zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
+· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení **zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
 
 **4) <u>PAMĚŤ</u>**
 
