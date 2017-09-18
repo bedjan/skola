@@ -1532,7 +1532,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_16\. Řešení problémů_**
 
-· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení ** – zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
+· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení **zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
 
 **Paměť = vlastnost a soubor procesů, které umožňují osvojení informací, jejich uchování a vybavení,** nejdůležitější vlastnost živých organismů
 
@@ -1857,7 +1857,7 @@ D) I.P.Pavlov – typ myslitelský a umělecký
 
 - **_Induktivní_** – naopak postupuje od jednotlivých případů k obecnější informaci, k zobecnění dílčích, specifických informací.
 
-- **_z_**ejména v logice se užívá deduktivní a induktivní úsudek
+- **_zejména v logice_** se užívá deduktivní a induktivní úsudek
 
 -
 
@@ -1950,15 +1950,15 @@ D) I.P.Pavlov – typ myslitelský a umělecký
 
 - **Typologie osobnosti:**
 
-- ** (Hippokrates):**
+- **(Hippokrates):**
 
-- [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") ** (krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
+- [**sangvinik**](http://cs.wikipedia.org/wiki/Sangvinik "Sangvinik") **(krev)** – rychlé změny zaměření; je přizpůsobivý, emočně vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný, optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city – emočně stabilní extrovert
 
-- [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") ** (sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
+- [**flegmatik**](http://cs.wikipedia.org/wiki/Flegmatik "Flegmatik") **(sliz; hlen)** – je emočně celkem vyrovnaný, navenek se jeví jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným osobám; je spíše pasivní a bez velkých životních ambicí a požadavků, nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert
 
-- [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") ** (černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
+- [**melancholik**](http://cs.wikipedia.org/wiki/Melancholik "Melancholik") **(černá žluč)** – vyznačuje se spíše smutným laděním, pesimismem a strachem z budoucnosti; život je pro něj často obtížný, usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a hluboké – emočně labilní introvert
 
-- [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") ** (žluč)** ** – je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert**
+- [**cholerik**](http://cs.wikipedia.org/wiki/Cholerik "Cholerik") **(žluč)** – je silně vzrušivý, má sklon k výbuchům hněvu a k agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle, silně, často bez zábran – emočně labilní extrovert
 
 - **E. Kretschmer - tři základní typy podle stavby těla**:
 
@@ -2037,7 +2037,7 @@ V tomto stadiu se také podvědomě fixují na rodiče opačného pohlaví a rod
 
 - **Eric Berne** – **TRANSAKČNÍ ANALÝZA** – pozornost na zkoumání transakcí tj. složek vzájemné komunikace, a to nejen mezi osobami, ale také uvnitř osobnosti jedince
 
-- **U**. **Neiser, G. Kelly** ** – KOGNITIVISMUS** – poznávací procesy a aspekty osobnosti se neomezují na vědecké poznání, ale lidé jich využívají ve svém každodenním životě, v řešení problémů, rozhodování a jednání
+- **U**. **Neiser, G. Kelly** - **KOGNITIVISMUS** – poznávací procesy a aspekty osobnosti se neomezují na vědecké poznání, ale lidé jich využívají ve svém každodenním životě, v řešení problémů, rozhodování a jednání
 
 - **Transpersonální psychologie:** východiskem jsou zážitky osob ve stavu změněného vědomí, pod vlivem drog, kterých se užívalo při léčení některých psychiatrických onemocnění, fantazie psychotiků, zážitky při meditaci
 
