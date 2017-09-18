@@ -109,7 +109,7 @@ podpora pocitu společenské zodpovědnosti
 
 **Schopnosti:** jsou vlastnosti, které umožňují člověku naučit se určitým činnostem a dobře je vykonávat
 
-**druhy schopností:**verbální – slovní porozumění a myšlení, numerické – početní, prostorové – schopnosti prostorových představ, paměťové, percepční – dobře vnímat, rozlišovat barvy, zvuky, umělecké, sportovní, sociální – ke spolupráci, komunikaci
+**druhy schopností:** verbální – slovní porozumění a myšlení, numerické – početní, prostorové – schopnosti prostorových představ, paměťové, percepční – dobře vnímat, rozlišovat barvy, zvuky, umělecké, sportovní, sociální – ke spolupráci, komunikaci
 
 v psychologii se nejvíce zkoumají ty z uvedených schopností, které se týkají poznávání, myšlení, řešení problémů
 
@@ -197,7 +197,7 @@ Za nejvyšší považuje Maslo- potřebu [seberealizace](http://cs.wikipedia.org
 
 - **elementární motivační proces – podnícení,** **aktivace příslušné reakce** nebo **činnosti** v situaci, kdy na člověka zapůsobil podnět, zvláště pokud je organismus k takové reakci či činnosti připraven „nabuzen“ (např. hladový jedinec spatřil vhodnou potravu)
 
-- Na rovině organických, biologických potřeb je **důležitým motivačním procesem udržení homeostázy (**zejména v udržování stálé TT, množství vody v těle a množství živin) – procesy podstatné pro přežití organismu. **Homeostatické procesy jsou vrozené, instinktivní,** ale **kombinují se s učením podmiňováním** – hlad a chuť k jídlu jsou podněcovány zrakovým a čichovým vnímáním potravin nebo i rozhovorech o jídle. Tak je člověk „lákán a sváděn“ k jídlu i tehdy, když nepotřebuje jíst
+- Na rovině organických, biologických potřeb je **důležitým motivačním procesem udržení homeostázy** (zejména v udržování stálé TT, množství vody v těle a množství živin) – procesy podstatné pro přežití organismu. **Homeostatické procesy jsou vrozené, instinktivní,** ale **kombinují se s učením podmiňováním** – hlad a chuť k jídlu jsou podněcovány zrakovým a čichovým vnímáním potravin nebo i rozhovorech o jídle. Tak je člověk „lákán a sváděn“ k jídlu i tehdy, když nepotřebuje jíst
 
 - S homeostázou souvisí jev nasycení: **uspokojení potřeby** – **t**o vede na určitou dobu k jejímu oslabení. Nasycení lze vyjádřit také termínem redukce pudu, snížení napětí.
 
@@ -231,7 +231,7 @@ Někdy se rozlišují vnější a vnitřní konflikty:
 
 - jsou těsně spjaty s motivací, mohou podněcovat, motivovat k činnosti tak jako potřeby, v tom smyslu patří emoce k motivům. Zároveň emoce doprovázejí průběh činnosti, uspokojování nebo neuspokojování potřeb, dosahování cíle nebo jeho zmaření.
 
-- Základní dvojice protikladných citů**:**
+- Základní dvojice protikladných citů:
 
 - **libost** – uspokojení potřeby, úspěšný průběh činnosti s dosažením cíle
 
@@ -534,13 +534,13 @@ Existuje **škála rozmanitých stavů vědomí** včetně stavů **_relaxace_**
 
 **A. Dle toho, jaké výsledky převažují**
 
-- **_Vědomosti_ ** –představy a pojmy
+- **_Vědomosti_** – představy a pojmy
 
 - **_Senzorické a senzomotorické dovednosti_** – zdokonalení procesu vnímání (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a pohybů (např. při psaní, ve sportu)
 
 - **_Intelektové dovednosti a rozvíjení intelektových schopností_** – např. při vyučování matematice a jazykům
 
-- **_Návyky, postoje, rozvíjení vlastností osobnosti_ ** – např. vytrvalosti a svědomitosti
+- **_Návyky, postoje, rozvíjení vlastností osobnosti_** – např. vytrvalosti a svědomitosti
 
 Vědomost = soustava informací (představ a pojmů), které si člověk osvojil
 
@@ -572,13 +572,13 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_1\. Učení signálům_** – získáváme zkušenost, že po určitém podnětu následuje něco příjemného nebo naopak nepříjemného (klasické podmiňování dle Pavlova)
 
-**_2\. Tvoření spojů S-R (stimul, podnět – reakce)_ ** – naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
+**_2\. Tvoření spojů S-R (stimul, podnět – reakce)_** – naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
 
-**_3\. Řetězení_ ** – spojení několika spojů S-R, pohybů do řetězu
+**_3\. Řetězení_** – spojení několika spojů S-R, pohybů do řetězu
 
-**_4\. Slovní asociace_ ** – spojení řady hlásek či slov
+**_4\. Slovní asociace_** – spojení řady hlásek či slov
 
-**_5\. Mnohonásobná diskriminace_ ** – rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
+**_5\. Mnohonásobná diskriminace_** – rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
 
 **_6\. Učení pojmům_**
 
@@ -586,7 +586,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_8\. Řešení problémů_**
 
-· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení ** – zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
+· Důležitým momentem myšlenkových procesů v učení jsou **procesy kontroly, sebekontroly a autoregulace** v průběhu učení - **zpětnovazební informace** – sledujeme průběh a dílčí výsledky činnosti, tj. vnímáme.
 
 **2) <u>PAMĚŤ</u>**
 
@@ -608,7 +608,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_A. Krátkodobá_** – k zapamatování na dobu několika sekund
 
-**_B. Pracovní_ ** – uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
+**_B. Pracovní_** – uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
 
 **_C. Dlouhodobá_** – k zapamatování na delší dobu, popř. celý život (nutné opakování)
 
@@ -620,7 +620,7 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 - **_Nedeklarativní (procedurální)_** – neuvědomělé podmiňování a osvojování senzomotorických dovedností
 
-- **_Deklarativní_ ** – vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
+- **_Deklarativní_** – vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
 
 - **_Názorná_** – názorné obrazy, představy odpovídající jednotlivým druhům vnímání; je funkcí pravé poloviny mozku
 
@@ -654,7 +654,7 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 **_2\. Imaginativní_** (je konkrétní myšlení) – pracuje s názornými obrazy či představami
 
-**_3\. Propoziční_ ** (je myšlení abstraktní) – operuje se slovy, větami a pojmy
+**_3\. Propoziční_** (je myšlení abstraktní) – operuje se slovy, větami a pojmy
 
 **B. Deduktivní a induktivní myšlení**
 
@@ -662,11 +662,11 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 - **_Induktivní_** – naopak postupuje od jednotlivých případů k obecnější informaci, k zobecnění dílčích, specifických informací.
 
-- **_z_**ejména v logice se užívá deduktivní a induktivní úsudek
+- **_zejména v logice_** se užívá deduktivní a induktivní úsudek
 
 **C. Reproduktivní a produktivní myšlení**
 
-- **_Reproduktivní_ ** – při řešení problému opakuje postup, který již byl jedinci znám
+- **_Reproduktivní_** – při řešení problému opakuje postup, který již byl jedinci znám
 
 - **_Produktivní (tvůrčí)_** – hledá a tvoří postup nový, jedinci dosud neznámý, popřípadě postup, jež dosud nebyl vůbec nalezen a popsán v literatuře
 
@@ -1023,7 +1023,7 @@ Biologicky dané předpoklady, které si dítě přináší na svět se týkají
 
 2) rané dětství – do 3 let věku dítěte
 
-**_a) novorozenec_ ** (28 dnů po porodu)
+**_a) novorozenec_** (28 dnů po porodu)
 
 **_b) kojenec_** (29\. den – 1 rok života dítěte)
 
@@ -1073,7 +1073,7 @@ Biologicky dané předpoklady, které si dítě přináší na svět se týkají
 
 **_B. Koncepce stádií ve vývoji intelektu (J.Piaget)_** – rozvinuté abstraktní myšlení dospělého je výsledkem složitého vývoje, který začíná v raném dětství a vyvíjí se z konkrétního myšlení. Vývoj morálního hodnocení se podobá vývoji intelektu, také prochází vývojovými stádii.
 
-**_C. Koncepce vývoje morálního usuzování(L.Kohlberg)_ ** – 3 hlavní stádia morálního vývoje:
+**_C. Koncepce vývoje morálního usuzování(L.Kohlberg)_** – 3 hlavní stádia morálního vývoje:
 
 1\. Předkonvenční úroveň – dítě se chová bez ohledu na druhé, morální normu dodržuje jen pod tlakem odměn a trestů
 
@@ -1089,7 +1089,7 @@ Biologicky dané předpoklady, které si dítě přináší na svět se týkají
 
 - psychologických aspektů (formování cílů, hodnot, sebehodnocení, …)
 
-**_E. Koncepce kritických životních událostí_ ** – např. narození sourozence, změna ekonomické situace rodiny, těžký úraz, smrt člena rodiny, válka, …, záleží na tom, jak člověk kritickou životní událost (situaci) zvládne, jsou důležité 3 momenty:
+**_E. Koncepce kritických životních událostí_** – např. narození sourozence, změna ekonomické situace rodiny, těžký úraz, smrt člena rodiny, válka, …, záleží na tom, jak člověk kritickou životní událost (situaci) zvládne, jsou důležité 3 momenty:
 
 1\. člověk se snaží vysvětlit si příčinu události, jde o to, aby se nedopouštěl zkreslení skutečnosti
 
@@ -1412,7 +1412,7 @@ d) myšlení spjaté s řečí a myšlenkové řešení problémů
 
 **A. Vnímání** = poznávací proces zachycující to, co působí na naše smysly
 
-- k vnímání je potřeba **_analyzátor_ ** (= receptor, dostředivá dráha a mozkové centrum) – jeho hlavní funkcí je analýza, rozklad, rozlišování podnětů
+- k vnímání je potřeba **_analyzátor_** (= receptor, dostředivá dráha a mozkové centrum) – jeho hlavní funkcí je analýza, rozklad, rozlišování podnětů
 
 a) **_analyzátor pohybový_** (kinestetický, proprioceptivní) – slouží ke kontrole pohybů a polohy jednotlivých částí těla, je spojen s vnímáním a udržováním rovnováhy
 
@@ -1480,13 +1480,13 @@ e. zpracování info – srovnání s dřívějšími zkušenostmi uloženými v
 
 **C. Dle toho, jaké výsledky převažují**
 
-- **_Vědomosti_ ** –představy a pojmy
+- **_Vědomosti_** –představy a pojmy
 
 - **_Senzorické a senzomotorické dovednosti_** – zdokonalení procesu vnímání (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a pohybů (např. při psaní, ve sportu)
 
 - **_Intelektové dovednosti a rozvíjení intelektových schopností_** – např. při vyučování matematice a jazykům
 
-- **_Návyky, postoje, rozvíjení vlastností osobnosti_ ** – např. vytrvalosti a svědomitosti
+- **_Návyky, postoje, rozvíjení vlastností osobnosti_** – např. vytrvalosti a svědomitosti
 
 Vědomost = soustava informací (představ a pojmů), které si člověk osvojil
 
@@ -1518,13 +1518,13 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_9\. Učení signálům_** – získáváme zkušenost, že po určitém podnětu následuje něco příjemného nebo naopak nepříjemného (klasické podmiňování dle Pavlova)
 
-**_10\. Tvoření spojů S-R (stimul, podnět – reakce)_ ** – naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
+**_10\. Tvoření spojů S-R (stimul, podnět – reakce)_** – naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
 
-**_11\. Řetězení_ ** – spojení několika spojů S-R, pohybů do řetězu
+**_11\. Řetězení_** – spojení několika spojů S-R, pohybů do řetězu
 
-**_12\. Slovní asociace_ ** – spojení řady hlásek či slov
+**_12\. Slovní asociace_** – spojení řady hlásek či slov
 
-**_13\. Mnohonásobná diskriminace_ ** – rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
+**_13\. Mnohonásobná diskriminace_** – rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
 
 **_14\. Učení pojmům_**
 
@@ -1550,7 +1550,7 @@ Rozlišují se **3 hlavní skupiny paměťových procesů:**
 
 **_D. Krátkodobá_** – k zapamatování na dobu několika sekund
 
-**_E. Pracovní_ ** – uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
+**_E. Pracovní_** – uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
 
 **_F. Dlouhodobá_** – k zapamatování na delší dobu, popř. celý život (nutné opakování)
 
@@ -1560,7 +1560,7 @@ V paměťových procesech spolupracuje více mozkových center – **paměť pra
 
 - **_Nedeklarativní (procedurální)_** – neuvědomělé podmiňování a osvojování senzomotorických dovedností
 
-- **_Deklarativní_ ** – vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
+- **_Deklarativní_** – vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
 
 - **_Názorná_** – názorné obrazy, představy odpovídající jednotlivým druhům vnímání; je funkcí pravé poloviny mozku
 
@@ -1624,7 +1624,7 @@ B) I.P.Pavlov – typ myslitelský a umělecký
 
 **_5\. Imaginativní_** (je konkrétní myšlení) – pracuje s názornými obrazy či představami
 
-**_6\. Propoziční_ ** (je myšlení abstraktní) – operuje se slovy, větami a pojmy
+**_6\. Propoziční_** (je myšlení abstraktní) – operuje se slovy, větami a pojmy
 
 **b) Deduktivní a induktivní myšlení**
 
@@ -1636,7 +1636,7 @@ B) I.P.Pavlov – typ myslitelský a umělecký
 
 **c) Reproduktivní a produktivní myšlení**
 
-- **_Reproduktivní_ ** – při řešení problému opakuje postup, který již byl jedinci znám
+- **_Reproduktivní_** – při řešení problému opakuje postup, který již byl jedinci znám
 
 - **_Produktivní (tvůrčí)_** – hledá a tvoří postup nový, jedinci dosud neznámý, popřípadě postup, jež dosud nebyl vůbec nalezen a popsán v literatuře
 
@@ -1689,13 +1689,13 @@ B) I.P.Pavlov – typ myslitelský a umělecký
 
 **E. Dle toho, jaké výsledky převažují**
 
-- **_Vědomosti_ ** –představy a pojmy
+- **_Vědomosti_** –představy a pojmy
 
 - **_Senzorické a senzomotorické dovednosti_** – zdokonalení procesu vnímání (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a pohybů (např. při psaní, ve sportu)
 
 - **_Intelektové dovednosti a rozvíjení intelektových schopností_** – např. při vyučování matematice a jazykům
 
-- **_Návyky, postoje, rozvíjení vlastností osobnosti_ ** – např. vytrvalosti a svědomitosti
+- **_Návyky, postoje, rozvíjení vlastností osobnosti_** – např. vytrvalosti a svědomitosti
 
 Vědomost = soustava informací (představ a pojmů), které si člověk osvojil
 
@@ -1727,13 +1727,13 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_17\. Učení signálům_** – získáváme zkušenost, že po určitém podnětu následuje něco příjemného nebo naopak nepříjemného (klasické podmiňování dle Pavlova)
 
-**_18\. Tvoření spojů S-R (stimul, podnět – reakce)_ ** – naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
+**_18\. Tvoření spojů S-R (stimul, podnět – reakce)_** – naučíme se reagovat na určitý podnět určitým způsobem (instrumentální podmiňování dle Thorndika a Skinnera)
 
-**_19\. Řetězení_ ** – spojení několika spojů S-R, pohybů do řetězu
+**_19\. Řetězení_** – spojení několika spojů S-R, pohybů do řetězu
 
-**_20\. Slovní asociace_ ** – spojení řady hlásek či slov
+**_20\. Slovní asociace_** – spojení řady hlásek či slov
 
-**_21\. Mnohonásobná diskriminace_ ** – rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
+**_21\. Mnohonásobná diskriminace_** – rozlišování v souboru spojů a řetězců pohybových nebo slovních (např. žáci se učí rozeznávat rostliny, zvířata, chemické prvky, … a nazývat jejich jmény)
 
 **_22\. Učení pojmům_**
 
@@ -1763,7 +1763,7 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému 
 
 **_G. Krátkodobá_** – k zapamatování na dobu několika sekund
 
-**_H. Pracovní_ ** – uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
+**_H. Pracovní_** – uchovává info déle než krátkodobá a kratší dobu než dlouhodobá paměť, závisí na tom, jak dlouho řešíme problém, k jehož zvládnutí potřebujeme danou info
 
 **_I. Dlouhodobá_** – k zapamatování na delší dobu, popř. celý život (nutné opakování)
 
@@ -1775,7 +1775,7 @@ Pro ukládání info do dlouhodobé paměti má význam hipokampus (součást vn
 
 - **_Nedeklarativní (procedurální)_** – neuvědomělé podmiňování a osvojování senzomotorických dovedností
 
-- **_Deklarativní_ ** – vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
+- **_Deklarativní_** – vědomé vybavování zkušeností a osvojování vědomostí, častým opakováním se může přeměnit na paměť nedeklarativní
 
 - **_Názorná_** – názorné obrazy, představy odpovídající jednotlivým druhům vnímání; je funkcí pravé poloviny mozku
 
@@ -1849,7 +1849,7 @@ D) I.P.Pavlov – typ myslitelský a umělecký
 
 **_8\. Imaginativní_** (je konkrétní myšlení) – pracuje s názornými obrazy či představami
 
-**_9\. Propoziční_ ** (je myšlení abstraktní) – operuje se slovy, větami a pojmy
+**_9\. Propoziční_** (je myšlení abstraktní) – operuje se slovy, větami a pojmy
 
 **F. Deduktivní a induktivní myšlení**
 
@@ -1863,7 +1863,7 @@ D) I.P.Pavlov – typ myslitelský a umělecký
 
 **G. Reproduktivní a produktivní myšlení**
 
-- **_Reproduktivní_ ** – při řešení problému opakuje postup, který již byl jedinci znám
+- **_Reproduktivní_** – při řešení problému opakuje postup, který již byl jedinci znám
 
 - **_Produktivní (tvůrčí)_** – hledá a tvoří postup nový, jedinci dosud neznámý, popřípadě postup, jež dosud nebyl vůbec nalezen a popsán v literatuře
 
@@ -2246,7 +2246,7 @@ v **Temperament** – část osobnosti, která je určována převážně biolog
 
 Od Hippokrata a Galena se traduje učení o čtyřech typech temperamentu:
 
-- **_sangvinik_ ** – společenský, činorodý, veselý, bezstarostný, živě reagující, čilý, hovorný a optimista, emočně nestálý
+- **_sangvinik_** – společenský, činorodý, veselý, bezstarostný, živě reagující, čilý, hovorný a optimista, emočně nestálý
 
 - **_cholerik_** – nedůtklivý, neklidný, útočný, vznětlivý, impulzivní, spolehlivý a stálý ve svých názorech a životních hodnotách
 
@@ -2463,7 +2463,7 @@ Jedinec si osvojuje a upevňuje takové formy chování, které chápe jako odpo
 
 9) **rané dětství** – do 3 let věku dítěte
 
-**_d) novorozenec_ ** (28 dnů po porodu)
+**_d) novorozenec_** (28 dnů po porodu)
 
 → **komunikace s matkou** – sluchem rozlišuje matčin hlas (možno i hlas otce)
 
@@ -2667,7 +2667,7 @@ po osamostatnění od rodiny může vést do další závislosti → další vý
 
 - senzomotorické i intelektové schopnosti jsou na vysoké úrovni – umožňují dosahovat vysokých výkonů (např. ve sportu, v zájmových činnostech, v učebním předmětu, …)
 
-**_b) sociální aspekty_ ** – 2 důležité mezníky sociálního vývoje:
+**_b) sociální aspekty_** – 2 důležité mezníky sociálního vývoje:
 
 - ukončení povinné školní docházky
 
@@ -2683,7 +2683,7 @@ adolescenti pokračují v úsilí o nezávislost na rodičích a jiných dospěl
 
 spolehlivější je získat jistotu na vzdělání, schopnostech, výkonech, komunikačních dovednostech a charakterových rysech
 
-- formování vlastního „já“, vlastní identity zahrnuje **_krizi_ ** (pochybnosti, váhání mezi možnostmi ve volbě např. povolání, partnera, životního stylu, …), její **_řešení, přijetí závazku_** **_a_** **_úsilí_** při jeho realizaci
+- formování vlastního „já“, vlastní identity zahrnuje **_krizi_** (pochybnosti, váhání mezi možnostmi ve volbě např. povolání, partnera, životního stylu, …), její **_řešení, přijetí závazku_** **_a_** **_úsilí_** při jeho realizaci
 
 - jsou velké inter-individuální rozdíly mezi adolescenty – v hodnocení vzdělání, sebehodnocení vlastních schopností, délky závislosti na rodičích, …
 
