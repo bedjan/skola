@@ -1,3 +1,5 @@
+[Moodle Nidv](http://moodle.nidv.cz/course/view.php?id=83)
+
 Osnova témat
  	
 Obsah studia:
