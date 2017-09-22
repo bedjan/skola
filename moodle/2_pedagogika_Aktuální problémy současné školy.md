@@ -3,7 +3,7 @@
 
 **Zadání:**
 
-*Uveďte minimálně 3 odborné články nebo publikace na téma "Aktuální otázky či problémy současné školy" a zpracujte jejich citaci dle ISO (využijte portál [Citace.com](https://www.citace.com/) )*
+*Uveďte minimálně 3 odborné články nebo publikace na téma "Aktuální otázky či problémy současné školy" a zpracujte jejich citaci dle [ČSN ISO 690](https://sites.google.com/site/novaiso690/metody-citovani) (využijte portál [Citace.com](https://www.citace.com/) )*
 
 
 ##### Aktuální otázky či problémy současné školy
