@@ -72,121 +72,95 @@
 
 *Definice pedagogiky:*
 
-Pedagogika je věda, která se zabývá výchovou a vzděláváním, které chápe jako cílevědomý a záměrný proces na utváření a formování osobnosti člověka.
-
-Patří mezi humanitní vědy tj.vědy o člověku stejně jako např.– filozofie, sociologie, psychologie…
+***Pedagogika*** - humanitní věda o výchově a vzdělávání; cílevědomá a záměrná činnost s utvářením a formováním osobnosti.
 
 *****
 **Ad 2) Definice výchovy a její cíle**
 
 *Definice výchovy:*
 
-Výchova je cílevědomá činnost zaměřená na předávání vzorců, norem a pravidel chování platných ve společnosti („umravňování“)
+***Výchova*** 
 
-Je to specifický druh SOCIALIZACE (zespolečešťování) – včleňování jedince do společnosti (uvádění do společnosti).
+- cílevědomá činnost s předáváním vzorců, norem a pravidel chování platných ve společnosti("umravňování")
 
-Výchova by měla zajistit, aby se předávaly morální normy z generace na generaci
+- specifický druh SOCIALIZACE ("zespolečešťování" – začleňování jedince do společnosti)
 
-Morálka – soubor pravidel a norem, které vymezují jak by se měl chovat člověk ve společnosti
+- zajistit předávání morálních norem z generace na generaci
 
-Nauka o morálce je etika.
+***Morálka*** – soubor pravidel a norem chování ve společnosti
 
-Nejčastěji rozlišujeme výchovu:
+***Etika*** - nauka o morálce
 
-- mravní (utvářející systém hodnot a norem jedince)
+***Výchova - rozdělení:***
 
-- rozumovou (formující a rozvíjející intelekt člověka)
+- mravní (utváří systém hodnot a norem jedince)
 
-- dále pak tělesnou,
+- rozumová (formující a rozvíjející intelekt člověka)
 
-- uměleckou atd.
+- tělesná
 
-*Cíl výchovy:*
+- umělecká
 
-Vytvoření svědomí, které odpovídá společenské morálce
+***Cíl výchovy:***
 
-*Poznámka:*
-
-Cílem výchovy je jedinec, který si zvnitřní (interiorizuje) normy chování, hodnoty, postoje, které vycházejí ze společenské morálky a reálně se podle nich v životě chová (exterizuje).
+- vytvořit svědomí dle společenské morálky ( jedinec si zvnitřní (interiorizuje) normy chování, hodnoty, postoje vycházející ze společenské morálky a reálně se podle nich v životě chová (exterizuje)
 
 *****
 **Ad 3) Definice vzdělávání**
 
-*Definice vzdělávání (edukace):*
+*Vzdělávání definice (edukace):*
 
-Vzdělávání je cílený proces zaměřený na získávání, předávání a osvojování poznatků, vědomostí a dovedností.
+- cílený proces zaměřený na získávání, předávání a osvojování poznatků, vědomostí a dovedností
 
-Výsledkem vzdělávání je vzdělání.
+- nejčastěji realizováno školním vzděláváním (nazývané vyučováním při němž se učí
 
-Vzdělání je souhr- vědomostí, poznatků a dovedností potřebných pro občanský, rodinný a profesní život.
+***Vzdělání*** - výsledek vzdělávání; souhrn vědomostí, poznatků a dovedností potřebných pro občanský, rodinný a profesní život
 
-Vzdělávání je nejčastěji realizováno prostřednictví školního vzdělávání, které nazýváme vyučování při němž dochází k nějakému druhu učení.
-
-Poznámka:
-
-- výchova a vzdělávání jsou jede- ze základních předpokladů pro rozvoj společnosti a jedince
-
-- jedná se opět o specifický druh socializace (tj.začleňování jedince do společnosti)
-
-- výchovou a vzděláváním se může ovlivnit velká většina národa
+***Výchova a vzdělávání*** - jeden ze základních předpokladů pro rozvoj společnosti a jedince; specifický druh socializace; může ji ovlivnit velká většina národa
 
 *****
 **Ad 4) Pedagogika jako věda – 5 základních požadavků**
 
-Pedagogika stejně jako jakákoliv jiná věda musí splňovat těchto pět základních požadavků:
+***Pedagogika - 5 základních požadavků:***
 
- Jakákoliv vědní disciplína by lidem měla být užitečná – měla by přinést nějaký
+- užitečnost (např.výchovné a didaktické postupy, zásady)
 
-užitek – reálný význam pro společnost (v ped.např.výchovné a didaktické postupy, a zásady).
+- vědecky definovaný předmět zkoumání (v pedagogice výchova a vzdělávání)
 
-‚ Aby věda mohla být vědou, musí mít jasně definovaný předmět zkoumání (v pedagogice výchova a vzdělávání).
+- výzkumné metody (rozhovor, pozorování, expe-riment, srovnávací metody, dotazník, test, expertní šetření …)
 
- Každá vědní disciplína musí mít soubor výzkumných metod,
+- vymezený vztah k jiným vědám ( výměna informací s dalšími vědami = mezioborové disciplíny – sociologie výchovy, dějiny pedagogiky, pedagogická psychologie …)
 
-kterými zkoumá daný předmět ð výzkumné metody (rozhovor, pozorování, expe-riment, srovnávací metody, dotazník, test, expertní šetření …).
-
-„ Každá věda musí mít vymezený vztah k jiným vědám
-
-(musí docházet k výměně informací ð vznikají
-
-mezioborové disciplíny – sociologie výchovy, dějiny pedagogiky, pedagogická psychologie …).
-
-… Každá vědní disciplína musí být reálně prováděna odbornými pracovníky tj.– vědci v určitých věd.institucích
-
-(institucionalizace vědy – VŠ pedagogické a filozofické a jiné fakulty různých uni-verzit, výzkumné ústavy, akademie věd apod.)
+- reálně prováděna odbornými pracovníky, tedy vědci v určitých vědních institucích (institucionalizace vědy – VŠ pedagogické a filozofické a jiné fakulty různých univerzit, výzkumné ústavy, akademie věd)
 
 *****
 **Ad 5) Dělení pedagogických disciplín**
 
-Základní pedagogické disciplíny:
+***Základní pedagogické disciplíny:***
 
-Pedagogika se dělí na základní, hraniční a aplikované pedagogické disciplíny
+- základní, hraniční, aplikované 
 
- Základní pedagogické disciplíny:
+***Základní pedagogické disciplíny:***
 
-a) Obecná pedagogika – zabývá se obecnými teoretickými základy pedagog-giky, zkoumá vědosloví a postavení pedagogiky v systému věd o člověku
+***a) Obecná*** – zabývá se obecnými teoretickými základy pedagogiky, zkoumá vědosloví a postavení pedagogiky v systému věd o člověku
 
-b) Metodologie pedagogiky – rozvíjí především výzkumné metody jimiž se zkoumají pedagogické jevy a procesy,(odhaluje a měří pedagogické zákonitosti).Usiluje o vytvoření soustavy poznatků o základech a struktuře pedagogické teorie,
+***b) Metodologie*** – rozvíjí především výzkumné metody jimiž se zkoumají pedagogické jevy a procesy,(odhaluje a měří pedagogické zákonitosti).Usiluje o vytvoření soustavy poznatků o základech a struktuře pedagogické teorie,
 
-c) Dějiny pedagogiky – zabývá se studiem vývoje výchovy a vzdělávání v dějinách lidstva
+***c) Dějiny***  – zabývá se studiem vývoje výchovy a vzdělávání v dějinách lidstva
 
-d) Srovnávací pedagogika – zabývá se srovnáváním výchovně vzdělávacích systémů v různých zemích
+***d) Srovnávací*** – zabývá se srovnáváním výchovně vzdělávacích systémů v různých zemích
 
-e) Didaktika – zabývá se teorií vyučování, jinak také nauka o vyučování
+***e) Didaktika*** – nauka o vyučování; a.Obecná – např.od jednoduššího ke složitějšímu, názornost, opakování; b.Oborová – podstatně jednoduchých předmětů (dějepisu, českého jazyka …)
 
-a.Obecná – např.od jednoduššího ke složitějšímu, názornost, opakování …
+***f) Teorie výchovy*** – obor studující procesy záměrného utváření vlastností lidí v souladu s cíly a úlohami společnosti
 
-b.Oborová – podstatně jednoduchých předmětů (dějepisu, českého jazyka …)
+***g) Speciální pedagogika*** – výchova a vzdělávání handicapovaných jedinců
 
-f) Teorie výchovy – obor studující procesy záměrného utváření vlastností lidí v souladu s cíly a úlohami společnosti
+***h) Pedagogická diagnostika*** – zkoumá projevy a výsledky činností žáků, umožňuje odhalovat neje- poruch a problémy, ale i dosaženou úroveň činností.Je základem pro evaluaci a auto evaluaci
 
-g) Speciální pedagogika – výchova a vzdělávání handicapovaných jedinců
+***i) Andragogika*** – VV dospělých
 
-h) Pedagogická diagnostika – zkoumá projevy a výsledky činností žáků, umožňuje odhalovat neje- poruch a problémy, ale i dosaženou úroveň činností.Je základem pro evaluaci a auto evaluaci
-
-i) Andragogika – VV dospělých
-
-‚ Hraniční vědní disciplíny disciplíny:
+***Hraniční vědní disciplíny:***
 
 a) Pedagogická psychologie (pedagogika x psychologie)
 
@@ -212,20 +186,21 @@ k) Teorie řízení školních zařízení (managementu)(management x pedagogiky
 
 l) Dramatická výchova
 
+***Aplikované pedagogické disciplíny – členění z hlediska:***
 
- Aplikované pedagogické disciplíny – členění:
+1) věkových stadií rozvoje osobnosti (předškolní ped., ped.ZŠ /tzv.primární ped./, středoškolská ped., vyso-koškolská ped., andragogika, gerontopedagogika).
 
-1.– z hlediska věkových stadií rozvoje osobnosti (předškolní ped., ped.ZŠ /tzv.primární ped/, středoškolská ped., vyso-koškolská ped., andragogika, gerontopedago-gika).
+2) společenských oblastí ( ped.podnikového vzdělávání, volného času, masově vzdělávacích prostředků atd.).
 
-2.– z hlediska společenských oblastí ( ped.podnikového vzdělávání, volného času, masově vzdělávacích prostředků atd.).
-
-3.– z hlediska výchovných zařízení, zahrnuje i školské hledisko
+3) výchovných zařízení, zahrnuje i školské hledisko
 
 a) Předškolní pedagogika
 
 b) Školní pedagogika
 
-c) Mimoškolní pedagogika: - Rodinná výchova
+c) Mimoškolní pedagogika: 
+
+- Rodinná výchova
 
 - Pedagogika dětských a mládežnických organizací
 
@@ -240,8 +215,6 @@ d) Na hranici mezi školní a mimoškolní pedagogikou se rozvíjejí:
 - Gerontopedagogika
 
 - Pedagogická prognostika
-
-ale i
 
 - Oborové didaktiky (zeměpis, jazyky atd.)
 
@@ -263,100 +236,94 @@ ale i
 
 **Ad 1) Nejvýznamnější problémy**
 
-Nejvýznamnější problémy :
+- Reforma školství –ŠVP, RVP, státní maturity
+- Základní učivo a rozšiřující učivo
+- Pravomoce učitelů
+- Agresivita žáků
+- Postavení učitelů ve škole, společnosti
+- Inkluze
+- Úbytek dětí ve školství – (optimalizace škol)
+- Odměňování pedagogických pracovníků
+- Celoživotní vzdělávání
+- Feminizace
+- Financování školství
+- Obsah základního vzděláváními – teorie a praxe a vědecké poznání
+- Obměna pedagogické profese
+- Příprava učitelů na VŠ /didaktika/ „Jak učit.“
 
-Reforma školství –ŠVP, RVP, státní maturity
-Základní učivo a rozšiřující učivo
-Pravomoce učitelů
-Agresivita žáků
-Postavení učitelů ve škole, společnosti
-Inkluze
-Úbytek dětí ve školství – (optimalizace škol)
-Odměňování pedagogických pracovníků
-Celoživotní vzdělávání
-Feminizace
-Financování školství
-Obsah základního vzděláváními – teorie a praxe a vědecké poznání
-Obměna pedagogické profese
-Příprava učitelů na VŠ /didaktika/ „Jak učit.“
+V současnosti nastává ve vzdělávání určitý krizový moment, protože přílišná vázanost oborových didaktik na příslušnou vědní disciplínu vede k přetěžování žáků a tím i k závažným výchovně-vzdělávacím problémům, protože ***škola již nestačí držet krok s rozvojem vědeckého poznání***. Kromě toho tradiční vyučovací předměty již nepokrývají všechny sféry života moderní společnosti, které by si měl každý příslušník společnosti osvojit (např.technika, politika, medicína, psychologie aj.).
 
-V současné době však nastává ve vzdělávání určitý krizový moment, poněvadž přílišná vázanost oborových didaktik na příslušnou vědní disciplínu vede k přetěžování žáků, a tím i k závažným výchovně-vzdělávacím problémům, protože škola již nestačí držet krok s rozvojem vědeckého poznání.Kromě toho tradiční vyučovací předměty již nepokrývají všechny sféry života moderní společnosti, které by si měl každý příslušník společnosti osvojit (např.technika, politika, medicína, psychologie aj.).
 *****
 **Ad 2) Kurikulární reforma**
 
-Kurikulární reforma :
+***Kurikulum, dříve OBSAH*** = „obsah“ s věcmi co se mají naučit
 
-Kurikulum dříve OBSAH, „obsah“ s věcmi co se mají naučit.
+***Kurikulum definice*** - obsah veškeré zkušenosti, kterou žáci získávají ve škole a v činnostech ke škole se vztahující tj.vědomosti, dovednosti, hodnoty, postoje, názory.
 
-DEFINICE :
+***Kurikulum je ovlivňováno***
 
-Kurikulum-obsah veškeré zkušenosti, kterou žáci získávají ve škole a v činnostech ke škole se vztahující tj.vědomosti, dovednosti, hodnoty, postoje, názory.
+-  Žáky = věk, počet, schopnosti a dovednosti
 
-Kurikulum je ovlivňováno
+-  Školou = stupeň, prostorové + materiálně technické možnosti
 
-• Žáky = věk, počet, schopnosti a dovednosti
+-  Vědeckým poznáním (vývoj)
 
-• Školou = stupeň, prostorové + materiálně technické možnosti
+-  Praxí (společenskou objednávkou)
 
-• Vědeckým poznáváním (vývoj)
+-  Kulturně historickými vlivy
 
-• Praxí (společenskou objednávkou)
+Dnes už si neosvojovat obsahy, ale KOMPETENCE (schopnosti). K učení, komunikaci atd. viz. [Školní vzdělávací program pro ZŠ](www.kotlarska.cz/wp-content/uploads/2014/12/svp_zs.pdf)
 
-• Kulturně historickými vlivy
-
-Dnes už ne obsahy x ale osvojit si KOMPETENCE (schopnosti).K …učení, komunikaci atd.viz.ŠVP pro ZŠ
 *****
 **Ad 3) Alternativní školy**
 
-Alternativní školy :
+***Alternativní školy:***
 
-Je jiná možnost vzdělávání ke státnímu systému či většinovému systému
+= jiná možnost vzdělávání ke státnímu či většinovému systému
 
-Největší rozvoj mezi světovými válkami 19.– 20.století
+***Největší rozvoj:*** mezi světovými válkami 19.– 20.století
 
-Zakladatelské země a velký rozvoj : Francie, Německo, Itálie, USA.
+***Zakladatelské země a velký rozvoj:*** Francie, Německo, Itálie, USA
 
-Zakladatelé : rodiče, učitelé, odborníci
+***Zakladatelé:*** rodiče, učitelé, odborníci
 
-Základními principy :
+***Základními principy:***
 
-• Nové, netradiční metody
+-  Nové, netradiční metody
 
-• Dobrovolnost, iniciativa (učitelů i žáků)
+-  Dobrovolnost, iniciativa (učitelů i žáků)
 
-• Zájem, individuální přístup, orientace na děti
+-  Zájem, individuální přístup, orientace na děti
 
-• Nové a jiné způsoby vzdělávání pedagogů, nová filozofická východiska
+-  Nové a jiné způsoby vzdělávání pedagogů, nová filozofická východiska
 
-• Partnerský vztah učitele a žáků
+-  Partnerský vztah učitele a žáků
 
-• Důraz na princip svobody, uplatňování principů demokracie
+-  Důraz na princip svobody, uplatňování principů demokracie
 
-• Respektování přirozených potřeb žáků
+-  Respektování přirozených potřeb žáků
 
-• Encyklopedismus ve vzdělávání je nahraze- tvořivou aktivitou a činnostním učením
+-  Encyklopedismus ve vzdělávání je nahraze- tvořivou aktivitou a činnostním učením
 
-• Využívání netradičních metod a forem práce
+-  Využívání netradičních metod a forem práce
 
-• Úpravu prostředí, přístupný didaktický materiál
+-  Úpravu prostředí, přístupný didaktický materiál
 
-• Převážně slovní, motivující hodnocení, podporující pozitivní sebehodnocení žáka
+-  Převážně slovní, motivující hodnocení, podporující pozitivní sebehodnocení žáka
 
-• Aktivní podíl rodičů na utváření školního života
+-  Aktivní podíl rodičů na utváření školního života
 
-Zajímavosti :
+***Zajímavosti:***
 
-1.nové způsoby hodnocení (křivky, grafy, slovní hodnocení)
+1) nové způsoby hodnocení (křivky, grafy, slovní hodnocení)
 
-2.práce s tělem, hudba, tanec
+2) práce s tělem, hudba, tanec
 
-3.nová architektura
+3) nová architektura
 
-4.nové organizační formy ( epochy)
+4) nové organizační formy ( epochy)
 
-Nejznámější školy :
-
-Waldorfské školy
+***Nejznámější školy:***
 
 - první škola vycházející z antroposofie, filozoficko-pedagogická koncepce Rakušana Rudolfa Steinera, založil ji v roce 1919 v německé obci Waldorf Emil Molt
 
@@ -368,7 +335,7 @@ Waldorfské školy
 
 - klade důraz na rozvoj dětí v praktických a uměleckých oborech
 
-- učební plá- obsahuje společenskovědní a přírodovědné předměty, cizí jazyky, esteticko-výchovné a pracovní předměty
+- učební plán obsahuje společenskovědní a přírodovědné předměty, cizí jazyky, esteticko-výchovné a pracovní předměty
 
 - vyučovací předměty se dělí na hlavní a vedlejší
 
@@ -388,11 +355,13 @@ Waldorfské školy
 
 - mají systém vlastního vzdělávání učitelů
 
-Montessoriovské školy
+***Montessoriovské školy:***
 
-- Maria Montessori, italská lékařka, vytvořila originální systém antiautoritavní výchovy
+Maria Montessori=italská lékařka, vytvořila originální systém antiautoritavní výchovy
 
-- k základním principům patří úcta ke svobodě dítěte a k jeho spontánním projevům
+***Základní princpy:*** 
+
+- úcta ke svobodě dítěte a k jeho spontánním projevům
 
 - klade důraz na didakticky kladně upraveného prostředí, které napomáhají přirozenému vývoji dítěte
 
@@ -409,7 +378,7 @@ Montessoriovské školy
 - ve školách se hodnotí slovně
 
 Perspektivní řešení výchovně-vzdělávacích problémů je determinováno situací naší civilizace a potřebami jejího rozvoje.
-Co se týče výběru vzdělávacích obsahů (kurikula) je třeba zvýšit zřetel k jejich vztahu k životu a k rozvoji dovednosti funkčně je třídit, zpracovávat a používat.
+Ohledně výběru vzdělávacích obsahů (kurikula) je třeba zvýšit zřetel k jejich vztahu k životu a k rozvoji dovednosti funkčně je třídit, zpracovávat a používat.
 Na transformaci poznatků z jednotlivých oborů se musí podílet pedagogické a psychologické disciplíny a významnou měrou také oborové didaktiky.
 Optimálního řešení vzdělávacího obsahu lze dosáhnout je- úzkou koordinací a spoluprací všech odpovědných činitelů.
 Očekávané funkce mohou oborové didaktiky plnit je- jako relativně samostatné pedagogické disciplíny, jejichž základnou je příslušný obor a pedagogika, resp.obecná didaktika.
@@ -427,15 +396,16 @@ Osnova:
 *****
 **Ad 1) Definice výchovně vzdělávacích metod**
 
-Metoda – pojem odvozený z řeckého slova methodos (cesta k něčemu, postup k určitému cíli)
+***Metoda*** – pojem odvozený z řeckého slova methodos (cesta k něčemu, postup k určitému cíli)
 
-Definice výchovně vzdělávacích metod:
+***Definice výchovně vzdělávacích metod:***
 
 - způsob práce učitele jímž organizuje činnost žáků k dosažení výchovně vzdělávacích cílů
+
 *****
 **Ad 2) Faktory ovlivňující výběr výchovně vzdělávacích metod**
 
-Volbu výchovně vzdělávací metody v praxi ovlivňuje:
+***Volbu výchovně vzdělávací metody v praxi ovlivňuje:***
 
 - druh a stupeň vzdělávací instituce či školy
 
@@ -468,10 +438,11 @@ V případě, že uvažujeme o konkrétních metodách na základě formulace c�
 - zamyslet se nad výchovnými a vzdělávacími efekty metod (rozvoj vůle, citovosti, charakteru, spolupráce, rozhodovacích schopností)
 
 - uvážit to, že v užití metody se v konkrétní učební situaci koncentruje jednota cílů, učiva, organizační formy, materiálních prostředků a činností učitele a žáka.
+
 *****
 **Ad 3) Dělení výchovně vzdělávacích metod**
 
-Dělení výchovně vzdělávací metody:
+***Dělení výchovně vzdělávací metody:***
 
 - A) monologické (založené na využívání souvislého mluveného projevu jednotlivce – učitele či žáka)
 
@@ -486,7 +457,7 @@ Dělení výchovně vzdělávací metody:
 - F) didaktická hra a soutěž jako vyučovací metody
 
 
-A) MONOLOGICKÉ METODY:
+***A) MONOLOGICKÉ METODY:***
 
 jsou založené na využití souvislého mluveného projevu jednotlivce – učitele či žáka
 
@@ -518,7 +489,7 @@ Instruktáž: prostá informovanost o nějakém postupu, instruktáž v širší
 
 Souvislé vystoupení studenta: například při prezentaci referátu
 
-B) PRÁCE S TEXTEM: podstatou činnosti je práce s textem, kde zdrojem poznání je především slovo (učebnice, používání pracovních sešitů, textů).Může mít podobu:
+***B) PRÁCE S TEXTEM:*** podstatou činnosti je práce s textem, kde zdrojem poznání je především slovo (učebnice, používání pracovních sešitů, textů).Může mít podobu:
 
 Reproduktivní – žák se učí informacím, které jsou v textu obsaženy
 
@@ -526,7 +497,7 @@ Produktivní (tvořivé) – text podněcuje tvořivou činnost žáka
 
 Osvojování metod samostatné práce s učebnicí a tištěnými texty je předpokladem dalšího sebevzdělávání a seberozvoje člověka.
 
-C) DIALOGICKÉ METODY: slovní interpretace mezi učitele a žáky
+***C) DIALOGICKÉ METODY:*** slovní interpretace mezi učitele a žáky
 
 Výukový rozhovor: má reproduktivní charakter, navazuje na výklad či jiné metody, objasňující, opakující, shrnující
 
@@ -542,19 +513,19 @@ Princip brainstormingu (mozková vichřice): spojená s tvořivostí a fantazií
 
 Metoda mapování mysli = „mind mapping – užitečná zejména v etapě hledání nápadů a v jejich první strukturaci, využívá spolupráce levé a pravé mozkové hemisféry, např.: podstatu problému napíšeme doprostřed velkého papíru a necháme žáky kreslit a psát to, co jim přináší mozková činnost (co je právě napadne)
 
-D) NÁZORNĚ-DEMONSTRAČNÍ METODY: založené především na pozorovací činnosti žáků, žákům se něco ukáže (např.děj, proces, životní situace) a poté se s tím dále pracuje (názory, postoje, další možnosti řešení), demonstrace znamená názornou ukázku předmětu či procesu – nejjednodušší formou demonstračních metod je ilustrace, která doplňuje většinou slovní výklad
+***D) NÁZORNĚ-DEMONSTRAČNÍ METODY:*** založené především na pozorovací činnosti žáků, žákům se něco ukáže (např.děj, proces, životní situace) a poté se s tím dále pracuje (názory, postoje, další možnosti řešení), demonstrace znamená názornou ukázku předmětu či procesu – nejjednodušší formou demonstračních metod je ilustrace, která doplňuje většinou slovní výklad
 
-E) ROZBOROVÉ METODY: v jejím rámci žáci provádějí analýzu např.textových materiálů, chování osob, stanovisek k různým problémům, historických pramenů, schémat, …
+***E) ROZBOROVÉ METODY:*** v jejím rámci žáci provádějí analýzu např.textových materiálů, chování osob, stanovisek k různým problémům, historických pramenů, schémat, …
 
-F) SITUAČNÍ METODY: předmětem analýzy je ucelená reálná situace – i konfliktní povahy – z profesního či osobního života, cílem je pak věcný rozbor situace, jádra problému, rozbor chování aktérů této situace.Podstata této metody je v analýze situace a pochopení základních vztahů, které tuto situaci vytvářejí.
+***F) SITUAČNÍ METODY:*** předmětem analýzy je ucelená reálná situace – i konfliktní povahy – z profesního či osobního života, cílem je pak věcný rozbor situace, jádra problému, rozbor chování aktérů této situace.Podstata této metody je v analýze situace a pochopení základních vztahů, které tuto situaci vytvářejí.
 
-G) PROJEKTOVÉ METODY: založena na analyticko-syntetické činnosti, učitel vytvoří se třídou nějaký projekt, kterému se poté věnuje určitý čas, po který se mu věnuje (ve všech předmětech)
+***G) PROJEKTOVÉ METODY:*** založena na analyticko-syntetické činnosti, učitel vytvoří se třídou nějaký projekt, kterému se poté věnuje určitý čas, po který se mu věnuje (ve všech předmětech)
 
-H) INSCENAČNÍ METODY: je postupem, který vychází z principu situační metody, vyjadřuje vytvoření projektu a z něj vycházející praktické simulování, hraní určité sociální situace a přijímání konkrétní sociální role.Dramatizace, přehrání nějaké situace (např.přijímacího pohovoru).
+***H) INSCENAČNÍ METODY:*** je postupem, který vychází z principu situační metody, vyjadřuje vytvoření projektu a z něj vycházející praktické simulování, hraní určité sociální situace a přijímání konkrétní sociální role.Dramatizace, přehrání nějaké situace (např.přijímacího pohovoru).
 
-CH) VÝCVIKOVÉ METODY: dovednost žáka je opakována, až se zautomatizuje-např.autoškola
+***CH) VÝCVIKOVÉ METODY:*** dovednost žáka je opakována, až se zautomatizuje-např.autoškola
 
-I) DIDAKTICKÁ HRA A SOUTĚŽ JAKO VYUČOVACÍ METODY: herní situace mají pro pedagogiku velký význam, hra má řadu aspektů (poznávací, procvičovací, sociální, diagnostický, terapeutický aj.).Soutěž je nutné od hry odlišit, jejím cílem je především stanovit pořadí účastníků podle předvedených činností nebo výsledků činností.Zatímco prvotním účelem hry je určitá činnost sama o sobě, účelem soutěže je dosáhnout umístění.Pro hru je tedy typická činnost, pro soutěž organizace činnosti.Didaktické hry záměrně evokují produktivní aktivity a rozvíjejí myšlení.Metodická příprava her a organizace soutěží musí vycházet z učitelem sledovaného pedagogického záměru.Hra se zakládá na nápadu, jenž určuje její ráz a tvoří základ pro formulaci pravidel.
+***I) DIDAKTICKÁ HRA A SOUTĚŽ JAKO VYUČOVACÍ METODY:*** herní situace mají pro pedagogiku velký význam, hra má řadu aspektů (poznávací, procvičovací, sociální, diagnostický, terapeutický aj.).Soutěž je nutné od hry odlišit, jejím cílem je především stanovit pořadí účastníků podle předvedených činností nebo výsledků činností.Zatímco prvotním účelem hry je určitá činnost sama o sobě, účelem soutěže je dosáhnout umístění.Pro hru je tedy typická činnost, pro soutěž organizace činnosti.Didaktické hry záměrně evokují produktivní aktivity a rozvíjejí myšlení.Metodická příprava her a organizace soutěží musí vycházet z učitelem sledovaného pedagogického záměru.Hra se zakládá na nápadu, jenž určuje její ráz a tvoří základ pro formulaci pravidel.
 
 Toto téma je zpracováno podrobněji v učebnici Pedagogika pro učitele – Vališová Alena, Kasíková Hana a kolektiv, Grada Publishing 2007, str.193-210
 
@@ -649,30 +620,30 @@ c) smíšené formy vyučování
 
 - vyučování individualizované
 
-• učební činnost žáků učitel neřídí bezprostředně, žáci řeší zadané úkoly (učební programy) samostatně, řízení jejich činnost je zprostředkované učebním úkolem
+-  učební činnost žáků učitel neřídí bezprostředně, žáci řeší zadané úkoly (učební programy) samostatně, řízení jejich činnost je zprostředkované učebním úkolem
 
-• žák pracuje podle svého tempa, postup učení i jeho rozsah odpovídá individuálním možnostem popřípadě přáním žáků
+-  žák pracuje podle svého tempa, postup učení i jeho rozsah odpovídá individuálním možnostem popřípadě přáním žáků
 
-• tato forma zajišťuje přizpůsobování se potřebám každého jednotlivce, činnost žáka vychází z jeho možností
+-  tato forma zajišťuje přizpůsobování se potřebám každého jednotlivce, činnost žáka vychází z jeho možností
 
 - vzájemné vyučování
 
-• kompromis mezi hromadným a individuálním vyučováním
+-  kompromis mezi hromadným a individuálním vyučováním
 
-• na 1 učitele připadá skupina žáků, přičemž se žáci učí mezi sebou pomocí nejšikovnějšího – nejchytřejšího ve skupině (=tutoři=pomocníci kantora)
+-  na 1 učitele připadá skupina žáků, přičemž se žáci učí mezi sebou pomocí nejšikovnějšího – nejchytřejšího ve skupině (=tutoři=pomocníci kantora)
 
 - diferenciované vyučování = výběrové
 
-• je založeno na rozlišování různých předpokladů u jednotlivých žáků a jejich spojování do stejnorodých skupi- (podle zájmů, intelektu, speciálních schopností, nadání, financí a možností dané školy)
+-  je založeno na rozlišování různých předpokladů u jednotlivých žáků a jejich spojování do stejnorodých skupi- (podle zájmů, intelektu, speciálních schopností, nadání, financí a možností dané školy)
 
-• zaměření na žákovy pozitivní stránky – široká nabídka možností pro volbu cesty k poznatkům, která nejlépe odpovídá jeho osobnostním předpokladům
+-  zaměření na žákovy pozitivní stránky – široká nabídka možností pro volbu cesty k poznatkům, která nejlépe odpovídá jeho osobnostním předpokladům
 
-• záporem je, že často studenti na začátku studia SŠ přesně neznají své budoucí povolání či jeho volbu v průběhu studia mění a pak je těžké přecházet ze základní úrovně do úrovně vyšší
+-  záporem je, že často studenti na začátku studia SŠ přesně neznají své budoucí povolání či jeho volbu v průběhu studia mění a pak je těžké přecházet ze základní úrovně do úrovně vyšší
 
 
 - projektové vyučování
 
-• výuka se točí kolem ústředního tématu a zahrnuje látku ze všech předmětů
+-  výuka se točí kolem ústředního tématu a zahrnuje látku ze všech předmětů
 
 2.hledisko časové
 
@@ -1166,15 +1137,15 @@ Výchovu lze pojímat jako specifický druh socializace (začleňování jedince
 
 Rysy a stránky výchovy:
 
-• výchova vede k formování a zdokonalování osobnosti
+-  výchova vede k formování a zdokonalování osobnosti
 
-• výchova připravuje k plnému žití
+-  výchova připravuje k plnému žití
 
-• výchova připravuje jedince pro různé aktivity a práci
+-  výchova připravuje jedince pro různé aktivity a práci
 
-• výchova vede k osvojení lidské kultury, morálky a k osvojování společenských rolí
+-  výchova vede k osvojení lidské kultury, morálky a k osvojování společenských rolí
 
-• výchova pomáhá vytvořit si vztah ke světu atd…
+-  výchova pomáhá vytvořit si vztah ke světu atd…
 
 Vztah výchovy a vzdělávání
 
