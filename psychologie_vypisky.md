@@ -1,5 +1,7 @@
 #### Psychologie zkouška
 
+[Psychologie 1.semestr](https://github.com/bedjan/skola/blob/master/psychologie_vypisky.md)
+
 [Markdown- syntaxe](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [Markdown- preview](https://stackedit.io/editor/)
