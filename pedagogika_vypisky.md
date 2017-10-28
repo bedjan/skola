@@ -2,11 +2,11 @@
 
 [Pedagogika 1.semestr](https://github.com/bedjan/skola/blob/master/pedagogika_vypisky.md)
 
-[Markdown- syntaxe](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown>- syntaxe](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[Markdown- preview](https://stackedit.io/editor/)
+[Markdown>- preview](https://stackedit.io/editor/)
 
-[Markdow- to html](http://htmltidy.net/)
+[Markdow>- to html](http://htmltidy.net/)
 *****
 *****
 ### Pedagogika-Okruhy pro závěrečné zkoušky 2017/2018
@@ -59,24 +59,24 @@
 **Osnova:**
 
 
-**1.Pedagogika - definice**
+**1.Pedagogika >- definice**
 
-**2.Výchova a její cíle - definice** 
+**2.Výchova a její cíle >- definice** 
 
-**3.Vzdělání, vzdělávání - definice**
+**3.Vzdělání, vzdělávání >- definice**
 
 **4.Pedagogika – požadavky:**
 
 
->*4a. - __užitek__, reálný význam pro společnost*
+>*4a. >- __užitek__, reálný význam pro společnost*
 
->*4b. - předmět __zkoumání__*
+>*4b. >- předmět __zkoumání__*
 
->*4c. - výzkumné __metody__*
+>*4c. >- výzkumné __metody__*
 
->*4d. - vztah k jiným __vědám__*
+>*4d. >- vztah k jiným __vědám__*
 
->*4e. - prováděna __odborníky__*
+>*4e. >- prováděna __odborníky__*
 
 **5.Dělení pedagogických disciplín:**
 
@@ -87,7 +87,7 @@
 >*5c. -__Aplikované__*
 
 *****
-**Ad 1) Pedagogika - definice**
+**Ad 1) Pedagogika >- definice**
 
 ***Pedagogika, definice:*** - humanitní věda o výchově a vzdělávání; cílevědomá a záměrná činnost s utvářením a formováním osobnosti.
 
@@ -125,35 +125,35 @@
 
 ***Vzdělávání definice (edukace):***
 
-- cílený proces zaměřený na získávání, předávání a osvojování poznatků, vědomostí a dovedností
+>- cílený proces zaměřený na získávání, předávání a osvojování poznatků, vědomostí a dovedností
 
-- nejčastěji realizováno školním vzděláváním (nazývané vyučováním při němž se učí
+>- nejčastěji realizováno školním vzděláváním (nazývané vyučováním při němž se učí
 
 ***Vzdělání*** - výsledek vzdělávání; souhrn vědomostí, poznatků a dovedností potřebných pro občanský, rodinný a profesní život
 
-***Výchova a vzdělávání*** - jeden ze základních předpokladů pro rozvoj společnosti a jedince; specifický druh socializace; může ji ovlivnit velká většina národa
+***Výchova a vzdělávání*** >- jeden ze základních předpokladů pro rozvoj společnosti a jedince; specifický druh socializace; může ji ovlivnit velká většina národa
 
 *****
 **Ad 4) Pedagogika jako věda – 5 základních požadavků**
 
 ***Pedagogika - 5 základních požadavků:***
 
-- užitečnost (např.výchovné a didaktické postupy, zásady)
+>- užitečnost (např.výchovné a didaktické postupy, zásady)
 
-- vědecky definovaný předmět zkoumání (v pedagogice výchova a vzdělávání)
+>- vědecky definovaný předmět zkoumání (v pedagogice výchova a vzdělávání)
 
-- výzkumné metody (rozhovor, pozorování, expe-riment, srovnávací metody, dotazník, test, expertní šetření …)
+>- výzkumné metody (rozhovor, pozorování, expe-riment, srovnávací metody, dotazník, test, expertní šetření …)
 
-- vymezený vztah k jiným vědám ( výměna informací s dalšími vědami = mezioborové disciplíny – sociologie výchovy, dějiny pedagogiky, pedagogická psychologie …)
+>- vymezený vztah k jiným vědám ( výměna informací s dalšími vědami = mezioborové disciplíny – sociologie výchovy, dějiny pedagogiky, pedagogická psychologie …)
 
-- reálně prováděna odbornými pracovníky, tedy vědci v určitých vědních institucích (institucionalizace vědy – VŠ pedagogické a filozofické a jiné fakulty různých univerzit, výzkumné ústavy, akademie věd)
+>- reálně prováděna odbornými pracovníky, tedy vědci v určitých vědních institucích (institucionalizace vědy – VŠ pedagogické a filozofické a jiné fakulty různých univerzit, výzkumné ústavy, akademie věd)
 
 *****
 **Ad 5) Dělení pedagogických disciplín**
 
 ***Základní pedagogické disciplíny:***
 
-- základní, hraniční, aplikované 
+>- základní, hraniční, aplikované 
 
 ***Základní pedagogické disciplíny:***
 
@@ -171,35 +171,35 @@
 
 ***g) Speciální pedagogika*** – výchova a vzdělávání handicapovaných jedinců
 
-***h) Pedagogická diagnostika*** – zkoumá projevy a výsledky činností žáků, umožňuje odhalovat neje- poruch a problémy, ale i dosaženou úroveň činností.Je základem pro evaluaci a auto evaluaci
+***h) Pedagogická diagnostika*** – zkoumá projevy a výsledky činností žáků, umožňuje odhalovat neje - poruch a problémy, ale i dosaženou úroveň činností.Je základem pro evaluaci a auto evaluaci
 
 ***i) Andragogika*** – vychovně vzdělávací pro dospělé
 
 ***Hraniční vědní disciplíny:***
 
-a) Pedagogická psychologie (pedagogika x psychologie)
+>a) Pedagogická psychologie (pedagogika x psychologie)
 
-b) Sociologie výchovy (sociologie x pedagogiky)
+>b) Sociologie výchovy (sociologie x pedagogiky)
 
-c) Sociální pedagogika
+>c) Sociální pedagogika
 
-d) Pedagogika osobnostního a sociálního vývoje
+>d) Pedagogika osobnostního a sociálního vývoje
 
-e) Enviromentální výchova
+>e) Enviromentální výchova
 
-f) Multikulturní výchova
+>f) Multikulturní výchova
 
-g) Ekonomika vzdělání (ekonomiky x pedagogiky)
+>g) Ekonomika vzdělání (ekonomiky x pedagogiky)
 
-h) Školská statistika(statistiky x pedagogiky)
+>h) Školská statistika(statistiky x pedagogiky)
 
-i) Školní zdravotnictví a školní hygiena(medicíny x pedagogiky)
+>i) Školní zdravotnictví a školní hygiena(medicíny x pedagogiky)
 
-j) Kybernetická pedagogika (kybernetiky x pedagogiky)
+>j) Kybernetická pedagogika (kybernetiky x pedagogiky)
 
-k) Teorie řízení školních zařízení (managementu)(management x pedagogiky)
+>k) Teorie řízení školních zařízení (managementu)(management x pedagogiky)
 
-l) Dramatická výchova
+>l) Dramatická výchova
 
 ***Aplikované pedagogické disciplíny – členění z hlediska:***
 
@@ -215,29 +215,29 @@ l) Dramatická výchova
 
 *c) Mimoškolní pedagogika:* 
 
-- Rodinná výchova
+>- Rodinná výchova
 
-- Pedagogika dětských a mládežnických organizací
+>- Pedagogika dětských a mládežnických organizací
 
-- Pedagogika dospělých
+>- Pedagogika dospělých
 
-- Vojenská pedagogika
+>- Vojenská pedagogika
 
 *d) Na hranici mezi školní a mimoškolní pedagogikou se rozvíjejí:*
 
-- Andragogika
+>- Andragogika
 
-- Gerontopedagogika
+>- Gerontopedagogika
 
-- Pedagogická prognostika
+>- Pedagogická prognostika
 
-- Oborové didaktiky (zeměpis, jazyky atd.)
+>- Oborové didaktiky (zeměpis, jazyky atd.)
 
-- Teorie mravní, náboženské nebo estetické výchovy
+>- Teorie mravní, náboženské nebo estetické výchovy
 
-- Polytechnické pedagogiky
+>- Polytechnické pedagogiky
 
-- Pedagogika sportu
+>- Pedagogika sportu
 
 *****
 *****
@@ -252,33 +252,33 @@ l) Dramatická výchova
 
 **Ad 1) Nejvýznamnější problémy**
 
-- Reforma školství –ŠVP, RVP, státní maturity
+>- Reforma školství –ŠVP, RVP, státní maturity
 
-- Základní učivo a rozšiřující učivo
+>- Základní učivo a rozšiřující učivo
 
-- Pravomoce učitelů
+>- Pravomoce učitelů
 
-- Agresivita žáků
+>- Agresivita žáků
 
-- Postavení učitelů ve škole, společnosti
+>- Postavení učitelů ve škole, společnosti
 
-- Inkluze
+>- Inkluze
 
-- Úbytek dětí ve školství – (optimalizace škol)
+>- Úbytek dětí ve školství – (optimalizace škol)
 
-- Odměňování pedagogických pracovníků
+>- Odměňování pedagogických pracovníků
 
-- Celoživotní vzdělávání
+>- Celoživotní vzdělávání
 
-- Feminizace
+>- Feminizace
 
-- Financování školství
+>- Financování školství
 
-- Obsah základního vzděláváními – teorie a praxe a vědecké poznání
+>- Obsah základního vzděláváními – teorie a praxe a vědecké poznání
 
-- Obměna pedagogické profese
+>- Obměna pedagogické profese
 
-- Příprava učitelů na VŠ /didaktika/ „Jak učit.“
+>- Příprava učitelů na VŠ /didaktika/ „Jak učit.“
 
 V současnosti nastává ve vzdělávání určitý krizový moment, protože přílišná vázanost oborových didaktik na příslušnou vědní disciplínu vede k přetěžování žáků a tím i k závažným výchovně-vzdělávacím problémům, protože ***škola již nestačí držet krok s rozvojem vědeckého poznání***. 
 
@@ -293,15 +293,15 @@ Kromě toho tradiční vyučovací předměty již nepokrývají všechny sféry
 
 ***Kurikulum je ovlivňováno***
 
--  Žáky = věk, počet, schopnosti a dovednosti
+>-  Žáky = věk, počet, schopnosti a dovednosti
 
--  Školou = stupeň, prostorové + materiálně technické možnosti
+>-  Školou = stupeň, prostorové + materiálně technické možnosti
 
--  Vědeckým poznáním (vývoj)
+>-  Vědeckým poznáním (vývoj)
 
--  Praxí (společenskou objednávkou)
+>-  Praxí (společenskou objednávkou)
 
--  Kulturně historickými vlivy
+>-  Kulturně historickými vlivy
 
 Dnes už si neosvojovat obsahy, ale KOMPETENCE (schopnosti). K učení, komunikaci atd. viz. [Školní vzdělávací program pro ZŠ](www.kotlarska.cz/wp-content/uploads/2014/12/svp_zs.pdf)
 
@@ -318,29 +318,29 @@ Dnes už si neosvojovat obsahy, ale KOMPETENCE (schopnosti). K učení, komunika
 
 ***Základními principy:***
 
--  Nové, netradiční metody
+>-  Nové, netradiční metody
 
--  Dobrovolnost, iniciativa (učitelů i žáků)
+>-  Dobrovolnost, iniciativa (učitelů i žáků)
 
--  Zájem, individuální přístup, orientace na děti
+>-  Zájem, individuální přístup, orientace na děti
 
--  Nové a jiné způsoby vzdělávání pedagogů, nová filozofická východiska
+>-  Nové a jiné způsoby vzdělávání pedagogů, nová filozofická východiska
 
--  Partnerský vztah učitele a žáků
+>-  Partnerský vztah učitele a žáků
 
--  Důraz na princip svobody, uplatňování principů demokracie
+>-  Důraz na princip svobody, uplatňování principů demokracie
 
--  Respektování přirozených potřeb žáků
+>-  Respektování přirozených potřeb žáků
 
--  Encyklopedismus ve vzdělávání je nahraze- tvořivou aktivitou a činnostním učením
+>-  Encyklopedismus ve vzdělávání je nahraze- tvořivou aktivitou a činnostním učením
 
--  Využívání netradičních metod a forem práce
+>-  Využívání netradičních metod a forem práce
 
--  Úpravu prostředí, přístupný didaktický materiál
+>-  Úpravu prostředí, přístupný didaktický materiál
 
--  Převážně slovní, motivující hodnocení, podporující pozitivní sebehodnocení žáka
+>-  Převážně slovní, motivující hodnocení, podporující pozitivní sebehodnocení žáka
 
--  Aktivní podíl rodičů na utváření školního života
+>-  Aktivní podíl rodičů na utváření školního života
 
 ***Zajímavosti:***
 
@@ -354,35 +354,35 @@ Dnes už si neosvojovat obsahy, ale KOMPETENCE (schopnosti). K učení, komunika
 
 ***Nejznámější školy:***
 
-- první škola vycházející z antroposofie, filozoficko-pedagogická koncepce Rakušana Rudolfa Steinera, založil ji v roce 1919 v německé obci Waldorf Emil Molt
+>- první škola vycházející z antroposofie, filozoficko-pedagogická koncepce Rakušana Rudolfa Steinera, založil ji v roce 1919 v německé obci Waldorf Emil Molt
 
-- u nás začaly vznikat počátkem 90.let 20.století
+>- u nás začaly vznikat počátkem 90.let 20.století
 
-- je dvanáctiletá všeobecně vzdělávací škola
+>- je dvanáctiletá všeobecně vzdělávací škola
 
-- má rozvíjet aktivitu dětí, jejich zájmy a potřeby
+>- má rozvíjet aktivitu dětí, jejich zájmy a potřeby
 
-- klade důraz na rozvoj dětí v praktických a uměleckých oborech
+>- klade důraz na rozvoj dětí v praktických a uměleckých oborech
 
-- učební plán obsahuje společenskovědní a přírodovědné předměty, cizí jazyky, esteticko-výchovné a pracovní předměty
+>- učební plán obsahuje společenskovědní a přírodovědné předměty, cizí jazyky, esteticko-výchovné a pracovní předměty
 
-- vyučovací předměty se dělí na hlavní a vedlejší
+>- vyučovací předměty se dělí na hlavní a vedlejší
 
-- vyučování hlavní předmětů probíhá v epochách /100 a 120minutové ranní vyučovací bloky/
+>- vyučování hlavní předmětů probíhá v epochách /100 a 120minutové ranní vyučovací bloky/
 
-- používají se metody hromadného, skupinového a individuálního vyučování s důrazem na kooperaci a rozvoj sociálního cítění žáků
+>- používají se metody hromadného, skupinového a individuálního vyučování s důrazem na kooperaci a rozvoj sociálního cítění žáků
 
-- žáci nepoužívají učebnice, ale vedou se epochové sešity
+>- žáci nepoužívají učebnice, ale vedou se epochové sešity
 
-- cílem školy není nalít do žáků kvanta info, ale probrat méně, za to ale do hloubky
+>- cílem školy není nalít do žáků kvanta info, ale probrat méně, za to ale do hloubky
 
-- dát žákům základní kostru poznatků, na které se dá stavět, a základní metodu, jak se ve vědění orientovat
+>- dát žákům základní kostru poznatků, na které se dá stavět, a základní metodu, jak se ve vědění orientovat
 
-- žáci jsou hodnoceni slovně
+>- žáci jsou hodnoceni slovně
 
-- na organizaci školy se podstatnou měrou podílejí žáci a jejich rodiče
+>- na organizaci školy se podstatnou měrou podílejí žáci a jejich rodiče
 
-- mají systém vlastního vzdělávání učitelů
+>- mají systém vlastního vzdělávání učitelů
 
 ***Montessoriovské školy:***
 
@@ -390,21 +390,21 @@ Dnes už si neosvojovat obsahy, ale KOMPETENCE (schopnosti). K učení, komunika
 
 ***Základní princpy:*** 
 
-- úcta ke svobodě dítěte a k jeho spontánním projevům
+>- úcta ke svobodě dítěte a k jeho spontánním projevům
 
-- klade důraz na didakticky kladně upraveného prostředí, které napomáhají přirozenému vývoji dítěte
+>- klade důraz na didakticky kladně upraveného prostředí, které napomáhají přirozenému vývoji dítěte
 
-- při přípravě prostředí hraje důležitou roli – smyslový materiál
+>- při přípravě prostředí hraje důležitou roli – smyslový materiál
 
-- vychovatel sám zůstává v pozadí, jeho úkolem je zajistit, aby dítě se mohlo co nejvíce projevit, aby se rozvíjela jeho samostatnost – Pomoz mi, abych to dokázal.
+>- vychovatel sám zůstává v pozadí, jeho úkolem je zajistit, aby dítě se mohlo co nejvíce projevit, aby se rozvíjela jeho samostatnost – Pomoz mi, abych to dokázal.
 
-- při učení musí být respektovány senzitivní fáze
+>- při učení musí být respektovány senzitivní fáze
 
-- vyučování je realizováno ve věkově odlišných skupinách
+>- vyučování je realizováno ve věkově odlišných skupinách
 
-- výuka obvykle začíná ranním kruhem, pokračuje svobodnou pracovní fází
+>- výuka obvykle začíná ranním kruhem, pokračuje svobodnou pracovní fází
 
-- ve školách se hodnotí slovně
+>- ve školách se hodnotí slovně
 
 Perspektivní řešení výchovně-vzdělávacích problémů je determinováno situací naší civilizace a potřebami jejího rozvoje.
 
@@ -412,9 +412,9 @@ Ohledně výběru vzdělávacích obsahů (kurikula) je třeba zvýšit zřetel 
 
 Na transformaci poznatků z jednotlivých oborů se musí podílet pedagogické a psychologické disciplíny a významnou měrou také oborové didaktiky.
 
-Optimálního řešení vzdělávacího obsahu lze dosáhnout je- úzkou koordinací a spoluprací všech odpovědných činitelů.
+Optimálního řešení vzdělávacího obsahu lze dosáhnout je - úzkou koordinací a spoluprací všech odpovědných činitelů.
 
-Očekávané funkce mohou oborové didaktiky plnit je- jako relativně samostatné pedagogické disciplíny, jejichž základnou je příslušný obor a pedagogika, resp.obecná didaktika.
+Očekávané funkce mohou oborové didaktiky plnit je - jako relativně samostatné pedagogické disciplíny, jejichž základnou je příslušný obor a pedagogika, resp.obecná didaktika.
 
 Prosazení nové koncepce oborových didaktik se urychlí, budou-li se jejich protagonisté opírat i o dobrou znalost edukační praxe a o empirické výzkumy.
 
@@ -434,44 +434,44 @@ Prosazení nové koncepce oborových didaktik se urychlí, budou-li se jejich pr
 
 ***Definice výchovně vzdělávacích metod:***
 
-- způsob práce učitele jímž organizuje činnost žáků k dosažení výchovně vzdělávacích cílů
+>- způsob práce učitele jímž organizuje činnost žáků k dosažení výchovně vzdělávacích cílů
 
 *****
 **Ad 2) Faktory ovlivňující výběr výchovně vzdělávacích metod**
 
 ***Volbu výchovně vzdělávací metody v praxi ovlivňuje:***
 
-- druh a stupeň vzdělávací instituce či školy
+>- druh a stupeň vzdělávací instituce či školy
 
-- charakter předmětu či oboru
+>- charakter předmětu či oboru
 
-- počet vyučovaných žáků
+>- počet vyučovaných žáků
 
-- učební možnosti žáků, jejich osobnostní předpoklady (věkové, úroveň studijní připravenosti, osobnostní charakteristika jedince)
+>- učební možnosti žáků, jejich osobnostní předpoklady (věkové, úroveň studijní připravenosti, osobnostní charakteristika jedince)
 
-- čas, časová jednotka (vyučovací hodina např.45 min, nebo 90 min.VŠ)
+>- čas, časová jednotka (vyučovací hodina např.45 min, nebo 90 min.VŠ)
 
-- zasazení konkrétní metody do celého systému ostatních vyučovacích metod
+>- zasazení konkrétní metody do celého systému ostatních vyučovacích metod
 
-- psychologické charakteristiky žáků a třídy (sociální skupiny) jako celku
+>- psychologické charakteristiky žáků a třídy (sociální skupiny) jako celku
 
-- zvláštnosti vnějších podmínek vyučování ( prostorové uspořádání místa výuky, geografické podmínky)
+>- zvláštnosti vnějších podmínek vyučování ( prostorové uspořádání místa výuky, geografické podmínky)
 
-- osobnost učitele (úroveň teoretické a praktické přípravy, schopnost metodického mistrovství, osobnostní předpoklady, vlastní zkušenosti z oboru, atd.)
+>- osobnost učitele (úroveň teoretické a praktické přípravy, schopnost metodického mistrovství, osobnostní předpoklady, vlastní zkušenosti z oboru, atd.)
 
 ***V případě, že uvažujeme o konkrétních metodách na základě formulace cíle vyučovací hodiny, je třeba upozornit na několik podstatných skutečností:***
 
-- zvážení vztahu metody a organizační formy (žáci řeší problém kolektivně, individuálně či ve skupinách?)
+>- zvážení vztahu metody a organizační formy (žáci řeší problém kolektivně, individuálně či ve skupinách?)
 
-- u aktivizujících metod přesně důkladně promyslet formulaci otázky a učební úlohy
+>- u aktivizujících metod přesně důkladně promyslet formulaci otázky a učební úlohy
 
-- zvážení využití materiálních prostředků (zpětný projektor)
+>- zvážení využití materiálních prostředků (zpětný projektor)
 
-- promyslet vzhledem k cíli a učivu optimální poměr reproduktivních a produktivních metod či reproduktivní a produktivní varianty jedné metody)
+>- promyslet vzhledem k cíli a učivu optimální poměr reproduktivních a produktivních metod či reproduktivní a produktivní varianty jedné metody)
 
-- zamyslet se nad výchovnými a vzdělávacími efekty metod (rozvoj vůle, citovosti, charakteru, spolupráce, rozhodovacích schopností)
+>- zamyslet se nad výchovnými a vzdělávacími efekty metod (rozvoj vůle, citovosti, charakteru, spolupráce, rozhodovacích schopností)
 
-- uvážit to, že v užití metody se v konkrétní učební situaci koncentruje jednota cílů, učiva, organizační formy, materiálních prostředků a činností učitele a žáka.
+>- uvážit to, že v užití metody se v konkrétní učební situaci koncentruje jednota cílů, učiva, organizační formy, materiálních prostředků a činností učitele a žáka.
 
 *****
 **Ad 3) Dělení výchovně vzdělávacích metod**
@@ -507,21 +507,21 @@ jsou založené na využití souvislého mluveného projevu jednotlivce – uči
 
 ***Typy přednášek:***
 
-- týmová – přednášejí dva až tři přednášející na stejné téma
+>- týmová – přednášejí dva až tři přednášející na stejné téma
 
-- přednáška na principu „tiskové konference“ – před přednáškou jsou sesbírány dotazy k tématu, lektor zapracuje odpovědi na tyto otázky do přednášky
+>- přednáška na principu „tiskové konference“ – před přednáškou jsou sesbírány dotazy k tématu, lektor zapracuje odpovědi na tyto otázky do přednášky
 
-- přednáška ve spojení s diskusí – vhodné pro výukové situace, v nichž je důležitá výměna názorů mezi učitelem a žáky i mezi žáky navzájem.Lze rozlišit na přednášku s diskuzí na základě tezí, se skupinovou diskusí a s pódiovou diskusí.
+>- přednáška ve spojení s diskusí – vhodné pro výukové situace, v nichž je důležitá výměna názorů mezi učitelem a žáky i mezi žáky navzájem.Lze rozlišit na přednášku s diskuzí na základě tezí, se skupinovou diskusí a s pódiovou diskusí.
 
-- přednáška ex katedra – podobná klasické přednášce, navíc je zde doslovné čtení textu
+>- přednáška ex katedra – podobná klasické přednášce, navíc je zde doslovné čtení textu
 
-- interaktivní přednášky – v souč.době se prosazují stále více, jde o postup, kdy učitel i během svého monologu vstupuje do většího kontaktu (interakce) se žáky
+>- interaktivní přednášky – v souč.době se prosazují stále více, jde o postup, kdy učitel i během svého monologu vstupuje do většího kontaktu (interakce) se žáky
 
 Při výkladu i přednášce lze aktivovat neje- jeho interaktivní podobou, ale například i využitím pomůcek a didaktické techniky.
 
 Aktivovat během výkladu či přednášky lze i prostřednictvím „provokačního principu“, který spočívá v tom, že vyučující záměrně vyslovuje sporná tvrzení (žáky na tuto možnost může, ale nemusí upozornit).
 
-***Instruktáž:*** prostá informovanost o nějakém postupu, instruktáž v širší podobě – soubor pokynů a návodů pro výko- určité činnosti, kterou mají žáci vykonávat, typické využití širší instruktáže – praxe či exkurze
+***Instruktáž:*** prostá informovanost o nějakém postupu, instruktáž v širší podobě – soubor pokynů a návodů pro výkon určité činnosti, kterou mají žáci vykonávat, typické využití širší instruktáže – praxe či exkurze
 
 ***Souvislé vystoupení studenta:*** například při prezentaci referátu
 
@@ -601,27 +601,27 @@ Definice
 
 ***Organizační formy výuky je uspořádání vnějších podmínek výchovně vzdělávacího procesu.Jedná se zejména o podmínky:***
 
-- časové,
+>- časové,
 
-- prostorové (prostředí),
+>- prostorové (prostředí),
 
-- personální,
+>- personální,
 
-- materiální,
+>- materiální,
 
-- počty žáků,
+>- počty žáků,
 
-- organizace vzájemné součinnosti učitele a žáků
+>- organizace vzájemné součinnosti učitele a žáků
 
 ***Organizační formy vzdělávání ovlivňují:***
 
-- činnosti učitele
+>- činnosti učitele
 
-- činnosti žáků
+>- činnosti žáků
 
-- struktury učiva
+>- struktury učiva
 
-- řízení vyučování
+>- řízení vyučování
 
 Všechny organizační formy vyučování – se opírají o didaktický trojúhelník.
 
@@ -634,7 +634,7 @@ didaktický trojúhelník = učitel-učivo-žák
 
 ***1.hledisko vztahu žáka – učitele:***
 
-- podle hlediska vztahu učitel – žák rozlišujeme 3 typy organizace vyučování:
+>- podle hlediska vztahu učitel – žák rozlišujeme 3 typy organizace vyučování:
 
 ***a) individuální vyučování***
 
@@ -668,40 +668,40 @@ didaktický trojúhelník = učitel-učivo-žák
 
 = patří sem tyto formy vyučování:
 
-- vyučování individualizované
+>- vyučování individualizované
 
--  učební činnost žáků učitel neřídí bezprostředně, žáci řeší zadané úkoly (učební programy) samostatně, řízení jejich činnost je zprostředkované učebním úkolem
+>-  učební činnost žáků učitel neřídí bezprostředně, žáci řeší zadané úkoly (učební programy) samostatně, řízení jejich činnost je zprostředkované učebním úkolem
 
--  žák pracuje podle svého tempa, postup učení i jeho rozsah odpovídá individuálním možnostem popřípadě přáním žáků
+>-  žák pracuje podle svého tempa, postup učení i jeho rozsah odpovídá individuálním možnostem popřípadě přáním žáků
 
--  tato forma zajišťuje přizpůsobování se potřebám každého jednotlivce, činnost žáka vychází z jeho možností
+>-  tato forma zajišťuje přizpůsobování se potřebám každého jednotlivce, činnost žáka vychází z jeho možností
 
-- vzájemné vyučování
+>- vzájemné vyučování
 
-- kompromis mezi hromadným a individuálním vyučováním
+>- kompromis mezi hromadným a individuálním vyučováním
 
--  na 1 učitele připadá skupina žáků, přičemž se žáci učí mezi sebou pomocí nejšikovnějšího – nejchytřejšího ve skupině (=tutoři=pomocníci kantora)
+>-  na 1 učitele připadá skupina žáků, přičemž se žáci učí mezi sebou pomocí nejšikovnějšího – nejchytřejšího ve skupině (=tutoři=pomocníci kantora)
 
-- diferenciované vyučování = výběrové
+>- diferenciované vyučování = výběrové
 
-- je založeno na rozlišování různých předpokladů u jednotlivých žáků a jejich spojování do stejnorodých skupi- (podle zájmů, intelektu, speciálních schopností, nadání, financí a možností dané školy)
+>- je založeno na rozlišování různých předpokladů u jednotlivých žáků a jejich spojování do stejnorodých skupin (podle zájmů, intelektu, speciálních schopností, nadání, financí a možností dané školy)
 
-- zaměření na žákovy pozitivní stránky – široká nabídka možností pro volbu cesty k poznatkům, která nejlépe odpovídá jeho osobnostním předpokladům
+>- zaměření na žákovy pozitivní stránky – široká nabídka možností pro volbu cesty k poznatkům, která nejlépe odpovídá jeho osobnostním předpokladům
 
-- záporem je, že často studenti na začátku studia SŠ přesně neznají své budoucí povolání či jeho volbu v průběhu studia mění a pak je těžké přecházet ze základní úrovně do úrovně vyšší
+>- záporem je, že často studenti na začátku studia SŠ přesně neznají své budoucí povolání či jeho volbu v průběhu studia mění a pak je těžké přecházet ze základní úrovně do úrovně vyšší
 
 
-- projektové vyučování
+>- projektové vyučování
 
-- výuka se točí kolem ústředního tématu a zahrnuje látku ze všech předmětů
+>- výuka se točí kolem ústředního tématu a zahrnuje látku ze všech předmětů
 
 ***2.hledisko časové:***
 
-- časové rozložení učiva do dnů, týdnů a školních let (rozvrh hodi- dle zásad duševní hygieny) + délka a struktura vyučovací hodiny jako časové jednotky vyučování (vyučovací hodina – obvykle trvá 45 minut, na VŠ dávají přednost délce 1,5 hodiny, v případě exkurzí a jiné mimoškolní činnosti mluvíme o delší časové jednotce)
+>- časové rozložení učiva do dnů, týdnů a školních let (rozvrh hodin dle zásad duševní hygieny) + délka a struktura vyučovací hodiny jako časové jednotky vyučování (vyučovací hodina – obvykle trvá 45 minut, na VŠ dávají přednost délce 1,5 hodiny, v případě exkurzí a jiné mimoškolní činnosti mluvíme o delší časové jednotce)
 
 ***3.hledisko místa (prostoru):***
 
-- vyučování v kmenové či jiné třídě, v odborných pracovnách, v laboratořích, v tělocvičně, v bazéně, na školním pozemku, v mimoškolních zařízeních (exkurze, praxe)
+>- vyučování v kmenové či jiné třídě, v odborných pracovnách, v laboratořích, v tělocvičně, v bazéně, na školním pozemku, v mimoškolních zařízeních (exkurze, praxe)
 *****
 **Ad 3) Formy výuky**
 
@@ -709,31 +709,31 @@ Formy výuky
 
 ***1) třídně hodinový systém:***
 
-- frontální výuka
+>- frontální výuka
 
-- žáci jsou rozdělováni do tříd
+>- žáci jsou rozdělováni do tříd
 
-- výuka orientována na kognitivní procesy
+>- výuka orientována na kognitivní procesy
 
-- učivo uspořádáno v učebních předmětech
+>- učivo uspořádáno v učebních předmětech
 
-- vyučování probíhá v předem určených časových jednotkách (45 min)
+>- vyučování probíhá v předem určených časových jednotkách (45 min)
 
-- prostorové uspořádání výuky podřízeno hromadnému vyučování
+>- prostorové uspořádání výuky podřízeno hromadnému vyučování
 
-- s poměrně malými finančními náklady vzdělává velký počet žáků
+>- s poměrně malými finančními náklady vzdělává velký počet žáků
 
-- uniformita žáků, potlačuje samostatnost a tvořivost
+>- uniformita žáků, potlačuje samostatnost a tvořivost
 
 ***2) skupinové vyučování:***
 
-- malé skupiny spolupracují při řešení společného problému
+>- malé skupiny spolupracují při řešení společného problému
 
-- důležité je hledisko výběru supiny-užívá se např.hledisko zájmu o zvolený úkol, přátelských vztahů
+>- důležité je hledisko výběru supiny-užívá se např.hledisko zájmu o zvolený úkol, přátelských vztahů
 
 metody skupinového vyuč.– skupinová diskuze
 
-- skupinová argumentace
+>- skupinová argumentace
 
 ***3-kooperativní vyučování:***
 
@@ -774,7 +774,7 @@ Slovo didaktika je pojem odvozený z řeckého slova didasko = učím nebo vyuč
 
 – Speciální (obecné zásady či zákonitosti při vyučování žáků se speciálně vzdělávacími potřebami)
 
-za tvůrce moderních didaktických metod je považová- J.A.Komenský
+za tvůrce moderních didaktických metod je považován J.A.Komenský
 
 *****
 **Ad 2) Didaktické zásady**
@@ -787,84 +787,85 @@ Didaktické zásady jsou zobecněné a ověřené postupy, které zvyšují efek
 
 ***Didaktické zásady se obecně vztahují k didaktickému trojúhelníku:***
 
-- vztah k učivu
+>- vztah k učivu
 
-- vztah k činnosti učitele
+>- vztah k činnosti učitele
 
-- vztah k činnosti žáků
+>- vztah k činnosti žáků
 
 ***Příklady zobecněných didaktických zásad či hesel:***
 
-- od jednoduššího ke složitějšímu
+>- od jednoduššího ke složitějšímu
 
-- názornost = využívat všech smyslů
+>- názornost = využívat všech smyslů
 
-- střídání činností
+>- střídání činností
 
-- opakování matka moudrosti
+>- opakování matka moudrosti
 
-- škola hrou, aneb kdo si hraje nezlobí,
+>- škola hrou, aneb kdo si hraje nezlobí,
 
-- kdo nezaujme, ten neexistuje
+>- kdo nezaujme, ten neexistuje
 
-- příklady táhnou
+>- příklady táhnou
 
-- dobrá motivace polovina úspěchu
+>- dobrá motivace polovina úspěchu
 
-- s úsměvem jde všechno líp (humor, smích, bavit)
+>- s úsměvem jde všechno líp (humor, smích, bavit)
 
 ***Druhy didaktických zásad:***
 
-- Zásada uvědomělosti a aktivity
+>- Zásada uvědomělosti a aktivity
 
-- Učitel se snaží, aby žáka pro učení získal, dále aby žák přijal cíle výuky za své a v konečném důsledku vyvíjel žádoucí aktivitu směřující k osobnímu rozvoji.
+>- Učitel se snaží, aby žáka pro učení získal, dále aby žák přijal cíle výuky za své a v konečném důsledku vyvíjel žádoucí aktivitu směřující k osobnímu rozvoji.
 
-- Zásada komplexního rozvoje žáka
+>- Zásada komplexního rozvoje žáka
 
-- ***Vybízí učitele, aby v rámci výuky rozvíjel všechny základní komponenty osobnosti žáka.Z hlediska struktury osobnosti se jedná o oblasti poznávací, afektivní a psychomotorické.Z hlediska struktury lidské inteligence se jedná o sedm typů inteligence:*** jazykovou, matematicko-logickou, vizuální/prostorovou, hudební, interpersonální, intrapersonální a tělesnou/fyzickou.Z hlediska pedagogické jednoty složek výchovy se jedná o výchovu rozumovou, mravní, estetickou, pracovní a tělesnou.
+>- ***Vybízí učitele, aby v rámci výuky rozvíjel všechny základní komponenty osobnosti žáka.Z hlediska struktury osobnosti se jedná o oblasti poznávací, afektivní a psychomotorické.Z hlediska struktury lidské inteligence se jedná o sedm typů inteligence:*** jazykovou, matematicko-logickou, vizuální/prostorovou, hudební, interpersonální, intrapersonální a tělesnou/fyzickou.Z hlediska pedagogické jednoty složek výchovy se jedná o výchovu rozumovou, mravní, estetickou, pracovní a tělesnou.
 
-- Zásada vědeckosti
+>- Zásada vědeckosti
 
-- Učitel se musí během své pedagogické praxe vyrovnávat neje- s novými poznatky věd (např.rychlý vývoj v oblasti informatiky, biologie apod.), tak s nejnovějšími trendy v rámci učitelské profese (např.nové pedagogické metody apod.).
+>- Učitel se musí během své pedagogické praxe vyrovnávat nejen s novými poznatky věd (např.rychlý vývoj v oblasti informatiky, biologie apod.), tak s nejnovějšími trendy v rámci učitelské profese (např.nové pedagogické metody apod.).
 
-- Zásada spojení teorie s praxí
+>- Zásada spojení teorie s praxí
 
-- Učitelé musí přesvědčit žáky, že probírané učivo dále využijí-ať už v běžném životě nebo v dalším studiu.
+>- Učitelé musí přesvědčit žáky, že probírané učivo dále využijí-ať už v běžném životě nebo v dalším studiu.
 
 Důležitý je také přenos dovedností a znalostí tak, aby na něj bylo možno navázat v dalším stupni vzdělávání.
 
-- Zásada přiměřenosti
+>- Zásada přiměřenosti
 
-- Vyžaduje, aby cíle, proces i prostředky vzdělávání byly přiměřené.Např.se jedná o přiměřenost k věku vzdělávaných
+>- Vyžaduje, aby cíle, proces i prostředky vzdělávání byly přiměřené.Např.se jedná o přiměřenost k věku vzdělávaných
 
-- Zásada individuálního přístupu
+>- Zásada individuálního přístupu
 
-- Vychází z toho, že každý žák je individualita a je nutné k němu takto přistupovat.
+>- Vychází z toho, že každý žák je individualita a je nutné k němu takto přistupovat.
 
 Např.většina žáků stačí tempu hodiny, avšak dva žáci jsou pomalejší, proto je na ně třeba brát ohled.Naopak žáku vysoce inteligentnímu je možno zadat složitější či časově náročnější úkoly.
 
-- Zásada emocionálnosti
+>- Zásada emocionálnosti
 
-- V podstatě vychází z faktu, že ani učitel, ani žáci nejsou stroje.
+>- V podstatě vychází z faktu, že ani učitel, ani žáci nejsou stroje.
 
 Navzájem se ovlivňují v emocionální sféře.Je prokázáno, že vyučování probíhá lépe v pozitivní atmosféře a proto by se měl učitel snažit o její navození.
 
-- Zásada trvalosti
+>- Zásada trvalosti
 
-- Je velmi podstatnou didaktickou zásadou vycházející z prostého faktu, že lidský mozek velmi rychle zapomíná.
+>- Je velmi podstatnou didaktickou zásadou vycházející z prostého faktu, že lidský mozek velmi rychle zapomíná.
 
 Naplnění této zásady je spojeno se dvěma procesy-expozicí (=předkládání nových poznatků, získávání požadovaných dovedností) a bojem proti zapomínání.Boj proti zapomínání se realizuje opakováním již naučeného učiva.
 
-- Zásada názornosti
+>- Zásada názornosti
 
-- Názornost patří k nejstarším didaktickým zásadám a lze ji najít již v díle Wolfganga Ratkeho z roku 1613.Zásada vychází z toho, že žáci již mají o určité problematice jisté představy, které je třeba vědecky uchopit, aby žáci problém pochopili.
-- Zásada soustavnosti
+>- Názornost patří k nejstarším didaktickým zásadám a lze ji najít již v díle Wolfganga Ratkeho z roku 1613.Zásada vychází z toho, že žáci již mají o určité problematice jisté představy, které je třeba vědecky uchopit, aby žáci problém pochopili.
 
-- Nazývána též zásada systematičnosti.Vyjadřuje požadavky, aby na sebe vyučovací celky logicky navazovaly, aby se probíralo učivo od jednodušší k složitější látce, aby se zvyšovaly nároky na žáky, aby byly probírána základní témata určité vědní disciplíny a aby vyučování a hodnocení bylo soustavné a průběžné.
+>- Zásada soustavnosti
 
-- Zásada zpětné vazby
+>- Nazývána též zásada systematičnosti.Vyjadřuje požadavky, aby na sebe vyučovací celky logicky navazovaly, aby se probíralo učivo od jednodušší k složitější látce, aby se zvyšovaly nároky na žáky, aby byly probírána základní témata určité vědní disciplíny a aby vyučování a hodnocení bylo soustavné a průběžné.
 
-- Na základě zpětné vazby učitel získá informace o postupu žáka k vytčenému učebnímu cíli, jaká je kvalita výuky a její výsledky.
+>- Zásada zpětné vazby
+
+>- Na základě zpětné vazby učitel získá informace o postupu žáka k vytčenému učebnímu cíli, jaká je kvalita výuky a její výsledky.
 
 Diagnostikuje (určuje, nalézá) chyby, které jsou přirozenou částí procesu učení, vysvětlí, kde se chyba stala a eventuálně znovu provede výklad nepochopeného učiva.
 
@@ -873,11 +874,11 @@ Diagnostikuje (určuje, nalézá) chyby, které jsou přirozenou částí proces
 
 ***Význam didaktiky:***
 
-- usnadnění práce učitele
+>- usnadnění práce učitele
 
-- zvyšuje efektivitu výuky
+>- zvyšuje efektivitu výuky
 
-- převádí teoretické (vědecké) poznatky do praxe
+>- převádí teoretické (vědecké) poznatky do praxe
 
 *****
 **Ad 4) Realizace didaktických zásad v praxi**
@@ -915,9 +916,9 @@ Definice sociální pedagogiky
 
 ***Sociální pedagogika:***
 
-- zkoumá vliv prostředí na výchovu a vzdělávání jedince
+>- zkoumá vliv prostředí na výchovu a vzdělávání jedince
 
-- věda zabývající se působením prostředí na formování osobnosti jedince
+>- věda zabývající se působením prostředí na formování osobnosti jedince
 
 ***Vznik:***
 
@@ -929,7 +930,7 @@ Zajímá se o jevy, které se vymykají obecné normě platné v dané společno
 
 ***Cíl:***
 
-Odstranění sociálně patologických jevů ve společnosti a začlenění tj.socializace či resocializace jedinců či skupi- do společnosti formou výchovy a vzdělávání.
+Odstranění sociálně patologických jevů ve společnosti a začlenění tj.socializace či resocializace jedinců či skupi>- do společnosti formou výchovy a vzdělávání.
 
 *****
 **Ad 2) Metody sociální pedagogiky**
@@ -939,44 +940,44 @@ Metody sociální pedagogiky
 
 ***Obecně:***
 
-- socializace
+>- socializace
 
-- resocializace
+>- resocializace
 
 
 ***Konkrétně:***
 
-- rekvalifikace
+>- rekvalifikace
 
-- primární, sekundární a terciální prevence
+>- primární, sekundární a terciální prevence
 
-- inkluze
+>- inkluze
 
-- integrace
+>- integrace
 
-- pozitivní diskriminace
+>- pozitivní diskriminace
 
-- depistáž – cílené vyhledávání
+>- depistáž – cílené vyhledávání
 
-- dispenzarizace – cílený dohled
+>- dispenzarizace – cílený dohled
 
-- osvěta (osvětové programy)
+>- osvěta (osvětové programy)
 
-- edukace
+>- edukace
 
-- reedukace
+>- reedukace
 
 ***Reálně se jedná zejména o práci s:***
 
-- s národnostním menšinami (romové, sově.Svaz, asijské státy atd.)
+>- s národnostním menšinami (romové, sově.Svaz, asijské státy atd.)
 
-- práce s problémovými skupinami (drogy, nezaměstnaní atd.)
+>- práce s problémovými skupinami (drogy, nezaměstnaní atd.)
 
-- „kapsy chudoby“
+>- „kapsy chudoby“
 
-- sociální péče (různé sociální programy, pouliční pracovníci, komunitní centra)
+>- sociální péče (různé sociální programy, pouliční pracovníci, komunitní centra)
 
-- práce ve volném čase prevence zločinnosti
+>- práce ve volném čase prevence zločinnosti
 
 *****
 **Ad 3) Hlavní okruhy problémů**
@@ -1001,7 +1002,7 @@ Antisociální chování-protispolečenské a protiprávní ( trestná činnost 
 
 2.lhaní a podvody
 
-- nutno posuzovat co se skrývá za nemluvením pravdy.Závažnější je klamání pro vytěžení zisku nebo pro úmyslné způsobení škody
+>- nutno posuzovat co se skrývá za nemluvením pravdy.Závažnější je klamání pro vytěžení zisku nebo pro úmyslné způsobení škody
 
 3.krádeže
 
@@ -1009,7 +1010,7 @@ Antisociální chování-protispolečenské a protiprávní ( trestná činnost 
 
 4.záškoláctví
 
-- neomluvená absence ve vyučování.Důvodem bývá strach ze zkoušení, šikana, nezájem, touha po dobrodružství.Skryté záškoláctví-omlouvání absence rodiči nepravdou.
+>- neomluvená absence ve vyučování.Důvodem bývá strach ze zkoušení, šikana, nezájem, touha po dobrodružství.Skryté záškoláctví-omlouvání absence rodiči nepravdou.
 
 5.potulky a útěky
 
@@ -1017,7 +1018,7 @@ Potulka -žák se opakovaně nedostavuje do školy a tráví čas mimo domov, č
 
 Útěky-častěji v teplejších měsících, důsledek nezájmu rodičů, rozpadu rodiny, týrání, zneužívání.
 
-6.šikanování- agresivní chování, způsobování fyzických i psychických útrap, převaha nad obětí ( škola, internát )
+6.šikanování - agresivní chování, způsobování fyzických i psychických útrap, převaha nad obětí ( škola, internát )
 
 Poznámka k šikaně
 
@@ -1098,7 +1099,7 @@ Dvojí identita (dvojí osobnost či duální identita) – vede dvojí život �
 
 4.fáze
 
-Závislosti – vítězí osobnost „feťáka“, droga na plný úvazek , pozitivní efekt už není, ale dovoluje mu žít když jí má svoji dávku, celý de- je zaměstná- scháněním dávky
+Závislosti – vítězí osobnost „feťáka“, droga na plný úvazek , pozitivní efekt už není, ale dovoluje mu žít když jí má svoji dávku, celý den je zaměstnán scháněním dávky
 
 5.fáze
 
@@ -1143,19 +1144,19 @@ Pomoc často vyhledávají rodiče, protože o pomoc nestojí ( nemají problém
 
 Nejčastější oblasti
 
-- romové (velké téma a problém v ČR, ale nejenom u nás)
+>- romové (velké téma a problém v ČR, ale nejenom u nás)
 
-- migranti-bývalý sovětský svaz, větnam atd.
+>- migranti-bývalý sovětský svaz, větnam atd.
 
 ***Hlavní problémy:***
 
-- socializace a resocializace tj.zejména oblast výchovy a vzdělávání
+>- socializace a resocializace tj.zejména oblast výchovy a vzdělávání
 
-- soužití majoritní a minoritní společnosti (mravní normy, hodnoty, rodinné tradice atd.)
+>- soužití majoritní a minoritní společnosti (mravní normy, hodnoty, rodinné tradice atd.)
 
-- integrace a reintegrace
+>- integrace a reintegrace
 
-- kapsy sociálního vyloučení a chudoby atd.
+>- kapsy sociálního vyloučení a chudoby atd.
 
 IV.Lidé v a z nápravně výchovných zařízeních
 
@@ -1204,15 +1205,15 @@ Výchovu lze pojímat jako specifický druh socializace (začleňování jedince
 
 ***Rysy a stránky výchovy:***
 
--  výchova vede k formování a zdokonalování osobnosti
+>-  výchova vede k formování a zdokonalování osobnosti
 
--  výchova připravuje k plnému žití
+>-  výchova připravuje k plnému žití
 
--  výchova připravuje jedince pro různé aktivity a práci
+>-  výchova připravuje jedince pro různé aktivity a práci
 
--  výchova vede k osvojení lidské kultury, morálky a k osvojování společenských rolí
+>-  výchova vede k osvojení lidské kultury, morálky a k osvojování společenských rolí
 
--  výchova pomáhá vytvořit si vztah ke světu atd…
+>-  výchova pomáhá vytvořit si vztah ke světu atd…
 
 Vztah výchovy a vzdělávání
 
@@ -1269,15 +1270,15 @@ c) eticky rozvojové cíle (vztah k sobě samému, mezilidské vztahy, hodnotov�
 
 ***VV cíle mají tyto funkce:***
 
-- motivační
+>- motivační
 
-- kontrolní
+>- kontrolní
 
-- organizační
+>- organizační
 
-- ideologickou
+>- ideologickou
 
-- syntetizující (slučovací)
+>- syntetizující (slučovací)
 
 *****
 **Ad 5) Dělení výchovně vzdělávacích cílů**
@@ -1288,23 +1289,23 @@ c) eticky rozvojové cíle (vztah k sobě samému, mezilidské vztahy, hodnotov�
 
 ***1.Obecnosti:***
 
-- obecné
+>- obecné
 
-- specifické
+>- specifické
 
 ***2.Časové následnosti:*** 
 
-- blízké
+>- blízké
 
-- vzdálené
+>- vzdálené
 
-- etapové
+>- etapové
 
 ***3.Působení na osobnost:***
 
-- vzdělávací
+>- vzdělávací
 
-- výchovné
+>- výchovné
 
 V současnosti se nejvíce používá Bloomova taxonomie výchovných cílů.
 
@@ -1316,11 +1317,11 @@ V současnosti se nejvíce používá Bloomova taxonomie výchovných cílů.
 
 Znalost faktů-základní prvky, které si žáci musí osvojit, aby byli schopni se orientovat v příslušném oboru nebo v něm řešit úlohy a problémy.
 
-Konceptuální znalost- vzájemné vztahy, klasifikace (dělení) mezi poznatkovými prvky uvnitř větší struktury, která podporuje jejich vzájemnou funkčnost, principy, teorie,
+Konceptuální znalost - vzájemné vztahy, klasifikace (dělení) mezi poznatkovými prvky uvnitř větší struktury, která podporuje jejich vzájemnou funkčnost, principy, teorie,
 
 Procedurální znalost-pracovní postupy, jak něco dělat, metody zkoumání, výběr vhodných činností, algoritmů, technik a metod, kritéria používaných postupů a technik
 
-Metakognitivní znalost ¬- Obecné poznatky o poznávání včetně uvědomování si vlastních kognitivních procesů tj.jak se učíme, poznáváme, myslíme
+Metakognitivní znalost - Obecné poznatky o poznávání včetně uvědomování si vlastních kognitivních procesů tj.jak se učíme, poznáváme, myslíme
 
 2.dimenze kognitivního (myšlenkového) procesu.
 
@@ -1370,13 +1371,13 @@ Obecné cíle vzdělávání jsou ve školském zákoně 561/2004 v § 2 odstave
 
 §2 (2) Obecnými cíli vzdělávání jsou zejména
 
-a) rozvoj osobnosti člověka, který bude vybave- poznávacími a sociálními způsobilostmi, mravními a duchovními hodnotami pro osobní a občanský život, výko- povolání nebo pracovní činnosti, získávání informací a učení se v průběhu celého života,
+a) rozvoj osobnosti člověka, který bude vybaven poznávacími a sociálními způsobilostmi, mravními a duchovními hodnotami pro osobní a občanský život, výkon povolání nebo pracovní činnosti, získávání informací a učení se v průběhu celého života,
 
 b) získání všeobecného vzdělání nebo všeobecného a odborného vzdělání,
 
 c) pochopení a uplatňování zásad demokracie a právního státu, základních lidských práv a svobod spolu s odpovědností a smyslem pro sociální soudržnost,
 
-d) pochopení a uplatňování principu rovnosti že- a mužů ve společnosti,
+d) pochopení a uplatňování principu rovnosti žen a mužů ve společnosti,
 
 e) utváření vědomí národní a státní příslušnosti a respektu k etnické, národnostní, kulturní, jazykové a náboženské identitě každého,
 
@@ -1399,9 +1400,9 @@ g) získání a uplatňování znalostí o životním prostředí a jeho ochran�
 7. Vztah
 
 *****
-- vzájemné působení mezi dvěma organismy na úrovni jedince, populace i společenstva nebo mezi organismem a jeho prostředím (Ekologie)
+>- vzájemné působení mezi dvěma organismy na úrovni jedince, populace i společenstva nebo mezi organismem a jeho prostředím (Ekologie)
 
-- vzájemné působení mezi lidmi vytvářející se v procesu společné činnosti (Sociologie)
+>- vzájemné působení mezi lidmi vytvářející se v procesu společné činnosti (Sociologie)
 
 *****
 
@@ -1428,11 +1429,11 @@ Od narození do smrti jsme determinováni – podmiňováni, ovlivňováni mezil
 
 ***Bez vztahů bychom:***
 
-- nevznikli
+>- nevznikli
 
-- nepřežili
+>- nepřežili
 
-- nic se nenaučili ani nemohli plnohodnotně žít
+>- nic se nenaučili ani nemohli plnohodnotně žít
 
 Nejtěžší trest pro člověka – zbavit ho sociálních vztahů, segregace – izolace!!!!
 
@@ -1449,10 +1450,10 @@ Včleňujeme se do společnosti = dochází k tzv.socializaci (zespolečenšťov
 
 ***Typy socializace:***
 
-- Primární socializace – rodina, celoživotně nás ovlivňuje (O – 3 roky)
+>- Primární socializace – rodina, celoživotně nás ovlivňuje (O – 3 roky)
 
-- Sekundární socializace – školka, předškolní věk (3 – 6 let)
-- Terciální socializace – škola, školní věk, povinnosti, první „práce – učení“
+>- Sekundární socializace – školka, předškolní věk (3 – 6 let)
+>- Terciální socializace – škola, školní věk, povinnosti, první „práce – učení“
 
 Vždy je potřeba se přizpůsobovat (adaptovat) =
 náročné životní období
@@ -1472,19 +1473,19 @@ EXTERIORIZACE – zvnějšnění, chovám se podle toho
 (deviace pozitivní a negativní)
 
 ***Vztahové sítě:***
-- Existujeme ve vztazích – vztahujeme se k někomu!
+>- Existujeme ve vztazích – vztahujeme se k někomu!
 
-- Kvalita a funkčnost vztahů – důležitý faktor kvality života tedy i zdraví (ve stáří – veledůležité)
+>- Kvalita a funkčnost vztahů – důležitý faktor kvality života tedy i zdraví (ve stáří – veledůležité)
 
-- Vztahy kladné, záporné, neutrální
+>- Vztahy kladné, záporné, neutrální
 
-- Vztahy formální, neformální, pracovní, společenské, osobní, intimní atd.
+>- Vztahy formální, neformální, pracovní, společenské, osobní, intimní atd.
 
 ***Od vztahů něco:***
 
-- Očekáváme (bezpečí, podporu, realizaci atd.)
+>- Očekáváme (bezpečí, podporu, realizaci atd.)
 
-- Přijímáme X také něco dáváme
+>- Přijímáme X také něco dáváme
 
 *****
 **Ad 3) Skupinová dynamika – vznik a vývoj vztahů v třídním kolektivu**
@@ -1505,147 +1506,147 @@ Skupinová dynamika
 Popisuje zákonitosti vývoje a fungování skupin.
 
 ***Znalosti ze skupinové dynamiky umožňují:***
-- snadnější orientaci a fungování ve skupině
+>- snadnější orientaci a fungování ve skupině
 
-- řízení a vedení skupiny
+>- řízení a vedení skupiny
 
 ***Skupinová dynamika se zabývá těmito jevy:***
 
 
 ***1.Vznikem podskupinek ve skupině***
 
-- V každé početnější skupině se vytvoří podskupinky (dvojice, trojice, čtveřice)
+>- V každé početnější skupině se vytvoří podskupinky (dvojice, trojice, čtveřice)
 
-- Podskupinky můžou – spolupracovat, soupeřit, bojovat, nevražit a nenávidět se
+>- Podskupinky můžou – spolupracovat, soupeřit, bojovat, nevražit a nenávidět se
 
-- Většinou je pojí sympatie, podobné názory, hodnoty, normy, cíle.
+>- Většinou je pojí sympatie, podobné názory, hodnoty, normy, cíle.
 
-- Vznikají, mění se i zanikají na základě dění ve skupině (příchody a odchody členů skupiny,zájmů, konfliktů, úkolů, činností, společných témat apod.)
+>- Vznikají, mění se i zanikají na základě dění ve skupině (příchody a odchody členů skupiny,zájmů, konfliktů, úkolů, činností, společných témat apod.)
 
-- Členové podskupinek se podporují, více komunikují, setkávají se, vyhledávají vzájemný kontakt, být spolu, sloužit = uspokojují potřebu soc.vztahů – kontaktů
+>- Členové podskupinek se podporují, více komunikují, setkávají se, vyhledávají vzájemný kontakt, být spolu, sloužit = uspokojují potřebu soc.vztahů – kontaktů
 
-- Sdílejí spolu-podobné názory a normy,( podobná gesta, slovník, móda, činnosti, hodnoty, setkávají se, slouží spolu)
+>- Sdílejí spolu-podobné názory a normy,( podobná gesta, slovník, móda, činnosti, hodnoty, setkávají se, slouží spolu)
 
 ***Podskupinky v třídním kolektivu:***
-- S kantory x proti kantorům (zástupci, ředitel)
+>- S kantory x proti kantorům (zástupci, ředitel)
 
-- Kuřáci a nekuřáci
+>- Kuřáci a nekuřáci
 
-- Poctivky a flákači
+>- Poctivky a flákači
 
-- Dobrý prospěch x špatný prospěch
+>- Dobrý prospěch x špatný prospěch
 
-- Bohatí x chudí
+>- Bohatí x chudí
 
-- Místní a dojíždějící
+>- Místní a dojíždějící
 
-- Kluci x holky
+>- Kluci x holky
 
-- „skejťáci“ x „anarchysti“ x „skýni“ atd
+>- „skejťáci“ x „anarchysti“ x „skýni“ atd
 
 ***Postřehy k podskupinkám:***
-- Podskupinky mají své normy a cíle.
+>- Podskupinky mají své normy a cíle.
 
-- Kdo chce s nimi být, musí s nimi výt.(Vlk)
+>- Kdo chce s nimi být, musí s nimi výt.(Vlk)
 
-- Noví členové skupiny – musí někam patřit?
+>- Noví členové skupiny – musí někam patřit?
 
-- Většina lidí je v nějaké podskupince
+>- Většina lidí je v nějaké podskupince
 
-- Mimo – těžké
+>- Mimo – těžké
 
 Vedení
 
 ***Dobré vědět:***
-- Kolik a jaké jsou podskupinky (sociometrie)
+>- Kolik a jaké jsou podskupinky (sociometrie)
 
-- Kdo kam patří
+>- Kdo kam patří
 
-- Jaké jsou jejich normy a cíle
+>- Jaké jsou jejich normy a cíle
 
-- Koho si získat
+>- Koho si získat
 
-- O koho se opřít (posilovat)
+>- O koho se opřít (posilovat)
 
-- Koho potlačovat, eliminovat, zbavit se ho
+>- Koho potlačovat, eliminovat, zbavit se ho
 
 Dá se využít v řízení!!!
 
 ***2.Skupinové role***
-- Jsou to připisované způsoby chování určitému jedinci ve skupině
+>- Jsou to připisované způsoby chování určitému jedinci ve skupině
 
-- Každý čle- ve skupině má určitou roli – formální i neformální
+>- Každý člen ve skupině má určitou roli – formální i neformální
 
-- Neexistuje čle- skupiny bez role.
+>- Neexistuje člen skupiny bez role.
 
 ***Nejčastější typy rolí:***
-- Vůdce neformální x formální
+>- Vůdce neformální x formální
 
-- Sociální hvězda
+>- Sociální hvězda
 
-- Expert, vědec, učenec
+>- Expert, vědec, učenec
 
-- Rebel, oponent, kverulant, prudič
+>- Rebel, oponent, kverulant, prudič
 
-- Klaun, Bavič,
+>- Klaun, Bavič,
 
-- Černá ovce, obětní beránek, mimoň, trpitel
+>- Černá ovce, obětní beránek, mimoň, trpitel
 
-- Agresor (šikana)
+>- Agresor (šikana)
 
-- Spasitel
+>- Spasitel
 
-- Vrba x drbna
+>- Vrba x drbna
 
-- Hujerové, patolízalové, prdlolezci
+>- Hujerové, patolízalové, prdlolezci
 
-- Krasavice, dvorní dámy, samice
+>- Krasavice, dvorní dámy, samice
 
-- Prostý člen, dělníci, myši
+>- Prostý člen, dělníci, myši
 
 Vedení
 ***Dobré vědět:***
-- Kdo je kdo – jakou má kdo roli (sociometrie)
+>- Kdo je kdo – jakou má kdo roli (sociometrie)
 
-- Role využívat k řízení teamu
+>- Role využívat k řízení teamu
 
-- Jak se vidím sám a jak mě vidí ostatní?
+>- Jak se vidím sám a jak mě vidí ostatní?
 
-- Jede- člověk – klidně několik rolí
+>- Jeden člověk – klidně několik rolí
 
 ***3.Skupinové normy:***
-- Každá skupina si vytváří své nepsané normy chování, podle kterých se řídí chování lidí ve skupině tj.co je žádoucí a nežádoucí chování.
+>- Každá skupina si vytváří své nepsané normy chování, podle kterých se řídí chování lidí ve skupině tj.co je žádoucí a nežádoucí chování.
 
-- Poctivě x nepoctivě, plnit x neplnit,
+>- Poctivě x nepoctivě, plnit x neplnit,
 
-- Skupina vyvíjí nátlak na členy, aby tyto normy přijali 
+>- Skupina vyvíjí nátlak na členy, aby tyto normy přijali 
 
 – byli konformní, tj.chovali se podle nich!
 
-- Kdo je nepřijme – stává se deviantem – snaha ho napravit x pokud se nepodaří je odvrhnut, vylouče- a stává se „vyděděncem či nepřítelem skupiny“
+>- Kdo je nepřijme – stává se deviantem – snaha ho napravit x pokud se nepodaří je odvrhnut, vyloučen a stává se „vyděděncem či nepřítelem skupiny“
 
 Vedení
 ***Dobré vědět:***
-- Pokud jsou normy vytvořené, je obtížné je měnit, dochází ke konfliktu.
+>- Pokud jsou normy vytvořené, je obtížné je měnit, dochází ke konfliktu.
 
-- Dobré je vytvořit před vznikem skupiny či na začátku vzniku.
+>- Dobré je vytvořit před vznikem skupiny či na začátku vzniku.
 
-- Ideál = normy nepsané (neformální) jsou stejné jako ty psané (formální – od vedení)
+>- Ideál = normy nepsané (neformální) jsou stejné jako ty psané (formální – od vedení)
 
-- Redefinovat je s týmem, dohodnout se, vyvěsit, držet se jich a neustále na ně odkazovat.
+>- Redefinovat je s týmem, dohodnout se, vyvěsit, držet se jich a neustále na ně odkazovat.
 
-- Normy by mělo formulovat vedení, kontrolovat a hlídat vedení, jedinci se těžko mění.
+>- Normy by mělo formulovat vedení, kontrolovat a hlídat vedení, jedinci se těžko mění.
 
-- Nové členy týmu s nimi na začátku seznámit.
+>- Nové členy týmu s nimi na začátku seznámit.
 
-- Opět kdo chce s vlky být, musí s nimi výt.(Vlk)
+>- Opět kdo chce s vlky být, musí s nimi výt.(Vlk)
 
 ***4.Skupinové cíle***
-- Každá skupina lidí si vytvoří určité cíle, na které chce dosáhnout.
+>- Každá skupina lidí si vytvoří určité cíle, na které chce dosáhnout.
 
-- Cíle samozřejmě nemusí být jednotné, nicméně shoda v základních cílech je potřebná ke správné funkci skupiny.
+>- Cíle samozřejmě nemusí být jednotné, nicméně shoda v základních cílech je potřebná ke správné funkci skupiny.
 
-- Rozdílné cíle členů skupiny znamenají konflikty.
+>- Rozdílné cíle členů skupiny znamenají konflikty.
 
 Cíl – očekávaný výsledek našeho jednání (světlo na konci tunelu)
 
@@ -1657,208 +1658,208 @@ Bez cíle – nežiji, přežívám (bloudím)
 Cíle jsou +, ale i -.
 
 Kladné cíle
-- Celoživotně se vzdělávat
+>- Celoživotně se vzdělávat
 
-- Vytvářet pozitivní vztahy s lidmi
+>- Vytvářet pozitivní vztahy s lidmi
 
-- Být dobrým členem rodiny, společnosti, dělat práci co mě baví a uživí mě, mít kamarády a zájmy (koníčky)
+>- Být dobrým členem rodiny, společnosti, dělat práci co mě baví a uživí mě, mít kamarády a zájmy (koníčky)
 
 Záporné cíle
-- Vydělat si „jen“ peníze
+>- Vydělat si „jen“ peníze
 
-- Přežít, protrpět neb nic jiného nemůžu dělat
+>- Přežít, protrpět neb nic jiného nemůžu dělat
 
-- Nenechat se moc otravovat
+>- Nenechat se moc otravovat
 
-- Nic neměnit, stejně to nemá cenu, nic se nezmění
+>- Nic neměnit, stejně to nemá cenu, nic se nezmění
 
-- Doklepat to do důchodu
+>- Doklepat to do důchodu
 
 Vedení
 ***Dobré vědět:***
-- Máme jasně definovaný cíl našeho pedagogického týmu (skupiny)
+>- Máme jasně definovaný cíl našeho pedagogického týmu (skupiny)
 
-- Redefinujeme naše cíle vzhledem ke změnám, které se dějí kolem (společnost, obec atd.)
+>- Redefinujeme naše cíle vzhledem ke změnám, které se dějí kolem (společnost, obec atd.)
 
-- Cíle jedince a týmu (ve shodě či rozporu)
+>- Cíle jedince a týmu (ve shodě či rozporu)
 
 ***5.Skupinová koheze***
-- Koheze – přilnavost, soudržnost, důležitý faktor skup.dynamiky
+>- Koheze – přilnavost, soudržnost, důležitý faktor skup.dynamiky
 
-- Přitažlivost skupiny pro její členy (chci být členem této skupiny, jsem hrdý, něco mi to dává, saturuje – naplňuje)
+>- Přitažlivost skupiny pro její členy (chci být členem této skupiny, jsem hrdý, něco mi to dává, saturuje – naplňuje)
 
-- Motiv přijetí, bezpečí, smyslu, naplňujících společných zážitků, hmotného zabezpečení atd.„my patříme k sobě“
+>- Motiv přijetí, bezpečí, smyslu, naplňujících společných zážitků, hmotného zabezpečení atd.„my patříme k sobě“
 
-- Ve skupině si uspokojuji svoje potřeby
+>- Ve skupině si uspokojuji svoje potřeby
 
-- Ideální – skupinové i individuální cíle jsou ve shodě!!!!
+>- Ideální – skupinové i individuální cíle jsou ve shodě!!!!
 
-- Koheze je výslednicí sil, které působí na členy tak, že chtějí ve skupině zůstat a udržet se v ní.
+>- Koheze je výslednicí sil, které působí na členy tak, že chtějí ve skupině zůstat a udržet se v ní.
 
-- S kohezí se dá pracovat, je stabilizující, ale má i nevýhody – výlučnost(my a ti druzí), narcizmus, rivalita, soupeření, boje.
+>- S kohezí se dá pracovat, je stabilizující, ale má i nevýhody – výlučnost(my a ti druzí), narcizmus, rivalita, soupeření, boje.
 
 Vedení
 ***K dobré kohezi přispívá:***
-- Motivace ke členství – úsilí, výběr
+>- Motivace ke členství – úsilí, výběr
 
-- Akceptující atmosféra – přijetí
+>- Akceptující atmosféra – přijetí
 
-- Přitažlivé skupinové aktivity – zábava, rekreace, školení
+>- Přitažlivé skupinové aktivity – zábava, rekreace, školení
 
-- Soulad individuálních i skupinových cílů a norem
+>- Soulad individuálních i skupinových cílů a norem
 
-- Soutěžení nebo kontakt s jinými skupinami
+>- Soutěžení nebo kontakt s jinými skupinami
 
-- Přítomnost autority, devianta, vizionáře
+>- Přítomnost autority, devianta, vizionáře
 
-- Tlak okolí a vedení – přiměřené napětí neboli tenze
+>- Tlak okolí a vedení – přiměřené napětí neboli tenze
 
 ***6.Skupinová tenze-napětí***
-- Napětí (tenze) je nevyhnutelně přítomné v každé skupině (střetávají se potřeby jedinců navzájem i skupiny)
+>- Napětí (tenze) je nevyhnutelně přítomné v každé skupině (střetávají se potřeby jedinců navzájem i skupiny)
 
-- Konflikt přináší napětí tj.tenzi
+>- Konflikt přináší napětí tj.tenzi
 (doprovázeno úzkostí, strachem, agresivitou, únikem)
 
-- Konflikt přináší, ale i změnu!!!
+>- Konflikt přináší, ale i změnu!!!
 
-- Tenze – napětí je do určité míry zdravé a nutné = rozvíjí jedince i skupinu
+>- Tenze – napětí je do určité míry zdravé a nutné = rozvíjí jedince i skupinu
 
-- Tenze podporuje kohezi (i v rodině)
+>- Tenze podporuje kohezi (i v rodině)
 
 Vedení
 ***Dobré vědět:***
 
-- Málo i hodně tenze škodí.
+>- Málo i hodně tenze škodí.
 
-- Zlatý střed ideál jak na pracovišti, tak při výchově dětí, tak v manželství.
+>- Zlatý střed ideál jak na pracovišti, tak při výchově dětí, tak v manželství.
 
-- Tenze s sebou nese konfrontaci, nesympatie, kritiku
+>- Tenze s sebou nese konfrontaci, nesympatie, kritiku
 x při dobré kohezi (soudržnosti) vede k náhledu a změně postojů, názorů, norem, hodnot
 
 ***7.Projekce-promítání***
-- Každý čle- skupiny do ní promítá sám sebe tj.-věk, pohlaví, názory, zkušenosti, chování, svou minulost (celou svou osobnost)
+>- Každý člen skupiny do ní promítá sám sebe tj.-věk, pohlaví, názory, zkušenosti, chování, svou minulost (celou svou osobnost)
 
-- Přenáším – promítám do skupiny vědomě i nevědomě.
+>- Přenáším – promítám do skupiny vědomě i nevědomě.
 
-- Haló efekty, zobecňování, podle sebe soudím tebe atd.
+>- Haló efekty, zobecňování, podle sebe soudím tebe atd.
 
 Vedení
 ***Dobré vědět:***
 
-- Snaha o podporu promítání pozitiv a eliminace promítání negativ!!!
+>- Snaha o podporu promítání pozitiv a eliminace promítání negativ!!!
 
-- Vést lidi k uvědomování si projekce u sebe i klientů.(psychologie, psychoterapie)
+>- Vést lidi k uvědomování si projekce u sebe i klientů.(psychologie, psychoterapie)
 
 ***8.Skupinová atmosféra***
-- Je to situační emoční (citové) naladění jedinců ve skupině.
+>- Je to situační emoční (citové) naladění jedinců ve skupině.
 
 ***Atmosféra je ovlivněna:***
-- stylem vedení
+>- stylem vedení
 
-- vzájemnými vztahy k sobě a klientům,
+>- vzájemnými vztahy k sobě a klientům,
 
-- smysluplností a množstvím práce
+>- smysluplností a množstvím práce
 
-- možností osobního růstu
+>- možností osobního růstu
 
-- obklopujícími událostmi
+>- obklopujícími událostmi
 
 Vedení
 Jedinec očekává od skupiny
 
-- usnadnění své existence
+>- usnadnění své existence
 
-- přijetí
+>- přijetí
 
-- ocenění
+>- ocenění
 
-- zdroj kladných emocí – umožněme mu to!!!!
+>- zdroj kladných emocí – umožněme mu to!!!!
 
 ***9.Fáze vývoje skupiny***
-- Orientace a závislosti – okoukávání, stylizace (děláme se lepšími)
+>- Orientace a závislosti – okoukávání, stylizace (děláme se lepšími)
 
-- Sdružování a vytváření atmosféry – skupinky, role, 
+>- Sdružování a vytváření atmosféry – skupinky, role, 
 normy a cíle
 
-- Konfliktů a protestů – střety, jaké normy a cíle
+>- Konfliktů a protestů – střety, jaké normy a cíle
 
-- Vývoj koheze a kooperace – vyjasnění a zaměření
+>- Vývoj koheze a kooperace – vyjasnění a zaměření
 
-- Cílevědomá činnost – jdeme splnit cíl
+>- Cílevědomá činnost – jdeme splnit cíl
 
-- Ukončení existence skupiny – dosažení cíle, rozpad
+>- Ukončení existence skupiny – dosažení cíle, rozpad
 Základy První pomoci
 
 ***Mgr.Bohdana Růžičková***
 
 ***Komunikace s operačním střediskem ZZS:***
-- volající se představí, sdělí co se přihodilo, pro koho žádá pomoc (počet osob) a kam
+>- volající se představí, sdělí co se přihodilo, pro koho žádá pomoc (počet osob) a kam
 
-- další komunikaci vede operátor a volající odpovídá co nejpřesněji na jeho otázky, informuje se o způsobu poskytnuté pomoci, eventuál- doporučí další postup; v závěru hovoru volající operátorovi upřesní příjezdovou trasu, zdůrazní důležité orientační body, domluví způsob kontaktu a oznámí číslo svého telefonu, pokud operátor usoudí, že situace je kritická, přeruší hovor, aktivuje výjezdovou skupinu a po té aktivně kontaktuje volajícího a pokračuje v upřesování údajů.
+>- další komunikaci vede operátor a volající odpovídá co nejpřesněji na jeho otázky, informuje se o způsobu poskytnuté pomoci, eventuálně doporučí další postup; v závěru hovoru volající operátorovi upřesní příjezdovou trasu, zdůrazní důležité orientační body, domluví způsob kontaktu a oznámí číslo svého telefonu, pokud operátor usoudí, že situace je kritická, přeruší hovor, aktivuje výjezdovou skupinu a po té aktivně kontaktuje volajícího a pokračuje v upřesování údajů.
 
 ***Specifika ošetřovatelského týmu:***
-- Ženské prostředí
+>- Ženské prostředí
 
-- kasty – sekty (oblečení)
+>- kasty – sekty (oblečení)
 
-- Namáhavá práce (psychicky a fyzicky) – stresy, bolest, nemoc, smrt, nedostatek personálu, peněz apod.
+>- Namáhavá práce (psychicky a fyzicky) – stresy, bolest, nemoc, smrt, nedostatek personálu, peněz apod.
 
-- Třísměnný provoz
+>- Třísměnný provoz
 
-- Přesčasy
+>- Přesčasy
 
 ***Nejčastější chyby při komunikaci s operátorem:***
-- volající sdělí jméno a adresu postižené osoby a neuvědomí si, že není uvedeno na domovním zvonku
+>- volající sdělí jméno a adresu postižené osoby a neuvědomí si, že není uvedeno na domovním zvonku
 
-- obyvatelé činžovních domů si neuvědomí, že vchod je v noci uzamče- a zvonky bývají nefunkční nebo nečitelné
-- při zásazích v terénu (lesy, louky, pole apod.) nečeká u výjezdu ze silnice kontaktní osoba.
+>- obyvatelé činžovních domů si neuvědomí, že vchod je v noci uzamčen a zvonky bývají nefunkční nebo nečitelné
+>- při zásazích v terénu (lesy, louky, pole apod.) nečeká u výjezdu ze silnice kontaktní osoba.
 
 Bariéry poskytování první pomoci
 
-- Nezvládnuté emoce – strach ze smrti doprovázený stresujícími ději vede k bezradnosti.
+>- Nezvládnuté emoce – strach ze smrti doprovázený stresujícími ději vede k bezradnosti.
 
-- Pocit nedostatečnosti – obava z výsledku, očekávaná negativní reakce okolí či zdravotníků.
+>- Pocit nedostatečnosti – obava z výsledku, očekávaná negativní reakce okolí či zdravotníků.
 
-- Nedůvěra k „institucím“ – obava z možných následných problémů s policií, právníky, soudy a zdravotníky.
+>- Nedůvěra k „institucím“ – obava z možných následných problémů s policií, právníky, soudy a zdravotníky.
 
-- Obava o vlastní život a zdraví.
+>- Obava o vlastní život a zdraví.
 
 ***Orientace o potřeb první pomoci a podmínkách jejího poskytnutí:***
-- okamžitá první pomoc je nezbytná u stavů bezprostředního ohrožení života
+>- okamžitá první pomoc je nezbytná u stavů bezprostředního ohrožení života
 
-- ***nejzávažnějším stavem je klinická smrt projevující se současným selháním tří základních funkcí:***
+>- ***nejzávažnějším stavem je klinická smrt projevující se současným selháním tří základních funkcí:***
 
-- ztrátou dechu
+>- ztrátou dechu
 
-- ztrátou vědomí
+>- ztrátou vědomí
 
-- selháním krevního obhu.
+>- selháním krevního obhu.
 
 ***Orientace spočívá ve zjištění:***
-- ***zda se jedná o stav bezprostředního ohrožení života, který zahrnuje následující situace:***
+>- ***zda se jedná o stav bezprostředního ohrožení života, který zahrnuje následující situace:***
 
-- masivní krvácení
+>- masivní krvácení
 
-- bezvědomí
+>- bezvědomí
 
-- dušení
+>- dušení
 
-- bezduší
+>- bezduší
 
-- zástavu krevního oběhu
+>- zástavu krevního oběhu
 
-- zda poskytnutí první pomoci není pro zachránce spojeno s rizikem vlastního ohrožení
+>- zda poskytnutí první pomoci není pro zachránce spojeno s rizikem vlastního ohrožení
 
-- při kladné odpovědi na obě otázky je nutno neprodleně konat
+>- při kladné odpovědi na obě otázky je nutno neprodleně konat
 
-- ***není-li pacient bezprostředně ohrože- na život, vyhodnotíme zda existuje riziko šoku, trvalé invalidity, ztráty orgánu nebo jeho funkce:***
+>- ***není-li pacient bezprostředně ohrožen na život, vyhodnotíme zda existuje riziko šoku, trvalé invalidity, ztráty orgánu nebo jeho funkce:***
 
-- šokem jsou ohroženy všechny osoby se závažnými úrazy nebo s velkou ztrátou krve
+>- šokem jsou ohroženy všechny osoby se závažnými úrazy nebo s velkou ztrátou krve
 
-- invaliditou (ochrnutím) jsou ohroženy osoby s poranním páteře (míchy)
+>- invaliditou (ochrnutím) jsou ohroženy osoby s poranním páteře (míchy)
 
-- ztráta orgánu (jeho funkce) hrozí při úrazech oka, amputacích končetin, tepenných uzávěrech končetin, jejich popálení nebo omrznutí
+>- ztráta orgánu (jeho funkce) hrozí při úrazech oka, amputacích končetin, tepenných uzávěrech končetin, jejich popálení nebo omrznutí
 
-- při kladné odpovědi by měla bez zbytečné prodlevy následovat cílená první pomoc
+>- při kladné odpovědi by měla bez zbytečné prodlevy následovat cílená první pomoc
 
-- u všech ostatních stavů není poskytnutí první pomoci otázkou minut, je časově odložitelná a zachránce si ji může promyslet.
+>- u všech ostatních stavů není poskytnutí první pomoci otázkou minut, je časově odložitelná a zachránce si ji může promyslet.
