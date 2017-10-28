@@ -2,11 +2,11 @@
 
 [Pedagogika 1.semestr](https://github.com/bedjan/skola/blob/master/pedagogika_vypisky.md)
 
-[Markdown>- syntaxe](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown - syntaxe](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[Markdown>- preview](https://stackedit.io/editor/)
+[Markdown - preview](https://stackedit.io/editor/)
 
-[Markdow>- to html](http://htmltidy.net/)
+[Markdown - to html](http://htmltidy.net/)
 *****
 *****
 ### Pedagogika-Okruhy pro závěrečné zkoušky 2017/2018
@@ -87,7 +87,7 @@
 >*5c. - __aplikované__*
 
 *****
-**Ad 1) Pedagogika >- definice**
+**Ad 1) Pedagogika - definice**
 
 ***Pedagogika, definice:*** - humanitní věda o výchově a vzdělávání; cílevědomá a záměrná činnost s utvářením a formováním osobnosti.
 
@@ -98,7 +98,9 @@
 
 >- cílevědomá činnost s předáváním vzorců, norem a pravidel chování platných ve společnosti("umravňování")
 
->- specifický druh SOCIALIZACE ("zespolečešťování" >– začleňování jedince do společnosti)
+>- specifický druh SOCIALIZACE ("zespolečešťování" 
+
+>– začleňování jedince do společnosti)
 
 >- zajistit předávání morálních norem z generace na generaci
 
@@ -131,7 +133,7 @@
 
 ***Vzdělání*** - výsledek vzdělávání; souhrn vědomostí, poznatků a dovedností potřebných pro občanský, rodinný a profesní život
 
-***Výchova a vzdělávání*** >- jeden ze základních předpokladů pro rozvoj společnosti a jedince; specifický druh socializace; může ji ovlivnit velká většina národa
+***Výchova a vzdělávání*** - jeden ze základních předpokladů pro rozvoj společnosti a jedince; specifický druh socializace; může ji ovlivnit velká většina národa
 
 *****
 **Ad 4) Pedagogika jako věda – 5 základních požadavků**
@@ -940,7 +942,7 @@ metody skupinového vyuč.– skupinová diskuze
 
 ***Cíl:***
 
->Odstranění sociálně patologických jevů ve společnosti a začlenění tj.socializace či resocializace jedinců či skupi>- do společnosti formou výchovy a vzdělávání.
+>Odstranění sociálně patologických jevů ve společnosti a začlenění tj.socializace či resocializace jedinců či skupin do společnosti formou výchovy a vzdělávání.
 
 *****
 **Ad 2) Metody sociální pedagogiky**
