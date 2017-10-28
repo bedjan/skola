@@ -59,35 +59,35 @@
 **Osnova:**
 
 
-**1.Definice pedagogiky**
+**1.Pedagogika - definice**
 
-**2.Definice výchovy a její cíle** 
+**2.Výchova a její cíle - definice** 
 
-**3.Definice vzdělání vzdělávání**
+**3.Vzdělání, vzdělávání - definice**
 
-**4.Pedagogika jako věda – 5 základních požadavků:**
+**4.Pedagogika – požadavky:**
 
 
-*4a. -užitek, reálný význam pro společnost*
+>*4a. - __užitek__, reálný význam pro společnost*
 
-*4b. -předmět zkoumání*
+>*4b. - předmět __zkoumání__*
 
-*4c. -soubor výzkumných metod*
+>*4c. - výzkumné __metody__*
 
-*4d. -vymezený vztah k jiným vědám*
+>*4d. - vztah k jiným __vědám__*
 
-*4e. -reálně prováděna odb.pracovníky*
+>*4e. - prováděna __odborníky__*
 
 **5.Dělení pedagogických disciplín:**
 
-*5a. -Základní*
+>*5a. -__Základní__*
 
-*5b. -Hraniční*
+>*5b. -__Hraniční__*
 
-*5c. -Aplikované*
+>*5c. -__Aplikované__*
 
 *****
-**Ad 1) Definice pedagogiky**
+**Ad 1) Pedagogika - definice**
 
 ***Pedagogika, definice:*** - humanitní věda o výchově a vzdělávání; cílevědomá a záměrná činnost s utvářením a formováním osobnosti.
 
@@ -96,11 +96,11 @@
 
 ***Výchova, definice***:
 
-- cílevědomá činnost s předáváním vzorců, norem a pravidel chování platných ve společnosti("umravňování")
+>- cílevědomá činnost s předáváním vzorců, norem a pravidel chování platných ve společnosti("umravňování")
 
-- specifický druh SOCIALIZACE ("zespolečešťování" – začleňování jedince do společnosti)
+>- specifický druh SOCIALIZACE ("zespolečešťování" >– začleňování jedince do společnosti)
 
-- zajistit předávání morálních norem z generace na generaci
+>- zajistit předávání morálních norem z generace na generaci
 
 ***Morálka*** – soubor pravidel a norem chování ve společnosti
 
@@ -108,17 +108,17 @@
 
 ***Výchova,rozdělení:***
 
-- mravní (utváří systém hodnot a norem jedince)
+>- mravní (utváří systém hodnot a norem jedince)
 
-- rozumová (formující a rozvíjející intelekt člověka)
+>- rozumová (formující a rozvíjející intelekt člověka)
 
-- tělesná
+>- tělesná
 
-- umělecká
+>- umělecká
 
 ***Cíl výchovy:***
 
-- vytvořit svědomí dle společenské morálky ( jedinec si zvnitřní (interiorizuje) normy chování, hodnoty, postoje vycházející ze společenské morálky a reálně se podle nich v životě chová (exterizuje)
+>- vytvořit svědomí dle společenské morálky ( jedinec si zvnitřní (interiorizuje) normy chování, hodnoty, postoje vycházející ze společenské morálky a reálně se podle nich v životě chová (exterizuje)
 
 *****
 **Ad 3) Definice vzdělávání**
