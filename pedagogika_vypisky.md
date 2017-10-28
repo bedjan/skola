@@ -246,9 +246,11 @@
 #### 2.Nejvýznamnější problémy současné pedagogiky, kurikulární reforma, alternativní školy.
 **Osnova:**
 
-1. Nejvýznamnější problémy
-2. Kurikulární reforma
-3. Alternativní školy
+**1. Nejvýznamnější problémy**
+
+**2. Kurikulární reforma**
+
+**3. Alternativní školy**
 
 *****
 
@@ -426,9 +428,12 @@ Prosazení nové koncepce oborových didaktik se urychlí, budou-li se jejich pr
 
 ***Osnova:***
 
-1. Definice výchovně vzdělávacích metod
-2. Faktory ovlivňující výběr výchovně vzdělávacích metod
-3. Dělení výchovně vzdělávacích metod
+**1. Definice výchovně vzdělávacích metod**
+
+**2. Faktory ovlivňující výběr výchovně vzdělávacích metod**
+
+**3. Dělení výchovně vzdělávacích metod**
+
 *****
 **Ad 1) Definice výchovně vzdělávacích metod**
 
@@ -596,11 +601,11 @@ f) didaktická hra a soutěž jako vyučovací metody
 **Osnova:**
 
 
-1.Vymezení organizačních forem výuky-definice
+**1.Vymezení organizačních forem výuky-definice**
 
-2.Dělení OFV
+**2.Dělení OFV**
 
-3.Formy výuky
+**3.Formy výuky**
 
 *****
 **Ad 1) Vymezení organizačních forem výuky-definice**
@@ -758,10 +763,13 @@ metody skupinového vyuč.– skupinová diskuze
 
 ***Osnova:***
 
-1. Definice didaktiky a její dělení
-2. Didaktické zásady
-3. Význam didaktiky
-4. Realizace didaktických zásad v praxi
+**1. Definice didaktiky a její dělení**
+
+**2. Didaktické zásady**
+
+**3. Význam didaktiky**
+
+**4. Realizace didaktických zásad v praxi**
 
 *****
 **Ad 1) Definice didaktiky a její dělení**
@@ -906,8 +914,10 @@ metody skupinového vyuč.– skupinová diskuze
 
 **Osnova:**
 
-1. Definice sociální pedagogiky
-2. Metody sociální pedagogiky
+**1. Definice sociální pedagogiky**
+
+**2. Metody sociální pedagogiky**
+
 ***3. Hlavní okruhy problémů:***
 
 >I) poruch chování
@@ -1191,15 +1201,15 @@ metody skupinového vyuč.– skupinová diskuze
 
 **Osnova:**
 
-1.Definice výchovy
+**1.Definice výchovy**
 
-2.Složky výchovy
+**2.Složky výchovy**
 
-3.Výchovně vzdělávací cíle
+**3.Výchovně vzdělávací cíle**
 
-4.Funkce výchovně vzdělávacích cílů
+**4.Funkce výchovně vzdělávacích cílů**
 
-5.Dělení výchovně vzdělávacích cílů
+**5.Dělení výchovně vzdělávacích cílů**
 
 *****
 **Ad 1) Definice výchovy**
@@ -1416,9 +1426,12 @@ V současnosti se nejvíce používá Bloomova taxonomie výchovných cílů.
 *****
 
 ***Osnova:***
-1. Sociálno v životě jedince
-2. Vztahy a socializace
-3. Skupinová dynamika – vznik a vývoj vztahů v třídním kolektivu
+
+**1. Sociálno v životě jedince**
+
+**2. Vztahy a socializace**
+
+**3. Skupinová dynamika – vznik a vývoj vztahů v třídním kolektivu**
 
 *****
 
@@ -1869,7 +1882,7 @@ Bariéry poskytování první pomoci
 
 >- při kladné odpovědi na obě otázky je nutno neprodleně konat
 
->- ***není-li pacient bezprostředně ohrožen na život, vyhodnotíme zda existuje riziko šoku, trvalé invalidity, ztráty orgánu nebo jeho funkce:***
+>- ***není-li pacient bezprostředně ohrožen na životě, vyhodnotíme zda existuje riziko šoku, trvalé invalidity, ztráty orgánu nebo jeho funkce:***
 
 >- šokem jsou ohroženy všechny osoby se závažnými úrazy nebo s velkou ztrátou krve
 
