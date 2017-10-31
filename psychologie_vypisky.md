@@ -8,6 +8,8 @@
 
 [Markdow- to html](http://htmltidy.net/)
 
+*****
+*****
 
 <a id="x"></a>
 ### Psychologie 1 semestr
@@ -53,6 +55,7 @@
 
 #### [17.Období adolescence a pubescence.](#17)
 
+*****
 *****
 
 <a id="1"></a>
@@ -152,7 +155,8 @@ c) Současnost: - dědičnost – výchova, empirická neexaktní ( ne zcela př
 
 ***PROŽÍVÁNÍ: INTORSPEKCE - vnitřní*** vnitřní subjektivní uvědomované psychické činnosti, vnitřní prožívání se nedá zpravidla vyjádřit
 
-***
+*****
+*****
 
 <a id="2"></a>
 
@@ -191,6 +195,9 @@ Etické aspekty psychologického výzkumu
 - právo na soukromí a důvěrnost informací
 
 - právo odstoupit od výzkumu
+
+*****
+*****
 
 <a id="3"></a>
 
@@ -273,7 +280,10 @@ Psychologické jevy dělíme na tři skupiny dle jejich trvání:
 
 - extrovert – člověk žijící navenek, spontánní, otevřený, povrchní, v centru dění
 
-• charakter – struktura osobnosti, souvisí s temperamentem, podílí se na chování a jednání jedince ve společenských vazbách, vůči ostatním lidem,
+• charakter – struktura osobnosti, souvisí s temperamentem, podílí se na chování a jednání jedince ve společenských vazbách, vůči ostatním lidem
+
+*****
+*****
 
 <a id="4"></a>
 
@@ -356,6 +366,10 @@ Funkce mozku
 • je schopnost centrální nervové soustavy uchovávat a používat informace o předchozích zkušenostech, jde o proces vštěpování, uchování a vybavovaní zkušenosti
 
 • dělí se jednak podle délky (senzorickou, krátkodobou, střednědobou a dlouhodobou), dále podle formy (vizuální, akustickou, sémantickou), další rozdělení paměti je mechanické a logické
+
+
+*****
+*****
 
 <a id="5"></a>
 
@@ -486,6 +500,46 @@ Vnímání se realizuje složitými neurofyziologickými mechanismy informační
 
 - soustřeďujeme se na to co je podle nás důležité, souvisí to s potřebami a zájmy – pozornost, zaměřenost
 
+
+*****
+*****
+
+<a id="6"></a>
+
+[Nahoru](#x)
+
+#### 6 Procesy učení a paměti
+
+= KOGNITIVNÍ  PROCESY – součást intelektuálního vývoje žáka
+    
+**Patří mezi psychické procesy. Kognitivní (poznávací) procesy:**
+
+a)vnímání, počitky, vjemy
+
+b)procesy učení a paměti
+
+c)imaginativní procesy, představy a fantazie
+
+d)myšlení spjaté s řečí a myšlenkové řešení problémů
+
+**Funkce kognitivních procesů:**
+
+- v poznávání, v řízení činnosti, v sociální komunikaci, v uvědomování si emocí, v řešení konfliktů mezi motivy, v rozhodování a v realizaci vytčených cílů
+jsou vzájemně propojené, a to i s ostatními procesy (emočními, motivačními, volními). Významní pedagogové (u nás J.A.Komenský) požadovali, aby se učitelé neomezovali na slovní sdělování učiva, ale aby měli žáci příležitost k názornému poznání věcí, k jejich vnímání, nejlépe všemi smysly.
+
+A.Vnímání = poznávací proces zachycující to, co působí na naše smysly. K vnímání je potřeba analyzátor (= receptor, dostředivá dráha a mozkové centrum) – jeho hlavní funkcí je analýza, rozklad, rozlišování podnětů.  Druhy vnímání (informující o vnějším světě): Zrakové , Sluchové, Čichové , Chuťové , Hmatové
+Ve vnímání se rozlišují 2 typy zážitků: počitek – obraz některého jednotlivého znaku vnímaného předmětu (např. počitek červené barvy, počitek nakyslé chuti, …), nevyskytují se izolovaně, ale jako části složitějších vjemů, vjem – obraz předmětu nebo procesu jako celku (např. vjem jablka), celostní a tvarová psychologie
+
+B. Procesy učení a paměti
+Učení = získávání zkušeností, utváření a pozměňování jedince v průběhu jeho života. Paměť = vlastnost a soubor procesů, které umožňují osvojení informací, jejich uchování a vybavení,  nejdůležitější vlastnost živých organismů. V paměťových procesech spolupracuje více mozkových center – paměť pracuje s informacemi všech druhů vnímání, všech smyslů. 
+
+C. Imaginativní procesy: Názorné poznání skutečnosti zahrnuje vnímání a s ním těsně spjaté imaginativní procesy. Ty se tradičně vyjadřují zejména termíny představy a fantazie. Představa – je názorný obraz něčeho, co v daném okamžiku nepůsobí na naše smyslové orgány. Zakládá se na minulém vnímání. Představu si můžeme vytvořit prostřednictvím zraku, sluchu, vůně a chuti.  Fantazie – (obrazotvornost) je psychický proces, ve kterém vytváříme relativně nové představy. Základem je vždy naše zkušenost, vjemy a paměťové představy.
+
+D. Myšlení: je vrcholný proces lidského poznávání , zakládá se na ostatních poznávacích procesech a také do nich vstupuje, umožňuje vymezit pojmy, vystihnout vztahy mezi nimi, z jedněch poznatků odvozovat jiné, formulovat hypotézy a ověřovat je, vytvářet složité systémy operací, řešit problémy. Nástrojem myšlení je řeč, vnější (mluvená, psaná), nebo vnitřní, když např. počítáme potichu
+
+*****
+*****
+
 <a id="7"></a>
 
 [Nahoru](#x)
@@ -522,6 +576,9 @@ B) I.P.Pavlov – typ myslitelský a umělecký
 v Snění v bdělém stavu bývá pokračováním skutečných událostí, někdy i pokračováním v řešení otevřeného problému. Právě ve snění – ve chvíli odpočinku, při cestě – se může vybavit rozhodující nápad, princip řešení obtížného problému ať již osobního nebo pracovního. Snění může pomoci plánovat budoucí činnost a život. Někdy snění přináší uklidnění nebo i radostné vzrušení. Někdy se stává náhražkou skutečného života. Může přinášet neklid, úzkost, strach. Ovlivňuje tedy jedincovu náladu, a to často na dlouhou dobu. Sen ve spánku – psychoanalýza a směry na ni navazující podrobně rozpracovaly teorie snů jako projevů nevědomí.
 
 v Jung: Sen vyjadřuje často v pozměněné formě- něco důležitého jedincova nevědomí, např. to co nedořešil, nezvládl, zanedbal, popřípadě potlačil, proto je účelné zamýšlet se nad vlastními sny, tím získáme náměty pro lepší sebepoznání i pro lepší řešení životních problémů, pro realizaci vnitřního dialogu, který je podstatnou podmínkou pro sebepoznání a pro duševní zdraví, pro dobrý vývoj osobnosti.
+
+*****
+*****
 
 <a id="8"></a>
 
@@ -668,6 +725,9 @@ Myšlenkové operace (procesy)
 - užívá se v matematické logice i v psychologii
 
 - vyjadřují myšlenkové operace
+
+*****
+*****
 
 <a id="9"></a>
 
@@ -838,6 +898,9 @@ Společné znaky psychických procesů:
 
 * Jsou variabilní, vykazují značné individuelní rozdíly
 
+*****
+*****
+
 <a id="10"></a>
 
 [Nahoru](#x)
@@ -936,6 +999,41 @@ Existuje škála rozmanitých stavů vědomí včetně stavů relaxace, hypnózy
 
 - Bio-psycho-sociální aspekty člověka, jeho života i činností jsou navzájem těsně spjaty. Zanedbání kteréhokoliv z 3 aspektů vede k jednostrannostem a chybám. Bez biologického pohledu se ztrácí nervové mechanismy, bez sociálního pohledu se ztrácí specifičnost člověka, sociální determinace a komunikace a bez psychologického hlediska se ztrácí osobnost a její specifičnost, je ovlivněné vnímání, nálady, emoce i zdraví.
 
+*****
+*****
+
+<a id="11"></a>
+
+[Nahoru](#x)
+
+
+#### 11 Motivace a její utváření 
+
+=Motivační, emoční a volní procesy
+
+Definice: motivace z latinského „movere“ – hýbat, pohybovat, znamená souhrn hybných momentů v činnostech, prožívání, chování osobnosti (to, co člověka podněcuje, pobízí, aby něco dělal, reagoval, nebo naopak, co ho tlumí, co mu zabraňuje něco konat, reagovat), motivace dodává činnosti, našemu prožívání a chování energii a směr, aktivuje a zároveň usměrňuje
+
+Druhy motivů: 
+- vnější pobídky (incentivy) a vnitřní motivy jsou těsně spjaty – při nedostatku vnitřní motivace nemusí pobídka působit, mnohdy však pobídka zvenčí stimuluje, zesiluje vnitřní motiv (toho využívá reklama lákavými pobídkami, podněcuje motivaci mnoha lidí, dovede je k tomu, aby si koupili i to, co nutně nepotřebují)
+
+Lidská motivace je velmi složitá a individuálně odlišná:
+
+Maslowova hierarchie lidských potřeb, kterou zobrazoval jako pyramidu potřeb:
+
+- potřeba seberealizace (naplnit své možnosti růstu a rozvoje), potřeba uznání, úcty (být vážený, mít úspěch v očích jiných lidí a na tomto základě být sám sebou kladně hodnocen), potřeba lásky, sounáležitosti (vedou k touze někam a k někomu patřit, být přijímán a milován), potřeba bezpečí, jistoty (projevuje se především vyhýbáním se všemu neznámému, neobvyklému či hrozivému), základna pyramidy – fyziologické potřeby (potřeba potravy, tepla, vyměšování)
+
+Vždy začínáme od nejzákladnějších potřeb – elementární, biologické, fyziologické, základní na základně pyramidy – níže položené potřeby jsou významnější a jejich alespoň částečné uspokojení je podmínkou pro vznik méně naléhavých a vývojově vyšších potřeb. Toto však nelze říci zcela bezvýhradně, uspokojování vyšších potřeb (estetických, duchovních) může napomoci  v mezních situacích lidského života, ve kterých je možnost uspokojování nižších potřeb omezena (např. v prostředí koncentračních táborů, o čemž referovali mj. Viktor Frankl). Za nejvyšší považuje Maslow potřebu seberealizace, jíž označuje lidskou snahu naplnit své schopnosti a záměry.
+
+City, emoce jsou těsně spjaty s motivací, mohou podněcovat, motivovat k činnosti tak jako potřeby, v tom smyslu patří emoce k motivům. Zároveň emoce doprovázejí průběh činnosti, uspokojování nebo neuspokojování potřeb, dosahování cíle nebo jeho zmaření.
+
+Emoce jsou psychické procesy, které hodnotí – z hlediska potřeb, cílů a sociálního významu – různé skutečnosti, situace, události, průběh a výsledky činnosti jedince. Emoční procesy i stavy jedince jsou ovlivňovány sociální komunikací a emocemi druhých lidí.
+
+Vůle psychické procesy a vlastnosti, které zajišťují řízení činnosti a dosahování cílů, zvláště v situacích, kdy je zapotřebí rozhodnout se mezi několika možnostmi a překonávat překážky. Těsně souvisí motivací a emocemi. „Vůle“ souvisí se slovy velet a volba – k dosažení cíle potřebujeme volit, rozhodnout se
+
+Volní procesy – vyskytují se ve všech fázích lidské činnosti, jsou těsně spjaty s řečí (vnější i vnitřní) – při rozhodování často probíhá vnitřní dialog a někdy se přenáší do vnější řeči.
+
+*****
+*****
 
 <a id="12"></a>
 
@@ -1040,6 +1138,9 @@ a) zúžená motivace, několik málo potřeb či zájmů (např. jen práce a v
 
 b) široká motivace - spektrum potřeb a zájmů (práce, koníčky, sport, životní styl, poznávací a estetické potřeby) – mnohostranné osobnosti
 
+*****
+*****
+
 <a id="13"></a>
 
 [Nahoru](#x)
@@ -1129,6 +1230,9 @@ Učitelé: jsou méně poslušné a poddajné, neobvyklé nápady, nepříjemné
 Vrstevníci: mezi tvořivým dítětem a jeho vrstevníky bývá mnoho konfliktů. Pokud pracují v týmu, tvořivý žák sám vyřeší obtížný úkol, skupina řešení odevzdá, ale neuzná zásluhu tvořivého jedince. Často se takové dítě ale chová tak, že si za obtíže může samo.
 
 Rodina: někteří rodiče jim vyčítají to, že se odlišují od ostatních dětí v zájmech a zájmových činnostech. Nebo naopak od dítěte očekávají neustále jen vynikající výkony. Obojí je špatně, pro dítě frustrující.
+
+*****
+*****
 
 <a id="14"></a>
 
@@ -1583,6 +1687,86 @@ b) dr. SHELDON (19. – 20. st.)
 - Mezomorfní (obdoba atletika) – energický, sebevědomý, aktivní, extrovert, sklon k dominanci, omezená citlivost, chladnost
 
 - Ektomorfní (obdoba astenika) – uzavřený, samotářský, introvert, citově i emocionálně zdrženlivý
+
+*****
+*****
+
+<a id="15"></a>
+
+[Nahoru](#x)
+
+
+#### 15 Vývoj, zrání a interakce jedince s prostředím, dědičnost a prostředí, významné teorie periodizace vývoje (koncepce vývojových stadií)
+
+=Vývoj, zrání a interakce jedince s prostředím, dědičnost a prostředí
+
+**Vývoj:**
+
+-  proces, při kterém se jedinec mění v průběhu času (nejde pouze o růst, ale i o kvalitativní změny), probíhá podle vnitřních zákonů jedince a je ovlivňován interakcí jedince s prostředím, jediný, celistvý celoživotní běh
+
+Vývoj osobnosti je značně individualizovaný a zahrnuje 2 aspekty: zrání a vzájemné ovlivňování jedince a prostředí
+
+**Zrání:**
+
+- proces probíhající podle vnitřních zákonů, rozhodující je genová a vrozená výbava jedince, dítě se vyvíjí ve styku s druhými lidmi, sociálními skupinami, ve společnosti = socializace
+vývoj probíhá v biologické i psychické stránce jedince:
+·       progrese (rozvoj) – přechod od jednodušších forem ke složitějším, od nižších k vyšším
+·       stagnace – zastavení vývoje
+·       regrese – návrat k nižším vývojovým formám,  když se člověk dále nevzdělává a nevykonává činnosti s požadavky na intelekt, tak úroveň jeho intelektových  schopností stagnuje nebo se dokonce snižuje
+
+**Formování osobnosti (determinace) soustřeďování se na příčiny a podmínky, které působí při vývoji jedince, je součástí vývoje osobnosti, ve kterém probíhá vzájemné působení vnějších i vnitřních podmínek:** 
+
+a) vnější podmínky:rodina, vrstevníci, jednotlivci, skupiny, škola, lokalita, národnostní a jiné skupiny ovlivňující rodinu a dítě, životní prostředí
+
+b) vnitřní podmínky:biologické podmínky (dědičnost, geny, vrozená výbava, konstituční výbava (vlivy prostředí na organismus během vývoje jedince po narození: psychické procesy – kognitivní  motivační, emoční a volní a psychické vlastnosti – temperament, charakter, schopnosti, motivace
+
+c) mechanismy interakce osobnosti s prostředím:činnosti a učení, socializace, sociální učení, interakce, komunikace, vnímání, přejímání sociálních rolí, popř. jejich konflikt
+
+Dědičnost a prostředí: psychické vlastnosti jedince (formování osobnosti) ovlivňuje dědičnost, výchova i společenské prostředí – rodiče působí na děti svým modelem chování, vzděláním, sociokulturní charakteristikou rodiny, stylem výchovy, ale i svými geny → důležité podmínky prostředí jsou do určité míry závislé na zděděných předpokladech rodičů
+
+Biologické, sociální a psychologické aspekty člověka, jeho života i jednotlivých činností jsou navzájem těsně spjaty. Biologicky dané předpoklady, které si dítě přináší na svět se týkají i vztahů jedince k prostředí, zejm. sociálnímu. Dítě má vrozenou tendenci prozkoumávat prostředí a aktivně je ovlivňovat, má vrozené předpoklady k učení (vyrovnávání se s prostředím) a k sociální existenci.
+
+*****
+*****
+
+<a id="16"></a>
+
+[Nahoru](#x)
+
+
+#### 16 Průběh vývoje osobnosti, zdůraznění období důležitých pro vzdělávací proces ve škole
+
+=Průběh vývoje osobnosti s důrazem na období puberty a adolescence
+
+**Vývoj** = jediný celistvý, celoživotní běh, vývoj osobnosti je individualizovaný. 
+
+V průběhu života člověk prochází několika odlišnými obdobími – podle nápadných znaků a bio-psycho-sociálních změn se rozlišují:
+
+1. prenatální období: období před narozením, končí narozením do života,
+
+2. rané dětství – novorozenec (28 dnů po porodu),kojenec (29. den – 1 rok života dítěte), batole (1-3 roky)
+
+3. předškolní věk – 3-6 let, zřetelný pokrok v psychomotorickém vývoji, názorné myšlení
+
+4. mladší školní věk – na 1. stupni ZŠ (od 6 do 11-12 let, vstup dítěte do školy, nové učení a činnosti a klade na dítě postupně se zvyšující se nároky, požadavky
+
+5. střední a starší školní věk, mládí – prepuberta, puberta, adolescence (od 11-12 do 20 let)
+
+**Puberta** - období pohlavního dospívání a nového začleňování osobnosti do společnosti, období změn ve vývoji osobnosti a problémů v rodinné i školní výchově, ohraničuje se somatickými (tělesnými) změnami
+
+- období před pubertou (přechod od dětství k dospívání) = prepuberta- začíná prvními náznaky pohlavního dospívání (sekundární pohlavní znaky a výrazný růst do výšky), trvá přibližně od 11 do 13-14 let, začleňování do skupiny vrstevníků, navazování trvalejších kamarádských vztahů, získávání zkušeností v sociální interakci (mezilidské vztahy) a komunikaci, v období 8-13 let se projevuje pečovatelské chování k malým dětem – získává radostné emoční zkušenosti při hře s nimi
+
+- v pubertě nastávají výrazné změny:a)biologické změny:růst do výšky, změna proporcí těla, přiblížení se tvarům těla dospělých, sekundární pohlavní znaky a funkce pohlavních orgánů, b)psychické změny:zvýšená nervová labilita, náladovost, podrážděnost, snadno se unaví, c) sociální:navazování vztahů, komunikace, začleňování se do společnosti. Pubescent se identifikuje s vrstevníky , erotické vztahy a sex, směrování k budoucí profesi
+
+**Adolescence** -období po pubertě, asi od 15 do 20 let, klidnější období než puberta, dochází ke zklidnění vztahu mezi rodiči a dětmi, dokončuje se tělesný růst a pokračuje společenské zařazování a přechod do dospělosti. Vývoj:biologické a psychické hledisko: 1. pohlavní styk , senzomotorické i intelektové schopnosti jsou na vysoké úrovni, sociální aspekty  - ukončení povinné školní docházky, ukončení středního vzdělání. Pokračování formování sociální identity – nejsou dětmi ani dospělými – děti už být nechtějí a k dospělosti mají rozporuplné pocity = psychosociální moratorium – mladistvý se sněží zpomalit, vývoj, zdržet se v období mládí „bez povinností“, cestovat, „užít si volnosti“, přitom těžce nesou, když je dospělí považují za nedospělé, pokračují v úsilí o nezávislost na rodičích a jiných dospělých, chtějí mít svou cestu, názory, kulturu, způsob života
+
+6. dospělost mladá dospělost (20-30 let), střední dospělost (30-45 let), pozdní dospělost (od 45 do 60-65
+
+7. stáří (65 a více let)
+
+
+*****
+*****
 
 <a id="17"></a>
 
