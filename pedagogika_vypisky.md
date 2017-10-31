@@ -1910,3 +1910,271 @@ Bariéry poskytování první pomoci
 - při kladné odpovědi by měla bez zbytečné prodlevy následovat cílená první pomoc
 
 - u všech ostatních stavů není poskytnutí první pomoci otázkou minut, je časově odložitelná a zachránce si ji může promyslet.
+
+
+*****
+*****
+
+<a id="9"></a>
+
+[Nahoru](#x)
+
+#### 9.Hodnocení výsledků výuky, typy hodnocení, problémy školního hodnocení
+
+9. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY ŠKOLNÍHO HODNOCENÍ
+
+Osnova:
+
+Hodnocení – vymezení pojmu
+Funkce hodnocení
+Negativní stránky hodnocení
+Nástroje k hodnocení
+Typy hodnocení
+ad 1) Hodnocení – vymezení pojmu
+
+V obecném smyslu lze považovat za školní hodnocení/evaluaci/
+zaujímání a vyjadřování kladného nebo záporného stanoviska učitelů k
+žákovi, vzhledem k jeho
+
+vědomostem
+
+dovednostem
+
+postojům
+
+vlastnostem
+
+Hlavním smyslem a funkcí hodnocení je poskytnout informaci žákům o
+dosažených výsledcích procesu učení. V tomto smyslu chápeme hodnocení
+jako výchovný prostředek.
+
+Hodnocení je důležité pro učitele, žáky i rodiče, ovlivňuje kvalitu
+výchovně vzdělávacího procesu a podílí se na vytváření sebepojetí žáka.
+
+Ad 2) Funkce hodnocení
+
+Informativní funkce evaluace – informace o dosaženém výsledku (+informace kontrolní, příp. diagnostická) – v současném školství hlavní důraz
+
+Formativní funkce evaluace – stimulace rozvoje osobnosti žáka – v současnosti nedoceňována
+
+Pro učitele
+
+zpětná vazba o účinnosti zvolených metod, postupů efektivnosti jeho pedagogické činnosti
+Pro žáky
+
+zpětná vazba o zvládnutí požadavků stanovených vzdělávacím programem
+
+učí žáka vlastnímu sebehodnocení
+
+Pro rodiče
+
+je hodnocení významnou informací, která nemá vést k postihování, ale má ukázat cestu k nápravě
+Hodnocení – jedna z nejnáročnějších a nejtěžších činností učitele
+
+Hodnocení – má obrovský význam z hlediska sociálního pro žáka, rodiče i společnost!!!!!, ovlivňuje psychiku i zdraví.
+
+POZOR: Velmi citlivě zaházet, může mít pozitivní, ale i negativní důsledky.
+
+Citlivě vycházet z:
+
+legislativy,
+
+školního řádu,
+
+individuality žáka,
+
+složení třídy,
+
+rodinného prostředí
+
+Poznámka:
+
+Krýt si záda – vím kdy, za co, jsem hodnotil, zaznamenáno v klasifikaci, před ostatními, informovat žáka, rodiče, mít vše podložené
+
+Číslo (známka) – nese minimum informací, doprovázet slovem, vysvětlovat, motivovat……….Velmi těžké!!!!!
+
+Ad 3) Negativní stránky hodnocení
+
+Negativní atributy klasifikace (známkování momentálního výkonu žáka)
+
+odvádí žáka od podstaty učení
+
+nahrazuje přirozenou motivaci motivací vnější
+
+vede k vyhýbání se neúspěchu všemi prostředky
+
+konfirmace dispozic k negativním morálním vlastnostem
+
+sociální diferenciace třídy
+
+může vést ke zdravotním obtížím
+
+Ad 4) Nástroje k hodnocení (prostředky evaluace)
+
+Prostředky evaluace
+
+didaktické testy – snaha po maximální objektivitě
+
+hodnocení na základě číselné škály (např. 1-5)
+
+výkonové grafy
+
+výkonové křivky
+
+slovní hodnocení žáků – ocenění individua konkrétním popisný hodnocením na základě obsahu vyučování
+
+sebehodnocení – nejtěžší, nejnáročnější, problém objektivity, ale do
+života nejlepší aktivizace žáka směrem k samostatnému rozhodování
+
+Poznámky:
+
+Hodnocením pokud možno posilovat tj. evaluovat, né snižovat tj. devalvovat.
+
+Každý chce být úspěšný.
+
+Důležitost zpětné vazby.
+
+Práce s chybou je přirozenou součástí procesu hledání
+
+Vytváří postoje a dovednosti pro celoživotní vzdělávání
+
+Ad 5) Typy hodnocení
+
+formativní/ průběžné/
+
+posuzuje pokrok žáků ve vztahu ke konkrétním cílům určité etapy vyučování a pomáhá učiteli se rozhodnout, jak dále pokračovat
+finální/ sumativní/
+
+posouzení úspěšnosti žáků po dokončení konkrétních učebních jednotek a slouží jako podklad pro konstatování stupně prospěchu
+Zásadním problémem hodnocení je jeho objektivnost či subjektivnost,
+míra spravedlnosti. Je tedy důležité, kdo hodnotí, jaký má vztah k
+žákům, jakou má autoritu a jakou úctu požívá.
+
+*****
+*****
+
+<a id="10"></a>
+
+[Nahoru](#x)
+
+#### 10.Diferenciace a individualizace, rozvoj aktivity, samostatnosti a tvořivosti žáků
+
+Osnova:
+
+Diferenciace a individualizace – vymezení pojmů
+Způsoby diferenciace
+Rozvoj aktivity, samostatnosti a tvořivosti žáků
+1. Diferenciace a individualizace – vymezení pojmů
+
+Diferenciace – rozdělování, dělení
+Diferenciací je myšleno rozdělování, členění kolektivu žáků na základně určitých kritérií:
+
+-věku
+
+-pohlaví
+
+-podle inteligenčního kvocientu na velmi dobré,průměrné a slabé
+
+-zájmu
+
+-plánovaném profesním zaměřením
+
+-talentu, dovednostem
+
+-víře atd.
+
+klady:
+
+úzká specializace, vychází vstříc zájmům, talentu, světovému názoru…
+zápory:
+
+-ničí přirozené soci. složení třídy, problematická prostupnost při změně zájmů
+
+či profesní orientaci
+
+Diferencovaný přístup vyžaduje zejména flexibilitu a tvořivou práci učitele.
+
+Nepreferuje se žádná metoda ani organizační forma vyučování,vyžaduje otevřenou práci učitele a jeho přístup k žákům.
+
+Diferenciace a individualizace se realizují v rámci frontálního vyučování prostřednictvím nejrůznějších metod :
+
+-samostatná práce žáků
+
+-řešení problémových situací
+
+-praktické činnosti
+
+Snaha o dokonalou diferenciaci může vést ke krajní variantě, individualizaci.
+
+Individualizace – „extrémní důsledek diferenciace“
+spočívá v tom že práce je přizpůsobena každému žáku na základě poznání jeho možností.
+
+Smyslem individualizace je vytvářet situace, které každému žákovi
+
+umožní nalézt optimální cestu pro vlastní vzdělávání.
+
+2. Způsoby diferenciace
+
+–Diferenciace školou
+
+vedle sebe existují různé druhy škol
+
+kritériem jsou buď fyzické schopnosti (např. školy pro zrakově oslabené žáky, sportovní školy), intelektové schopnosti a nadání v určité oblasti (školy pro intelektově nadprůměrné žáky, umělecké školy), zaměření na budoucí profese (odborné školy) nebo víra či etnikum žáka (katolické, romské školy).
+
+–Diferenciace uvnitř školy
+
+Vytváření stejnorodých tříd:
+
+Založené na kvantitativním kritériu – Žáci jsou rozděleni na základě školního výkonu, IQ, známek, apod. Vyučování podle tohoto rozdělení je trvalé a ve všech předmětech.
+Šance na přestup do výkonnější třídy je minimální. Sporné je již
+samotné rozdělování podle výše uvedených kritérií. Lepší variantou je tvorba homogenních tříd pouze na určité předměty
+(cizí jazyky, matematika), v ostatních předmětech jsou žáci v původních
+kmenových třídách. Žák má větší šanci zlepšit výkon a dostat se „do
+vyšší“ skupiny než v předchozí variantě. Je pro něho snazší uskutečnit
+přechod v rámci pouze jednoho předmětu.
+
+Založené na kvalitativním kritériu – Žáci jsou
+rozdělení na základě zájmů, motivů, životní orientace apod. Zde existují
+také dvě možnosti. První je trvalá volba specializované třídy na
+základě vlastního zájmu žáka. Druhou variantou je nabídka volitelných
+předmětů v rámci kmenové třídy. Žáci tedy mají v rámci běžné výuky ještě
+možnost zvolit si předměty, které je zajímají. Tyto homogenní třídy
+však vznikají pouze účelově, na zbytek předmětů jsou žáci v původních
+kmenových třídách.
+
+–Diferenciace uvnitř třídy
+
+Jde o vytváření skupinek uvnitř jedné třídy. Může jít například na rozdělení žáků na „slabší“, „průměrné“ a „dobré“
+žáky a následné přizpůsobení výukového plánu jejich potřebám. Toto
+dělení bývá jen v určitých předmětech, např. matematice. V jiných se
+skupiny nevytvářejí. Výhodou je snadný přechod mezi jednotlivými
+úrovněmi. Toto dělení je podmíněno změnou charakteru vyučování.
+Problémy těchto seskupování:
+
+Technické – Jak správně rozdělit a jak dosáhnout určité volnosti systému nutné k těmto způsobům vyučování.
+
+Sociopolitické – Jak dosáhnout spravedlivého rozdělení žáků. A je jakékoli rozdělování vůbec spravedlivé? Nejde o diskriminaci?
+
+3. Rozvoj aktivity, samostatnosti a tvořivosti žáků
+
+Žáci v dnešních školách jsou vychovávání spíše v tom, aby pasivně sledovali výklad učitele.
+
+Snažit se o toto:
+
+–Motivace (zaujmout, nabudit) – osobní věc, praxe, aktuální spol. dění, dramatizace atd.
+
+–Příklad – osobní, praxe, společnost, atd.
+
+–Dát prostor, důvěru, partnerský přístup
+
+–Ocenit
+
+–Zajímavé VV metody, střídat činnosti, prostředí
+
+–Ukázat smysl, cíl – k čemu to je, význam
+
+–Jasná a akceptovaná pravidla hry
+
+–Fantazie se meze nekladou
+
+–Věnovat neustále pozornost
