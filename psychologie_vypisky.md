@@ -14,46 +14,50 @@
 
 ##### obecná psychologie:
 
-#### 1.Psychologie - stručná definice pojmu psychologie, vymezení předmětu psychologie, hlavní psychologické disciplíny, význam psychologie pro pedagogické pracovníky. 22-29
+#### [1.Psychologie - stručná definice pojmu psychologie, vymezení předmětu psychologie, hlavní psychologické disciplíny, význam psychologie pro pedagogické pracovníky.](#1) 22-29
 
-#### 2.Psychologické metody, přehled, stručná charakteristika nejvýznamnějších metod. 29-41
+#### [2.Psychologické metody, přehled, stručná charakteristika nejvýznamnějších metod.](#2) 29-41
 
-#### 3.Psychika, psychické jevy (přehled). 22-26,102
+#### [3.Psychika, psychické jevy (přehled).](#3) 22-26,102
 
-#### 4.Biologické aspekty, mozek a jeho funkce. 44-53
+#### [4.Biologické aspekty, mozek a jeho funkce. ](#4) 44-53
 
-#### 5.Kognitivní procesy (součást intelektuálního vývoje žáka). 75-79
+#### [5.Kognitivní procesy (součást intelektuálního vývoje žáka).](#5) 75-79
 
-#### 6.Procesy učení a paměti. 80-88
+#### [6.Procesy učení a paměti.](#6) 80-88
 
-#### 7.Imaginativní procesy (představy, fantazie). 88-89
+#### [7.Imaginativní procesy (představy, fantazie).](#7) 88-89
 
-#### 8.Myšlení- charakteristika, druhy myšlení, myšlenkové operace. 89-91
+#### [8.Myšlení- charakteristika, druhy myšlení, myšlenkové operace.](#8) 89-91
 
-#### 9.Motivační, emoční a volní procesy. 92-102
+#### [9.Motivační, emoční a volní procesy.](#9) 92-102
 
-#### 10.Psychické stavy aktivace, pozornost — význam pro edukační proces. 103-108
+#### [10.Psychické stavy aktivace, pozornost — význam pro edukační proces.](#10) 103-108
 
 ##### psychologie osobnosti:
 
 
-#### 11.Osobnost: charakteristika pojmu: hovorový-laický a odborný význam —význam pojmu ve vědecké psychologii, přehled nejvýznamnějších psychologických koncepcí (psychoanalýza, behaviorismus, humanistická psychologie), složky osobnosti, struktura osobnosti — přehled, osobnost jako celek.
+#### [11.Osobnost: charakteristika pojmu: hovorový-laický a odborný význam —význam pojmu ve vědecké psychologii, přehled nejvýznamnějších psychologických koncepcí (psychoanalýza, behaviorismus, humanistická psychologie), složky osobnosti, struktura osobnosti — přehled, osobnost jako celek.](#11)
 
-#### 12.Motivace a její utváření.
+#### [12.Motivace a její utváření.](#12)
 
-#### 13.Schopnosti a kreativita (tvořivost).
+#### [13.Schopnosti a kreativita (tvořivost).](#13)
 
-#### 14.Rysy osobnosti, individuální a typologické rozdíly; temperament a charakter.
+#### [14.Rysy osobnosti, individuální a typologické rozdíly; temperament a charakter.](#14)
 
 ##### vývojová psychologie:
 
-#### 15.Vývoj, zrání a interakce jedince s prostředím, dědičnost a prostředí, významné teorie periodizace vývoje (koncepce vývojových stadií).
+#### [15.Vývoj, zrání a interakce jedince s prostředím, dědičnost a prostředí, významné teorie periodizace vývoje (koncepce vývojových stadií).](#15)
 
-#### 16.Průběh vývoje osobnosti, zdůraznění období důležitých pro vzdělávací proces ve škole.
+#### [16.Průběh vývoje osobnosti, zdůraznění období důležitých pro vzdělávací proces ve škole.](#16)
 
-#### 17.Období adolescence a pubescence.
+#### [17.Období adolescence a pubescence.](#17)
 
 *****
+
+<a id="1"></a>
+
+[Nahoru](#x)
 
 #### 1.Psychologie - stručná definice pojmu psychologie, vymezení předmětu psychologie, hlavní psychologické disciplíny, význam psychologie pro pedagogické pracovníky.
 
@@ -150,6 +154,10 @@ c) Současnost: - dědičnost – výchova, empirická neexaktní ( ne zcela př
 
 ***
 
+<a id="2"></a>
+
+[Nahoru](#x)
+
 #### 2. psychologické metody, přehled, stručná charakteristika nejvýznamnějších metod
 
 Metody
@@ -183,6 +191,10 @@ Etické aspekty psychologického výzkumu
 - právo na soukromí a důvěrnost informací
 
 - právo odstoupit od výzkumu
+
+<a id="3"></a>
+
+[Nahoru](#x)
 
 #### 3. Psychika, psychické jevy
 Psychika
@@ -263,6 +275,10 @@ Psychologické jevy dělíme na tři skupiny dle jejich trvání:
 
 • charakter – struktura osobnosti, souvisí s temperamentem, podílí se na chování a jednání jedince ve společenských vazbách, vůči ostatním lidem,
 
+<a id="4"></a>
+
+[Nahoru](#x)
+
 #### 4. BIOLOGICKÉ ASPEKTY, MOZEK A JEHO FUNKCE
 
 Biologické aspekty
@@ -340,6 +356,11 @@ Funkce mozku
 • je schopnost centrální nervové soustavy uchovávat a používat informace o předchozích zkušenostech, jde o proces vštěpování, uchování a vybavovaní zkušenosti
 
 • dělí se jednak podle délky (senzorickou, krátkodobou, střednědobou a dlouhodobou), dále podle formy (vizuální, akustickou, sémantickou), další rozdělení paměti je mechanické a logické
+
+<a id="5"></a>
+
+[Nahoru](#x)
+
 
 #### 5. Kognitivní procesy (součást intelektuálního vývoje žáka)
 
@@ -465,6 +486,11 @@ Vnímání se realizuje složitými neurofyziologickými mechanismy informační
 
 - soustřeďujeme se na to co je podle nás důležité, souvisí to s potřebami a zájmy – pozornost, zaměřenost
 
+<a id="7"></a>
+
+[Nahoru](#x)
+
+
 #### 7 Imaginativní procesy, představy, fantazie
 
 Názorné poznání skutečnosti zahrnuje vnímání a s ním těsně spjaté imaginativní procesy. Ty se tradičně vyjadřují zejména termíny představy a fantazie.
@@ -496,6 +522,11 @@ B) I.P.Pavlov – typ myslitelský a umělecký
 v Snění v bdělém stavu bývá pokračováním skutečných událostí, někdy i pokračováním v řešení otevřeného problému. Právě ve snění – ve chvíli odpočinku, při cestě – se může vybavit rozhodující nápad, princip řešení obtížného problému ať již osobního nebo pracovního. Snění může pomoci plánovat budoucí činnost a život. Někdy snění přináší uklidnění nebo i radostné vzrušení. Někdy se stává náhražkou skutečného života. Může přinášet neklid, úzkost, strach. Ovlivňuje tedy jedincovu náladu, a to často na dlouhou dobu. Sen ve spánku – psychoanalýza a směry na ni navazující podrobně rozpracovaly teorie snů jako projevů nevědomí.
 
 v Jung: Sen vyjadřuje často v pozměněné formě- něco důležitého jedincova nevědomí, např. to co nedořešil, nezvládl, zanedbal, popřípadě potlačil, proto je účelné zamýšlet se nad vlastními sny, tím získáme náměty pro lepší sebepoznání i pro lepší řešení životních problémů, pro realizaci vnitřního dialogu, který je podstatnou podmínkou pro sebepoznání a pro duševní zdraví, pro dobrý vývoj osobnosti.
+
+<a id="8"></a>
+
+[Nahoru](#x)
+
 
 #### 8. Myšlení – charakteristika, druhy myšlení, myšlenkové operace
 
@@ -637,6 +668,11 @@ Myšlenkové operace (procesy)
 - užívá se v matematické logice i v psychologii
 
 - vyjadřují myšlenkové operace
+
+<a id="9"></a>
+
+[Nahoru](#x)
+
 
 #### 9 Motivační, emoční a volní procesy
 
@@ -802,6 +838,11 @@ Společné znaky psychických procesů:
 
 * Jsou variabilní, vykazují značné individuelní rozdíly
 
+<a id="10"></a>
+
+[Nahoru](#x)
+
+
 #### 10. Psychické stavy aktivace, pozornost – význam pro edukační proces
 
 - Aktuálními stavy se zabývá jak psychologie, tak fyziologie. Psychický stav můžeme chápat jako aspekt nebo součást celkového funkčního stavu organismu, zejména mozku.
@@ -894,6 +935,11 @@ Délka spánku se mění v průběhu života, s věkem se potřeba spánku sniž
 Existuje škála rozmanitých stavů vědomí včetně stavů relaxace, hypnózy, změněného prožívání a chování v davu, při praktikách meditace.
 
 - Bio-psycho-sociální aspekty člověka, jeho života i činností jsou navzájem těsně spjaty. Zanedbání kteréhokoliv z 3 aspektů vede k jednostrannostem a chybám. Bez biologického pohledu se ztrácí nervové mechanismy, bez sociálního pohledu se ztrácí specifičnost člověka, sociální determinace a komunikace a bez psychologického hlediska se ztrácí osobnost a její specifičnost, je ovlivněné vnímání, nálady, emoce i zdraví.
+
+
+<a id="12"></a>
+
+[Nahoru](#x)
 
 
 #### 12 Motivace a její utváření 
@@ -994,6 +1040,10 @@ a) zúžená motivace, několik málo potřeb či zájmů (např. jen práce a v
 
 b) široká motivace - spektrum potřeb a zájmů (práce, koníčky, sport, životní styl, poznávací a estetické potřeby) – mnohostranné osobnosti
 
+<a id="13"></a>
+
+[Nahoru](#x)
+
 #### 13 Schopnosti a tvořivost
 
 Schopnosti
@@ -1079,6 +1129,10 @@ Učitelé: jsou méně poslušné a poddajné, neobvyklé nápady, nepříjemné
 Vrstevníci: mezi tvořivým dítětem a jeho vrstevníky bývá mnoho konfliktů. Pokud pracují v týmu, tvořivý žák sám vyřeší obtížný úkol, skupina řešení odevzdá, ale neuzná zásluhu tvořivého jedince. Často se takové dítě ale chová tak, že si za obtíže může samo.
 
 Rodina: někteří rodiče jim vyčítají to, že se odlišují od ostatních dětí v zájmech a zájmových činnostech. Nebo naopak od dítěte očekávají neustále jen vynikající výkony. Obojí je špatně, pro dítě frustrující.
+
+<a id="14"></a>
+
+[Nahoru](#x)
 
 #### 14. Rysy osobnosti, typologické rozdíly, temperament, charakter
 
@@ -1529,6 +1583,10 @@ b) dr. SHELDON (19. – 20. st.)
 - Mezomorfní (obdoba atletika) – energický, sebevědomý, aktivní, extrovert, sklon k dominanci, omezená citlivost, chladnost
 
 - Ektomorfní (obdoba astenika) – uzavřený, samotářský, introvert, citově i emocionálně zdrženlivý
+
+<a id="17"></a>
+
+[Nahoru](#x)
 
 #### 17 Průběh vývoje osobnost, období adolescence a pubescence
 
