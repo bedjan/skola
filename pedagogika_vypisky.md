@@ -9,52 +9,59 @@
 [Markdow- to html](http://htmltidy.net/)
 *****
 *****
+
+<a id="x"></a>
+
 ### Pedagogika-Okruhy pro závěrečné zkoušky 2017/2018
 *****
 #### [1.Pedagogika-její předmět, základní pedagogické disciplíny](#1)
 
-#### 2.Nejvýznamnější problémy současné pedagogiky, kurikulární reforma, alternativní školy
+#### [2.Nejvýznamnější problémy současné pedagogiky, kurikulární reforma, alternativní školy](#2)
 
-#### 3.Výukové metody-klasifikace, charakteristiky
+#### [3.Výukové metody-klasifikace, charakteristiky](#3)
 
-#### 4.Organizační formy výuky
+#### [4.Organizační formy výuky](#4)
 
-#### 5.Didaktické zásady ve výuce, význam, realizace
+#### [5.Didaktické zásady ve výuce, význam, realizace](#5)
 
-#### 6.Sociální pedagogika-vybrané pojmy, hlavní okruhy problémů
+#### [6.Sociální pedagogika-vybrané pojmy, hlavní okruhy problémů](#6)
 
-#### 7.Výchova-vymezení pojmu, složky výchovy, výchovné cíle
+#### [7.Výchova-vymezení pojmu, složky výchovy, výchovné cíle](#7)
 
-#### 8.Skupinová dynamika ve školské praxi
+#### [8.Skupinová dynamika ve školské praxi](#8)
 
-#### 9.Hodnocení výsledků výuky, typy hodnocení, problémy školního hodnocení
+#### [9.Hodnocení výsledků výuky, typy hodnocení, problémy školního hodnocení](#9)
 
-#### 10.Diferenciace a individualizace, rozvoj aktivity, samostatnosti a tvořivosti žáků
+#### [10.Diferenciace a individualizace, rozvoj aktivity, samostatnosti a tvořivosti žáků](#10)
+
 *****
-#### 11.Pedagogická komunikace ve výuce, řešení problémových situací
 
-#### 12.Pedagogika tradiční, moderní, základní pedagogické pojmy, inovace výuky
+#### [11.Pedagogická komunikace ve výuce, řešení problémových situací](#11)
 
-#### 13.Osobnostní a kvalifikační předpoklady pedagogické profese
+#### [12.Pedagogika tradiční, moderní, základní pedagogické pojmy, inovace výuky](#12)
 
-#### 14.Příprava učitele na výuku
+#### [13.Osobnostní a kvalifikační předpoklady pedagogické profese](#13)
 
-#### 15.Výchovné působení školy, rodiny, předpoklady úspěšnosti výchovy
+#### [14.Příprava učitele na výuku](#14)
 
-#### 16.Tvorba pravidel ve třídě
+#### [15.Výchovné působení školy, rodiny, předpoklady úspěšnosti výchovy](#15)
 
-#### 17.Výchovně vzdělávací systém v ČR
+#### [16.Tvorba pravidel ve třídě](#16)
 
-#### 18.Výchova a vzdělávání žáků se speciálními vzdělávacími potřebami – společné vzdělávání (inkluze)
+#### [17.Výchovně vzdělávací systém v ČR](#17)
 
-#### 19.Klíčové kompetence pedagogických pracovníků a žáků
+#### [18.Výchova a vzdělávání žáků se speciálními vzdělávacími potřebami – společné vzdělávání (inkluze)](#18)
 
-#### 20.RVP, ŠVP-význam, základní principy realizace
+#### [19.Klíčové kompetence pedagogických pracovníků a žáků](#19)
+
+#### [20.RVP, ŠVP-význam, základní principy realizace](#20)
 
 *****
 *****
 
 <a id="1"></a>
+
+[Nahoru](#x)
 
 #### 1.Pedagogika její předmět a zák.ped.disciplíny
 
