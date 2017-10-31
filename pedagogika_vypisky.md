@@ -250,6 +250,12 @@ l) Dramatická výchova
 
 *****
 *****
+
+
+<a id="2"></a>
+
+[Nahoru](#x)
+
 #### 2.Nejvýznamnější problémy současné pedagogiky, kurikulární reforma, alternativní školy.
 **Osnova:**
 
@@ -429,6 +435,12 @@ Prosazení nové koncepce oborových didaktik se urychlí, budou-li se jejich pr
 
 *****
 *****
+
+
+<a id="3"></a>
+
+[Nahoru](#x)
+
 #### 3.Výchovně vzdělávací metody
 
 ***Osnova:***
@@ -590,6 +602,12 @@ Toto téma je zpracováno podrobněji v učebnici Pedagogika pro učitele – Va
 
 *****
 *****
+
+
+<a id="4"></a>
+
+[Nahoru](#x)
+
 #### 4.Organizační formy výuky či vzdělávání (OFV)
 
 **Osnova:**
@@ -754,6 +772,12 @@ např.problémové vyuč., projektové vyuč., otevřené
 
 *****
 *****
+
+
+<a id="5"></a>
+
+[Nahoru](#x)
+
 #### 5.Didaktické zásady ve výuce,význam,realizace
 
 ***Osnova:***
@@ -897,6 +921,11 @@ Jak to dělám já v předmětech u sebe, v předmětu, škole nebo doma….:-))
 
 *****
 *****
+
+<a id="6"></a>
+
+[Nahoru](#x)
+
 #### 6.SOCIÁLNÍ PEDAGOGIKA
 ( vybrané pojmy, hlavní okruhy problémů )
 
@@ -1185,6 +1214,11 @@ Nebezpečí je v jejich fanatismu, nesnášenlivosti, pocitu výjimečnosti.Auto
 *****
 *****
 
+<a id="7"></a>
+
+[Nahoru](#x)
+
+
 #### 7.Výchova – vymezení pojmu, složky výchovy, výchovně vzdělávací cíle.
 
 **Osnova:**
@@ -1397,6 +1431,11 @@ g) získání a uplatňování znalostí o životním prostředí a jeho ochran�
 
 *****
 *****
+
+<a id="8"></a>
+
+[Nahoru](#x)
+
 #### 8.Skupinová dynamika ve školské praxi
 
 1. Bio-psycho-sociálně-spirituální koncepce člověka
