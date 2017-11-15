@@ -82,7 +82,7 @@ a) umožnuje člověku relativně bezproblémový pohyb ve společnosti, tedy me
 
 b) je významná všem ( porozumění druhým, zvládání stresu, tvořivé myšlení )
 
-***V praxi pomáhá: ***
+***V praxi pomáhá:***
 
 a) poznat a působit na lidi 
 
