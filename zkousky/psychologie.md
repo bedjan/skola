@@ -169,7 +169,7 @@ velmi vysoké nároky – očekávají jen vynikající výsledky a úspěchy)
 
 **3. Motivační, emoční a volní procesy**\
 Definice motivace:\
- motivace z latinského „movere“ – hýbat, pohybovat, znamená souhrn
+ motivace z latinského „movere“ – hýbat, pohybovat, znamená souhrn
 hybných momentů v činnostech, prožívání, chování osobnosti (to, co
 člověka podněcuje, pobízí, aby něco dělal, reagoval, nebo naopak, co ho
 tlumí, co mu zabraňuje něco konat, reagovat),\
@@ -184,29 +184,29 @@ působit, mnohdy však pobídka zvenčí stimuluje, zesiluje vnitřní motiv
 (toho využívá reklama lákavými pobídkami, podněcuje motivaci mnoha lidí,
 dovede je k tomu, aby si koupili i to, co nutně nepotřebují)\
 Lidská motivace je velmi složitá a individuálně odlišná:\
- několik lidí vykonává stejnou činnost (sport), ale každý z jiných
+ několik lidí vykonává stejnou činnost (sport), ale každý z jiných
 motivů\
- týž člověk může být pobízen k jedné činnosti několika různými motivy
+ týž člověk může být pobízen k jedné činnosti několika různými motivy
 (např. k práci)\
- jeden motiv může člověka pobízet k určité činnosti a přitom jiný motiv
+ jeden motiv může člověka pobízet k určité činnosti a přitom jiný motiv
 ho od ní odrazuje – motivy se dostávají do konfliktu\
- člověk si často uvědomuje jen část svých motivů, některé si uvědomuje
+ člověk si často uvědomuje jen část svých motivů, některé si uvědomuje
 jen občas a částečně, jiné mohou zůstat nevědomými dlouho, popř. celý
 život\
 Motivace se vyjadřuje různými termíny:\
- tradiční označení pro převážně biologické motivy bylo:\
+ tradiční označení pro převážně biologické motivy bylo:\
 • instinkt – označení specifických forem chování zvířat, u člověka k
 označení těch momentů, které má společné se zvířaty\
 • pud – motivy zjevně organické, biologicky dané – hlad, žízeň, sex
 
- ve 2. polovině 20. století se rozšířil termín potřeba – původně
+ ve 2. polovině 20. století se rozšířil termín potřeba – původně
 označoval stav organismu, kterému chybí něco životně důležitého (např.
 potrava, voda).\
 Význam se rozšířil a označují se jim nejrůznější motivy: potřeba
 potravy, sexu, po potřebu poznávací (zvídavost), estetickou a
 seberealizace.
 
- Maslowova hierarchie lidských potřeb, kterou zobrazoval jako pyramidu
+ Maslowova hierarchie lidských potřeb, kterou zobrazoval jako pyramidu
 potřeb:\
 1. potřeba seberealizace (naplnit své možnosti růstu a rozvoje)\
 2. potřeba uznání, úcty (být vážený, mít úspěch v očích jiných lidí a na
@@ -231,12 +231,12 @@ v prostředí koncentračních táborů, o čemž referovali mj. Viktor
 Frankl).\
 Za nejvyšší považuje Maslow potřebu seberealizace, jíž označuje lidskou
 snahu naplnit své schopnosti a záměry.\
- elementární motivační proces – podnícení, aktivace příslušné reakce
+ elementární motivační proces – podnícení, aktivace příslušné reakce
 nebo činnosti v situaci, kdy na člověka zapůsobil podnět, zvláště pokud
 je organismus k takové reakci či činnosti připraven „nabuzen“ (např.
 hladový jedinec spatřil vhodnou potravu)
 
- Na rovině organických, biologických potřeb je důležitým motivačním
+ Na rovině organických, biologických potřeb je důležitým motivačním
 procesem udržení homeostázy (zejména v udržování stálé TT, množství vody
 v těle a množství živin) – procesy podstatné pro přežití organismu.
 Homeostatické procesy jsou vrozené, instinktivní, ale kombinují se s
@@ -244,17 +244,17 @@ učením podmiňováním – hlad a chuť k jídlu jsou podněcovány zrakovým 
 čichovým vnímáním potravin nebo i rozhovorech o jídle. Tak je člověk
 „lákán a sváděn“ k jídlu i tehdy, když nepotřebuje jíst
 
- S homeostázou souvisí jev nasycení: uspokojení potřeby – to vede na
+ S homeostázou souvisí jev nasycení: uspokojení potřeby – to vede na
 určitou dobu k jejímu oslabení. Nasycení lze vyjádřit také termínem
 redukce pudu, snížení napětí.
 
- K vystižení lidské motivace slouží princip homeostázy a princip
+ K vystižení lidské motivace slouží princip homeostázy a princip
 optimální aktivace doplněný dalšími principy, které se formulují v
 životě a vývoji ve společnosti – princip dosahování cílů a překonávání
 překážek na cestě k cílům, uspokojení ze sociální komunikace a
 kooperace, z naplnění životního smyslu, …
 
- Podnícení k činnosti a udržení jejího průběhu až k uspokojení potřeby,
+ Podnícení k činnosti a udržení jejího průběhu až k uspokojení potřeby,
 popř. dosažení cíle, nebývá jednoduché a bez komplikací = konflikt –
 důležitý druh motivačních procesů, i když mají zároveň aspekty
 kognitivní, emoční a volní.\
@@ -278,42 +278,42 @@ pohladilo psa, ale bojí se ho\
 strom, ale bojí se, přitom je sledováno kamarády a dítě chce získat
 obdiv svým výkonem, ale zároveň se bojí posměchu v případě nezdaru.\
 Někdy se rozlišují vnější a vnitřní konflikty:\
- vnější konflikt – střetnutí dítěte s rodičem, učitelkou, se skupinou
+ vnější konflikt – střetnutí dítěte s rodičem, učitelkou, se skupinou
 kamarádů\
- vnitřní konflikt – střetnutí dvou zájmů, potřeb\
+ vnitřní konflikt – střetnutí dvou zájmů, potřeb\
 City, emoce\
- jsou těsně spjaty s motivací, mohou podněcovat, motivovat k činnosti
+ jsou těsně spjaty s motivací, mohou podněcovat, motivovat k činnosti
 tak jako potřeby, v tom smyslu patří emoce k motivům. Zároveň emoce
 doprovázejí průběh činnosti, uspokojování nebo neuspokojování potřeb,
 dosahování cíle nebo jeho zmaření.
 
- Základní dvojice protikladných citů:\
- libost – uspokojení potřeby, úspěšný průběh činnosti s dosažením cíle\
- nelibost – opačná situace než u libosti.\
+ Základní dvojice protikladných citů:\
+ libost – uspokojení potřeby, úspěšný průběh činnosti s dosažením cíle\
+ nelibost – opačná situace než u libosti.\
 Širší seznam základních emocí – radost x smutek; strach x úleva; vztek,
 důvěra, znechucení, překvapení, …\
- V emocích lze rozlišit několik momentů navzájem spjatých:\
- hodnocení situace či události – hodnocení má aspekt kognitivní
+ V emocích lze rozlišit několik momentů navzájem spjatých:\
+ hodnocení situace či události – hodnocení má aspekt kognitivní
 (poznávací) a také emoční (poznávám a také mohu slovně vyjádřit co, se
 stalo, jaká je situace, zda je to dobré x špatné, příznivé x
 nepříznivé)\
- autonomní aktivace – změny ve funkčním stavu CNS a činnosti vnitřních
+ autonomní aktivace – změny ve funkčním stavu CNS a činnosti vnitřních
 orgánů (např. ↑ tep, dech, bušení srdce)\
- vnější projevy emocí – mimika, gestikulace, zblednutí\
- emoční zážitek – prožívání uvedených momentů\
- Emoce jsou psychické procesy, které hodnotí – z hlediska potřeb, cílů
+ vnější projevy emocí – mimika, gestikulace, zblednutí\
+ emoční zážitek – prožívání uvedených momentů\
+ Emoce jsou psychické procesy, které hodnotí – z hlediska potřeb, cílů
 a sociálního významu – různé skutečnosti, situace, události, průběh a
 výsledky činnosti jedince.
 
- Ambivalence – jedinec má současně nebo střídavě kladný a záporný
+ Ambivalence – jedinec má současně nebo střídavě kladný a záporný
 emoční vztah (matka – dítě)
 
- Afekty – vztek, strach, bouřlivá radost jsou součástí takové reakce,
+ Afekty – vztek, strach, bouřlivá radost jsou součástí takové reakce,
 která aktivuje organismus k velkému výkonu. Afekty patří k vývojově
 starším, nižším emocím. K těm se řadí také city libosti a nelibosti
 spjaté s hladem, žízní.
 
- Život ve společnosti, vývoj kultury, morálky a výchovy vedl ke vzniku
+ Život ve společnosti, vývoj kultury, morálky a výchovy vedl ke vzniku
 nových vyšších, vývojově mladších emocí:\
 a) morální (etické) emoce – vyjadřují hodnocení činů, lidí a jejich
 vlastností z hlediska lidského soužití, morálky\
@@ -327,7 +327,7 @@ emoce\
 d) sociální emoce – ve vztahu k lidem a sociálním skupinám
 (spoluprožívání radosti i starostí blízkého člověka, láska a úcta,
 obdiv, nenávist, …)\
- Citové stavy = nálada (radostná x smutná, klidná x podrážděná, stav
+ Citové stavy = nálada (radostná x smutná, klidná x podrážděná, stav
 úzkosti) – na rozdíl od emočních procesů mají delší trvání (hodiny až
 dny).\
 Nálady jsou rozlišeny rozmanitými podmínkami (podněty z prostředí a
@@ -336,16 +336,16 @@ jednotlivými emočními procesy).\
 Emoční procesy i stavy jedince jsou ovlivňovány sociální komunikací a
 emocemi druhých lidí.
 
- Emoční vlastnosti – ty charakteristiky osobnosti, které se vyjadřují
+ Emoční vlastnosti – ty charakteristiky osobnosti, které se vyjadřují
 výrazem vztahy (láska, sympatie, nenávist, lhostejnost, antipatie).\
 Vůle\
- psychické procesy a vlastnosti, které zajišťují řízení činnosti a
+ psychické procesy a vlastnosti, které zajišťují řízení činnosti a
 dosahování cílů, zvláště v situacích, kdy je zapotřebí rozhodnout se
 mezi několika možnostmi a překonávat překážky.
 
- těsně souvisí motivací a emocemi
+ těsně souvisí motivací a emocemi
 
- „vůle“ souvisí se slovy velet a volba – k dosažení cíle potřebujeme
+ „vůle“ souvisí se slovy velet a volba – k dosažení cíle potřebujeme
 volit, rozhodnout se (mezi několika možnými cíli nebo mezi cílem a
 nečinností, mezi různými cestami vedoucími k cíli), po volbě potřebujeme
 „velet“, řídit druhé i sami sebe (např. přimět kamarádky k úsilí a
@@ -389,16 +389,16 @@ učebních, pracovních\
 **4. Psychické stavy, vědomí, aktivace, pozornost – význam\
 pro edukační proces**
 
- Aktuálními stavy se zabývá jak psychologie, tak fyziologie. Psychický
+ Aktuálními stavy se zabývá jak psychologie, tak fyziologie. Psychický
 stav můžeme chápat jako aspekt nebo součást celkového funkčního stavu
 organismu, zejména mozku.
 
- Pojmy:\
+ Pojmy:\
 • Vlastnost – znak člověka, který je dlouhodobý a stálý\
 • Stav – vyjadřuje, jaký je člověk nebo i neživý předmět v určité době a
 situaci; je to znak přechodný měnící se podle situace
 
- Celkový stav organismu označujeme v psychologii termínem aktivační
+ Celkový stav organismu označujeme v psychologii termínem aktivační
 úroveň (aktivace) – má různé stupně či úrovně\
 1) Nízká aktivace – spánek, zpomalení dechu a srdeční činnosti, svalová
 relaxace, zpomalená mozková aktivita\
@@ -411,7 +411,7 @@ soustředit pozornost bez obtíží\
 zvýšená pozornost (jen krátkodobě)\
 5) Vysoká aktivace – vzrušení, předrážděnost, afekt
 
- Aktivace se mění pod vlivem podmětů a činností, při nedostatku podmětů
+ Aktivace se mění pod vlivem podmětů a činností, při nedostatku podmětů
 a činností se snižuje aktivační úroveň (za tmy, v tichu a v nečinnosti
 člověk usíná).\
 Aktivační úroveň se zvyšuje, pozornost se zlepšuje působení slabých a
@@ -419,23 +419,23 @@ krátkodobých podmětů (např. rozcvičením, omytím chladnou vodou) =
 přirozené stimulátory.\
 Umělé stimulátory – kofein, …
 
- Psychologie vyčleňuje různé druhy psychických stavů:
+ Psychologie vyčleňuje různé druhy psychických stavů:
 
- Inspirace – stav, kdy velmi dobře probíhají kognitivní (poznávací)
+ Inspirace – stav, kdy velmi dobře probíhají kognitivní (poznávací)
 procesy, řešení obtížných problémů\
- Nerozhodnost – může být omezena na určitou situaci, může být i
+ Nerozhodnost – může být omezena na určitou situaci, může být i
 dlouhodobá (chápána jako vlastnost)\
- Pozornost – psychický stav projevující se soustředěním vnímáním jevu
+ Pozornost – psychický stav projevující se soustředěním vnímáním jevu
 nebo činnosti\
- pozornost je výběrová – jsme soustředěni na jeden objekt, na jednu
+ pozornost je výběrová – jsme soustředěni na jeden objekt, na jednu
 činnost, dokážeme však vykonávat 2 různé činnosti\
- přenášení pozornosti z jedné činnosti na druhou (např. rozhovor při
+ přenášení pozornosti z jedné činnosti na druhou (např. rozhovor při
 řízení vozidla přerušíme, když se dostaneme do složitější dopravní
 situace)\
- bezděčná pozornost – je podnícena změnou v prostředí (nečekaným
+ bezděčná pozornost – je podnícena změnou v prostředí (nečekaným
 zvukem, světlem, silnými podněty), je rychle upoutána a také rychle
 pomíjí, nestačí k dlouhodobé činnosti\
- záměrná pozornost – závislá na cíli a úsilí, je dlouhodobá ne však
+ záměrná pozornost – závislá na cíli a úsilí, je dlouhodobá ne však
 neomezená, slouží k dlouhodobé činnosti\
 Soustředění záměrné pozornosti je podporováno řadou podmínek:\
 a) motivace k příslušné činnosti\
@@ -443,21 +443,21 @@ b) zařazování přestávek, popř. střídání různých činností\
 c) celkový stav organismu a CNS, aktivační úroveň (střední a zvýšená)\
 d) návyk soustředěně se věnovat činnosti, počínaje dětskými hrami přes
 učení a zájmové činnosti po práci\
- rozvinutá pozornost – je podmínkou náročných pracovních, učebních i
+ rozvinutá pozornost – je podmínkou náročných pracovních, učebních i
 zájmových činností, je výsledkem vývoje osobnosti, výchovy a
 sebevýchovy, závisí na současné životní situaci jedince a na jeho
 aktuálním stavu\
- individuální rozdíly v pozornosti – zejm. v záměrném soustřeďování
+ individuální rozdíly v pozornosti – zejm. v záměrném soustřeďování
 (jak dlouho a jak snadno člověk dokáže záměrně soustředit pozornost)\
- roztržitost – člověk nevěnuje pozornost tomu, co vyžaduje situace,
+ roztržitost – člověk nevěnuje pozornost tomu, co vyžaduje situace,
 takže přehlédnou, přeslechnou a dopouštějí se chyb
 
- Zaměřenost – zahrnuje pozornost a motivaci, ale také vytčení cíle a
+ Zaměřenost – zahrnuje pozornost a motivaci, ale také vytčení cíle a
 jeho sledování = volní procesy\
- krátkodobá – přestane působit po dosažení blízkého cíle (např.
+ krátkodobá – přestane působit po dosažení blízkého cíle (např.
 zakoupit něco, co naléhavě potřebujeme)\
- dlouhodobá až celoživotní – odpovídá zájmům a životním cílům\
- Vědomí – souvisí s úrovněmi aktivace a pozornosti, vyjadřuje
+ dlouhodobá až celoživotní – odpovídá zájmům a životním cílům\
+ Vědomí – souvisí s úrovněmi aktivace a pozornosti, vyjadřuje
 skutečnost s větším počtem aspektů a projevů, ztotožňuje se s prožíváním
 a s psychickými procesy od vnímání přes myšlení až po volní procesy;
 vědomé je to, co prožívám a mohu to vyjádřit slovy\
@@ -471,9 +471,9 @@ psychické; uvolňují se svaly, mění se tepová frekvence, krevní tlak,
 metabolismus, …;\
 snižuje se tonus CNS.\
 Spánek se během noci mění – střídá se:\
- aktivní REM fáze – rychlé oční pohyby při zavřených víčkách, svalové
+ aktivní REM fáze – rychlé oční pohyby při zavřených víčkách, svalové
 záškuby končetin – pomáhá likvidovat emoční tenzi\
- Non-Rem fáze spánku – hluboký spánek, při něm prožíváme sny, bez
+ Non-Rem fáze spánku – hluboký spánek, při něm prožíváme sny, bez
 pohybu očních bulbů – pomáhá zklidněním\
 Délka spánku se mění v průběhu života, s věkem se potřeba spánku
 snižuje…
@@ -481,7 +481,7 @@ snižuje…
 Existuje škála rozmanitých stavů vědomí včetně stavů relaxace, hypnózy,
 změněného prožívání a chování v davu, při praktikách meditace.
 
- Bio-psycho-sociální aspekty člověka, jeho života i činností jsou
+ Bio-psycho-sociální aspekty člověka, jeho života i činností jsou
 navzájem těsně spjaty. Zanedbání kteréhokoliv z 3 aspektů vede k
 jednostrannostem a chybám. Bez biologického pohledu se ztrácí nervové
 mechanismy, bez sociálního pohledu se ztrácí specifičnost člověka,
@@ -505,73 +505,73 @@ Přehled metod a jejich základní problematika\
 Základní metody:
 
 Pozorování – sleduje člověka bez záměrného zásahu psychologa\
- může být příležitostné nebo systematické\
- příležitostné pozorování zachytíme náhodně a může nás vybídnout k
+ může být příležitostné nebo systematické\
+ příležitostné pozorování zachytíme náhodně a může nás vybídnout k
 pozorování systematickému\
- systematické pozorování je třeba dobře připravit\
- vymezíme úkoly pozorování, připravíme pomůcky\
- důležitým momentem je rozlišování pozorovaného chování, od jeho
+ systematické pozorování je třeba dobře připravit\
+ vymezíme úkoly pozorování, připravíme pomůcky\
+ důležitým momentem je rozlišování pozorovaného chování, od jeho
 interpretace\
- ke snížení zkreslení je třeba více pozorovatelů\
- pozorované dění je možné zachytit kamerou nebo magnetofonem. Lépe
+ ke snížení zkreslení je třeba více pozorovatelů\
+ pozorované dění je možné zachytit kamerou nebo magnetofonem. Lépe
 rozliší vhodné a nevhodné chování\
- někdy užíváme „nepozorované pozorování“ – pozorovatel je ukryt, nebo
+ někdy užíváme „nepozorované pozorování“ – pozorovatel je ukryt, nebo
 je součástí skupiny a ta ho bere za svého (např. Ivan první den našeho
 studia)
 
 Experiment – záměrně zasahuje, abychom zjistili lépe, co se snažíme
 zkoumat\
- umožňuje ověřovat hypotézy a budovat teorie\
- měříme podmínky a sledujeme změny v projevech zkoumaných osob\
- je ho možné opakovat a tím kontrolovat platnost výsledků\
- v Ψ rozlišujeme laboratorní a v přirozených podmínkách\
- experiment laboratorní – přesnější za pomoci technických prostředků,
+ umožňuje ověřovat hypotézy a budovat teorie\
+ měříme podmínky a sledujeme změny v projevech zkoumaných osob\
+ je ho možné opakovat a tím kontrolovat platnost výsledků\
+ v Ψ rozlišujeme laboratorní a v přirozených podmínkách\
+ experiment laboratorní – přesnější za pomoci technických prostředků,
 nevýhodou je, že probíhá v prostředí, které je nezvyklé\
- experiment v přirozených podmínkách – odpadá nezvyklé prostředí,
+ experiment v přirozených podmínkách – odpadá nezvyklé prostředí,
 nevýhodou je menší možnost kontroly podmínek a registrace projevů
 
 Rozbor slovních projevů, Sebepozorování (introspekce) – analýza slovních
 projevů člověka (řeči) získáme rozhovorem a dotazníky.\
- jsou to subjektivní údaje, závislé na subjektu, který mluví nebo píše\
- je třeba je správně chápat, zpracovat a interpretovat\
- slovní výpovědi jsou z části o vnějším světě a z části o sobě samém\
- sebepozorování – introspekce – nazírání do vlastního nitra\
- extrospekce – pozorování vnějšího světa
+ jsou to subjektivní údaje, závislé na subjektu, který mluví nebo píše\
+ je třeba je správně chápat, zpracovat a interpretovat\
+ slovní výpovědi jsou z části o vnějším světě a z části o sobě samém\
+ sebepozorování – introspekce – nazírání do vlastního nitra\
+ extrospekce – pozorování vnějšího světa
 
 Rozbor výsledků činnosti – výsledky školních prací, zájmových činností,
 umělecká díla, sportovní výkony, kvalita výrobků\
- často užívaný ve školní praxi\
- dobrý výsledek opravňuje k závěru, že dítě má dobře rozvinutý soubor
+ často užívaný ve školní praxi\
+ dobrý výsledek opravňuje k závěru, že dítě má dobře rozvinutý soubor
 příslušných psychických předpokladů\
- špatný výsledek činnosti může být způsoben nedostatkem schopností nebo
+ špatný výsledek činnosti může být způsoben nedostatkem schopností nebo
 působily rušivé podmínky
 
 Posuzování a měření – zpracování údajů získaných jinými metodami\
- metodický postup na zpracování údajů získaných různými psychologickými
+ metodický postup na zpracování údajů získaných různými psychologickými
 metodami\
- ve škole klasifikacemi\
+ ve škole klasifikacemi\
 Standardizované psychodiagnostické metody – to jsou zejména testy a
 osobní dotazníky\
- sem patří inteligenční testy a osobní dotazníky\
- jsou přesně určeny úkoly předkládané zkoumané osobě\
- přesně je také určen způsob zpracování a hodnocení výsledků\
- výsledky se srovnávají také se statistikami\
- tyto metody provádějí pouze odborní psychologové
+ sem patří inteligenční testy a osobní dotazníky\
+ jsou přesně určeny úkoly předkládané zkoumané osobě\
+ přesně je také určen způsob zpracování a hodnocení výsledků\
+ výsledky se srovnávají také se statistikami\
+ tyto metody provádějí pouze odborní psychologové
 
 Projektivní techniky – zvláštní skupina metod (kresba)\
- vycházejí z předpokladů, že člověk promítá své vnitřní procesy do
+ vycházejí z předpokladů, že člověk promítá své vnitřní procesy do
 předmětů\
- tyto techniky mohou vést ke zjištění i nevědomích momentů\
+ tyto techniky mohou vést ke zjištění i nevědomích momentů\
 Kombinování metod. Interpretace\
- kombinací psychologických metod dokážeme lépe vystihnout skutečnost\
- Interpretace je pravděpodobnostní. Je to náročný úkol, který závisí na
+ kombinací psychologických metod dokážeme lépe vystihnout skutečnost\
+ Interpretace je pravděpodobnostní. Je to náročný úkol, který závisí na
 současné úrovni psychologického poznání, na Ψ vzdělání, na zkušenostech
 toho kdo interpretuje\
 Výzkum ve vývojové a pedagogické Ψ\
- kombinací dvou postupů transverzálního a longitudinálního\
- transverzálního – zjišťuje za pomoci dotazníku údaje od velkého počtu
+ kombinací dvou postupů transverzálního a longitudinálního\
+ transverzálního – zjišťuje za pomoci dotazníku údaje od velkého počtu
 lidí v krátké době\
- longitudinální – zkoumá menší počet osob dlouhodobě (u dětí od začátku
+ longitudinální – zkoumá menší počet osob dlouhodobě (u dětí od začátku
 školní docházky až na střední školu. Sledujeme je podrobněji a získáváme
 cenné poznání individuálních vlastností v psychickém vývoji. Je to
 výzkum přínosný, ale velmi náročný.
@@ -581,25 +581,25 @@ výzkum přínosný, ale velmi náročný.
 [Zpět k obsahu](#)
 
 **6. Pojem UČENÍ , paměť, učení a myšlení**\
- patří mezi kognitivní (poznávací) procesy\
+ patří mezi kognitivní (poznávací) procesy\
 1) UČENÍ\
 = získávání zkušeností, utváření a pozměňování jedince v průběhu jeho
 života
 
 • Funkce učení:\
- přizpůsobování organismu k prostředí a ke změnám v tomto prostředí\
- poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
+ přizpůsobování organismu k prostředí a ke změnám v tomto prostředí\
+ poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
 
 • Formy lidského učení:
 
 A. Dle toho, jaké výsledky převažují\
- Vědomosti –představy a pojmy\
- Senzorické a senzomotorické dovednosti – zdokonalení procesu vnímání
+ Vědomosti –představy a pojmy\
+ Senzorické a senzomotorické dovednosti – zdokonalení procesu vnímání
 (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a
 pohybů (např. při psaní, ve sportu)\
- Intelektové dovednosti a rozvíjení intelektových schopností – např.
+ Intelektové dovednosti a rozvíjení intelektových schopností – např.
 při vyučování matematice a jazykům\
- Návyky, postoje, rozvíjení vlastností osobnosti – např. vytrvalosti a
+ Návyky, postoje, rozvíjení vlastností osobnosti – např. vytrvalosti a
 svědomitosti
 
 Vědomost = soustava informací (představ a pojmů), které si člověk
@@ -609,10 +609,10 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému
 chování
 
 B. Z hlediska psychologických mechanismů\
- Elementární učení\
- tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy,
+ Elementární učení\
+ tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy,
 představami a city)\
- podmiňování:\
+ podmiňování:\
 1. klasické (Pavlovovo) – organismus se učí, že 2 události následují za
 sebou, nezávisle na jedincově aktivitě (reflex – slinná reakce psa na
 zvonek)\
@@ -622,9 +622,9 @@ omylem)\
 – obě se vzájemně doplňují\
 – celostní psychologie se postavila proti – v lidském učení jsou
 podstatné i procesy myšlení!\
- Komplexní učení – osvojení postupů při řešení problémů, vytváření
+ Komplexní učení – osvojení postupů při řešení problémů, vytváření
 mentálních map jedincova prostředí, osvojování principů a systémů učiva\
- Sociální učení – učení se sociální komunikaci, interakci a percepci
+ Sociální učení – učení se sociální komunikaci, interakci a percepci
 (vnímání), sociálním rolím, formám společenského styku
 
 • Typy lidského učení:\
@@ -673,29 +673,29 @@ vnitřních částí spánkových laloků) – je bohatě propojen s ostatními
 částmi mozkové kůry i s mezimozkem a s podkorovými útvary.
 
 • Formy lidské paměti:\
- Nedeklarativní (procedurální) – neuvědomělé podmiňování a osvojování
+ Nedeklarativní (procedurální) – neuvědomělé podmiňování a osvojování
 senzomotorických dovedností\
- Deklarativní – vědomé vybavování zkušeností a osvojování vědomostí,
+ Deklarativní – vědomé vybavování zkušeností a osvojování vědomostí,
 častým opakováním se může přeměnit na paměť nedeklarativní\
- Názorná – názorné obrazy, představy odpovídající jednotlivým druhům
+ Názorná – názorné obrazy, představy odpovídající jednotlivým druhům
 vnímání; je funkcí pravé poloviny mozku\
- Sémantická (logická) – info vyjádřené slovně a zpracované myšlenkově;
+ Sémantická (logická) – info vyjádřené slovně a zpracované myšlenkově;
 je funkcí levé poloviny mozku
 
 • Zapomínání = změny v uchování a ve vybavování, ke kterým dochází v
 průběhu času\
 MYŠLENÍ\
- je vrcholný proces lidského poznávání\
- Myšlení umožňuje:\
- zakládá se na ostatních poznávacích procesech a také do nich vstupuje\
- jde o poznání dále jak jiné kognitivní procesy\
- umožňuje vymezit pojmy, vystihnout vztahy mezi nimi, z jedněch
+ je vrcholný proces lidského poznávání\
+ Myšlení umožňuje:\
+ zakládá se na ostatních poznávacích procesech a také do nich vstupuje\
+ jde o poznání dále jak jiné kognitivní procesy\
+ umožňuje vymezit pojmy, vystihnout vztahy mezi nimi, z jedněch
 poznatků odvozovat jiné, formulovat hypotézy a ověřovat je\
- vytvářet složité systémy operací\
- řešit problémy\
- Nástrojem myšlení je řeč, vnější (mluvená, psaná), nebo vnitřní, když
+ vytvářet složité systémy operací\
+ řešit problémy\
+ Nástrojem myšlení je řeč, vnější (mluvená, psaná), nebo vnitřní, když
 např. počítáme potichu\
- Druhy myšlení se rozlišují podle několika hledisek:\
+ Druhy myšlení se rozlišují podle několika hledisek:\
 A. Vývojové hledisko – tři formy:\
 1. Motorické (je konkrétní myšlení) – řešení problému pohybovou
 manipulací s předměty\
@@ -704,48 +704,48 @@ představami\
 3. Propoziční (je myšlení abstraktní) – operuje se slovy, větami a pojmy
 
 B. Deduktivní a induktivní myšlení\
- Deduktivní – postupuje od obecných výroků k speciálnějším, jim
+ Deduktivní – postupuje od obecných výroků k speciálnějším, jim
 podřazeným\
- Induktivní – naopak postupuje od jednotlivých případů k obecnější
+ Induktivní – naopak postupuje od jednotlivých případů k obecnější
 informaci, k zobecnění dílčích, specifických informací.
 
 – zejména v logice se užívá deduktivní a induktivní úsudek
 
 C. Reproduktivní a produktivní myšlení\
- Reproduktivní – při řešení problému opakuje postup, který již byl
+ Reproduktivní – při řešení problému opakuje postup, který již byl
 jedinci znám\
- Produktivní (tvůrčí) – hledá a tvoří postup nový, jedinci dosud
+ Produktivní (tvůrčí) – hledá a tvoří postup nový, jedinci dosud
 neznámý, popřípadě postup, jež dosud nebyl vůbec nalezen a popsán v
 literatuře
 
 D. Konvergentní a divergentní myšlení\
- Konvergentní – směřuje k jedinému cíli, k jednomu způsobu řešení
+ Konvergentní – směřuje k jedinému cíli, k jednomu způsobu řešení
 daného problému\
- Divergentní – hledá několik různých paralelních cest řešení, vede k
+ Divergentní – hledá několik různých paralelních cest řešení, vede k
 několika možným řešením problémů. Často je postupem tvůrčím.¨\
-\
- Existují značné interindividuální rozdíly nejen v celkové úrovni
+\
+ Existují značné interindividuální rozdíly nejen v celkové úrovni
 myšlení, ale zejména v tom, který druh myšlení u jedince převažuje.
 
- Myšlení se realizuje souborem myšlenkových procesů či operací:\
- analýza a syntéza – rozčlenění celku na části a vystižení toho, jak
+ Myšlení se realizuje souborem myšlenkových procesů či operací:\
+ analýza a syntéza – rozčlenění celku na části a vystižení toho, jak
 jsou uspořádány dohromady, jaké vztahy jsou mezi nimi (např. oddělení
 jednotlivých prvků složité situace)\
- abstrakce a konkretizace – postup od celistvých, konkrétních „živých“
+ abstrakce a konkretizace – postup od celistvých, konkrétních „živých“
 skutečností k odděleným částem či aspektům, vlastnostem\
- indukce a dedukce – postup od obecného ke zvláštnímu (viz induk. a
+ indukce a dedukce – postup od obecného ke zvláštnímu (viz induk. a
 deduk. myšlení)\
- generalizace, zobecnění – souvisí s předchozími procesy – od
+ generalizace, zobecnění – souvisí s předchozími procesy – od
 jednotlivých případů přecházíme k obecnému pojmu nebo vztahu (pravidlu,
 zákonu), to se však zakládá na analýze, abstrakci, indukci\
- srovnávání, uspořádání, třídění (klasifikace) – nový pojem, srovnávání
+ srovnávání, uspořádání, třídění (klasifikace) – nový pojem, srovnávání
 s jinými pojmy, které již známe, nový problém srovnávám s předchozími
 problémy, jejichž způsob řešení již ovládám. Srovnání je spojeno s
 analýzou a syntézou a dalšími uvedenými operacemi\
- v matematické logice i v psychologii – průnik, sjednocení, negace,
+ v matematické logice i v psychologii – průnik, sjednocení, negace,
 implikace
 
- Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích (viz
+ Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích (viz
 mapa a otázka č. 4. mozek)
 
 <hr><br /> <a name="7">
@@ -845,12 +845,12 @@ Faktory, které ovlivňují učení dělí Dunnová do pěti skupin:
 
 **8. Školní třída jako sociální skupina, utváření klimatu školní třídy**
 
- Člověk žije v průběhu celého života mezi lidmi v různých sociálních
+ Člověk žije v průběhu celého života mezi lidmi v různých sociálních
 skupinách, počínaje rodinou, do které se narodí, různými dětskými
 skupinami v mateřské školce a škole (třída), až po skupiny zájmové,
 sportovní a pracovní.
 
- Charakteristika skupiny\
+ Charakteristika skupiny\
 • skupina se zpravidla skládá z menšího počtu jedinců (min. 3), kteří
 jsou ve vzájemném vztahu\
 • tento vztah jednotlivých členů je racionální i emocionální\
@@ -862,14 +862,14 @@ a formuje si vztah k sobě samému\
 • prostřednictvím těchto skupin a přímo v nich se učí plnit všechny
 základní úlohy, zastávají sociální role a řešit rozličné životní situace
 
- Charakteristické znaky\
+ Charakteristické znaky\
 1. Interakce mezi členy trvá více jak minutu\
 2. Vnímání člena skupiny skupinu jako „MY“\
 3. Společné hodnoty a cíle\
 4. Vlastní normy, role, očekávání, chování včetně sankcí\
 5. Rozvíjejí se vzájemné vztahy
 
- Druhy skupin\
+ Druhy skupin\
 1. Podle velikosti\
 a) Velké (20-30 i více – konference…., nákupní středisko, autobus..)\
 b) Střední (14 – 20)\
@@ -887,7 +887,7 @@ a) Uzavřené – ve skupině začíná i končí stejný počet členů, bez p�
 dalších\
 b) Otevřené – přijímání i propouštění členů v průběhu trvání skupiny
 
- Sociální role\
+ Sociální role\
 • soubor očekávaných souborů chování\
 • člověk zastává mnoho sociálních rolí (žena, matka, dcera, sestra,
 teta, babička, vedoucí, učitelka – to vše v jedné osobě, ale v různé
@@ -897,12 +897,12 @@ přitažlivosti, osobní moci, obliby, způsobu prosazování atd.)\
 • příklady sociálních rolí ve skupině – vůdce, člen…….
 
 Sociální skupina jako školní třída a její klima\
- Učení a chování žáků není pouze individuální záležitostí, ale je
+ Učení a chování žáků není pouze individuální záležitostí, ale je
 ovlivňováno mikrosociálním prostředím, v němž se žáci pohybují. Takováto
 skupina školní třídy mívá (zejména na dospívající) mnohem větší vliv než
 učitelé\
 a rodiče.\
- Vliv skupiny na jedince – klima školní třídy\
+ Vliv skupiny na jedince – klima školní třídy\
 • mikrosociální prostředí, v němž se žáci pohybují – konkrétní skupina
 žáků, či vrstevníků\
 • klima společně vytvářejí aktéři klimatu:\
@@ -926,8 +926,8 @@ c) Umět (na základě zjištěných skutečností) navrhnout a provést vhodnou
 intervenci
 
 Ovlivňování klimatu třídy:\
- nejede jednorázově, ale postupně a je vždy dlouhodobě\
- důležitá je spolupráce všech aktérů
+ nejede jednorázově, ale postupně a je vždy dlouhodobě\
+ důležitá je spolupráce všech aktérů
 
 Dá se ovlivnit, ale musí být tento postup promyšlený, několik
 doporučení:\
@@ -944,28 +944,28 @@ změnit k lepšímu\
 6) promyslet pedagogické postupy, které by dovolily, by dovolily zlepšit
 klima výuky. Každá proměnná vyžaduje poněkud odlišný postup např.:\
 a) vztahy mezi žáky ve třídě\
- snažit se, aby soudržnost třídy vzrůstala a celkově převažovala
+ snažit se, aby soudržnost třídy vzrůstala a celkově převažovala
 pozitiv. orientace třídy\
- organizovat i akce mimo třídu a mimo školu (aby se žáci i učitelé lépe
+ organizovat i akce mimo třídu a mimo školu (aby se žáci i učitelé lépe
 poznali)\
- zařazovat do výuky situace, aby žáci spíše spolupracovali než
+ zařazovat do výuky situace, aby žáci spíše spolupracovali než
 soutěžit\
- využívat formy skupinového vyučování, či ve dvojicích\
- vést žáky k tomu, aby uměli vhodným způsobem řešit mezilidské
+ využívat formy skupinového vyučování, či ve dvojicích\
+ vést žáky k tomu, aby uměli vhodným způsobem řešit mezilidské
 konflikty\
- cíleně eliminovat ze života třídy projevy agrese, šikany apod.\
+ cíleně eliminovat ze života třídy projevy agrese, šikany apod.\
 b) zájem o průběh výuky\
- výuku učinit zajímavější\
- zařazovat úlohy ukazující praktickou užitečnost učiva\
- vést žáky k navazování kontaktů s dalšími lidmi (special. v určitém
+ výuku učinit zajímavější\
+ zařazovat úlohy ukazující praktickou užitečnost učiva\
+ vést žáky k navazování kontaktů s dalšími lidmi (special. v určitém
 oboru, rodiči spolužáků, sociálními pracovníky)\
- saturovat u žáků potřeby kompetence, potřebu sebeurčení,
+ saturovat u žáků potřeby kompetence, potřebu sebeurčení,
 sebeuplatnění\
 c) klid a pořádek ve třídě\
- ve třídě by měl být klid na učení\
- ve třídě by se mělo postupně odstraňovat cílené rušení výuky
+ ve třídě by měl být klid na učení\
+ ve třídě by se mělo postupně odstraňovat cílené rušení výuky
 (provokace žáků…)\
- zjistit důvod vyrušování – na čí straně, pokud celá třída, učitel by
+ zjistit důvod vyrušování – na čí straně, pokud celá třída, učitel by
 si měl uvědomit, že pokud nezaujme, pedagogicky neexistuje\
 7) provádět vše cíleně, citlivě, adresně a systematicky\
 8) vyhodnotit účinnost zásahů pomocí dotazníku a současně pomocí
@@ -981,22 +981,22 @@ bude lákavá, nesnadná a velmi užitečná.
 **9. Vývoj, zrání a interakce jedince s prostředím, dědičnost a
 prostředí\
 Vývoj**\
- proces, při kterém se jedinec mění v průběhu času (nejde pouze o růst,
+ proces, při kterém se jedinec mění v průběhu času (nejde pouze o růst,
 ale i o kvalitativní změny)\
- probíhá podle vnitřních zákonů jedince a je ovlivňován interakcí
+ probíhá podle vnitřních zákonů jedince a je ovlivňován interakcí
 jedince s prostředím\
- jediný, celistvý celoživotní běh – biodromální psychologie (z řečtiny
+ jediný, celistvý celoživotní běh – biodromální psychologie (z řečtiny
 bios – život, dromos – běh, průběh)
 
- vývoj osobnosti je značně individualizovaný a zahrnuje 2 aspekty:\
- zrání\
- vzájemné ovlivňování jedince a prostředí\
+ vývoj osobnosti je značně individualizovaný a zahrnuje 2 aspekty:\
+ zrání\
+ vzájemné ovlivňování jedince a prostředí\
 Zrání\
- proces probíhající podle vnitřních zákonů, rozhodující je genová a
+ proces probíhající podle vnitřních zákonů, rozhodující je genová a
 vrozená výbava jedince\
- dítě se vyvíjí ve styku s druhými lidmi, sociálními skupinami, ve
+ dítě se vyvíjí ve styku s druhými lidmi, sociálními skupinami, ve
 společnosti = socializace\
- vývoj probíhá v biologické i psychické stránce jedince:\
+ vývoj probíhá v biologické i psychické stránce jedince:\
 • progrese (rozvoj) – přechod od jednodušších forem ke složitějším, od
 nižších k vyšším\
 • stagnace – zastavení vývoje\
@@ -1005,62 +1005,62 @@ nižších k vyšším\
 intelekt, tak úroveň jeho intelektových\
 schopností stagnuje nebo se dokonce snižuje\
 Formování osobnosti (determinace)\
- soustřeďování se na příčiny a podmínky, které působí při vývoji
+ soustřeďování se na příčiny a podmínky, které působí při vývoji
 jedince\
- je součástí vývoje osobnosti, ve kterém probíhá vzájemné působení
+ je součástí vývoje osobnosti, ve kterém probíhá vzájemné působení
 vnějších i vnitřních podmínek:\
 a) vnější podmínky:\
- rodina\
- vrstevníci, jednotlivci, skupiny\
- škola\
- lokalita, národnostní a jiné skupiny ovlivňující rodinu a dítě\
- životní prostředí\
+ rodina\
+ vrstevníci, jednotlivci, skupiny\
+ škola\
+ lokalita, národnostní a jiné skupiny ovlivňující rodinu a dítě\
+ životní prostředí\
 b) vnitřní podmínky:\
- biologické podmínky:\
+ biologické podmínky:\
 1) dědičnost – zděděná výbava od rodičů\
 2) genová výbava – změny v genech vzniklé mutací\
 3) vrozená výbava – změny vyvolané v průběhu vývoje plodu do porodu
 (prenatální)\
 4) konstituční výbava – vlivy prostředí na organismus během vývoje
 jedince po narození (postnatální)\
- psychické procesy – kognitivní (poznávací), motivační, emoční a volní\
- psychické vlastnosti – temperament, charakter, schopnosti, motivace,
+ psychické procesy – kognitivní (poznávací), motivační, emoční a volní\
+ psychické vlastnosti – temperament, charakter, schopnosti, motivace,
 …\
 c) mechanismy interakce osobnosti s prostředím:\
- činnosti a učení\
- socializace\
- sociální učení, interakce, komunikace, vnímání\
- přejímání sociálních rolí, popř. jejich konflikt
+ činnosti a učení\
+ socializace\
+ sociální učení, interakce, komunikace, vnímání\
+ přejímání sociálních rolí, popř. jejich konflikt
 
- podmínky jsou individualizované (např. v jedné třídě mají různí žáci
+ podmínky jsou individualizované (např. v jedné třídě mají různí žáci
 odlišné postavení a liší se jejich spokojenost či nespokojenost se
 spolužáky
 
- častým zdrojem problémů ve vývoji je posměch vrstevníků i některých
+ častým zdrojem problémů ve vývoji je posměch vrstevníků i některých
 dospělých na adresu nějak postižených nebo jinak odlišných či nápadných
 dětí\
 Dědičnost a prostředí\
- psychické vlastnosti jedince (formování osobnosti) ovlivňuje
+ psychické vlastnosti jedince (formování osobnosti) ovlivňuje
 dědičnost, výchova i společenské prostředí – rodiče působí na děti svým
 modelem chování, vzděláním, sociokulturní charakteristikou rodiny,
 stylem výchovy, ale i svými geny → důležité podmínky prostředí jsou do
 určité míry závislé na zděděných předpokladech rodičů\
- Biologické, sociální a psychologické aspekty člověka, jeho života i
+ Biologické, sociální a psychologické aspekty člověka, jeho života i
 jednotlivých činností jsou navzájem těsně spjaty.\
 Biologicky dané předpoklady, které si dítě přináší na svět se týkají i
 vztahů jedince k prostředí, zejm. sociálnímu. Dítě má vrozenou tendenci
 prozkoumávat prostředí a aktivně je ovlivňovat, má vrozené předpoklady k
 učení (vyrovnávání se s prostředím) a k sociální existenci.\
 Průběh vývoje osobnosti:\
- v průběhu života člověk prochází několika odlišnými obdobími – podle
+ v průběhu života člověk prochází několika odlišnými obdobími – podle
 nápadných znaků a bio-psycho-sociálních změn se rozlišují:\
 1) prenatální období (období před narozením, končí narozením do života)\
 2) rané dětství – do 3 let věku dítěte\
 a) novorozenec (28 dnů po porodu)\
 b) kojenec (29. den – 1 rok života dítěte)\
 c) batole (1-3 roky)\
- mladší batolecí období (1-2 roky)\
- starší batolecí období (2-3 roky)\
+ mladší batolecí období (1-2 roky)\
+ starší batolecí období (2-3 roky)\
 3) předškolní věk – 3-6 let\
 4) mladší školní věk – na 1. stupni ZŠ (od 6 do 11-12 let)\
 5) střední a starší školní věk, mládí – prepuberta, puberta, adolescence
@@ -1070,12 +1070,12 @@ dospělost (od 45 do 60-65 let)\
 7) stáří (65 a více let)
 
 Koncepce vývojových stádií – způsoby vyjádření běhu lidského života:\
- předpokládá, že vývoj osobnosti probíhá ve stádiích, jejichž pořadí je
+ předpokládá, že vývoj osobnosti probíhá ve stádiích, jejichž pořadí je
 nutné, zákonité\
- jsou důležité 2 speciální problémy:\
- senzitivní období – období, kdy je organismus přístupný vlivu podnětů
+ jsou důležité 2 speciální problémy:\
+ senzitivní období – období, kdy je organismus přístupný vlivu podnětů
 k rozvinutí určité funkce\
- sekulární akcelerace – postupné urychlování vývoje (v historii) např.
+ sekulární akcelerace – postupné urychlování vývoje (v historii) např.
 v současnosti nastává období puberty dříve (menarche u dívek na konci
 19. stol. v 15-16 letech, nyní v 11-12 letech)
 
@@ -1121,11 +1121,11 @@ vlastními principy, které pochopil a převzal za své
 
 D. vývojových úkolů (R.J.Havinghurst) – v každém životním období je
 člověk postaven před úkoly vyplývající z:\
- biologických podmínek (vývoj pohybů, pohlavní dospívání, menopauza,
+ biologických podmínek (vývoj pohybů, pohlavní dospívání, menopauza,
 …)\
- sociálních souvislostí (požadavky na vzdělání a volbu povolání ve
+ sociálních souvislostí (požadavky na vzdělání a volbu povolání ve
 společnosti)\
- psychologických aspektů (formování cílů, hodnot, sebehodnocení, …)
+ psychologických aspektů (formování cílů, hodnot, sebehodnocení, …)
 
 E. Koncepce kritických životních událostí – např. narození sourozence,
 změna ekonomické situace rodiny, těžký úraz, smrt člena rodiny, válka,
@@ -1150,7 +1150,7 @@ konflikty:\
 1. touha po dosažení libosti – zejm. libido\
 2. pud sebezáchovy
 
- všechny uvedené koncepce se prolínají a navzájem doplňují k
+ všechny uvedené koncepce se prolínají a navzájem doplňují k
 ucelenějšímu vystižení vývoje osobnosti
 
 <hr><br /> <a name="10">
@@ -1159,23 +1159,23 @@ ucelenějšímu vystižení vývoje osobnosti
 
 **10. Psychologické podmínky (činitelé) školní úspěšnosti žáků**
 
- Jako předpoklad školní úspěšnosti je nutné, aby žák měl školní zralost
+ Jako předpoklad školní úspěšnosti je nutné, aby žák měl školní zralost
 
- Faktory, které ovlivňují školní úspěšnost\
- žák a jeho osobní předpoklady\
- motivace k učení\
- osobnost učitele\
- proces výuky vědomostí a dovedností\
- charakter prostředí\
- aktuální stav
+ Faktory, které ovlivňují školní úspěšnost\
+ žák a jeho osobní předpoklady\
+ motivace k učení\
+ osobnost učitele\
+ proces výuky vědomostí a dovedností\
+ charakter prostředí\
+ aktuální stav
 
- Žák a jeho předpoklady\
+ Žák a jeho předpoklady\
 • úroveň výkonových dispozic\
 • individuální povahové rysy\
 • osobní zaměření i kvality motivace\
 • studijní výsledky nejsou nikdy výslednicí jen daných schopností
 
- Motivace a její podmíněnost\
+ Motivace a její podmíněnost\
 • motivace je významný faktor školní úspěšnosti\
 • typickým faktorem určující charakter motivace je věk a pohlaví (na
 nižším stupni spíše se děvčata více snaží, na středním st. je už
@@ -1187,7 +1187,7 @@ studijní styl\
 • v pedagogickém procesu apelovat na touhu po poznání\
 • důležité je také ukazovat učitelovu motivaci, že má o žáky zájem
 
- Osobnost učitele\
+ Osobnost učitele\
 • schopnost, talent, inteligence\
 • temperament, rysy\
 • odborná, pedagogicko-psychologická kvalifikovanost\
@@ -1198,7 +1198,7 @@ studijní styl\
 • integrovanost osobnosti\
 • pedagogický takt
 
- Proces výuky\
+ Proces výuky\
 • osvojení látky:\
 a) fáze výkladu (studia)- k pochopení látky, důkladnému porozumění všem
 vztahům a souvislostem\
@@ -1227,7 +1227,7 @@ klíčové látky oboru, na periodické opakování, návraty k probraným
 tématům v rámci širších souvislostí a na výších úrovních poznání tzv.
 „učení ve spirále“
 
- Charakter prostředí\
+ Charakter prostředí\
 • školní výkonnost ovlivňují i širší charakteristiky prostředí:\
 a) fyzikální parametry: teplota ve třídě, vlhkost vzduchu, osvětlení,
 hluk aj.\
@@ -1236,7 +1236,7 @@ b) vlivy socio-kulturního charakteru: sociálně – emoční klima třídy a
 c) vlivy adekvátní regenerace sil: formy aktivního odpočinku, zájmové
 kroužky aj.
 
- Aktuální stav\
+ Aktuální stav\
 • únavu regulují přestávky, dny volna, prázdniny\
 • důležitý je správný režim práce a odpočinku\
 • střídání rozmanitých činností v rozvrhu hodin\
@@ -1244,10 +1244,10 @@ kroužky aj.
 • pravidelný čas na odpočinek, relaxaci, spánek\
 • dostatek tekutin, správný životní styl, celkovou životosprávu
 
- Žádoucí úspěšnost je výsledkem nejen intelektových schopností a píle,
+ Žádoucí úspěšnost je výsledkem nejen intelektových schopností a píle,
 ale také vnějších mimo-intelektových podmínek učení.
 
- Negativně vždy působí zanedbávání dítěte, nedostatky v emočním klimatu
+ Negativně vždy působí zanedbávání dítěte, nedostatky v emočním klimatu
 rodiny, chyby ve výchově, rozpornost požadavků, rozdíly socio-kulturních
 tradic ….
 
@@ -1256,24 +1256,24 @@ tradic ….
 [Zpět k obsahu](#)
 
 **11. PSYCHOLOGIE – předmět, hlavní odvětví**\
- Definice a úvod: psychologie je věda o psychice a patří do věd o
+ Definice a úvod: psychologie je věda o psychice a patří do věd o
 člověku (zabývá se duševním životem člověka a jeho projevy) Slovo
 psychologie vzniklo složením dvou řeckých slov – psyché (dech, duše) a
 logos (učené slovo) = učené slovo duši – překlad\
-\
- V současné době se psychologie užívá v nejrůznějších oblastech např.
+\
+ V současné době se psychologie užívá v nejrůznějších oblastech např.
 ve výchově, ve zdravotnictví, ve škole a školních zařízeních, v obchodě,
 v reklamě, v sociálních službách, ve sportu, v ekonomii, vojenství, ve
 výstavbě měst a sídlišť, v průmyslu….\
- Psychologie pomůže tam, kde potřebujeme:\
- poznávat lidi\
- vysvětlovat chování a prožívání\
- předvídat pravděpodobný vývoj lidí\
- působit na lidi\
- utvořit podmínky pro učení, práci, prostředí bytů….\
- lépe poznat sebe sama
+ Psychologie pomůže tam, kde potřebujeme:\
+ poznávat lidi\
+ vysvětlovat chování a prožívání\
+ předvídat pravděpodobný vývoj lidí\
+ působit na lidi\
+ utvořit podmínky pro učení, práci, prostředí bytů….\
+ lépe poznat sebe sama
 
- Předmět psychologie\
+ Předmět psychologie\
 • člověk je součást přírody – zkoumají ho přírodní vědy\
 • člověk je součást společnosti – zkoumají ho společenské vědy\
 • samostatná vědní disciplína\
@@ -1282,75 +1282,75 @@ a vnějších podmínek jeho existence\
 • předmětem jsou psychické jevy (studium psychiky) – prožívání, chování\
 • studium podmínek a zákonitostí psychického vývoje (od početí) a
 psychických změn průběhu života\
- Chování (behavior) – je vidět, měřitelné, objektivní\
- zahrnuje všechny pohyby, reakce, úkony člověka – jeho vnější činnost\
- lze ho pozorovat, registrovat pomocí přístrojů (měřit)\
- zahrnuje i mimiku, gestiku projevující radost, smutek..\
- vegetativní reakce- změny dýchání, akce srdeční, bledost, zčervenání…\
- řeč
+ Chování (behavior) – je vidět, měřitelné, objektivní\
+ zahrnuje všechny pohyby, reakce, úkony člověka – jeho vnější činnost\
+ lze ho pozorovat, registrovat pomocí přístrojů (měřit)\
+ zahrnuje i mimiku, gestiku projevující radost, smutek..\
+ vegetativní reakce- změny dýchání, akce srdeční, bledost, zčervenání…\
+ řeč
 
- Prožívání (experience) – vnitřní prožívání, vědomé a nevědomé stavy,
+ Prožívání (experience) – vnitřní prožívání, vědomé a nevědomé stavy,
 subjektivní zážitky\
- vjemy, představy, emoce\
- procesy řešení problémů, rozhodování\
- vybavování si z paměti\
- Chování a prožívání jsou vždy projevem osobnosti, určitého člověka s
+ vjemy, představy, emoce\
+ procesy řešení problémů, rozhodování\
+ vybavování si z paměti\
+ Chování a prožívání jsou vždy projevem osobnosti, určitého člověka s
 obecně lidskými a individuálními vlastnostmi, cíli, radostmi a problémy.
 Chování a prožívání je součástí práce člověka, jeho učení a ostatních
 činností, jeho vztahů k druhým lidem, jeho vzájemného působení s
 prostředím, jeho vývoje od dětství k dospělosti a stáří. To vše zkoumá
 psychologie.
 
- Psychologické discipliny\
+ Psychologické discipliny\
 A. Základní – zkoumají obecné zákonitosti a jevy v oblasti lidské
 psychiky\
- obecná – pojednává o psychických procesech a stavech\
- psychofyziologie – zkoumá fyziologické mechanismy (aspekty) ve
+ obecná – pojednává o psychických procesech a stavech\
+ psychofyziologie – zkoumá fyziologické mechanismy (aspekty) ve
 vnímání, paměti, učení, pozornosti, temperamentu\
- osobnosti – zabývá se strukturou osobnosti, jejím poznáváním a
+ osobnosti – zabývá se strukturou osobnosti, jejím poznáváním a
 formováním\
- sociální – zkoumá zařazení člověka do společnosti, mezilidské vztahy,
+ sociální – zkoumá zařazení člověka do společnosti, mezilidské vztahy,
 vliv společenských činitelů, společenských skupin\
- vývojová – psychologický vývoj od prenatálního období přes dětství,
+ vývojová – psychologický vývoj od prenatálního období přes dětství,
 mládí, dospělost až po stáří\
- dějiny psychologie – historie\
- metodologie psychologie – výzkumné metody v psychologii\
- psychopatologie – zabývá se psychickými poruchami a obtížemi (nemoce)
+ dějiny psychologie – historie\
+ metodologie psychologie – výzkumné metody v psychologii\
+ psychopatologie – zabývá se psychickými poruchami a obtížemi (nemoce)
 
 B. Aplikované – zkoumají oblast lidské činnosti z konkrétního
 psychologického hlediska\
- zdravotnická (sestry- ošetřovatelství), lékařská, psychologie zdraví
+ zdravotnická (sestry- ošetřovatelství), lékařská, psychologie zdraví
 (hygiena, drogy)\
- pedagogická – zkoumá otázky výchovné praxe (vyučováním) z psychického
+ pedagogická – zkoumá otázky výchovné praxe (vyučováním) z psychického
 hlediska\
- školní – zkoumá a řeší výchovné a vzdělávací problémy, radí také
+ školní – zkoumá a řeší výchovné a vzdělávací problémy, radí také
 rodičům\
- práce – zkoumá profese, pracovníky, jejich výběr (průmyslová,
+ práce – zkoumá profese, pracovníky, jejich výběr (průmyslová,
 inženýrská)\
- poradenská – individuální práce se žáky a jejich rodiči, spolupráce i
+ poradenská – individuální práce se žáky a jejich rodiči, spolupráce i
 se školami\
- soudní – forenzní – uplatňuje se v soudní praxi, při zjišťování
+ soudní – forenzní – uplatňuje se v soudní praxi, při zjišťování
 psychických vlastností delikventů, při výslechu, výpovědi svědků\
- environmentální – vliv vnějšího prostředí, kulturní a sociální
+ environmentální – vliv vnějšího prostředí, kulturní a sociální
 prostředí
 
 C. Speciální\
- psycholingvistika – zkoumá vztah mezi myšlením a řečí, zabývá se
+ psycholingvistika – zkoumá vztah mezi myšlením a řečí, zabývá se
 psychickými procesy při osvojování a užívání jazyka\
- zoopsychologie – zkoumá psychiku živočichů na různých stupních vývoje\
- psychohygiena – zabývá se rozvojem a podporou duševního zdraví,
+ zoopsychologie – zkoumá psychiku živočichů na různých stupních vývoje\
+ psychohygiena – zabývá se rozvojem a podporou duševního zdraví,
 prevence psychických poruch a nemocí\
- biopsychologie – věda, která staví na biologických základech, studuje
+ biopsychologie – věda, která staví na biologických základech, studuje
 instinkty, reflexy\
- farmakopsychologie – vědecký obor o psychotropních látkách, jejíchž
+ farmakopsychologie – vědecký obor o psychotropních látkách, jejíchž
 hlavním očekávaným účinkem je změna chování
 
  
 
- Význam psychologie pro pedagogickou praxi\
- Psychologické poznatky a metody usnadňují a zkvalitňují práci
+ Význam psychologie pro pedagogickou praxi\
+ Psychologické poznatky a metody usnadňují a zkvalitňují práci
 pedagogických pracovníků.\
- Psychologie nám pomůže si zodpovědět tyto otázky:\
+ Psychologie nám pomůže si zodpovědět tyto otázky:\
 • Jak dobře poznávat žáky, jejich zájmy, schopnosti?\
 • Lze schopnosti dětí ovlivnit výchovu a vyučování?\
 • Jak se vyvíjí vnímání a myšlení dětí?\
@@ -1365,19 +1365,19 @@ vztazích k lidem, v postoji k práci a jak tyto rozdíly vznikají?
 
 **12. KOGNITIVNÍ (poznávací) PROCESY – součást intelektuálního vývoje
 žáka**\
- patří mezi psychické procesy
+ patří mezi psychické procesy
 
- Kognitivní (poznávací) procesy:\
+ Kognitivní (poznávací) procesy:\
 a) vnímání, počitky, vjemy\
 b) procesy učení a paměti\
 c) imaginativní procesy, představy a fantazie\
 d) myšlení spjaté s řečí a myšlenkové řešení problémů
 
- Funkce kognitivních procesů:\
- v poznávání\
- v řízení činnosti\
- v sociální komunikaci\
- v uvědomování si emocí, v řešení konfliktů mezi motivy, v rozhodování
+ Funkce kognitivních procesů:\
+ v poznávání\
+ v řízení činnosti\
+ v sociální komunikaci\
+ v uvědomování si emocí, v řešení konfliktů mezi motivy, v rozhodování
 a v realizaci vytčených cílů\
 – jsou vzájemně propojené, a to i s ostatními procesy (emočními,
 motivačními, volními)\
@@ -1392,7 +1392,7 @@ neomezovali na slovní sdělování učiva, ale aby měli žáci příležitost 
 názornému poznání věcí, k jejich vnímání, nejlépe všemi smysly.
 
 A. Vnímání = poznávací proces zachycující to, co působí na naše smysly\
- k vnímání je potřeba analyzátor (= receptor, dostředivá dráha a
+ k vnímání je potřeba analyzátor (= receptor, dostředivá dráha a
 mozkové centrum) – jeho hlavní funkcí je analýza, rozklad, rozlišování
 podnětů\
 a) analyzátor pohybový (kinestetický, proprioceptivní) – slouží ke
@@ -1400,17 +1400,17 @@ kontrole pohybů a polohy jednotlivých částí těla, je spojen s vnímáním 
 udržováním rovnováhy\
 b) analyzátor interoceptivní – informuje o změnách ve funkci a stavu
 vnitřních orgánů (např. hlad, sytost, nevolnost, bolest, …)\
- Druhy vnímání (informující o vnějším světě):\
- Zrakové – umožňuje poznávat předměty i na značnou vzdálenost a s
+ Druhy vnímání (informující o vnějším světě):\
+ Zrakové – umožňuje poznávat předměty i na značnou vzdálenost a s
 velkou přesností\
- Sluchové – poskytuje info o předmětech a událostech vzdálených, dříve
+ Sluchové – poskytuje info o předmětech a událostech vzdálených, dříve
 než se dotknou povrchu těla, umožňuje vnímat a vytvářet hudbu\
- Čichové – vnímání vůní a pachů\
- Chuťové – vnímání potravy\
- Hmatové – dotekové – poskytuje info kožního a pohybového analyzátoru
+ Čichové – vnímání vůní a pachů\
+ Chuťové – vnímání potravy\
+ Hmatové – dotekové – poskytuje info kožního a pohybového analyzátoru
 při aktivním ohmatání předmětů, vnímání doteku, chladu, tepla, bolesti,
 …\
- Ve vnímání se rozlišují 2 typy zážitků:\
+ Ve vnímání se rozlišují 2 typy zážitků:\
 1. počitek – obraz některého jednotlivého znaku vnímaného předmětu
 (např. počitek červené barvy, počitek nakyslé chuti, …), nevyskytují se
 izolovaně, ale jako části složitějších vjemů\
@@ -1420,14 +1420,14 @@ celků, nejčastěji pomocí asociačních zákonů)
 
 2\. vjem – obraz předmětu nebo procesu jako celku (např. vjem jablka)\
 → takto chápe psychologii celostní a tvarová psychologie\
- nervový systém má rozvinuté mechanismy jak k rozlišování částí a
+ nervový systém má rozvinuté mechanismy jak k rozlišování částí a
 dílčích vlastností, tak k vystižení jejich vztahů, uspořádání,
 struktury, celistvosti – vnímání je složitá analytická-syntetická
 činnost
 
  
 
- vnímání je realizováno složitými neurofyziologickými mechanismy
+ vnímání je realizováno složitými neurofyziologickými mechanismy
 informačních procesů:\
 a. nejprve je zapotřebí odlišit podstatnou info od šumu (množství
 podnětů, které na nás působí zevnitř i z vnějšku)\
@@ -1439,30 +1439,30 @@ analyticko-syntetické zpracování info\
 d. určuje se místo, kde podnět působí na organismus\
 e. zpracování info – srovnání s dřívějšími zkušenostmi uloženými v
 paměti (to umožňuje odpovědět na otázku „Co je to?“)\
- vnímání je výběrové – vnímání není jen pasivní reagování na podněty,
+ vnímání je výběrové – vnímání není jen pasivní reagování na podněty,
 člověk si z množství podnětů vybírá (= pozornost a zaměřenost)\
- figura = to, na co se pozornost soustřeďuje v daném okamžiku\
- pozadí = vše ostatní\
- transdukce = převod proměn zevního prostředí při zrakovém vnímání
+ figura = to, na co se pozornost soustřeďuje v daném okamžiku\
+ pozadí = vše ostatní\
+ transdukce = převod proměn zevního prostředí při zrakovém vnímání
 proměn elektromagnetického spektra na nervové vzruchy (impulsy)\
- mapování = vytváření vnitřní mapy, obrazu, modelu
+ mapování = vytváření vnitřní mapy, obrazu, modelu
 
 B. Procesy učení a paměti\
 Učení = získávání zkušeností, utváření a pozměňování jedince v průběhu
 jeho života\
 • Funkce učení:\
- přizpůsobování organismu k prostředí a ke změnám v tomto prostředí\
- poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
+ přizpůsobování organismu k prostředí a ke změnám v tomto prostředí\
+ poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
 
 • Formy lidského učení:\
 A) DLE TOHO, JAKÉ VÝSLEDKY PŘEVAŽUJÍ\
- Vědomosti –představy a pojmy\
- Senzorické a senzomotorické dovednosti – zdokonalení procesu vnímání
+ Vědomosti –představy a pojmy\
+ Senzorické a senzomotorické dovednosti – zdokonalení procesu vnímání
 (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a
 pohybů (např. při psaní, ve sportu)\
- Intelektové dovednosti a rozvíjení intelektových schopností – např.
+ Intelektové dovednosti a rozvíjení intelektových schopností – např.
 při vyučování matematice a jazykům\
- Návyky, postoje, rozvíjení vlastností osobnosti – např. vytrvalosti a
+ Návyky, postoje, rozvíjení vlastností osobnosti – např. vytrvalosti a
 svědomitosti
 
 Vědomost = soustava informací (představ a pojmů), které si člověk
@@ -1471,10 +1471,10 @@ Dovednost = učením získaný předpoklad k vykonávání určité činnosti\
 Návyk = učením získaný předpoklad, který člověka pobízí k určitému
 chování\
 B) Z HLEDISKA PSYCHOLOGICKÝCH MECHANISMŮ\
- Elementární učení\
- tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy,
+ Elementární učení\
+ tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy,
 představami a city)\
- podmiňování:\
+ podmiňování:\
 1. klasické (Pavlovovo) – organismus se učí, že 2 události následují za
 sebou, nezávisle na jedincově aktivitě (reflex – slinná reakce psa na
 zvonek)\
@@ -1484,9 +1484,9 @@ omylem)\
 – obě se vzájemně doplňují\
 – celostní psychologie se postavila proti – v lidském učení jsou
 podstatné i procesy myšlení!\
- Komplexní učení – osvojení postupů při řešení problémů, vytváření
+ Komplexní učení – osvojení postupů při řešení problémů, vytváření
 mentálních map jedincova prostředí, osvojování principů a systémů učiva\
- Sociální učení – učení se sociální komunikaci, interakci a percepci
+ Sociální učení – učení se sociální komunikaci, interakci a percepci
 (vnímání), sociálním rolím, formám společenského styku
 
 • Typy lidského učení:\
@@ -1533,13 +1533,13 @@ spánkových laloků) – je bohatě propojen s ostatními částmi mozkové ků
 i s mezimozkem a s podkorovými útvary.
 
 Formy lidské paměti:\
- Nedeklarativní (procedurální) – neuvědomělé podmiňování a osvojování
+ Nedeklarativní (procedurální) – neuvědomělé podmiňování a osvojování
 senzomotorických dovedností\
- Deklarativní – vědomé vybavování zkušeností a osvojování vědomostí,
+ Deklarativní – vědomé vybavování zkušeností a osvojování vědomostí,
 častým opakováním se může přeměnit na paměť nedeklarativní\
- Názorná – názorné obrazy, představy odpovídající jednotlivým druhům
+ Názorná – názorné obrazy, představy odpovídající jednotlivým druhům
 vnímání; je funkcí pravé poloviny mozku\
- Sémantická (logická) – info vyjádřené slovně a zpracované myšlenkově;
+ Sémantická (logická) – info vyjádřené slovně a zpracované myšlenkově;
 je funkcí levé poloviny mozku
 
 Zapomínání = změny v uchování a ve vybavování, ke kterým dochází v
@@ -1550,7 +1550,7 @@ Názorné poznání skutečnosti zahrnuje vnímání a s ním těsně spjaté
 imaginativní procesy. Ty se tradičně vyjadřují zejména termíny představy
 a fantazie.
 
- Představa – je názorný obraz něčeho, co v daném okamžiku nepůsobí na
+ Představa – je názorný obraz něčeho, co v daném okamžiku nepůsobí na
 naše smyslové orgány. Zakládá se na minulém vnímání. Představa je
 většinou méně výstižná a živá než vjem. Představu si můžeme vytvořit
 prostřednictvím zraku, sluchu, vůně a chuti. Rozlišujeme druhy představ
@@ -1559,11 +1559,11 @@ Elementární druh představ jsou paměťové představy. Jsou vybavením z
 paměti obrazů či událostí, tak jak jsme je dříve vnímali. Jsou to více
 nebo méně adekvátní reprodukce.
 
- Fantazie – (obrazotvornost) je psychický proces, ve kterém vytváříme
+ Fantazie – (obrazotvornost) je psychický proces, ve kterém vytváříme
 relativně nové představy. Základem je vždy naše zkušenost, vjemy a
 paměťové představy.
 
- Druhy fantazie:\
+ Druhy fantazie:\
 1) Rekonstrukční fantazie – v technice, geometrii, geografii, historii
 atd. je důležitá rekonstrukční fantazie (vytváření představ na podkladě
 slovního popisu nebo schematického znázornění)\
@@ -1610,19 +1610,19 @@ vnitřního dialogu, který je podstatnou podmínkou pro sebepoznání a pro
 duševní zdraví, pro dobrý vývoj osobnosti.
 
 D. Myšlení\
- je vrcholný proces lidského poznávání\
- Myšlení umožňuje:\
- zakládá se na ostatních poznávacích procesech a také do nich vstupuje\
- jde o poznání dále jak jiné kognitivní procesy\
- umožňuje vymezit pojmy, vystihnout vztahy mezi nimi, z jedněch
+ je vrcholný proces lidského poznávání\
+ Myšlení umožňuje:\
+ zakládá se na ostatních poznávacích procesech a také do nich vstupuje\
+ jde o poznání dále jak jiné kognitivní procesy\
+ umožňuje vymezit pojmy, vystihnout vztahy mezi nimi, z jedněch
 poznatků odvozovat jiné, formulovat hypotézy a ověřovat je\
- vytvářet složité systémy operací\
- řešit problémy
+ vytvářet složité systémy operací\
+ řešit problémy
 
- Nástrojem myšlení je řeč, vnější (mluvená, psaná), nebo vnitřní, když
+ Nástrojem myšlení je řeč, vnější (mluvená, psaná), nebo vnitřní, když
 např. počítáme potichu
 
- Druhy myšlení se rozlišují podle několika hledisek:
+ Druhy myšlení se rozlišují podle několika hledisek:
 
 a\) Vývojové hledisko – tři formy:\
 1. Motorické (je konkrétní myšlení) – řešení problému pohybovou
@@ -1632,44 +1632,44 @@ představami\
 3. Propoziční (je myšlení abstraktní) – operuje se slovy, větami a pojmy
 
 b\) Deduktivní a induktivní myšlení\
- Deduktivní – postupuje od obecných výroků k speciálnějším, jim
+ Deduktivní – postupuje od obecných výroků k speciálnějším, jim
 podřazeným\
- Induktivní – naopak postupuje od jednotlivých případů k obecnější
+ Induktivní – naopak postupuje od jednotlivých případů k obecnější
 informaci, k zobecnění dílčích, specifických informací.\
 – zejména v logice se užívá deduktivní a induktivní úsudek
 
 c\) Reproduktivní a produktivní myšlení\
- Reproduktivní – při řešení problému opakuje postup, který již byl
+ Reproduktivní – při řešení problému opakuje postup, který již byl
 jedinci znám\
- Produktivní (tvůrčí) – hledá a tvoří postup nový, jedinci dosud
+ Produktivní (tvůrčí) – hledá a tvoří postup nový, jedinci dosud
 neznámý, popřípadě postup, jež dosud nebyl vůbec nalezen a popsán v
 literatuře
 
 d\) Konvergentní a divergentní myšlení\
- Konvergentní – směřuje k jedinému cíli, k jednomu způsobu řešení
+ Konvergentní – směřuje k jedinému cíli, k jednomu způsobu řešení
 daného problému\
- Divergentní – hledá několik různých paralelních cest řešení, vede k
+ Divergentní – hledá několik různých paralelních cest řešení, vede k
 několika možným řešením problémů. Často je postupem tvůrčím.
 
- Existují značné interindividuální rozdíly nejen v celkové úrovni
+ Existují značné interindividuální rozdíly nejen v celkové úrovni
 myšlení, ale zejména v tom, který druh myšlení u jedince převažuje.
 
- Myšlení se realizuje souborem myšlenkových procesů či operací:\
- analýza a syntéza – rozčlenění celku na části a vystižení toho, jak
+ Myšlení se realizuje souborem myšlenkových procesů či operací:\
+ analýza a syntéza – rozčlenění celku na části a vystižení toho, jak
 jsou uspořádány dohromady, jaké vztahy jsou mezi nimi (např. oddělení
 jednotlivých prvků složité situace)\
- abstrakce a konkretizace – postup od celistvých, konkrétních „živých“
+ abstrakce a konkretizace – postup od celistvých, konkrétních „živých“
 skutečností k odděleným částem či aspektům, vlastnostem\
- indukce a dedukce – postup od obecného ke zvláštnímu (viz induk. a
+ indukce a dedukce – postup od obecného ke zvláštnímu (viz induk. a
 deduk. myšlení)\
- generalizace, zobecnění – souvisí s předchozími procesy – od
+ generalizace, zobecnění – souvisí s předchozími procesy – od
 jednotlivých případů přecházíme k obecnému pojmu nebo vztahu (pravidlu,
 zákonu), to se však zakládá na analýze, abstrakci, indukci\
- srovnávání, uspořádání, třídění (klasifikace) – nový pojem, srovnávání
+ srovnávání, uspořádání, třídění (klasifikace) – nový pojem, srovnávání
 s jinými pojmy, které již známe, nový problém srovnávám s předchozími
 problémy, jejichž způsob řešení již ovládám. Srovnání je spojeno s
 analýzou a syntézou a dalšími uvedenými operacemi\
- v matematické logice i v psychologii – průnik, sjednocení, negace,
+ v matematické logice i v psychologii – průnik, sjednocení, negace,
 implikace
 
 Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích
@@ -1679,24 +1679,24 @@ Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích
 [Zpět k obsahu](#)
 
 **13. PROCESY UČENÍ A PAMĚTI**\
- patří mezi kognitivní (poznávací) procesy\
+ patří mezi kognitivní (poznávací) procesy\
 1) UČENÍ\
 = získávání zkušeností, utváření a pozměňování jedince v průběhu jeho
 života
 
 • Funkce učení:\
- přizpůsobování organismu k prostředí a ke změnám v tomto prostředí\
- poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
+ přizpůsobování organismu k prostředí a ke změnám v tomto prostředí\
+ poskytuje člověku předpoklady pro plnější, aktivnější a tvořivý život
 
 • Formy lidského učení:\
 A. Dle toho, jaké výsledky převažují\
- Vědomosti –představy a pojmy\
- Senzorické a senzomotorické dovednosti – zdokonalení procesu vnímání
+ Vědomosti –představy a pojmy\
+ Senzorické a senzomotorické dovednosti – zdokonalení procesu vnímání
 (např. lepší rozlišování výšky a barvy tónů) a koordinace vnímání a
 pohybů (např. při psaní, ve sportu)\
- Intelektové dovednosti a rozvíjení intelektových schopností – např.
+ Intelektové dovednosti a rozvíjení intelektových schopností – např.
 při vyučování matematice a jazykům\
- Návyky, postoje, rozvíjení vlastností osobnosti – např. vytrvalosti a
+ Návyky, postoje, rozvíjení vlastností osobnosti – např. vytrvalosti a
 svědomitosti
 
 Vědomost = soustava informací (představ a pojmů), které si člověk
@@ -1706,10 +1706,10 @@ Návyk = učením získaný předpoklad, který člověka pobízí k určitému
 chování
 
 B. Z hlediska psychologických mechanismů\
- Elementární učení\
- tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy,
+ Elementární učení\
+ tvoření asociací (spojení mezi jednoduchými zážitky, zejm. vjemy,
 představami a city)\
- podmiňování:\
+ podmiňování:\
 1. klasické (Pavlovovo) – organismus se učí, že 2 události následují za
 sebou, nezávisle na jedincově aktivitě (reflex – slinná reakce psa na
 zvonek)\
@@ -1719,9 +1719,9 @@ omylem)\
 – obě se vzájemně doplňují\
 – celostní psychologie se postavila proti – v lidském učení jsou
 podstatné i procesy myšlení!\
- Komplexní učení – osvojení postupů při řešení problémů, vytváření
+ Komplexní učení – osvojení postupů při řešení problémů, vytváření
 mentálních map jedincova prostředí, osvojování principů a systémů učiva\
- Sociální učení – učení se sociální komunikaci, interakci a percepci
+ Sociální učení – učení se sociální komunikaci, interakci a percepci
 (vnímání), sociálním rolím, formám společenského styku
 
 • Typy lidského učení:\
@@ -1770,13 +1770,13 @@ vnitřních částí spánkových laloků) – je bohatě propojen s ostatními
 částmi mozkové kůry i s mezimozkem a s podkorovými útvary.
 
 • Formy lidské paměti:\
- Nedeklarativní (procedurální) – neuvědomělé podmiňování a osvojování
+ Nedeklarativní (procedurální) – neuvědomělé podmiňování a osvojování
 senzomotorických dovedností\
- Deklarativní – vědomé vybavování zkušeností a osvojování vědomostí,
+ Deklarativní – vědomé vybavování zkušeností a osvojování vědomostí,
 častým opakováním se může přeměnit na paměť nedeklarativní\
- Názorná – názorné obrazy, představy odpovídající jednotlivým druhům
+ Názorná – názorné obrazy, představy odpovídající jednotlivým druhům
 vnímání; je funkcí pravé poloviny mozku\
- Sémantická (logická) – info vyjádřené slovně a zpracované myšlenkově;
+ Sémantická (logická) – info vyjádřené slovně a zpracované myšlenkově;
 je funkcí levé poloviny mozku
 
 • Zapomínání = změny v uchování a ve vybavování, ke kterým dochází v
@@ -1790,7 +1790,7 @@ průběhu času
 Názorné poznání skutečnosti zahrnuje vnímání a s ním těsně spjaté
 imaginativní procesy. Ty se tradičně vyjadřují zejména termíny představy
 a fantazie.\
- Představa – je názorný obraz něčeho, co v daném okamžiku nepůsobí na
+ Představa – je názorný obraz něčeho, co v daném okamžiku nepůsobí na
 naše smyslové orgány. Zakládá se na minulém vnímání. Představa je
 většinou méně výstižná a živá než vjem. Představu si můžeme vytvořit
 prostřednictvím zraku, sluchu, vůně a chuti. Rozlišujeme druhy představ
@@ -1798,10 +1798,10 @@ v souhlasu s druhy vnímání a s jednotlivými smyslovými orgány.
 Elementární druh představ jsou paměťové představy. Jsou vybavením z
 paměti obrazů či událostí, tak jak jsme je dříve vnímali. Jsou to více
 nebo méně adekvátní reprodukce.\
- Fantazie – (obrazotvornost) je psychický proces, ve kterém vytváříme
+ Fantazie – (obrazotvornost) je psychický proces, ve kterém vytváříme
 relativně nové představy. Základem je vždy naše zkušenost, vjemy a
 paměťové představy.\
- Druhy fantazie:\
+ Druhy fantazie:\
 1) Rekonstrukční fantazie – v technice, geometrii, geografii, historii
 atd. je důležitá rekonstrukční fantazie (vytváření představ na podkladě
 slovního popisu nebo schematického znázornění)\
@@ -1812,13 +1812,13 @@ okamžiku: představy se vybavují samy. Bezděčná fantazie probíhá zvláš�
 bdělém stavu (s otevřenýma očima) nebo ve spánku, ve snech.\
 4) Záměrná fantazie – řídí se vědomým záměrem, cílem (např. představit
 si stroj podle výkresu nebo vytvořit nové technické zařízení)\
- Imaginativní procesy se neomezují pouze na oblast umění a citového
+ Imaginativní procesy se neomezují pouze na oblast umění a citového
 prožívání, mají podstatný význam při řešení mnoha druhů problémů, kde
 nevystačíme se samostatnou propoziční reprezentací, se slovním myšlením.
 Propoziční reprezentace se soustřeďuje na abstraktní aspekty jevu, na
 vymezení pojmů a definic, nevystihuje však směr a vzdálenost
 jednotlivých předmětů či situací.\
- Interindividuální rozdíly v představách a fantazií jsou značné. Děti a
+ Interindividuální rozdíly v představách a fantazií jsou značné. Děti a
 umělci mají zvlášť živé představy. Naproti tomu lidé, které jejich práce
 vede převážně k abstraktnímu myšlení, mají představy- zvláště zrakové-
 značně omezené, schematizované, doslova šedé (barvy si dokážou
@@ -1827,7 +1827,7 @@ Galton). Někteří podle rozdílů v představách, popřípadě podle vzájemn
 poměru myšlení a imaginativních procesů rozlišili typy:\
 A) Jung – myšlenkový typ a proti němu typ vjemový a intuitivní,\
 B) I.P.Pavlov – typ myslitelský a umělecký\
- Snění v bdělém stavu bývá pokračováním skutečných událostí, někdy i
+ Snění v bdělém stavu bývá pokračováním skutečných událostí, někdy i
 pokračováním v řešení otevřeného problému. Právě ve snění – ve chvíli
 odpočinku, při cestě – se může vybavit rozhodující nápad, princip řešení
 obtížného problému ať již osobního nebo pracovního. Snění může pomoci
@@ -1836,7 +1836,7 @@ radostné vzrušení. Někdy se stává náhražkou skutečného života. Může
 přinášet neklid, úzkost, strach. Ovlivňuje tedy jedincovu náladu, a to
 často na dlouhou dobu. Sen ve spánku – psychoanalýza a směry na ni
 navazující podrobně rozpracovaly teorie snů jako projevů nevědomí.\
- Jung: Sen vyjadřuje často v pozměněné formě- něco důležitého jedincova
+ Jung: Sen vyjadřuje často v pozměněné formě- něco důležitého jedincova
 nevědomí, např. to co nedořešil, nezvládl, zanedbal, popřípadě potlačil,
 proto je účelné zamýšlet se nad vlastními sny, tím získáme náměty pro
 lepší sebepoznání i pro lepší řešení životních problémů, pro realizaci
@@ -1848,20 +1848,20 @@ duševní zdraví, pro dobrý vývoj osobnosti.
 [Zpět k obsahu](#)
 
 **15. MYŠLENÍ – charakteristika, druhy myšlení, myšlenkové operace**\
- je vrcholný proces lidského poznávání
+ je vrcholný proces lidského poznávání
 
- Myšlení umožňuje:\
- zakládá se na ostatních poznávacích procesech a také do nich vstupuje\
- jde o poznání dále jak jiné kognitivní procesy\
- umožňuje vymezit pojmy, vystihnout vztahy mezi nimi, z jedněch
+ Myšlení umožňuje:\
+ zakládá se na ostatních poznávacích procesech a také do nich vstupuje\
+ jde o poznání dále jak jiné kognitivní procesy\
+ umožňuje vymezit pojmy, vystihnout vztahy mezi nimi, z jedněch
 poznatků odvozovat jiné, formulovat hypotézy a ověřovat je\
- vytvářet složité systémy operací\
- řešit problémy
+ vytvářet složité systémy operací\
+ řešit problémy
 
- Nástrojem myšlení je řeč, vnější (mluvená, psaná), nebo vnitřní, když
+ Nástrojem myšlení je řeč, vnější (mluvená, psaná), nebo vnitřní, když
 např. počítáme potichu
 
- Druhy myšlení se rozlišují podle několika hledisek:\
+ Druhy myšlení se rozlišují podle několika hledisek:\
 A. Vývojové hledisko – tři formy:\
 1. Motorické (je konkrétní myšlení) – řešení problému pohybovou
 manipulací s předměty\
@@ -1870,47 +1870,47 @@ představami\
 3. Propoziční (je myšlení abstraktní) – operuje se slovy, větami a pojmy
 
 B. Deduktivní a induktivní myšlení\
- Deduktivní – postupuje od obecných výroků k speciálnějším, jim
+ Deduktivní – postupuje od obecných výroků k speciálnějším, jim
 podřazeným\
- Induktivní – naopak postupuje od jednotlivých případů k obecnější
+ Induktivní – naopak postupuje od jednotlivých případů k obecnější
 informaci, k zobecnění dílčích, specifických informací.\
 – zejména v logice se užívá deduktivní a induktivní úsudek\
 –\
 C. Reproduktivní a produktivní myšlení\
- Reproduktivní – při řešení problému opakuje postup, který již byl
+ Reproduktivní – při řešení problému opakuje postup, který již byl
 jedinci znám\
- Produktivní (tvůrčí) – hledá a tvoří postup nový, jedinci dosud
+ Produktivní (tvůrčí) – hledá a tvoří postup nový, jedinci dosud
 neznámý, popřípadě postup, jež dosud nebyl vůbec nalezen a popsán v
 literatuře
 
 D. Konvergentní a divergentní myšlení\
- Konvergentní – směřuje k jedinému cíli, k jednomu způsobu řešení
+ Konvergentní – směřuje k jedinému cíli, k jednomu způsobu řešení
 daného problému\
- Divergentní – hledá několik různých paralelních cest řešení, vede k
+ Divergentní – hledá několik různých paralelních cest řešení, vede k
 několika možným řešením problémů. Často je postupem tvůrčím.\
-\
- Existují značné interindividuální rozdíly nejen v celkové úrovni
+\
+ Existují značné interindividuální rozdíly nejen v celkové úrovni
 myšlení, ale zejména v tom, který druh myšlení u jedince převažuje.
 
- Myšlení se realizuje souborem myšlenkových procesů či operací:\
- analýza a syntéza – rozčlenění celku na části a vystižení toho, jak
+ Myšlení se realizuje souborem myšlenkových procesů či operací:\
+ analýza a syntéza – rozčlenění celku na části a vystižení toho, jak
 jsou uspořádány dohromady, jaké vztahy jsou mezi nimi (např. oddělení
 jednotlivých prvků složité situace)\
- abstrakce a konkretizace – postup od celistvých, konkrétních „živých“
+ abstrakce a konkretizace – postup od celistvých, konkrétních „živých“
 skutečností k odděleným částem či aspektům, vlastnostem\
- indukce a dedukce – postup od obecného ke zvláštnímu (viz induk. a
+ indukce a dedukce – postup od obecného ke zvláštnímu (viz induk. a
 deduk. myšlení)\
- generalizace, zobecnění – souvisí s předchozími procesy – od
+ generalizace, zobecnění – souvisí s předchozími procesy – od
 jednotlivých případů přecházíme k obecnému pojmu nebo vztahu (pravidlu,
 zákonu), to se však zakládá na analýze, abstrakci, indukci\
- srovnávání, uspořádání, třídění (klasifikace) – nový pojem, srovnávání
+ srovnávání, uspořádání, třídění (klasifikace) – nový pojem, srovnávání
 s jinými pojmy, které již známe, nový problém srovnávám s předchozími
 problémy, jejichž způsob řešení již ovládám. Srovnání je spojeno s
 analýzou a syntézou a dalšími uvedenými operacemi\
- v matematické logice i v psychologii – průnik, sjednocení, negace,
+ v matematické logice i v psychologii – průnik, sjednocení, negace,
 implikace
 
- Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích (viz
+ Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích (viz
 mapa a otázka č. 4. mozek)
 
 <hr><br /> <a name="16">
@@ -1919,66 +1919,66 @@ mapa a otázka č. 4. mozek)
 
 **16. Pojem osobnost, problémy jeho psychologických koncepcí**\
 Osobnost\
- je soubor vlastností, které charakterizují individualitu konkrétního
+ je soubor vlastností, které charakterizují individualitu konkrétního
 člověka\
- člověk se všemi jeho psychickými, biologickými a sociálními znaky
+ člověk se všemi jeho psychickými, biologickými a sociálními znaky
 (proto také říkáme, že člověk je bio-psycho-sociální jednotka –
 jednotlivé složky se od sebe nedají oddělit)
 
- je utvářena (formována) ve vztazích mezi lidmi, prostředím a
+ je utvářena (formována) ve vztazích mezi lidmi, prostředím a
 společností\
- osobnost se vždy projevuje jako celek
+ osobnost se vždy projevuje jako celek
 
- Psychická struktura osobnosti\
- tvořena psychickými vlastnostmi a rysy osobnosti, které ovlivňují
+ Psychická struktura osobnosti\
+ tvořena psychickými vlastnostmi a rysy osobnosti, které ovlivňují
 lidské reakce\
- psychické vlastnosti osobnosti jsou relativně trvalé vlastnosti
+ psychické vlastnosti osobnosti jsou relativně trvalé vlastnosti
 osobnosti, kterými se vyznačuje\
- ovlivňují prožívání a myšlení, na jejich základě můžeme předpovídat,
+ ovlivňují prožívání a myšlení, na jejich základě můžeme předpovídat,
 jak se se člověk zachová či jak bude jednat\
- Rysy osobnosti jsou psychické vlastnosti člověka, projevují se
+ Rysy osobnosti jsou psychické vlastnosti člověka, projevují se
 chováním a jednáním, jsou příznačné pro určitého jedince těmito
 vlastnostmi se odlišuje od ostatních.\
- Typ osobnosti:\
- vyjadřuje vlastnosti a rysy osobnosti\
- velká pětka – 2. pol. 20. století, využívá ji řada psychologů pro
+ Typ osobnosti:\
+ vyjadřuje vlastnosti a rysy osobnosti\
+ velká pětka – 2. pol. 20. století, využívá ji řada psychologů pro
 určení struktury osobnosti, obsahuje pět základních faktorů:\
- Extroverze – mezilidská interakce, začlenění do společenských vztahů\
- Přívětivost – kvalita mezilidských vztahů od soucítění k nenávisti\
- Svědomitost – chování jedince vedoucí k určitému cíli\
- Emocionální stabilita – stálost citů\
- Intelekt, kultura a otevřenost – přístupnost k vzdělání a získávání
+ Extroverze – mezilidská interakce, začlenění do společenských vztahů\
+ Přívětivost – kvalita mezilidských vztahů od soucítění k nenávisti\
+ Svědomitost – chování jedince vedoucí k určitému cíli\
+ Emocionální stabilita – stálost citů\
+ Intelekt, kultura a otevřenost – přístupnost k vzdělání a získávání
 zkušeností\
- Struktura osobnosti – souhrn psychických vlastností:\
- Charakter – „JAKÝ JSEM“\
- Temperament – „JAK REAGUJI“\
- Inteligence – „CO ZVLÁDNU“\
- Motivační a volní vlastnosti – „CO CHCI“\
- Tělesná konstituce\
- Typologie osobnosti:\
- (Hippokrates):\
- sangvinik (krev) – rychlé změny zaměření; je přizpůsobivý, emočně
+ Struktura osobnosti – souhrn psychických vlastností:\
+ Charakter – „JAKÝ JSEM“\
+ Temperament – „JAK REAGUJI“\
+ Inteligence – „CO ZVLÁDNU“\
+ Motivační a volní vlastnosti – „CO CHCI“\
+ Tělesná konstituce\
+ Typologie osobnosti:\
+ (Hippokrates):\
+ sangvinik (krev) – rychlé změny zaměření; je přizpůsobivý, emočně
 vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný,
 optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city –
 emočně stabilní extrovert\
- flegmatik (sliz; hlen) – je emočně celkem vyrovnaný, navenek se jeví
+ flegmatik (sliz; hlen) – je emočně celkem vyrovnaný, navenek se jeví
 jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a
 vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným
 osobám; je spíše pasivní a bez velkých životních ambicí a požadavků,
 nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert\
- melancholik (černá žluč) – vyznačuje se spíše smutným laděním,
+ melancholik (černá žluč) – vyznačuje se spíše smutným laděním,
 pesimismem a strachem z budoucnosti; život je pro něj často obtížný,
 usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city
 jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše
 vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a
 hluboké – emočně labilní introvert\
- cholerik (žluč) – je silně vzrušivý, má sklon k výbuchům hněvu a k
+ cholerik (žluč) – je silně vzrušivý, má sklon k výbuchům hněvu a k
 agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon
 „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od
 jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je
 labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle,
 silně, často bez zábran – emočně labilní extrovert\
- E. Kretschmer – tři základní typy podle stavby těla:\
+ E. Kretschmer – tři základní typy podle stavby těla:\
 1. Pyknik – má postavu se zvětšeným objemem hrudníku a břicha, (sklon k
 obezitě) – bývají družní, veselí, s občasným přechodem k depresím\
 2. Leptosom – má štíhlou postavu, většinou uzavření, můžou být
@@ -1990,26 +1990,26 @@ netečností, která se občas střídá s výbušnosti\
 E. Kretschmer uznával, že mnoho lidí nepatří čistě k jednomu typu,
 některým somatickým znakem patří k jednomu, jiným znakem k druhému typu.
 Také se nemusí shodovat somatotyp s typem temperamentu.\
- C.G. Jung začátkem 20.stol.\
- extrovert – orientuje se na vnější svět a styk s druhými lidmi\
- introvert – je soustředěn na vnitřní prožívání\
- Etapy vývoje osobnosti:
+ C.G. Jung začátkem 20.stol.\
+ extrovert – orientuje se na vnější svět a styk s druhými lidmi\
+ introvert – je soustředěn na vnitřní prožívání\
+ Etapy vývoje osobnosti:
 
 1\. Na základě biologie se rozlišuje:\
- prenatální období\
- rané dětství (novorozenec, kojenec, batole)\
- předškolní věk\
- mladší školní věk\
- střední a starší školní věk (puberta, adolescence)\
- dospělost\
- stáří
+ prenatální období\
+ rané dětství (novorozenec, kojenec, batole)\
+ předškolní věk\
+ mladší školní věk\
+ střední a starší školní věk (puberta, adolescence)\
+ dospělost\
+ stáří
 
 2\. Podle psychologie se rozlišuje:\
- kognitivní teorie Jeana Piageta – rozvinuté abstraktní myšlení
+ kognitivní teorie Jeana Piageta – rozvinuté abstraktní myšlení
 dospělého je výsledkem složitého vývoje, který začíná v raném dětství a
 vyvíjí se z konkrétního myšlení
 
- teorie Erika Eriksona – vývoj je vázán na biologické, společenské,
+ teorie Erika Eriksona – vývoj je vázán na biologické, společenské,
 kulturní a historické faktory ovlivňující vývoj dítěte Na každém stupni
 vývoje se musí jedinec vyřešit základní psychologický rozpor. Po jeho
 vyřešení získává ctnost a pokračuje v rozvoji osobnosti.\
@@ -2033,7 +2033,7 @@ nebo něco.\
 (vyrovnanosti) která se projeví přijetím vlastního života je v konfliktu
 s pocitem zoufalství a strachu ze smrti. Ctností je moudrost.
 
- Vývoj osobnosti dle Sigmunda Freuda – teorie je postavena na tom,
+ Vývoj osobnosti dle Sigmunda Freuda – teorie je postavena na tom,
 jakým způsobem člověk dosahuje slasti (neboli na něčem, co Freud
 pojmenoval Libido).\
 1. Orální stádium – slasti dosahuje dítě pomocí úst (příjem potravy).
@@ -2049,25 +2049,25 @@ komplex).\
 pudů.\
 5. Genitální stadium – (12 let a výše), období, kdy je člověk schopen
 pohlavního styku.\
- NĚKTERÉ DALŠÍ KONCEPCE OSOBNOSTI\
- Kurt Lewin – berlínská škola celostí psychologie – DYNAMICKÁ nebo také
+ NĚKTERÉ DALŠÍ KONCEPCE OSOBNOSTI\
+ Kurt Lewin – berlínská škola celostí psychologie – DYNAMICKÁ nebo také
 topologická Ψ – nesoustředění na kognitivní procesy, ale na motivaci a
 vůli
 
- Eric Berne – TRANSAKČNÍ ANALÝZA – pozornost na zkoumání transakcí tj.
+ Eric Berne – TRANSAKČNÍ ANALÝZA – pozornost na zkoumání transakcí tj.
 složek vzájemné komunikace, a to nejen mezi osobami, ale také uvnitř
 osobnosti jedince
 
- U. Neiser, G. Kelly – KOGNITIVISMUS – poznávací procesy a aspekty
+ U. Neiser, G. Kelly – KOGNITIVISMUS – poznávací procesy a aspekty
 osobnosti se neomezují na vědecké poznání, ale lidé jich využívají ve
 svém každodenním životě, v řešení problémů, rozhodování a jednání
 
- Transpersonální psychologie: východiskem jsou zážitky osob ve stavu
+ Transpersonální psychologie: východiskem jsou zážitky osob ve stavu
 změněného vědomí, pod vlivem drog, kterých se užívalo při léčení
 některých psychiatrických onemocnění, fantazie psychotiků, zážitky při
 meditaci
 
- Logoterapie a existencionální analýza – třetí vídeňský psychologický a
+ Logoterapie a existencionální analýza – třetí vídeňský psychologický a
 psychoterapeutický směr (V. E. Frankl) „vůli ke smyslu“, v LT a EA jde o
 to, pomoci člověku najít životní smysl (logos) přitom si tento smysl má
 jedinec možnost nalézt aktivně, nemůže mu být dán. Zdůrazněna svoboda
@@ -2079,66 +2079,66 @@ osoby a možnost volky, zaujetí, postoje.
 
 **17. Struktura osobnosti**\
 Osobnost\
- je soubor vlastností, které charakterizují individualitu konkrétního
+ je soubor vlastností, které charakterizují individualitu konkrétního
 člověka\
- člověk se všemi jeho psychickými, biologickými a sociálními znaky
+ člověk se všemi jeho psychickými, biologickými a sociálními znaky
 (proto také říkáme, že člověk je bio-psycho-sociální jednotka –
 jednotlivé složky se od sebe nedají oddělit)
 
- je utvářena (formována) ve vztazích mezi lidmi, prostředím a
+ je utvářena (formována) ve vztazích mezi lidmi, prostředím a
 společností\
- osobnost se vždy projevuje jako celek
+ osobnost se vždy projevuje jako celek
 
- Psychická struktura osobnosti\
- tvořena psychickými vlastnostmi a rysy osobnosti, které ovlivňují
+ Psychická struktura osobnosti\
+ tvořena psychickými vlastnostmi a rysy osobnosti, které ovlivňují
 lidské reakce\
- psychické vlastnosti osobnosti jsou relativně trvalé vlastnosti
+ psychické vlastnosti osobnosti jsou relativně trvalé vlastnosti
 osobnosti, kterými se vyznačuje\
- ovlivňují prožívání a myšlení, na jejich základě můžeme předpovídat,
+ ovlivňují prožívání a myšlení, na jejich základě můžeme předpovídat,
 jak se se člověk zachová či jak bude jednat\
- Rysy osobnosti jsou psychické vlastnosti člověka, projevují se
+ Rysy osobnosti jsou psychické vlastnosti člověka, projevují se
 chováním a jednáním, jsou příznačné pro určitého jedince těmito
 vlastnostmi se odlišuje od ostatních.\
- Typ osobnosti:\
- vyjadřuje vlastnosti a rysy osobnosti\
- velká pětka – 2. pol. 20. století, využívá ji řada psychologů pro
+ Typ osobnosti:\
+ vyjadřuje vlastnosti a rysy osobnosti\
+ velká pětka – 2. pol. 20. století, využívá ji řada psychologů pro
 určení struktury osobnosti, obsahuje pět základních faktorů:\
- Extroverze – mezilidská interakce, začlenění do společenských vztahů\
- Přívětivost – kvalita mezilidských vztahů od soucítění k nenávisti\
- Svědomitost – chování jedince vedoucí k určitému cíli\
- Emocionální stabilita – stálost citů\
- Intelekt, kultura a otevřenost – přístupnost k vzdělání a získávání
+ Extroverze – mezilidská interakce, začlenění do společenských vztahů\
+ Přívětivost – kvalita mezilidských vztahů od soucítění k nenávisti\
+ Svědomitost – chování jedince vedoucí k určitému cíli\
+ Emocionální stabilita – stálost citů\
+ Intelekt, kultura a otevřenost – přístupnost k vzdělání a získávání
 zkušeností\
- Struktura osobnosti – souhrn psychických vlastností:\
- Charakter – „JAKÝ JSEM“\
- Temperament – „JAK REAGUJI“\
- Inteligence – „CO ZVLÁDNU“\
- Motivační a volní vlastnosti – „CO CHCI“\
- Tělesná konstituce\
- Typologie osobnosti:\
- (Hippokrates):\
- sangvinik (krev) – rychlé změny zaměření; je přizpůsobivý, emočně
+ Struktura osobnosti – souhrn psychických vlastností:\
+ Charakter – „JAKÝ JSEM“\
+ Temperament – „JAK REAGUJI“\
+ Inteligence – „CO ZVLÁDNU“\
+ Motivační a volní vlastnosti – „CO CHCI“\
+ Tělesná konstituce\
+ Typologie osobnosti:\
+ (Hippokrates):\
+ sangvinik (krev) – rychlé změny zaměření; je přizpůsobivý, emočně
 vyrovnaný, ale poněkud nestálý a lehkovážný, vesele laděný,
 optimistický, jeho prožitky jsou spíše mělké a stejně tak i jeho city –
 emočně stabilní extrovert\
- flegmatik (sliz; hlen) – je emočně celkem vyrovnaný, navenek se jeví
+ flegmatik (sliz; hlen) – je emočně celkem vyrovnaný, navenek se jeví
 jako lhostejný, vzrušují ho jen velmi silné podněty, vykazuje stálost a
 vcelku spokojenost, klid či apatii; hlubší vztahy má jen k vybraným
 osobám; je spíše pasivní a bez velkých životních ambicí a požadavků,
 nemá rád změny a pohybově je spíše úsporný – emočně stabilní introvert\
- melancholik (černá žluč) – vyznačuje se spíše smutným laděním,
+ melancholik (černá žluč) – vyznačuje se spíše smutným laděním,
 pesimismem a strachem z budoucnosti; život je pro něj často obtížný,
 usiluje o klid a nesnáší vypjaté situace, vzruchy, hlučnost, jeho city
 jsou trvalé, ale jejich intenzita se neprojevuje navenek, žije spíše
 vnitřně; obtížně navazuje kontakty, vztahy, které naváže, jsou trvalé a
 hluboké – emočně labilní introvert\
- cholerik (žluč) – je silně vzrušivý, má sklon k výbuchům hněvu a k
+ cholerik (žluč) – je silně vzrušivý, má sklon k výbuchům hněvu a k
 agresi, těžko se ovládá a reaguje často impulzivně, nerozvážně, má sklon
 „prorážet hlavou zeď“, je netrpělivý, panovačný, vyžaduje často od
 jiných ústupky, je egocentrický, soužití s ním je obtížné; emočně je
 labilní, city jsou u něho vyvolány snadno, navenek reaguje rychle,
 silně, často bez zábran – emočně labilní extrovert\
- E. Kretschmer – tři základní typy podle stavby těla:\
+ E. Kretschmer – tři základní typy podle stavby těla:\
 1. Pyknik – má postavu se zvětšeným objemem hrudníku a břicha, (sklon k
 obezitě) – bývají družní, veselí, s občasným přechodem k depresím\
 2. Leptosom – má štíhlou postavu, většinou uzavření, můžou být
@@ -2150,26 +2150,26 @@ netečností, která se občas střídá s výbušnosti\
 E. Kretschmer uznával, že mnoho lidí nepatří čistě k jednomu typu,
 některým somatickým znakem patří k jednomu, jiným znakem k druhému typu.
 Také se nemusí shodovat somatotyp s typem temperamentu.\
- C.G. Jung začátkem 20.stol.\
- extrovert – orientuje se na vnější svět a styk s druhými lidmi\
- introvert – je soustředěn na vnitřní prožívání\
- Etapy vývoje osobnosti:
+ C.G. Jung začátkem 20.stol.\
+ extrovert – orientuje se na vnější svět a styk s druhými lidmi\
+ introvert – je soustředěn na vnitřní prožívání\
+ Etapy vývoje osobnosti:
 
 1\. Na základě biologie se rozlišuje:\
- prenatální období\
- rané dětství (novorozenec, kojenec, batole)\
- předškolní věk\
- mladší školní věk\
- střední a starší školní věk (puberta, adolescence)\
- dospělost\
- stáří
+ prenatální období\
+ rané dětství (novorozenec, kojenec, batole)\
+ předškolní věk\
+ mladší školní věk\
+ střední a starší školní věk (puberta, adolescence)\
+ dospělost\
+ stáří
 
 2\. Podle psychologie se rozlišuje:\
- kognitivní teorie Jeana Piageta – rozvinuté abstraktní myšlení
+ kognitivní teorie Jeana Piageta – rozvinuté abstraktní myšlení
 dospělého je výsledkem složitého vývoje, který začíná v raném dětství a
 vyvíjí se z konkrétního myšlení
 
- teorie Erika Eriksona – vývoj je vázán na biologické, společenské,
+ teorie Erika Eriksona – vývoj je vázán na biologické, společenské,
 kulturní a historické faktory ovlivňující vývoj dítěte Na každém stupni
 vývoje se musí jedinec vyřešit základní psychologický rozpor. Po jeho
 vyřešení získává ctnost a pokračuje v rozvoji osobnosti.\
@@ -2193,7 +2193,7 @@ nebo něco.\
 (vyrovnanosti) která se projeví přijetím vlastního života je v konfliktu
 s pocitem zoufalství a strachu ze smrti. Ctností je moudrost.
 
- Vývoj osobnosti dle Sigmunda Freuda – teorie je postavena na tom,
+ Vývoj osobnosti dle Sigmunda Freuda – teorie je postavena na tom,
 jakým způsobem člověk dosahuje slasti (neboli na něčem, co Freud
 pojmenoval Libido).\
 1. Orální stádium – slasti dosahuje dítě pomocí úst (příjem potravy).
@@ -2217,13 +2217,13 @@ pohlavního styku.
 **18. Rysy osobnosti, temperament a charakter**\
 Osobnost zahrnuje množství povahových vlastností – rys osobnosti.\
 Rys osobnosti\
- psychická vlastnost, která se projevuje určitým způsobem jednání,
+ psychická vlastnost, která se projevuje určitým způsobem jednání,
 chování a prožívání\
- na rozdíl od schopnosti nevyjadřuje, jak dobře člověk dokáže něco
+ na rozdíl od schopnosti nevyjadřuje, jak dobře člověk dokáže něco
 dělat;\
 na rozdíl od motivace nevyjadřuje, proč to dělá
 
- rys vyjadřuje, jakým způsobem to dělá – zda vytrvale nebo bez
+ rys vyjadřuje, jakým způsobem to dělá – zda vytrvale nebo bez
 vytrvalosti; zda klidně nebo se vzrušením; zda se podřizuje druhým, nebo
 naopak přejímá vedoucí roli, …\
 • rys je příznačný pro určitého jedince, odlišuje ho od ostatních ,v
@@ -2231,16 +2231,16 @@ průběhu života je relativně stálý\
 • některé rysy jsou vrozené, jiné získané (učením, výchovou, prostředím)
 
 • druhy rysů:\
- Eysenckova dvojice rysů:\
- extroverze – introverze\
- stabilita – labilita\
- Learyho dvojice rysů:\
- dominance – submise\
- hostilita – afiliance\
+ Eysenckova dvojice rysů:\
+ extroverze – introverze\
+ stabilita – labilita\
+ Learyho dvojice rysů:\
+ dominance – submise\
+ hostilita – afiliance\
 Tradiční názor předpokládá, že určitý člověk má, nebo nemá určitou
 psychickou vlastnost, popř. že má jednu ze dvou protikladných
 vlastností. Buď je vytrvalý – nevytrvalý, dominantní – submisivní, …\
- Rysy osobnosti v modelu „velké pětky“ (Big Five):\
+ Rysy osobnosti v modelu „velké pětky“ (Big Five):\
 1. Extroverze – hovorný, temperamentní, společenský, sdílný (protikladem
 je introverze, málomluvný, tichý, samotářský, plachý)\
 2. Přívětivost – dobrosrdečný, přívětivý, snášenlivý, charakterní (opak
@@ -2251,25 +2251,25 @@ nesvědomitost, lenivost)\
 neklid)\
 5. Intelekt, kultura, otevřenost ke zkušenosti – inteligentní, chytrý,
 bystrý (opak neučenlivý, neinteligentní, omezený)\
- V rysu sobnosti lze rozlišit 3 druhy komponent:\
+ V rysu sobnosti lze rozlišit 3 druhy komponent:\
 1) kognitivní (poznávací)\
 2) motivační-emoční\
 3) návyky a dovednosti
 
- Pro orientaci ve vysoce složitém systému jako je osobnost, je účelné
+ Pro orientaci ve vysoce složitém systému jako je osobnost, je účelné
 seskupovat rysy osobnosti podle vzájemné příbuznosti. K tomuto účelu se
 užívé termínů temperament a charakter:
 
- Temperament – část osobnosti, která je určována převážně biologicky a
+ Temperament – část osobnosti, která je určována převážně biologicky a
 projevuje se citovými (emočními) reakcemi.\
 Od Hippokrata a Galena se traduje učení o čtyřech typech temperamentu:\
- sangvinik – společenský, činorodý, veselý, bezstarostný, živě
+ sangvinik – společenský, činorodý, veselý, bezstarostný, živě
 reagující, čilý, hovorný a optimista, emočně nestálý\
- cholerik – nedůtklivý, neklidný, útočný, vznětlivý, impulzivní,
+ cholerik – nedůtklivý, neklidný, útočný, vznětlivý, impulzivní,
 spolehlivý a stálý ve svých názorech a životních hodnotách\
- flegmatik – obezřetný, rozvážný, spolehlivý, smířlivý, mírumilovný,
+ flegmatik – obezřetný, rozvážný, spolehlivý, smířlivý, mírumilovný,
 vyrovnaný, klidný, lhostejný, umí se ovládat\
- melancholik – tichý, přecitlivělý, nespolečenský, vážný, rezervovaný,
+ melancholik – tichý, přecitlivělý, nespolečenský, vážný, rezervovaný,
 pesimistický, rigidní (špatně se přizpůsobuje), úzkostlivý a plachý
 
 V současné době se užívá termín temperament k označení souboru
@@ -2277,7 +2277,7 @@ psychických vlastností, které se projevují způsobem reagování, chování 
 prožívání, zejm. tím, jak snadno vznikají emoce, jak jsou silné, jak
 živě se projevují navenek a jak se rychle vstřebávají.
 
- Charakter – druhá část osobnosti, převážně sociální a má společenský,
+ Charakter – druhá část osobnosti, převážně sociální a má společenský,
 zejm. morální význam.\
 Morální charakter – subsystém osobnosti, který kontroluje a reaguje
 jedincovo chování podle společenských, zejména morálních norem a
@@ -2291,10 +2291,10 @@ Svědomí přináší uspokojení, pokud člověk jednal ve shodě s morálními
 zásadami a naopak mu působí výčitky, když tyto zásady porušil.
 
 Volní vlastnosti (rysy osobnosti) související s charakterem:\
- svědomitost a vytrvalost – souvisí se svědomím\
- sebeovládání – kontrola a regulace emocí, zejm. afektů
+ svědomitost a vytrvalost – souvisí se svědomím\
+ sebeovládání – kontrola a regulace emocí, zejm. afektů
 
- Poznávání a respektování rozdílů mezi lidmi má zásadní význam pro
+ Poznávání a respektování rozdílů mezi lidmi má zásadní význam pro
 vývoj dítěte i pro společnost a morálku.
 
 Typ – skupina osob s určitou společnou psychickou vlastností, ve které
@@ -2308,7 +2308,7 @@ dvěma typy, mezi jejichž vyhraněnými formami existují přechodné formy.
 Souvisí s biologickými a sociálními rozdíly. Výrazný rozdíl mezi
 pohlavími je vyjádřen např. již v reakcích na zátěž.
 
- Poznatky o struktuře osobnosti a o rozdílech v psychických
+ Poznatky o struktuře osobnosti a o rozdílech v psychických
 vlastnostech jsou pro učitele nástrojem lepšího poznání žáků. Zároveň
 jsou předpokladem k pochopení poznatků o vývoji a formování osobnosti.
 
@@ -2320,89 +2320,89 @@ jsou předpokladem k pochopení poznatků o vývoji a formování osobnosti.
 Komunikace = společně něco sdílet\
 Cíl: předání informace, dorozumění se jako předpoklad soužití, vzájemné
 interakce\
- Sociální komunikace\
- Jakákoliv interakce a kontakt mezi lidmi\
- Základní forma sociální interakce, při níž si lidé sdělují informace,
+ Sociální komunikace\
+ Jakákoliv interakce a kontakt mezi lidmi\
+ Základní forma sociální interakce, při níž si lidé sdělují informace,
 nálady, pocity, ale\
 i vztahy k partnerovi a spoustu jiného\
- Je důležité vědět, jaké jsou prvky procesu komunikace\
- Skládá se z osoby, jež sděluje = komunikátor a osoby přijímající
+ Je důležité vědět, jaké jsou prvky procesu komunikace\
+ Skládá se z osoby, jež sděluje = komunikátor a osoby přijímající
 informace = komunikant a zprávu = komuniké, kterou přijal a také
 komunikační kanál (jak je komuniké předáváno), který je předpokladem
 komunikace\
- Je třeba sledovat spoustu aspektů, aby informace v komunikačním
+ Je třeba sledovat spoustu aspektů, aby informace v komunikačním
 systému fungovala bezporuchově (forma předávání, prostředí, ….)
 
- Směry komunikace:\
+ Směry komunikace:\
 a) Jednosměrná – bez zpětné vazby\
 b) Dvousměrná – pomalejší, ale přesnější komunikátor si ověřuje výsledek
 
- Faktory ovlivňující komuniké:\
- Inteligence zúčastněných\
- Tělesný stav, únava, vyčerpání, intoxikace, smyslové nedostatky\
- Předchozí zkušenosti účastníků komunikace\
- Očekávání a obavy\
- Temperament zúčastněných\
- Psychologický stav\
- Specifičnost psychologického vztah\
- Atmosféra
+ Faktory ovlivňující komuniké:\
+ Inteligence zúčastněných\
+ Tělesný stav, únava, vyčerpání, intoxikace, smyslové nedostatky\
+ Předchozí zkušenosti účastníků komunikace\
+ Očekávání a obavy\
+ Temperament zúčastněných\
+ Psychologický stav\
+ Specifičnost psychologického vztah\
+ Atmosféra
 
- Druhy komunikace:\
+ Druhy komunikace:\
 a) Verbální – mluvená a psaná\
 b) Neverbální – řeč těla
 
 Verbální komunikace\
- Slovem, jazykem vyjádřené sdělení\
- Slovní formulace myšlenek, citů, argumentace, dotazování\
- Měla by být konkrétní, jasná, srozumitelná
+ Slovem, jazykem vyjádřené sdělení\
+ Slovní formulace myšlenek, citů, argumentace, dotazování\
+ Měla by být konkrétní, jasná, srozumitelná
 
- Efektivní komunikace\
- Schopnost vyjádřit přesně a pohotově slovem své myšlenky\
- Nácvikem se lze naučit mnoho efektivních komunikačních dovedností\
- Pozor na „ komunikační šum“ … (např. u tiché pošty špatně předaná
+ Efektivní komunikace\
+ Schopnost vyjádřit přesně a pohotově slovem své myšlenky\
+ Nácvikem se lze naučit mnoho efektivních komunikačních dovedností\
+ Pozor na „ komunikační šum“ … (např. u tiché pošty špatně předaná
 zpráva)\
- Hovořit klidně, jasně, srozumitelně, konkrétně
+ Hovořit klidně, jasně, srozumitelně, konkrétně
 
- Aktivní naslouchání\
- Nejen bedlivé naslouchání druhému, ale umět svoji pozornost dát najevo
+ Aktivní naslouchání\
+ Nejen bedlivé naslouchání druhému, ale umět svoji pozornost dát najevo
 (přikyvování, takové to: ahaaa, joo, …)
 
 Neverbální komunikace\
- Většinou paralelně s verbální komunikací\
- Často objasňuje nebo doplňuje význam verbálního sdělení\
- Mimika – výraz obličeje\
- Pohledy\
- Proxemika – vzdálenost mezi osobami (čím dál je učitel od žáků, tím je
+ Většinou paralelně s verbální komunikací\
+ Často objasňuje nebo doplňuje význam verbálního sdělení\
+ Mimika – výraz obličeje\
+ Pohledy\
+ Proxemika – vzdálenost mezi osobami (čím dál je učitel od žáků, tím je
 menší verbální komunikace)\
- Posturologie – postoje, držení rukou, nohou\
- Kinetika – pohyby těla, chůze\
- Gestika – komunikování gesty\
- Haptika – dotyky (podání ruky, …)\
- Celkový vzhled – upravenost, oblečení, účes, ….\
- Prostředí komunikace\
- Paralingvistika – to co doprovází slovní projev (hlasitost, výška a
+ Posturologie – postoje, držení rukou, nohou\
+ Kinetika – pohyby těla, chůze\
+ Gestika – komunikování gesty\
+ Haptika – dotyky (podání ruky, …)\
+ Celkový vzhled – upravenost, oblečení, účes, ….\
+ Prostředí komunikace\
+ Paralingvistika – to co doprovází slovní projev (hlasitost, výška a
 zabarvení hlasu, rychlost, dikce, intonace a přestávky v řeči)\
 Extrovert – komunikuje více než introvert\
 Žák – raději na otázky odpovídá, než je sám dává
 
 Pedagogická komunikace\
- Významná složka pedagogického působení\
- Typ sociální komunikace\
- Informace si zde vyměňují a vzájemně na sebe působí žák – učitel –
+ Významná složka pedagogického působení\
+ Typ sociální komunikace\
+ Informace si zde vyměňují a vzájemně na sebe působí žák – učitel –
 třída\
- Více v otázce 11.
+ Více v otázce 11.
 
 Sociální učení\
- soubor forem učení, ve kterých si jedinec osvojuje ve styku s druhými
+ soubor forem učení, ve kterých si jedinec osvojuje ve styku s druhými
 lidmi předpoklady pro život ve společnosti\
- proces, kterým člověk získává a uplatňuje zkušenosti v nových
+ proces, kterým člověk získává a uplatňuje zkušenosti v nových
 sociálních podmínkách\
- učí se společné činnosti, sociální interakci, komunikaci\
- přejímá sociální role\
- zařazuje se do sociálních vztahů a skupin\
- osvojuje si názory, postoje a normy své skupiny, společnosti
+ učí se společné činnosti, sociální interakci, komunikaci\
+ přejímá sociální role\
+ zařazuje se do sociálních vztahů a skupin\
+ osvojuje si názory, postoje a normy své skupiny, společnosti
 
- Základní formy sociálního učení:\
+ Základní formy sociálního učení:\
 a) přímé sociální posilování tj. využívání odměny a trestu, odměnou
 posilované chování má tendenci se fixovat\
 b) napodobování – jedinec nápodobuje chování\
@@ -2416,22 +2416,22 @@ Jedinec si osvojuje a upevňuje takové formy chování, které chápe jako
 odpovídající principu, ideologii, kterou přijal a jejíž prosazování
 prožívá jako silně uspokojující.\
 Sebeřízení\
- Demokratická společnost vyžaduje rozvinutého, vzdělaného a tvořivého
+ Demokratická společnost vyžaduje rozvinutého, vzdělaného a tvořivého
 člověka, který má rovněž schopnosti a dovednosti adekvátního sebeřízení,
 sebevýchovy a sebevzdělání.\
- Rozvoj osobnosti, její zdokonalování je podmíněno vztahem jedince a
+ Rozvoj osobnosti, její zdokonalování je podmíněno vztahem jedince a
 společnosti.\
- Pedagogika a psychologie nechápe člověka jako pouhý pasivní objekt
+ Pedagogika a psychologie nechápe člověka jako pouhý pasivní objekt
 působení jeho vnějšího prostředí, ale současně jako subjekt, který toto
 prostředí může aktivně přetvářet, který bude stále více aktivním
 tvořivým činitelem společenského pokroku.\
- Cílem veškeré edukace (výchovy a vyučování) je dosáhnout u edukovaného
+ Cílem veškeré edukace (výchovy a vyučování) je dosáhnout u edukovaného
 jedince dovednost adekvátní sebevýchovy a sebeřízení.\
- Sebevýchovu definujeme jako cílevědomý, plánovitý a systematický
+ Sebevýchovu definujeme jako cílevědomý, plánovitý a systematický
 proces formování vlastní osobnosti člověka.\
- Adekvátní formy sebevýchovy a sebeřízení je však nutno opírat o
+ Adekvátní formy sebevýchovy a sebeřízení je však nutno opírat o
 sebepoznání vlastní osobnosti.\
- Kvalitní sebepoznání, sebehodnocení, sebeprojektování, schopnost
+ Kvalitní sebepoznání, sebehodnocení, sebeprojektování, schopnost
 soustavné a záměrné sebevýchovy a sebevzdělávání je třeba považovat za
 důležité předpoklady úspěšnosti budoucího odborníka, pedagoga, a to z
 hlediska rozvoje jeho osobnosti, tak i z hlediska vytvoření předpokladů
@@ -2444,18 +2444,18 @@ pro poznávání, výchovu a vzdělávání jiných.
 **20. Průběh vývoje osobnosti s důrazem na období puberty a
 adolescence**\
 Vývoj = jediný celistvý, celoživotní běh\
- vývoj osobnosti je individualizovaný – neprobíhá podle jediného
+ vývoj osobnosti je individualizovaný – neprobíhá podle jediného
 schématu, ale je to soubor různých životních drah, to je vyjádřeno v
 koncepci celoživotního běhu = biodromální psychologie (z řečtiny bios –
 život, dromos – běh, průběh)\
 V průběhu života člověk prochází několika odlišnými obdobími – podle
 nápadných znaků a bio-psycho-sociálních změn se rozlišují:\
 1) PRENATÁLNÍ OBDOBÍ\
- období před narozením, končí narozením do života\
- formuje se sociální vztah matky k dítěti, v příznivé situaci i vztah
+ období před narozením, končí narozením do života\
+ formuje se sociální vztah matky k dítěti, v příznivé situaci i vztah
 otce k dítěti\
- plod je i aktivním účastníkem komunikace s matkou\
- perinatální obrobí (porod a období kolem porodu) – zvýšená
+ plod je i aktivním účastníkem komunikace s matkou\
+ perinatální obrobí (porod a období kolem porodu) – zvýšená
 zranitelnost dítěte, zejm. CNS a jeho budoucího vývoje → důležitý
 přirozený a něžný porod, hned po porodu přiložení dítěte na břicho nebo
 k prsu matky – umožnit co nejtěsnější kontakt matky a dítěte (formování
@@ -2481,7 +2481,7 @@ poznávání a myšlení, řeč, emoce, komunikace, …)\
 se napodobovat (broukání, žvatlání, první slabiky, skládání slabik, …)
 
 c\) batole (1-3 roky)\
- mladší batolecí období (1-2 roky)\
+ mladší batolecí období (1-2 roky)\
 → ve vztahu s matkou se dítě učí sociální komunikaci a vztahům k lidem\
 → osamostatňování dítěte (od matky) – kolem dítěte jsou i jiné osoby …\
 → jsou rozdíly mezi dětmi – „mazlivé“ x „nemazlivé“, …\
@@ -2493,7 +2493,7 @@ zvuku)\
 → dítě si začíná uvědomovat své vlastní tělo, své vlastní aktivity,
 působení na prostředí\
 → převažuje potřeba jistoty a bezpečí\
- starší batolecí období (2-3 roky)\
+ starší batolecí období (2-3 roky)\
 → dítě se stává méně závislým na druhých a získává určitou samostatnost,
 autonomii, ale také přibývá konfliktů s dospělými (brání dětem v pohybu
 např. k nebezpečným předmětům, do vozovky, …)\
@@ -2503,29 +2503,29 @@ např. k nebezpečným předmětům, do vozovky, …)\
 slovní zásobu, začíná klást otázky „Co to je?“, „Proč…?“\
 → v tomto období je charakteristická 1. fáze vzdoru – negativismus
 (odmítá výzvy a zákazy, „z principu“ říká pravý opak, …)\
- u dětí vyrůstajících bez matky v dětských domovech bývá zpoždění v
+ u dětí vyrůstajících bez matky v dětských domovech bývá zpoždění v
 intelektovém vývoji, nedostatky v emočních vztazích, v sociální
 adaptaci, popř. v charakteru = psychická deprivace v dětství\
- psychická subdeprivace = narušený vývoj dítěte, které sice vyrůstá v
+ psychická subdeprivace = narušený vývoj dítěte, které sice vyrůstá v
 rodině, ale se zhoršenými podmínkami, zejm. v emočním vztahu rodičů k
 dítěti
 
 3\) PŘEDŠKOLNÍ VĚK – 3-6 let\
- zřetelný pokrok v psychomotorickém vývoji – dokonalejší pohyby (v
+ zřetelný pokrok v psychomotorickém vývoji – dokonalejší pohyby (v
 manipulaci s míčem, pískem, při kreslení, …), rozšiřuje se slovní
 zásoba\
- zájem o naslouchání příběhům, pohádkám\
- kognitivní (poznávací) schopnosti – názorné myšlení, dítě je v
+ zájem o naslouchání příběhům, pohádkám\
+ kognitivní (poznávací) schopnosti – názorné myšlení, dítě je v
 souvislosti zejm. se zrakovým vnímáním schopno usuzovat a vyvozovat
 závěry, … → předoperační myšlení (řídí se názorným poznání, ne logickými
 operacemi)\
- rýsují se rozdíly v mužských a ženských rolích – v hračkách, oblékání
+ rýsují se rozdíly v mužských a ženských rolích – v hračkách, oblékání
 i v chování\
- sociálním učením, poznáváním a myšlením si osvojuje normy chování
+ sociálním učením, poznáváním a myšlením si osvojuje normy chování
 (napodobuje chování dospělých, …), formuje se svědomí\
- dítě je iniciativní – aktivně se rozvíjí v různých aspektech, hrách, v
+ dítě je iniciativní – aktivně se rozvíjí v různých aspektech, hrách, v
 komunikaci s dospělými i vrstevníky, v pohybech, řeči a myšlení, …\
- tento věk je velmi důležitý pro vývoj osobnosti – formuje se charakter
+ tento věk je velmi důležitý pro vývoj osobnosti – formuje se charakter
 → věnovat velkou péči výchově a učení\
 • Mateřská škola:\
 získávání zkušeností v sociálních vztazích a komunikaci s vrstevníky\
@@ -2535,23 +2535,23 @@ dítě se učí soustředění ve skupině dětí = příprava pro školu a prev
 adaptačních problémů při vstupu do školy\
 dobře fungující MŠ podporuje spontánnost dítěte\
 4) MLADŠÍ ŠKOLNÍ VĚK – na 1. stupni ZŠ (od 6 do 11-12 let)\
- důležitý životní mezník je vstup dítěte do školy → změna ve způsobu
+ důležitý životní mezník je vstup dítěte do školy → změna ve způsobu
 života a sociálních vztazích,\
 nutnost pravidelné docházky do školy, přípravy na další školní den,
 domácí úkoly – „školní povinnosti“, …\
 zároveň se dítě přiblížilo cíli „být velký“ – dítě získalo nový status
 školáka\
- škola přináší nové učení a činnosti a klade na dítě postupně se
+ škola přináší nové učení a činnosti a klade na dítě postupně se
 zvyšující se nároky, požadavky\
- obtíže vznikají při nedostatečné školní zralosti, nedostatečné
+ obtíže vznikají při nedostatečné školní zralosti, nedostatečné
 připravenosti dítěte pro školu, při jeho nižší inteligenci i při jeho
 dílčích nedostatcích (specifické poruchy učení – dyslexie, dysgrafie,
 dyskalkulie, …)\
- vznikají nové vztahy – k učiteli a ke spolužákům (kamarádské a přátelé
+ vznikají nové vztahy – k učiteli a ke spolužákům (kamarádské a přátelé
 vztahy X vztahy nepřátelské, soupeření, agresivita)\
- dítě se učí různé formy sociální interakce a komunikace s různými
+ dítě se učí různé formy sociální interakce a komunikace s různými
 lidmi\
- průběh a výsledky školních činností hodnotí: učitel, rodiče, spolužáci
+ průběh a výsledky školních činností hodnotí: učitel, rodiče, spolužáci
 i samotné dítě (sebepojetí, sebehodnocení) → fáze píle a snaživosti –
 dítě plní roli, kterou od něj očekávají jeho blízcí i celá společnost →
 pochvala, uznání → překonává se pocit méněcennosti, zvyšuje se jeho
@@ -2561,28 +2561,28 @@ rezignuje → pocit méněcennosti se mění na komplex méněcennosti → úzko
 narušuje se vývoj zájmů, demotivace, špatné vyrovnávání se s náročnými
 životními situacemi → dítě se na sebe snaží upozornit šaškováním,
 uličnictvím, …\
- v tomto období je přechod od her k náročnějším zájmovým činnostem
+ v tomto období je přechod od her k náročnějším zájmovým činnostem
 (sportovní, kulturní, …), drobné práce v rodině\
- myšlení je rozvinutější – konkrétní operace (logika – děti třídí,
+ myšlení je rozvinutější – konkrétní operace (logika – děti třídí,
 řadí, řeší problémy, …) – realismus (zájem o objektivní skutečnost)\
- morální vývoj – přechod mezi dětstvím a dospělostí – konvenční morálka
+ morální vývoj – přechod mezi dětstvím a dospělostí – konvenční morálka
 (dítě se chová dle pokynů, příkazů a zákazů a očekává pochvalu, která mu
 přináší uspokojení), někdy se již řídí svým svědomím\
- do života dětí významně vstupuje TV, film, reklama, časopisy, … a
+ do života dětí významně vstupuje TV, film, reklama, časopisy, … a
 ovlivňují jej…\
 5) STŘEDNÍ A STARŠÍ ŠKOLNÍ VĚK, MLÁDÍ – prepuberta, puberta, adolescence
 (od 11-12 do 20 let)
 
- Puberta\
- období pohlavního dospívání a nového začleňování osobnosti do
+ Puberta\
+ období pohlavního dospívání a nového začleňování osobnosti do
 společnosti\
- období změn ve vývoji osobnosti a problémů v rodinné i školní výchově\
- ohraničuje se somatickými (tělesnými) změnami:\
- u dívek začíná prvními měsíčky (menarche)\
- u chlapců začíná první noční polucí\
- končí dosažením reprodukční schopnosti = trvá zhruba od 13 do 15-16
+ období změn ve vývoji osobnosti a problémů v rodinné i školní výchově\
+ ohraničuje se somatickými (tělesnými) změnami:\
+ u dívek začíná prvními měsíčky (menarche)\
+ u chlapců začíná první noční polucí\
+ končí dosažením reprodukční schopnosti = trvá zhruba od 13 do 15-16
 let, je to individuální\
- období před pubertou (přechod od dětství k dospívání) = prepuberta\
+ období před pubertou (přechod od dětství k dospívání) = prepuberta\
 → začíná prvními náznaky pohlavního dospívání (sekundární pohlavní znaky
 a výrazný růst do výšky)\
 → trvá přibližně od 11 do 13-14 let\
@@ -2595,73 +2595,73 @@ získává radostné emoční zkušenosti při hře s nimi\
 → projevuje se motivace ke komunikaci se zvířaty – někdy tím kompenzuje
 nedostatky v emočních vztazích mezi lidmi; styk se zvířaty pomáhá
 rozvíjet komunikaci a vcítění se do druhého, empatii a péči\
- v pubertě nastávají výrazné změny:\
+ v pubertě nastávají výrazné změny:\
 a) biologické změny:\
- růst do výšky, změna proporcí těla, přiblížení se tvarům těla
+ růst do výšky, změna proporcí těla, přiblížení se tvarům těla
 dospělých\
- sekundární pohlavní znaky a funkce pohlavních orgánů\
+ sekundární pohlavní znaky a funkce pohlavních orgánů\
 b) psychické změny:\
- zvýšená nervová labilita, náladovost, podrážděnost, snadno se unaví,
+ zvýšená nervová labilita, náladovost, podrážděnost, snadno se unaví,
 …\
- vyvíjí se intelekt – formální operace a abstraktní myšlení (značná
+ vyvíjí se intelekt – formální operace a abstraktní myšlení (značná
 část mladistvých tyto možnosti ale nevyužívá díky nedostatečné motivaci
 a množství emočních a sociálních problémů)\
 c) sociální:\
- navazování vztahů\
- komunikace\
- začleňování se do společnosti, …\
+ navazování vztahů\
+ komunikace\
+ začleňování se do společnosti, …\
 na tyto změny reaguje okolí pubescenta – tím více si dospívající změny
 uvědomují a pokouší se s nimi vyrovnat = zátěž pro dospívajícího
 
- pubescenti porovnávají svůj vzhled s ideálem – obraz vlastního těla a
+ pubescenti porovnávají svůj vzhled s ideálem – obraz vlastního těla a
 zevnějšku je součást sebepojetí a sebehodnocení;\
 hledají odpověď na otázky „Kdo jsem vlastně já, o co mi v životě jde?“,
 „Jak se na mně dívají druzí?“, …
 
- někteří psychologové označují pubertu jako 2. fázi vzdoru (1. fáze je
+ někteří psychologové označují pubertu jako 2. fázi vzdoru (1. fáze je
 v batolecím období ve 2-3 letech)\
 → někteří „ze zásady“ odmítají názory, postoje, příkazy a zákazy rodičů
 → zátěžová situace pro rodiče i pro mladistvé\
 → potřebuje se osvobodit od závislosti na rodině
 
- pubescent se identifikuje s vrstevníky (pokračuje z prepuberty),
+ pubescent se identifikuje s vrstevníky (pokračuje z prepuberty),
 přejímá jejich názory, normy, způsoby vyjadřování, gestikulaci, styl
 hudby, …\
 po osamostatnění od rodiny může vést do další závislosti → další vývoj –
 uvolnění se ze závislosti na skupině vrstevníků, vytvoření si kritického
 postoje vůči této skupině
 
- erotické vztahy a sex – součást lidského života vzbuzující zájem už od
+ erotické vztahy a sex – součást lidského života vzbuzující zájem už od
 dětství (reklama, chování dospělých a medializace prezentuje sex jako
 velmi důležitou součást života), první zkušenosti jsou spíše
 rozčarováním
 
- problémem je i směrování k budoucí profesi – volba budoucího povolání
+ problémem je i směrování k budoucí profesi – volba budoucího povolání
 
- jsou velké individuální rozdíly mezi mladistvými – ve stejné třídě
+ jsou velké individuální rozdíly mezi mladistvými – ve stejné třídě
 jsou žáci nadprůměrně i podprůměrně somaticky vyspělí; někteří dosahují
 úrovně formálních operací a abstraktního myšlení, jiní jsou stále ještě
 v etapě konkrétních operací;někteří se bouří proti rodičům a autoritám,
 jiní jsou klidnější a rozumnější, …\
- Adolescence\
- období po pubertě, asi od 15 do 20 let\
- klidnější období než puberta, dochází ke zklidnění vztahu mezi rodiči
+ Adolescence\
+ období po pubertě, asi od 15 do 20 let\
+ klidnější období než puberta, dochází ke zklidnění vztahu mezi rodiči
 a dětmi\
- dokončuje se tělesný růst a pokračuje společenské zařazování a přechod
+ dokončuje se tělesný růst a pokračuje společenské zařazování a přechod
 do dospělosti\
- vývoj:\
+ vývoj:\
 a) biologické a psychické hledisko:\
- většinou v tomto období dochází k 1. pohlavnímu styku → další problémy
+ většinou v tomto období dochází k 1. pohlavnímu styku → další problémy
 a nutnost řešit je, vyrovnání se s náročnými životními situacemi\
- senzomotorické i intelektové schopnosti jsou na vysoké úrovni –
+ senzomotorické i intelektové schopnosti jsou na vysoké úrovni –
 umožňují dosahovat vysokých výkonů (např. ve sportu, v zájmových
 činnostech, v učebním předmětu, …)\
 b) sociální aspekty – 2 důležité mezníky sociálního vývoje:\
- ukončení povinné školní docházky\
- ukončení středního vzdělání – vyučení, maturita, vstup do zaměstnání
+ ukončení povinné školní docházky\
+ ukončení středního vzdělání – vyučení, maturita, vstup do zaměstnání
 nebo na VŠ
 
- pokračování formování sociální identity – nejsou dětmi ani dospělými –
+ pokračování formování sociální identity – nejsou dětmi ani dospělými –
 děti už být nechtějí a k dospělosti mají rozporuplné pocity =
 psychosociální moratorium – mladistvý se sněží zpomalit, zastavit vývoj,
 zdržet se v období mládí „bez povinností“ (časté přání prodloužit si
@@ -2671,17 +2671,17 @@ adolescenti pokračují v úsilí o nezávislost na rodičích a jiných
 dospělých, chtějí mít svou cestu, názory, kulturu, způsob života, …
 (energicky odmítají jiné názory a životní hodnoty)
 
- fyzická síla a atraktivita dívek některým usnadňuje získat uznání
+ fyzická síla a atraktivita dívek některým usnadňuje získat uznání
 druhých, posílit své sebehodnocení, budovat svou identitu – to je
 pomíjivé,\
 spolehlivější je získat jistotu na vzdělání, schopnostech, výkonech,
 komunikačních dovednostech a charakterových rysech
 
- formování vlastního „já“, vlastní identity zahrnuje krizi
+ formování vlastního „já“, vlastní identity zahrnuje krizi
 (pochybnosti, váhání mezi možnostmi ve volbě např. povolání, partnera,
 životního stylu, …), její řešení, přijetí závazku a úsilí při jeho
 realizaci\
- jsou velké inter-individuální rozdíly mezi adolescenty – v hodnocení
+ jsou velké inter-individuální rozdíly mezi adolescenty – v hodnocení
 vzdělání, sebehodnocení vlastních schopností, délky závislosti na
 rodičích, …\
 6) DOSPĚLOST\
@@ -2690,5 +2690,5 @@ b) střední dospělost (30-45 let)\
 c) pozdní dospělost (od 45 do 60-65 let)\
 7) STÁŘÍ (65 a více let)
 
- ve vývoji osobnosti jsou velké individuální rozdíly, a to v každém
+ ve vývoji osobnosti jsou velké individuální rozdíly, a to v každém
 jednotlivém období i v průběhu celého života
