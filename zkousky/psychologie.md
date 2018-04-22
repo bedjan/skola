@@ -15,7 +15,7 @@ pro edukační proces](#4)
 
 [6. Pojem UČENÍ , paměť, učení a myšlení](#6)
 
-[7. Sociální percepce a interakce v pedagogickém procesu](#7)
+[7. Druhy učení, styly učení žáků](#7)
 
 [8. Školní třída jako sociální skupina, utváření klimatu školní
 třídy](#8)
@@ -752,63 +752,86 @@ mapa a otázka č. 4. mozek)
 
 [Zpět k obsahu](#)
 
-**7. Sociální percepce a interakce v pedagogickém procesu**\
-Percepce – vnímání a poznávání druhých lidí, jde o soubor všech
-poznávacích procesů při poznávání druhého člověka, jeho citů, stavů,
-motivů, vlastností)
+**7. Druhy učení, styly učení žáků.**\
 
-Sociální interakce – jde o sociálně psychologické působení lidí, které
-probíhá na různých úrovních sociálních vztahů, je to proces, který je
-ovlivňován společnou činností, společenskými vztahy, sociální komunikací
-a dalšími sociálně psychologickými jevy a sám je zpětně ovlivňuje.
+**Učební styly**
 
-Pedagogická interakce – proces vzájemného působení a ovlivňování dvou
-nebo více subjektů ve výchovně vzdělávacím procesu.
+V průběhu celého života se člověk musí neustále učit novým věcem a u různých lidí dochází k procesu učení odlišným způsobem, jelikož každému vyhovuje něco jiného.
+Pojem učební styly je chápán různými autory nejednotně. Obecně vyjadřuje individuální způsob učení.
+Dle pedagogického slovníku jsou učební styly definovány jako: „postupy při učení, které jedinec používá v určitém období života ve většině situací pedagogického typu. Jsou do jisté míry nezávislé na obsahu učení. Vznikají na vrozeném základu (kognitivní styl) a rozvíjejí se spolupůsobením vnitřních i vnějších vlivů.“[1]
+Stručně řečeno, učební styl je způsob, jakým člověk získává, zpracovává a jak si pamatuje nově nabyté informace. Styl, jakým se člověk učí, se může v průběhu jeho života měnit a bývá ovlivňován předchozími zkušenostmi s učením.
+J. Mareš definuje styly učení jako “[...] postupy při učení, které jedinec v daném období preferuje, postupy svébytné svou orientovaností, motivovaností, strukturou, posloupností, hloubkou, elaborovaností (propracovaností), flexibilitou.“ (Mareš, str. 75)
+Mareš dále uvádí, že naše učební styly se nám jeví jako postupy samozřejmé, běžné, navyklé, nám vyhovující. Můžeme je chápat jako postupy pro nás optimální. Změna navyklého stylu je možná, ale nesnadná. (str. 76)
+Styl učení souvisí s pojmy strategie a taktika učení. Strategie učení je volba konkrétního plánu, který žák uskutečňuje. Taktika učení označuje dílčí postupy, které žák záměrně vybírá a uplatňuje.
 
-Učitelovo očekávání – souvisí s postojem učitele k žákovi, ale je
-racionálnější. Vychází z toho, co je o žákovi známo z dřívějška, i z
-toho, jak se žák právě učí a chová. Na základě pozorování, úsudku,
-rozumové úvahy si učitel vytváří své mínění, odhad, pravděpodobnou
-předpověď toho, jak se asi žák bude učit a chovat v budoucnu.\
-Pro pedagoga má znalost percepce v pedagogické interakci důležitý
-význam. Učitel si může uvědomit možné zkreslení obrazu žáka, s nímž
-komunikuje, ví, že by se neměl spokojit s tím, jakým se žák jeví být,
-ale hledat, jakým skutečně je.
+**Typologie stylů učení**
 
-Příklady chyb a klamů zkreslujících vnímání druhých lidí\
-• výběrová organizace vnímání – tendence jedince vybírat si ze svého
-fyzikálního i sociálního prostředí taková fakta či takové jejich stránky
-a vlastnosti, které jsou v souladu s našimi představami, city a
-zaměřením\
-• haló efekt – tendence vnímat vlastnosti osobnosti pod vlivem celkového
-příznivého nebo nepříznivého dojmu, který si obvykle tvoříme hned na
-začátku seznámení s hodnoceným člověkem pod vlivem nějaké nápadné a
-často i nepodstatné vlastnosti. Jestliže náš celkový dojem je příznivý,
-zvyšuje to intenzitu kladných vlastností a snižuje intenzitu záporných a
-naopak\
-• stereotypy (tetování, Pražáci, řidiči s čepičkou , blondýny….)\
-• soukromá teorie osobnosti (názor jednotlivce na způsob vzájemného ….\
-Sociální percepce je složitý proces. Člověk má často tendence vnášet do
-pozorování a posuzování druhého člověka již přímo hodnocení. Získat
-dostatek objektivních a přesných údajů nevyžaduje jen znalost sociální
-psychologie i příslušnou odbornou praxi, zkušenost\
-druhy sociálních interakcí:\
-A. z hlediska subjektů vstupujícího do interakce:\
- interakce jedinec – jedinec ( učitel – učitel,…\
- interakce jedinec – malá skupina (učitel – třída, žák – třída)\
- interakce malá skupina – malá skupina ( třída – třída, skupinky v
-rámci třídy)\
-B. z hlediska obsahového\
- interakce pedagogická ( učitel – žák)\
- interakce erotické ( muž – žena)\
- interakce rodinné ( rodiče – děti)\
- interakce manželské, pracovní aj.\
-\
-Sociální interakce je proces, v němž se individua vzájemně stimulují a
-reagují na sebe, a rozvíjejí tak řetězec akcí a reakcí ( jakýsi
-psychologický ping – pong)\
-Sociální interakci a percepci ovlivňují faktory komunikační. Sem řadíme
-zejména prvky nonverbální komunikace.
+Učební styly je možné rozlišovat podle různých hledisek.
+
+**Dělení podle motivace a záměru**
+
+Jiří Mareš dělí učební styly v knize „Styly učení žáků a studentů“ na povrchový, hloubkový a strategický.
+
+**Povrchový styl učení**
+
+- Žáky, kteří se učí tímto způsobem, učení nebaví. Učí se, protože musí a protože chtějí mít učení brzo za sebou a text se snaží naučit nazpaměť. Výsledkem takového učení je malé či žádné porozumění učivu a to, co se žáci naučí, zanedlouho zapomínají.
+
+**Hloubkový styl učení**
+
+- Motivací žáků je zájem o něco nového, učení je baví a mají o něj zájem z vlastního popudu. Dané učivo se snaží pochopit a porozumět mu, probíranou látku si dobře pamatují.
+
+**Strategický styl učení**
+
+- Žáci se snaží získat co nejlepší známky, další motivací pro ně je soutěž s ostatními, snaží se využívat své „vychytralosti,“ učení je ale nezajímá. Na učivo se připravují podle nároků učitele, u kterého ke zkoušení dochází – pokud jde o benevolentního učitele, učí se povrchním stylem učení, u náročného učitele se učí do hloubky.[2]
+Podle J. B. Biggse bývají nejúspěšnější žáci, kteří kombinují hloubkový a na výkon zaměřený (strategický) přístup. Tito žáci jsou vysoce motivovaní a dokáží účelně využívat plánovací strategie. Nejméně úspěšní jsou žáci s nízkou motivací, kteří inklinují k povrchovému přístupu [3]
+Volba konkrétního stylu učení závisí na aktuálním obsahu učení. Žák může k různým úkolům přistupovat různým způsobem. Dobrý učitel by měl respektovat individuální učební potřeby žáků, ale absolutní přizpůsobení by mohlo být kontraproduktivní, nemuselo by nutit žáka k posunu.
+
+**Dělení podle dominujícího smyslu**
+
+**Sluchově mluvní**
+- Žák si pamatuje lépe učivo, které vnímá sluchem, nové informace si v paměti udržuje tak, že si je opakuje, diskutuje o nových poznatcích a vyptává se na podrobnosti. Díky takovému postupu žák učivo lépe pochopí, pamatuje si ho a je schopen ho interpretovat někomu jinému. Žáci, u kterých dominuje sluchově mluvní styl učení, bývají ti, kteří dávají při výkladu nové látky pozor a mnohdy si ji šeptem přeříkávají. Tito žáci jsou úspěšní hlavně při učení se cizím jazykům a mívají také hudební nadání. Nejlépe se jim učí nahlas.
+- 
+**Zrakový**
+
+- Žáci používající zrakového učebního stylu preferují učení čtením z knih před posloucháním výkladu. Je-li zkoušen, vybavuje si text přesně jak ho má zanesený v knize (například vlevo nahoře, drobným písmem, zvýrazněný zeleně). V případě ústního výkladu si tito žáci dělají podrobné výpisky, aby si daný text mohli později projít znova, tentokrát pomocí zraku. Žáci preferující tento styl učení bývají nadaní kreslíři a malíři a mívají dobrou paměť na osoby a věci nacházející se v jejich okolí. Dobře se orientují v mapách a nákresech a mají dobrou prostorovou orientaci.
+- 
+**Hmatový a pohybový**
+
+- Hmatový a pohybový styl učení je přirozenou vlastností dětí – poznávání věcí jejich osaháváním. Tito žáci si nejlépe zapamatují věci, které mohou vnímat hmatem, tento učební styl se projevuje pohyby. Žáci, kteří ho používají, se nejlépe učí za chůze a pokud nemají takovou možnost pohybu, od učení si dávají pauzu, při které vstanou, protahují se či si zacvičí, aby mohli opět pokračovat. Tito lidé bývají velice zruční v manuálních činnostech a jsou nadaní ve vědních oborech.
+- 
+**Slovně pojmový**
+
+- Lidí upřednostňujících slovně pojmového stylu učení bývá v populaci nejméně. Chápou logickou strukturu učiva, rozlišují věci podstatné od věcí vedlejších a probíranou látku si pamatují v logických souvislostech. Abstraktní myšlení je pro ně bližší jak myšlení konkrétní.[4]
+
+**Styly učení podle J. D. Vermunta**
+
+Tento holandský psycholog rozlišil čtyři styly učení na základě výzkumu mezi vysokoškolskými studenty:
+
+**neřízený styl učení**
+ - studenti mají nízké sebevědomí, mají pochyby o realizaci dlouhodobých cílů, ambivalentní postoj ke studiu.
+**styl zaměřený na reprodukci učiva** - studenti vybírají důležité části učiva, ty se snaží zapamatovat; studium zabírá mnoho úsilí a času; cílem je prospívat, zvládat zkoušky.
+**styl zaměřený na smysl učiva** - cílem studentů je získat vhled do problematiky, studium berou jako diskuzi se vzdělanými lidmi; jsou přesvědčeni, že studium přispěje k rozvoji jejich osobnosti.
+**styl zaměřený na aplikaci učiva** - studenti projevují zájem především o konkrétní části učiva, cílem studia je využití získaných poznatků v budoucím zaměstnání.
+
+*J. D. Vermunt chápe učební styl jako koherentní celek studentových učebních aktivit, jeho učební orientaci aj. Styl je relativně stálý, ale ne neměnitelný.*
+
+**Styl učení dle R. Dunnové**
+
+R. Dunnová vymezuje styl učení jako biologicky a vývojově podmíněnou charakteristiku, která ovlivňuje učení žáka.
+Faktory, které ovlivňují učení dělí Dunnová do pěti skupin:
+
+**vlivy fyzikálního prostředí** - hluk, světlo, teplota při učení, nábytek v místnosti (lavice ve třídě, židle a stůl, křeslo...)
+
+**intencionální aspekty** - motivace, odpovědnost, vytrvalost
+
+**sociální potřeby** - učení o samotě / učení ve skupině
+
+**psychofyziologické potřeby** - preference smyslové modality (vizuální, auditivní, kinestetické, taktilní poněty) preference denní doby; Dunnová sem přiřazuje i potřebu pohybu při učení a potřebu přijímat či nepřijímat jídlo a pití během učení.
+
+**styl zpracování** - učení prostřednictvím jednotlivých kroků nebo holisticky
+
+*R. Dunnová považuje styly učení za silně zakotvené v biologické podmíněnosti člověka, proto je jejich změna velice obtížná.*
+
 
 <a name="8">
 
