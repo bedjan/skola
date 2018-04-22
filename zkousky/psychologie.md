@@ -786,36 +786,42 @@ Jiří Mareš dělí učební styly v knize „Styly učení žáků a studentů
 Podle J. B. Biggse bývají nejúspěšnější žáci, kteří kombinují hloubkový a na výkon zaměřený (strategický) přístup. Tito žáci jsou vysoce motivovaní a dokáží účelně využívat plánovací strategie. Nejméně úspěšní jsou žáci s nízkou motivací, kteří inklinují k povrchovému přístupu [3]
 Volba konkrétního stylu učení závisí na aktuálním obsahu učení. Žák může k různým úkolům přistupovat různým způsobem. Dobrý učitel by měl respektovat individuální učební potřeby žáků, ale absolutní přizpůsobení by mohlo být kontraproduktivní, nemuselo by nutit žáka k posunu.
 
-**Dělení podle dominujícího smyslu**
+**Dělení podle dominujícího smyslu:**
 
 **Sluchově mluvní**
 - Žák si pamatuje lépe učivo, které vnímá sluchem, nové informace si v paměti udržuje tak, že si je opakuje, diskutuje o nových poznatcích a vyptává se na podrobnosti. Díky takovému postupu žák učivo lépe pochopí, pamatuje si ho a je schopen ho interpretovat někomu jinému. Žáci, u kterých dominuje sluchově mluvní styl učení, bývají ti, kteří dávají při výkladu nové látky pozor a mnohdy si ji šeptem přeříkávají. Tito žáci jsou úspěšní hlavně při učení se cizím jazykům a mívají také hudební nadání. Nejlépe se jim učí nahlas.
-- 
+
+
 **Zrakový**
 
 - Žáci používající zrakového učebního stylu preferují učení čtením z knih před posloucháním výkladu. Je-li zkoušen, vybavuje si text přesně jak ho má zanesený v knize (například vlevo nahoře, drobným písmem, zvýrazněný zeleně). V případě ústního výkladu si tito žáci dělají podrobné výpisky, aby si daný text mohli později projít znova, tentokrát pomocí zraku. Žáci preferující tento styl učení bývají nadaní kreslíři a malíři a mívají dobrou paměť na osoby a věci nacházející se v jejich okolí. Dobře se orientují v mapách a nákresech a mají dobrou prostorovou orientaci.
-- 
+
+
 **Hmatový a pohybový**
 
 - Hmatový a pohybový styl učení je přirozenou vlastností dětí – poznávání věcí jejich osaháváním. Tito žáci si nejlépe zapamatují věci, které mohou vnímat hmatem, tento učební styl se projevuje pohyby. Žáci, kteří ho používají, se nejlépe učí za chůze a pokud nemají takovou možnost pohybu, od učení si dávají pauzu, při které vstanou, protahují se či si zacvičí, aby mohli opět pokračovat. Tito lidé bývají velice zruční v manuálních činnostech a jsou nadaní ve vědních oborech.
-- 
+
+
 **Slovně pojmový**
 
 - Lidí upřednostňujících slovně pojmového stylu učení bývá v populaci nejméně. Chápou logickou strukturu učiva, rozlišují věci podstatné od věcí vedlejších a probíranou látku si pamatují v logických souvislostech. Abstraktní myšlení je pro ně bližší jak myšlení konkrétní.[4]
 
-**Styly učení podle J. D. Vermunta**
+**Styly učení podle J. D. Vermunta:**
 
 Tento holandský psycholog rozlišil čtyři styly učení na základě výzkumu mezi vysokoškolskými studenty:
 
 **neřízený styl učení**
  - studenti mají nízké sebevědomí, mají pochyby o realizaci dlouhodobých cílů, ambivalentní postoj ke studiu.
+
 **styl zaměřený na reprodukci učiva** - studenti vybírají důležité části učiva, ty se snaží zapamatovat; studium zabírá mnoho úsilí a času; cílem je prospívat, zvládat zkoušky.
+
 **styl zaměřený na smysl učiva** - cílem studentů je získat vhled do problematiky, studium berou jako diskuzi se vzdělanými lidmi; jsou přesvědčeni, že studium přispěje k rozvoji jejich osobnosti.
+
 **styl zaměřený na aplikaci učiva** - studenti projevují zájem především o konkrétní části učiva, cílem studia je využití získaných poznatků v budoucím zaměstnání.
 
 *J. D. Vermunt chápe učební styl jako koherentní celek studentových učebních aktivit, jeho učební orientaci aj. Styl je relativně stálý, ale ne neměnitelný.*
 
-**Styl učení dle R. Dunnové**
+**Styl učení dle R. Dunnové:**
 
 R. Dunnová vymezuje styl učení jako biologicky a vývojově podmíněnou charakteristiku, která ovlivňuje učení žáka.
 Faktory, které ovlivňují učení dělí Dunnová do pěti skupin:
