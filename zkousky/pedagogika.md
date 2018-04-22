@@ -1,4 +1,4 @@
-<hr><br /> <a name="">
+<hr><br /> <a name="obsah">
  
 **PEDAGOGIKA OBSAH:**
 
@@ -56,7 +56,7 @@ PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY](#15)
 
 <hr><br /> <a name="1">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **1. PEDAGOGIKA – její předmět, základní ped. disciplíny**
 
@@ -231,7 +231,7 @@ w Pedagogika sportu
 
 <hr><br /> <a name="2">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **2. Nejvýznamnější problémy současné pedagogiky, kurikulární reforma,
 alternativní školy.**\
@@ -370,7 +370,7 @@ empirické výzkumy.
 
 <hr><br /> <a name="3">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **3. Výukové metody – klasifikace, charakteristiky**
 
@@ -551,7 +551,7 @@ Vališová Alena, Kasíková Hana a kolektiv, Grada Publishing 2007, str.
 
 <hr><br /> <a name="4">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **4. Organizační formy výuky či vzdělávání (OFV)**
 
@@ -675,7 +675,7 @@ např. problémové vyuč., projektové vyuč., otevřené
 
 <hr><br /> <a name="5">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **5. Didaktické zásady ve výuce,význam,realizace**\
 Osnova:\
@@ -788,7 +788,7 @@ u sebe, v předmětu, škole nebo doma….:-))
 
 <hr><br /> <a name="6">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **6. SOCIÁLNÍ PEDAGOGIKA ( vybrané pojmy, hlavní okruhy problémů )**\
 Osnova:\
@@ -1003,7 +1003,7 @@ Autoritářství vůdčích osobností.
 
 <hr><br /> <a name="7">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **7. Výchova – vymezení pojmu, složky výchovy, výchovně vzdělávací
 cíle**\
@@ -1114,7 +1114,7 @@ ochraně zdraví.
 
 <hr><br /> <a name="8">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **\
 8. Pedagogicko-psychologická diagnostika – součást výchovně-vzdělávacího
@@ -1301,7 +1301,7 @@ kvality a efektivity výchovně vzdělávací práce.
 
 <hr><br /> <a name="9">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **9. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY ŠKOLNÍHO
 HODNOCENÍ**\
@@ -1405,7 +1405,7 @@ jakou má autoritu a jakou úctu požívá.
 
 <hr><br /> <a name="10">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **10. Diferenciace a individualizace; rozvoj aktivity, samostatnosti a
 tvořivosti žáků**\
@@ -1514,7 +1514,7 @@ dramatizace atd.\
 
 <hr><br /> <a name="11">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **11. Pedagogická komunikace ve výuce, řešení problémových situací**\
 Osnova:\
@@ -1715,7 +1715,7 @@ f) případně provést nápravu, opatření, zásah,
 
 <hr><br /> <a name="12">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **12. Pedagogika tradiční, moderní, základní pedagogické pojmy,\
 inovace výuky**\
@@ -1946,7 +1946,7 @@ výkonu v nějaké aktivitě nebo řadě aktivit
 
 <hr><br /> <a name="13">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **13. OSOBNOSTNÍ A KVALIFIKAČNÍ PŘEDPOKLADY PEDAG. PROFESE**\
 Osnova:\
@@ -2106,7 +2106,7 @@ i) hranice držet si je – nenechat se sežrat prací, rodinou, atd.
 
 <hr><br /> <a name="14">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **14. Příprava učitele na výuku**\
 Osnova:\
@@ -2214,7 +2214,7 @@ Při přípravách vždy pedagog dbá na základní didaktické zásady:\
 
 <hr><br /> <a name="15">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **15. VÝCHOVNÉ PŮSOBENÍ ŠKOLY A RODINY,\
 PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY**\
@@ -2519,7 +2519,7 @@ jednání
 
 <hr><br /> <a name="16">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **16. Metodologie pedagogického výzkumu**\
 Osnova:\
@@ -2840,7 +2840,7 @@ formou VŠ
 
 <hr><br /> <a name="17">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **17. Současný školský systém ČR**\
 Osnova: 1.Základní legislativa 2. Školy 3. Školská zařízení 4.Vysoké
@@ -2957,7 +2957,7 @@ formou VŠ
 
 <hr><br /> <a name="18">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **18. Procesy a prostředky evaluace a autoevaluace.**
 
@@ -3051,7 +3051,7 @@ Evaluace pedagogického výzkumu
 
 <hr><br /> <a name="19">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **19. Klíčové kompetence pedagogických pracovníků a žáků**
 
@@ -3237,7 +3237,7 @@ schopnost rychle se rozhodovat, atd.
 
 <hr><br /> <a name="20">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE**
 
