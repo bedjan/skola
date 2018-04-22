@@ -55,7 +55,7 @@ adolescence](#20)
 
 <a name="1">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **1. PSYCHOHYGIENA A PSYCHOTERAPIE V PRÁCI UČITELŮ A ŽÁKŮ**
 
@@ -113,7 +113,7 @@ ZÁKLADNÍ FORMY PST individuální, skupinová, rodinná, komunitní terapie
 
 <a name="2">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **2. SCHOPNOSTI A KREATIVITA JAKO PSYCHOLOGICKÁ KATEGORIE**\
 Schopnosti: jsou vlastnosti, které umožňují člověku naučit se určitým
@@ -165,7 +165,7 @@ velmi vysoké nároky – očekávají jen vynikající výsledky a úspěchy)
 
 <a name="3">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **3. Motivační, emoční a volní procesy**\
 Definice motivace:\
@@ -384,7 +384,7 @@ učebních, pracovních\
 
 <a name="4">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **4. Psychické stavy, vědomí, aktivace, pozornost – význam\
 pro edukační proces**
@@ -491,7 +491,7 @@ i zdraví.
 
 <a name="5">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **5. Nejvýznamnější psychologické metody**
 
@@ -578,7 +578,7 @@ výzkum přínosný, ale velmi náročný.
 
 <a name="6">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **6. Pojem UČENÍ , paměť, učení a myšlení**\
  patří mezi kognitivní (poznávací) procesy\
@@ -750,7 +750,7 @@ mapa a otázka č. 4. mozek)
 
 <a name="7">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **7. Druhy učení, styly učení žáků.**\
 
@@ -841,7 +841,7 @@ Faktory, které ovlivňují učení dělí Dunnová do pěti skupin:
 
 <a name="8">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **8. Školní třída jako sociální skupina, utváření klimatu školní třídy**
 
@@ -976,7 +976,7 @@ bude lákavá, nesnadná a velmi užitečná.
 
 <a name="9">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **9. Vývoj, zrání a interakce jedince s prostředím, dědičnost a
 prostředí\
@@ -1155,7 +1155,7 @@ ucelenějšímu vystižení vývoje osobnosti
 
 <a name="10">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **10. Psychologické podmínky (činitelé) školní úspěšnosti žáků**
 
@@ -1253,7 +1253,7 @@ tradic ….
 
 <a name="11">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **11. PSYCHOLOGIE – předmět, hlavní odvětví**\
  Definice a úvod: psychologie je věda o psychice a patří do věd o
@@ -1361,7 +1361,7 @@ vztazích k lidem, v postoji k práci a jak tyto rozdíly vznikají?
 
 <a name="12">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **12. KOGNITIVNÍ (poznávací) PROCESY – součást intelektuálního vývoje
 žáka**\
@@ -1676,7 +1676,7 @@ Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích
 
 <a name="13">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **13. PROCESY UČENÍ A PAMĚTI**\
  patří mezi kognitivní (poznávací) procesy\
@@ -1784,7 +1784,7 @@ průběhu času
 
 <a name="14">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **14. IMAGINATIVNÍ PROCESY , představy, fantazie**\
 Názorné poznání skutečnosti zahrnuje vnímání a s ním těsně spjaté
@@ -1845,7 +1845,7 @@ duševní zdraví, pro dobrý vývoj osobnosti.
 
 <a name="15">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **15. MYŠLENÍ – charakteristika, druhy myšlení, myšlenkové operace**\
  je vrcholný proces lidského poznávání
@@ -1915,7 +1915,7 @@ mapa a otázka č. 4. mozek)
 
 <a name="16">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **16. Pojem osobnost, problémy jeho psychologických koncepcí**\
 Osobnost\
@@ -2075,7 +2075,7 @@ osoby a možnost volky, zaujetí, postoje.
 
 <a name="17">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **17. Struktura osobnosti**\
 Osobnost\
@@ -2212,7 +2212,7 @@ pohlavního styku.
 
 <a name="18">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **18. Rysy osobnosti, temperament a charakter**\
 Osobnost zahrnuje množství povahových vlastností – rys osobnosti.\
@@ -2314,7 +2314,7 @@ jsou předpokladem k pochopení poznatků o vývoji a formování osobnosti.
 
 <a name="19">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **19. Sociální komunikace a její základní druhy. Efektivní komunikace**\
 Komunikace = společně něco sdílet\
@@ -2439,7 +2439,7 @@ pro poznávání, výchovu a vzdělávání jiných.
 
 <a name="20">
 
-<hr> [Zpět k obsahu](#)
+<hr><br /> [Zpět k obsahu](#)
 
 **20. Průběh vývoje osobnosti s důrazem na období puberty a
 adolescence**\
