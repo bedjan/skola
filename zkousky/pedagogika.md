@@ -3196,7 +3196,7 @@ předcházení osobním konfliktům<br>
 5. občanské kompetence a kulturní povědomí<br>
 např. jednat odpovědně, samostatně a iniciativně nejen ve vlastním
 zájmu, ale i ve<br>
-veřejném zájmu, dodržovat zákony, respektovat práva a osobnost druhých
+veřejném zájmu, dodržovat zákony, respektovat práva a osobnost druhých
 lidí, vystupovat proti nesnášenlivosti, xenofobii a diskriminaci, jednat
 v souladu s morálními principy a zásadami společenského chování, zajímat
 se aktivně o politické a společenské dění u nás a<br>
@@ -3209,15 +3209,15 @@ podporovat hodnoty místní, národní, evropské i světové kultury<br>
 6. kompetence k pracovnímu uplatnění a podnikatelským aktivitám<br>
 např. mít odpovědný postoj k vlastní profesní budoucnosti, a tedy i
 vzdělávání, uvědomovat si význam celoživotního učení a být připraveni
-přizpůsobovat se měnícím se pracovním podmín-kám, mít přehled o
+přizpůsobovat se měnícím se pracovním podmín-kám, mít přehled o
 možnostech uplatnění na trhu práce v daném oboru, mít reálnou představu
 o pracovních, platových a jiných podmínkách v oboru a o požadavcích
 zaměstnavatelů, umět získávat a vyhodnocovat informace o pracovních i
 vzdělávacích příležitostech, využívat pora-denských a
 zprostředkovatelských služeb jak z oblasti světa práce, tak vzdělávání,
 vhodně komunikovat s potenciálními zaměstnavateli, prezentovat svůj
-odborný potenciál a své profesní cíle, znát obecná práva a povinnosti
-zaměstnavatelů a pracovníků, rozumět podstatě a principům podnikání,
+odborný potenciál a své profesní cíle, znát obecná práva a povinnosti
+zaměstnavatelů a pracovníků, rozumět podstatě a principům podnikání,
 mít představu o právních, ekonomických, administrativních, osobnostních
 a etických aspektech soukromého podnikání; dokázat vyhledávat a
 posuzovat podnikatelské příležitosti v souladu s realitou tržního
