@@ -1,6 +1,7 @@
+<a name="">
+
 **PSYCHOLOGIE OBSAH:**
 
-</p>
 [1. PSYCHOHYGIENA A PSYCHOTERAPIE V PRÁCI UČITELŮ A ŽÁKŮ](#1)
 
 [2. SCHOPNOSTI A KREATIVITA JAKO PSYCHOLOGICKÁ KATEGORIE](#2)
@@ -52,7 +53,7 @@ adolescence](#20)
 
 ------------------------------------------------------------------------
 
-[](){#1}
+<a name="1">
 
 [Zpět k obsahu](#)
 
@@ -110,7 +111,7 @@ psychoterapeut).
 
 ZÁKLADNÍ FORMY PST individuální, skupinová, rodinná, komunitní terapie
 
-[](){#2}
+<a name="2">
 
 [Zpět k obsahu](#)
 
@@ -162,9 +163,7 @@ Tvořivé děti mají problémy s vrstevníky (konflikty) i v rodině (rodiče
 jim často vyčítají, že se odlišují od ostatních dětí nebo na ně mají
 velmi vysoké nároky – očekávají jen vynikající výsledky a úspěchy)
 
- 
-
-[](){#3}
+<a name="3">
 
 [Zpět k obsahu](#)
 
@@ -383,7 +382,7 @@ učebních, pracovních\
 5. Jsou spjaty navzájem s psychickými stavy a vlastnostmi osobnosti\
 6. Jsou variabilní, vykazují značné individuelní rozdíly
 
-[](){#4}
+<a name="4">
 
 [Zpět k obsahu](#)
 
@@ -490,9 +489,7 @@ sociální determinace a komunikace a bez psychologického hlediska se
 ztrácí osobnost a její specifičnost, je ovlivněné vnímání, nálady, emoce
 i zdraví.
 
- 
-
-[](){#5}
+<a name="5">
 
 [Zpět k obsahu](#)
 
@@ -579,9 +576,7 @@ lidí v krátké době\
 cenné poznání individuálních vlastností v psychickém vývoji. Je to
 výzkum přínosný, ale velmi náročný.
 
- 
-
-[](){#6}
+<a name="6">
 
 [Zpět k obsahu](#)
 
@@ -753,8 +748,7 @@ implikace
  Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích (viz
 mapa a otázka č. 4. mozek)
 
- \
-[]()
+<a name="7">
 
 [Zpět k obsahu](#)
 
@@ -816,7 +810,7 @@ psychologický ping – pong)\
 Sociální interakci a percepci ovlivňují faktory komunikační. Sem řadíme
 zejména prvky nonverbální komunikace.
 
-[](){#8}
+<a name="8">
 
 [Zpět k obsahu](#)
 
@@ -951,8 +945,7 @@ rozhovorů se žáky i učiteli
 Klima našich školních tříd na důkladné zmapování teprve čeká, práce to
 bude lákavá, nesnadná a velmi užitečná.
 
- \
-[]()
+<a name="9">
 
 [Zpět k obsahu](#)
 
@@ -1131,9 +1124,7 @@ konflikty:\
  všechny uvedené koncepce se prolínají a navzájem doplňují k
 ucelenějšímu vystižení vývoje osobnosti
 
- 
-
-[](){#10}
+<a name="10">
 
 [Zpět k obsahu](#)
 
@@ -1231,8 +1222,7 @@ ale také vnějších mimo-intelektových podmínek učení.
 rodiny, chyby ve výchově, rozpornost požadavků, rozdíly socio-kulturních
 tradic ….
 
- \
-[]()
+<a name="11">
 
 [Zpět k obsahu](#)
 
@@ -1340,8 +1330,7 @@ pedagogických pracovníků.\
 • Proč jsou mezi mládeží velké rozdíly v odpovědnosti, vytrvalosti, ve
 vztazích k lidem, v postoji k práci a jak tyto rozdíly vznikají?
 
- \
-[]()
+<a name="12">
 
 [Zpět k obsahu](#)
 
@@ -1656,7 +1645,7 @@ implikace
 
 Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích
 
-[](){#13}
+<a name="13">
 
 [Zpět k obsahu](#)
 
@@ -1764,9 +1753,7 @@ je funkcí levé poloviny mozku
 • Zapomínání = změny v uchování a ve vybavování, ke kterým dochází v
 průběhu času
 
- 
-
-[](){#14}
+<a name="14">
 
 [Zpět k obsahu](#)
 
@@ -1827,7 +1814,7 @@ lepší sebepoznání i pro lepší řešení životních problémů, pro realiz
 vnitřního dialogu, který je podstatnou podmínkou pro sebepoznání a pro
 duševní zdraví, pro dobrý vývoj osobnosti.
 
-[](){#15}
+<a name="15">
 
 [Zpět k obsahu](#)
 
@@ -1897,7 +1884,7 @@ implikace
  Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích (viz
 mapa a otázka č. 4. mozek)
 
-[](){#16}
+<a name="16">
 
 [Zpět k obsahu](#)
 
@@ -2057,11 +2044,7 @@ to, pomoci člověku najít životní smysl (logos) přitom si tento smysl má
 jedinec možnost nalézt aktivně, nemůže mu být dán. Zdůrazněna svoboda
 osoby a možnost volky, zaujetí, postoje.
 
- 
-
- 
-
-[](){#17}
+<a name="17">
 
 [Zpět k obsahu](#)
 
@@ -2198,9 +2181,7 @@ pudů.\
 5. Genitální stadium – (12 let a výše), období, kdy je člověk schopen
 pohlavního styku.
 
- 
-
-[](){#18}
+<a name="18">
 
 [Zpět k obsahu](#)
 
@@ -2302,8 +2283,7 @@ pohlavími je vyjádřen např. již v reakcích na zátěž.
 vlastnostech jsou pro učitele nástrojem lepšího poznání žáků. Zároveň
 jsou předpokladem k pochopení poznatků o vývoji a formování osobnosti.
 
- \
-[]()
+<a name="19">
 
 [Zpět k obsahu](#)
 
@@ -2428,9 +2408,7 @@ důležité předpoklady úspěšnosti budoucího odborníka, pedagoga, a to z
 hlediska rozvoje jeho osobnosti, tak i z hlediska vytvoření předpokladů
 pro poznávání, výchovu a vzdělávání jiných.
 
- 
-
-[](){#20}
+<a name="20">
 
 [Zpět k obsahu](#)
 
