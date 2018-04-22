@@ -1,6 +1,6 @@
 **PEDAGOGIKA OBSAH:**
 
-</p>
+
 [1. PEDAGOGIKA – její předmět, základní ped. disciplíny](#1)
 
 [2. Nejvýznamnější problémy současné pedagogiky, kurikulární reforma,
