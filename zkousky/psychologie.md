@@ -1,4 +1,4 @@
-<hr><br /> <a name="">
+<hr><br /> <a name="obsah">
 
 **PSYCHOLOGIE OBSAH:**
 
@@ -55,7 +55,7 @@ adolescence](#20)
 
 <hr><br /> <a name="1">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **1. PSYCHOHYGIENA A PSYCHOTERAPIE V PRÁCI UČITELŮ A ŽÁKŮ**
 
@@ -113,7 +113,7 @@ ZÁKLADNÍ FORMY PST individuální, skupinová, rodinná, komunitní terapie
 
 <hr><br /> <a name="2">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **2. SCHOPNOSTI A KREATIVITA JAKO PSYCHOLOGICKÁ KATEGORIE**\
 Schopnosti: jsou vlastnosti, které umožňují člověku naučit se určitým
@@ -165,7 +165,7 @@ velmi vysoké nároky – očekávají jen vynikající výsledky a úspěchy)
 
 <hr><br /> <a name="3">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **3. Motivační, emoční a volní procesy**\
 Definice motivace:\
@@ -384,7 +384,7 @@ učebních, pracovních\
 
 <hr><br /> <a name="4">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **4. Psychické stavy, vědomí, aktivace, pozornost – význam\
 pro edukační proces**
@@ -491,7 +491,7 @@ i zdraví.
 
 <hr><br /> <a name="5">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **5. Nejvýznamnější psychologické metody**
 
@@ -578,7 +578,7 @@ výzkum přínosný, ale velmi náročný.
 
 <hr><br /> <a name="6">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **6. Pojem UČENÍ , paměť, učení a myšlení**\
  patří mezi kognitivní (poznávací) procesy\
@@ -750,7 +750,7 @@ mapa a otázka č. 4. mozek)
 
 <hr><br /> <a name="7">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **7. Druhy učení, styly učení žáků.**\
 
@@ -841,7 +841,7 @@ Faktory, které ovlivňují učení dělí Dunnová do pěti skupin:
 
 <hr><br /> <a name="8">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **8. Školní třída jako sociální skupina, utváření klimatu školní třídy**
 
@@ -976,7 +976,7 @@ bude lákavá, nesnadná a velmi užitečná.
 
 <hr><br /> <a name="9">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **9. Vývoj, zrání a interakce jedince s prostředím, dědičnost a
 prostředí\
@@ -1155,7 +1155,7 @@ ucelenějšímu vystižení vývoje osobnosti
 
 <hr><br /> <a name="10">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **10. Psychologické podmínky (činitelé) školní úspěšnosti žáků**
 
@@ -1253,7 +1253,7 @@ tradic ….
 
 <hr><br /> <a name="11">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **11. PSYCHOLOGIE – předmět, hlavní odvětví**\
  Definice a úvod: psychologie je věda o psychice a patří do věd o
@@ -1361,7 +1361,7 @@ vztazích k lidem, v postoji k práci a jak tyto rozdíly vznikají?
 
 <hr><br /> <a name="12">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **12. KOGNITIVNÍ (poznávací) PROCESY – součást intelektuálního vývoje
 žáka**\
@@ -1676,7 +1676,7 @@ Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích
 
 <hr><br /> <a name="13">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **13. PROCESY UČENÍ A PAMĚTI**\
  patří mezi kognitivní (poznávací) procesy\
@@ -1784,7 +1784,7 @@ průběhu času
 
 <hr><br /> <a name="14">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **14. IMAGINATIVNÍ PROCESY , představy, fantazie**\
 Názorné poznání skutečnosti zahrnuje vnímání a s ním těsně spjaté
@@ -1845,7 +1845,7 @@ duševní zdraví, pro dobrý vývoj osobnosti.
 
 <hr><br /> <a name="15">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **15. MYŠLENÍ – charakteristika, druhy myšlení, myšlenkové operace**\
  je vrcholný proces lidského poznávání
@@ -1915,7 +1915,7 @@ mapa a otázka č. 4. mozek)
 
 <hr><br /> <a name="16">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **16. Pojem osobnost, problémy jeho psychologických koncepcí**\
 Osobnost\
@@ -2075,7 +2075,7 @@ osoby a možnost volky, zaujetí, postoje.
 
 <hr><br /> <a name="17">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **17. Struktura osobnosti**\
 Osobnost\
@@ -2212,7 +2212,7 @@ pohlavního styku.
 
 <hr><br /> <a name="18">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **18. Rysy osobnosti, temperament a charakter**\
 Osobnost zahrnuje množství povahových vlastností – rys osobnosti.\
@@ -2314,7 +2314,7 @@ jsou předpokladem k pochopení poznatků o vývoji a formování osobnosti.
 
 <hr><br /> <a name="19">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **19. Sociální komunikace a její základní druhy. Efektivní komunikace**\
 Komunikace = společně něco sdílet\
@@ -2439,7 +2439,7 @@ pro poznávání, výchovu a vzdělávání jiných.
 
 <hr><br /> <a name="20">
 
-[Zpět k obsahu](#)
+[Zpět k obsahu](#obsah)
 
 **20. Průběh vývoje osobnosti s důrazem na období puberty a
 adolescence**\
