@@ -80,7 +80,7 @@ PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY](#15)
 
 <hr>
 
-####Ad1)
+####Ad#### Ad1)
 Definice pedagogiky:
 Pedagogika je věda, která se zabývá výchovou a vzděláváním, které chápe
 jako cílevědomý a záměrný proces na utváření a formování osobnosti
@@ -89,7 +89,7 @@ jako cílevědomý a záměrný proces na utváření a formování osobnosti
 Patří mezi humanitní vědy tj. vědy o člověku stejně jako např. –
 filozofie, sociologie, psychologie…
 
-####Ad2)
+####Ad#### Ad2)
 Definice výchovy:\
 Výchova je cílevědomá činnost zaměřená na předávání vzorců, norem a
 pravidel chování platných ve společnosti („umravňování“)
@@ -115,7 +115,7 @@ Cílem výchovy je jedinec, který si zvnitřní (interiorizuje) normy
 chování, hodnoty, postoje, které vycházejí ze společenské morálky a
 reálně se podle nich v životě chová (extetizuje).\
 
-####Ad3)\
+####Ad#### Ad3)\
 Definice vzdělávání (edukace):\
 Vzdělávání je cílený proces zaměřený na získávání, předávání a
 osvojování poznatků, vědomostí a dovedností.
@@ -135,7 +135,7 @@ společnosti a jedince\
 společnosti)\
 – výchovou a vzděláváním se může ovlivnit velká většina národa
 
-####Ad4)\
+####Ad#### Ad4)\
 Pedagogika stejně jako jakákoliv jiná věda musí splňovat těchto pět
 základních požadavků:
 
@@ -161,7 +161,7 @@ tj. – vědci v určitých věd. institucích\
 (institucionalizace vědy – VŠ pedagogické a filozofické a jiné fakulty
 různých uni-verzit, výzkumné ústavy, akademie věd apod.)
 
-####Ad5)\
+####Ad#### Ad5)\
 Základní pedagogické disciplíny:\
 Pedagogika se dělí na základní, hraniční a aplikované pedagogické
 disciplíny\
@@ -401,13 +401,13 @@ Osnova:\
 
 <hr>
 
-####Ad1)\
+####Ad#### Ad1)\
 Metoda – pojem odvozený z řeckého slova methodos (cesta k něčemu, postup
 k určitému cíli)\
 Definice výchovně vzdělávacích metod:\
  způsob práce učitele jímž organizuje činnost žáků k dosažení výchovně
 vzdělávacích cílů\
-####Ad2)\
+####Ad#### Ad2)\
 Volbu výchovně vzdělávací metody v praxi ovlivňuje:\
  druh a stupeň vzdělávací instituce či školy\
  charakter předmětu či oboru\
@@ -442,7 +442,7 @@ citovosti, charakteru, spolupráce, rozhodovacích schopností)\
 jednota cílů, učiva, organizační formy, materiálních prostředků a
 činností učitele a žáka.
 
-####Ad3)\
+####Ad#### Ad3)\
 Dělení výchovně vzdělávací metody:\
  A) monologické (založené na využívání souvislého mluveného projevu
 jednotlivce – učitele či žáka)\
@@ -594,7 +594,7 @@ Osnova:\
 
 <hr>
 
-####Ad1)\
+####Ad#### Ad1)\
 Organizační formy výuky patří mezi jednu ze čtyř základních pedagog.
 kategorií (další = cíle, metody, obsahy) – vzájemně se ovlivňují
 
@@ -617,7 +617,7 @@ Všechny organizační formy vyučování – se opírají o didaktický
 trojúhelník.\
 didaktický trojúhelník = učitel-učivo-žák
 
-####Ad2)\
+####Ad#### Ad2)\
 Dělení OFV – dle 3 hledisek:
 
 1\. hledisko vztahu žáka – učitele\
@@ -687,7 +687,7 @@ dávají přednost délce 1,5 hodiny, v případě exkurzí a jiné mimoškolní
 – vyučování v kmenové či jiné třídě, v odborných pracovnách, v
 laboratořích, v tělocvičně, v bazéně, na školním pozemku, v mimoškolních
 zařízeních (exkurze, praxe)\
-####Ad3)\
+####Ad#### Ad3)\
 Formy výuky\
 1 – třídně hodinový systém\
 – frontální výuka\
@@ -728,7 +728,7 @@ Osnova:\
 
 <hr>
 
-####Ad1. Definice didaktiky:
+####Ad#### Ad1. Definice didaktiky:
 
 DIDAKTIKA = nauka či teorie vyučování, základní vědecká disciplína v
 ped.\
@@ -744,7 +744,7 @@ speciálně vzdělávacími potřebami)
 
 za tvůrce moderních didaktických metod je považován J.A.Komenský
 
-####Ad2. Didaktické zásady:\
+####Ad#### Ad2. Didaktické zásady:\
 
 Definice:\
 Didaktické zásady jsou zobecněné a ověřené postupy, které zvyšují
@@ -753,7 +753,7 @@ Didaktické zásady se obecně vztahují k didaktickému trojúhelníku:\
 – vztah k učivu\
 – vztah k činnosti učitele\
 – vztah k činnosti žáků\
-Příklady zobecněných didaktických zás####Adči hesel:\
+Příklady zobecněných didaktických zás####Ad#### Adči hesel:\
 – od jednoduššího ke složitějšímu\
 – názornost = využívat všech smyslů\
 – střídání činností\
@@ -824,14 +824,14 @@ o Na základě zpětné vazby učitel získá informace o postupu žáka k
 vytčenému učebnímu cíli, jaká je kvalita výuky a její výsledky.
 Diagnostikuje (určuje, nalézá) chyby, které jsou přirozenou částí
 procesu učení, vysvětlí, kde se chyba stala a eventuálně znovu provede
-výkl####Adnepochopeného učiva.\
+výkl####Ad#### Adnepochopeného učiva.\
 
-####Ad3. Význam didaktiky:\
+####Ad#### Ad3. Význam didaktiky:\
 – usnadnění práce učitele\
 – zvyšuje efektivitu výuky\
 – převádí teoretické (vědecké) poznatky do praxe\
 
-####Ad4. Realizace didaktických zás####Adv praxi Jak to dělám já v předmětech
+####Ad#### Ad4. Realizace didaktických zás####Ad#### Adv praxi Jak to dělám já v předmětech
 u sebe, v předmětu, škole nebo doma….:-))
 
 <hr><br /> <a name="6">
@@ -859,7 +859,7 @@ V) sekty
 
 <hr>
 
-####Ad1. Definice sociální pedagogiky\
+####Ad#### Ad1. Definice sociální pedagogiky\
 Sociální pedagogika\
 – zkoumá vliv prostředí na výchovu a vzdělávání jedince\
 – věda zabývající se působením prostředí na formování osobnosti jedince\
@@ -873,7 +873,7 @@ Odstranění sociálně patologických jevů ve společnosti a začlenění tj.
 socializace či resocializace jedinců či skupin do společnosti formou
 výchovy a vzdělávání.
 
-####Ad2. Metody sociální pedagogiky\
+####Ad#### Ad2. Metody sociální pedagogiky\
 Obecně:\
 – socializace\
 – resocializace\
@@ -896,7 +896,7 @@ Reálně se jedná zejména o práci s:\
 centra)\
 – práce ve volném čase prevence zločinnosti
 
-####Ad3. Hlavní okruhy problémů\
+####Ad#### Ad3. Hlavní okruhy problémů\
 I. Poruchy chování\
 Etopedie – zabývá se výchovou a vzděláním dětí, mládeže a dospělých,
 kteří mají poruchy chování\
@@ -1078,7 +1078,7 @@ Osnova:\
 
 <hr>
 
-####Ad1) Definice výchovy – vymezení pojmu (viz. otázka č. 1)\
+####Ad#### Ad1) Definice výchovy – vymezení pojmu (viz. otázka č. 1)\
 Výchova je cílevědomá činnost zaměřená na předávání vzorců, norem a
 pravidel chování platných ve společnosti.\
 tj. je to cílevědomá činnost zaměřená na utváření osobnosti člověka
@@ -1098,7 +1098,7 @@ Vztah výchovy a vzdělávání\
 Výchova a vzdělání jsou v praxi zpravidla vzájemně spjaty. Vždy, když
 vychovávám, tak i vzdělávám a naopak.
 
-####Ad2) Složky výchovy\
+####Ad#### Ad2) Složky výchovy\
 Mezi základní složky výchovy patří:\
 a) Mravní – etická (správné x špatné, dobro x a zlo, etické chování)\
 b) Estetická – nauka o krásnu (co je hezké, ošklivé, vkus)\
@@ -1110,7 +1110,7 @@ f) Emocionální – citová – umět vyjadřovat, vnímat a zacházet s city,
 psychikou\
 g) Hudební – tóny, rytmy
 
-####Ad3) Výchovně vzdělávací cíle\
+####Ad#### Ad3) Výchovně vzdělávací cíle\
 VV cíle patří mezi základní čtyři pedagogické kategorie.\
 Definice výchovně vzdělávacího cíle:\
 VV cíl je očekávaný a předem zamýšlený výsledek výchovně vzdělávacího
@@ -1134,14 +1134,14 @@ komunikace, kooperace, chování v různých rolích)\
 c) eticky rozvojové cíle (vztah k sobě samému, mezilidské vztahy,
 hodnotové žebříčky žáka)
 
-####Ad4) VV cíle mají tyto funkce:\
+####Ad#### Ad4) VV cíle mají tyto funkce:\
  motivační\
  kontrolní\
  organizační\
  ideologickou\
  syntetizující (slučovací)
 
-####Ad5) Dělení VV cílů:\
+####Ad#### Ad5) Dělení VV cílů:\
 VV cíle dělíme podle:\
 1. Obecnosti:  obecné\
  specifické\
@@ -1196,11 +1196,11 @@ Osnova:\
 <hr>
 
 
-####Ad1) Diagnóza – vymezení pojmu\
+####Ad#### Ad1) Diagnóza – vymezení pojmu\
 DIAGNÓZA = rozpoznání, pojmenování stavu, situace,nemoci\
 ( z řečtiny Diagnózis – skrze poznání)
 
-####Ad2) Diagnostický proces\
+####Ad#### Ad2) Diagnostický proces\
 Diagnostický proces je období kdy se zjišťují informace o žákovi,
 události, jevu atd.\
 Základní diagnostické metody používané v rámci diagnostického procesu:\
@@ -1245,7 +1245,7 @@ které vývoj ovlivňuje\
 Výsledkem diagnostického procesu je diagnóza.\
 Z diagnózy vychází intervence(zásah, opatření, reedukace léčba, atd.)
 pak se zhodnotí.\
-####Ad3) PEDAGOGICKO-PSYCHOLOGICKÁ DIAGNOSTIKA\
+####Ad#### Ad3) PEDAGOGICKO-PSYCHOLOGICKÁ DIAGNOSTIKA\
 PEDAGOGICKO-PSYCHOLOGICKÁ DIAGNOSTIKA = je součástí celého VV procesu.
 Neboli od začátku (zápis) do konce (výsledky diagnostiky).\
 Pedagogicko-psychologická diagnostika je vědecká disciplína, která se
@@ -1305,7 +1305,7 @@ nabídnou pomoc, sezení, terapie )\
 4. Výzkumný ústav odborného školství\
 5.Informační a poradenská střediska UP ( pomoc na úřadu práce )\
 6. Kliničtí psychologové\
-####Ad4) Význam pedagogické psychologické diagnostiky pro školu :\
+####Ad#### Ad4) Význam pedagogické psychologické diagnostiky pro školu :\
 Význam PP diagnostiky pro školu\
 – Poruchy učení\
 – nejoblíbenější učitel\
@@ -1391,7 +1391,7 @@ Osnova:\
 
 <hr>
 
-####Ad1) Hodnocení – vymezení pojmu\
+####Ad#### Ad1) Hodnocení – vymezení pojmu\
 V obecném smyslu lze považovat za školní hodnocení/evaluaci/ zaujímání a
 vyjadřování kladného nebo záporného stanoviska učitelů k žákovi,
 vzhledem k jeho\
@@ -1406,7 +1406,7 @@ jako výchovný prostředek.\
 Hodnocení je důležité pro učitele, žáky i rodiče, ovlivňuje kvalitu
 výchovně vzdělávacího procesu a podílí se na vytváření sebepojetí žáka.
 
-####Ad2) Funkce hodnocení\
+####Ad#### Ad2) Funkce hodnocení\
 Informativní funkce evaluace – informace o dosaženém výsledku
 (+informace kontrolní, příp. diagnostická) – v současném školství hlavní
 důraz\
@@ -1440,7 +1440,7 @@ před ostatními, informovat žáka, rodiče, mít vše podložené\
 Číslo (známka) – nese minimum informací, doprovázet slovem, vysvětlovat,
 motivovat……….Velmi těžké!!!!!
 
-####Ad3) Negativní stránky hodnocení\
+####Ad#### Ad3) Negativní stránky hodnocení\
 Negativní atributy klasifikace (známkování momentálního výkonu žáka)\
 – odvádí žáka od podstaty učení\
 – nahrazuje přirozenou motivaci motivací vnější\
@@ -1449,7 +1449,7 @@ Negativní atributy klasifikace (známkování momentálního výkonu žáka)\
 – sociální diferenciace třídy\
 – může vést ke zdravotním obtížím
 
-####Ad4) Nástroje k hodnocení (prostředky evaluace)\
+####Ad#### Ad4) Nástroje k hodnocení (prostředky evaluace)\
 Prostředky evaluace\
 – didaktické testy – snaha po maximální objektivitě\
 – hodnocení na základě číselné škály (např. 1-5)\
@@ -1468,7 +1468,7 @@ Důležitost zpětné vazby.\
 Práce s chybou je přirozenou součástí procesu hledání\
 Vytváří postoje a dovednosti pro celoživotní vzdělávání
 
-####Ad5) Typy hodnocení\
+####Ad#### Ad5) Typy hodnocení\
 formativní/ průběžné/\
 – posuzuje pokrok žáků ve vztahu ke konkrétním cílům určité etapy
 vyučování a pomáhá učiteli se rozhodnout, jak dále pokračovat\
@@ -1814,7 +1814,7 @@ Osnova:\
 
 <hr>
 
-####Ad1. PEDAGOGIKA TRADIČNÍ\
+####Ad#### Ad1. PEDAGOGIKA TRADIČNÍ\
 Za zakladatele tradiční pedagogiky je považován J. F. Herbart
 (1776-1841)\
 X\
@@ -1839,7 +1839,7 @@ uspořádání výuky)\
 velkého rozsahu\
 poznatků
 
-####Ad2. MODERNÍ PEDAGOGIKA\
+####Ad#### Ad2. MODERNÍ PEDAGOGIKA\
 – opak tradiční, učitel = rádce, partner\
 – převzetí pozitivních rysů z reformní i tradiční pedagogiky\
 cíl:\
@@ -1864,7 +1864,7 @@ praktičnost, efektivita, dialog žáka a učitele\
 
  
 
-####Ad3. ALTERNATIVNÍ PEDAGOGIKA (viz. otázka č. 2)\
+####Ad#### Ad3. ALTERNATIVNÍ PEDAGOGIKA (viz. otázka č. 2)\
 Jiná možnost k většinovému (státnímu) vzdělávání\
 Největší rozvoj mezi světovými válkami 19. – 20. století\
 Zakladatelské země a velký rozvoj : Francie, Německo, Itálie, USA.\
@@ -1981,7 +1981,7 @@ Celestin Freinet (1896-1966)\
 „Na počátku každého pochopení stojí zkušenost, cvičení a práce, týdenní
 plán práce,třídní noviny, korespondence
 
-####Ad4. Základní pedagogické pojmy\
+####Ad#### Ad4. Základní pedagogické pojmy\
 pedagogika: věda o výchově a vzdělávání, cílený proces utváření
 osobnosti,\
 výchova: záměrná, cílevědomá soustava činností, proces změřený k
@@ -2214,7 +2214,7 @@ Osnova:\
 
 <hr>
 
-####Ad1. Dlouhodobá
+####Ad#### Ad1. Dlouhodobá
 
 Pregraduální vzdělávání – učíme se učit, splňovat kvalifikační
 předpoklady pro pedagogickou činnost dle zákona o pedagogických
@@ -2241,7 +2241,7 @@ reálný žák!!!!\
 • další vzdělávání učitelů, návštěvy seminářů – plán osobního
 rozvoje….!!! Myslet na svoje zdraví duševní a tělesné!!!
 
-####Ad2. Střednědobá\
+####Ad#### Ad2. Střednědobá\
 • tématické celky\
 • měsíční a týdenní plány\
 • způsob hodnocení v průběhu jednoho měsíce či týdne\
@@ -2256,7 +2256,7 @@ Pořád myslet co mohu v současnosti nabízet:\
 
 
 
-####Ad3. Krátkodobá
+####Ad#### Ad3. Krátkodobá
 
 Jedná se o přípravu na jednotlivé hodiny.
 
@@ -2331,7 +2331,7 @@ Osnova:\
 
 <hr>
 
-####Ad1) Vymezení základních pojmů\
+####Ad#### Ad1) Vymezení základních pojmů\
 • RODINA = základní sociální jednotka společnosti tvořená jedinci
 spojenými pokrevními svazky (rodiče a děti, sourozenci) a jistým právním
 vztahem, který vzniká uzavřením sňatku.\
@@ -2455,11 +2455,11 @@ specializované instituce = sekundární činitelé, jako je např. škola a
 různé instituce a organizace (např. církevní, sportovní, zdravotnické,
 ekonomické, odborné), sdělovací prostředky, apod.
 
-####Ad2) Vymezení základních právních norem z této oblasti
+####Ad#### Ad2) Vymezení základních právních norem z této oblasti
 
 Základní práva a povinnosti vymezuje zákon – o rodině a školský zákon!
 
-####Ad3) Vztah školy k rodině (zákonným zástupcům)
+####Ad#### Ad3) Vztah školy k rodině (zákonným zástupcům)
 
 Z pohledu školského zákona:\
 Škola poskytuje výchovně vzdělávací služby (viz. paragraf …..školského
@@ -2485,7 +2485,7 @@ Cílem školy by mělo být:\
 – spokojený zákonný zástupce\
 – spokojený zřizovatel
 
-####Ad4) Předpoklady úspěšného výchovného působení školy a rodiny\
+####Ad#### Ad4) Předpoklady úspěšného výchovného působení školy a rodiny\
 PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY\
 • soustavnost\
 • jednotnost\
@@ -2533,7 +2533,7 @@ a bojí se rodičů\
 nedostatečná výchova – zanedbávání dítěte, může vést až k týraní; máme
 ohlašovací povinnost
 
-####Ad5) Možné formy spolupráce školy a rodiny
+####Ad#### Ad5) Možné formy spolupráce školy a rodiny
 
 Na škole je jak dokáže nabídnout rodině možnosti spolupráce a
 informovanosti.\
@@ -2555,7 +2555,7 @@ předávání vysvědčení\
 atd.\
 – http://rodicevitani.cz/
 
-####Ad6) Práva a povinnosti žáků, zákonných zástupců a školy vymezuje
+####Ad#### Ad6) Práva a povinnosti žáků, zákonných zástupců a školy vymezuje
 školský zákon
 
 PRÁVA ŽÁKŮ A ZÁKONNÝCH ZÁSTUPCŮ NEZLETILÝCH ŽÁKŮ\
@@ -2638,7 +2638,7 @@ Osnova:\
 
 <hr>
 
-####Ad1. Vymezení základních pojmů\
+####Ad#### Ad1. Vymezení základních pojmů\
 Metodologie (z řečtiny) – Nauka o metodách vědeckého poznání.\
 Metodologie pedagogická – nauka (věda) o metodách vědecké práce v
 pedagogice.
@@ -2684,7 +2684,7 @@ kvalitativní výzkum filozofické základy :
  Kvantitativní – realita je poznatelná a měřitelná\
  Kvalitativní – existuje více realit popisovaných různými způsoby
 
-####Ad2. Empirický výzkum :\
+####Ad#### Ad2. Empirický výzkum :\
 Empirie (z řec. empeiros, zkušený) je zkušenost získaná pozorováním,
 případně pokusem (experimentem).
 
@@ -2818,7 +2818,7 @@ Zdůvodňování a ověřování hypotéz\
  jsou zamítány\
  Ověřování hypotéz – volba vhodných výzkumných metod
 
-####Ad3. Teoretický výzkum :\
+####Ad#### Ad3. Teoretický výzkum :\
 uplatňuje se tzv.historická metoda\
  Abstrakce\
  Analýza a syntéza\
@@ -2855,7 +2855,7 @@ Osnova:
 
 <hr>
 
-####Ad1.Základní legislativa\
+####Ad#### Ad1.Základní legislativa\
 • vzdělávací systém je upravován zákonem č. 561/2004 sb. O předkošlním ,
 základním, středním, vyšším odborném a jiném vzdělávání a zákonem o
 vysokých školách č. 111/1998 Sb\
@@ -2865,7 +2865,7 @@ Vzdělávací soustava\
 Musí být zapsány v rejstříku škol, aby byly uznány státem tj. doklady o
 vzdělání atd.
 
-####Ad2. ŠKOLY\
+####Ad#### Ad2. ŠKOLY\
 PŘEDŠKOLNÍ VZDĚLÁVÁNÍ\
 • počáteční stupeň veřejného vzdělávání, který je řízený pokyny MŠMT\
 • předškolní vzdělávání se realizuje v :\
@@ -2924,7 +2924,7 @@ skupinách\
 • denní studium či večerní v určitém hod. rozsahu uznává jako soustavnou
 přípravu na „povolání“ tj, platí i zdravotní a sociální.(?????)
 
-####Ad3. ŠKOLSKÁ ZAŘÍZENÍ A ŠKOLSKÉ SLUŽBY\
+####Ad#### Ad3. ŠKOLSKÁ ZAŘÍZENÍ A ŠKOLSKÉ SLUŽBY\
 • poskytují služby a vzdělávání, která doplňují nebo podporují
 vzdělávání ve školách nebo s ním přímo souvisejí, nebo zajišťují ústavní
 a ochranou výchovu anebo preventivní výchovnou péči (dále jen školské
@@ -2950,14 +2950,14 @@ ekonomicko-administrativní služby, knihovnické a informační služby pro
 žáky, zaměstnance atd.\
 • místa k praktickému vyučování (dílny)
 
-####Ad4. VYSOKÉ ŠKOLY\
+####Ad#### Ad4. VYSOKÉ ŠKOLY\
 • jsou samostatným článkem české vzdělávací soustavy\
 • jsou upravovány zákonem č. 111/1998 Sb., o vysokých školách\
 • vysoké školy máme univerzitní (UJEP, UK..) a neuniverzitní (VŠFS,
 VŠCHT)\
 • VŠ dělíme také na veřejné, soukromé a státní.
 
-####Ad5. Zvláštnosti našeho vzdělávacího systému\
+####Ad#### Ad5. Zvláštnosti našeho vzdělávacího systému\
 Jako celek je české školství podobné školstvím v cizích zemích , lze
 však registrovat nejdůležitější odlišnosti : – diferenciace vzdělávání
 již po ukončení 5. (7.) ročníku ZŠ = osmi(šesti)letá gymnázia – vyšší
@@ -3074,7 +3074,7 @@ Osnova:\
 
 <hr>
 
-####Ad1) Definice pojmu kompetence\
+####Ad#### Ad1) Definice pojmu kompetence\
 Klíčové kompetence = nový prvek ve vymezování vzdělávacích obsahů,
 
 Kompetence = souhrn vědomostí, dovedností, schopností, postojů a hodnot
@@ -3111,7 +3111,7 @@ Klíčové kompetence jsou vymezeny v RVP pro všechny stupně a typy škol a
 školy ve svých ŠVP tyto kompetence dále specifikují a snaží se jich u
 svých žáků dosahovat.
 
-####Ad2) Klíčové kompetence žáků na základní škole\
+####Ad#### Ad2) Klíčové kompetence žáků na základní škole\
 A) Klíčové kompetence základního vzdělání (vymezeny v RVP pro ZŠ):
 
 1\. kompetence k učení – naučit se učit, nutné celoživotní vzdělávání\
@@ -3215,7 +3215,7 @@ poštou, získávat informace z otevřených zdrojů, zejména pak s využitím
 Internetu, pracovat s informacemi z různých zdrojů nesenými na různých
 médiích, posuzovat rozdílnou věrohodnost různých informačních zdrojů a
 kriticky přistupovat k získaným informacím, být mediálně gramotní\
-####Ad3) Klíčové kompetence učitelů\
+####Ad#### Ad3) Klíčové kompetence učitelů\
 Návrh profesní standardy podle J. Vašutové – učitel všeobecně
 vzdělávacích předmětů 2. stupeň ZŠ a SŠ :
 
@@ -3361,7 +3361,7 @@ vzdělávání)\
 • vzdělávací oblast – orientační rozdělení vzdělávacího obsahu (v RVP
 pro základní vzdělávání např. oblast Člověk a příroda)
 
-Příkl####Ad– RVP pro základní vzdělání je vzdělávací obsah rozdělen do 9
+Příkl####Ad#### Ad– RVP pro základní vzdělání je vzdělávací obsah rozdělen do 9
 vzdělávacích oblastí\
 1. jazyk a jazyková komunikace\
 2. matematika a její aplikace\
