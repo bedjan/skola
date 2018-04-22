@@ -2957,8 +2957,93 @@ formou VŠ
 
 [Zpět k obsahu](#)
 
-**18.B) Procesy a prostředky evaluace a autoevaluace.**
+**18. Procesy a prostředky evaluace a autoevaluace.**
 
+Pedagogická evaluace je vědní disciplína, která se zabývá sběrem a vyhodnocováním dat, týkajících se kvality vzdělávání, jak přímo ve školách, tak v rámci celého vzdělávacího systému. Pedagogická evaluace se tedy nezabývá pouze školním hodnocením, ale také zlepšováním a upravováním vzdělávacích strategií. Tzn., že vyvolává očekávané změny. Důležitou roli v procesu evaluace hraje také názor hodnotitele, tedy to, co hodnotitel vnímá jako dobré nebo špatné. V evaluačním procesu se využívá převážně kvantitativní měření a kvalitativní se odsouvá do pozadí.
+
+**Evaluace x hodnocení**
+
+V obecné rovině se jedná o synonym, ale v pedagogice jsou tyto pojmy nepatrně rozdílné. Evaluace je široký odborný pojem, který zahrnuje teorii, metodologii a praxi veškerého hodnocení různých pedagogických jevů. Hodnocení se využívá v konkrétnějších případech, např. hodnocení žáků, hodnocení práce učitelů.
+
+**Vnitřní a vnější evaluace**
+
+**Vnější evaluace** má velký potenciál postihovat řadu ukazatelů práce školy, ale těžko díky ní získáme data o rozhodujících pedagogických a dalších procesech v životě školy, právě zde má silnější potenciál **vnitřní evaluace (autoevaluace)**. Je nutno hledat rovnováhu mezi tím, co z autoevaluace činí vnitřní prostředek rozvoje školy a mezi požadavkem, aby byla autoevaluace rozvíjena jako široký proces, v němž je zajištěn explicitní vztah mezi interním a externím hodnocením, vztah mezi školou a jejím širším vnějším prostředím. Jen obě společně mohou tvořit zdravý systém pro rozvoj školy. Např. v Dlouhodobém záměru vzdělávání a rozvoje vzdělávací soustavy České republiky (2005) se zdůrazňuje autoevaluace školy jako jeden z nejdůležitějších vstupů pro externí hodnocení školy Českou školní inspekcí. Jak data získaná z vnější evaluace, tak data získaná při autoevaluaci mohou mít nejen značný význam pro ucelenější poznání stavu sledované reality školního života, ale v důsledku i pro úspěch případných snah poznaný stav reality měnit.
+
+**Autoevaluace**
+
+V posledních letech se začal v různých vyspělých školských systémech klást důraz na snahu škol generovat ve škole vlastními silami data, která se bezprostředně týkají práce školy samé. Tato data slouží k reflexi vlastní práce, k jejímu hodnocení, k interpretaci reality školního života, k diskuzím, zda a jak věci ponechávat v jejich existujícím stavu či je měnit směrem k vyšší kvalitě = pro tyto procesy je termín „autoevaluace školy“. Je to kolektivní proces zjišťování dat o předem dohodnutých aspektech práce školy, na kterém se podílejí předem dohodnutí zástupci různých skupin aktérů školního života. Je realizována prostřednictvím různých metod a technik, výsledky jsou ve škole interně diskutovány, podle toho se škola dále rozhoduje, jaké kroky podnikne.Je to proces, který se periodicky opakuje a který, má-li být úspěšný, je nutno řídit.V dobrém případě je autoevaluace základem pro plánování rozvoje školy.
+
+**Autoevaluační smyčku**, která posunuje organizaci jako celek k vyšší kvalitě, lze charakterizovat následujícími kroky: analýza vlastní situace v řízení kvality; plánování opatření k zlepšení kvality; realizace opatření k zlepšení kvality; vyhodnocení účinnosti plánovaných a realizovaných opatření; plánování nových opatření k dalšímu zlepšování kvality
+
+**Na autoevaluaci bývá nahlíženo jako na:**
+
+ekonomicky nenáročný a potenciálně významný prostředek zkvalitňování práce škol
+proces, který je třeba rozvíjet v zájmu dobře pracujících škol
+nástroj uplatňování požadavku, aby školy skládaly účty za své práce
+žádoucí doplněk vnější evaluace
+prostředek demokratizace školního života, rozvoje participativních forem života a práce ve školách
+nástroj rozvíjející dialog hlavních aktérů školního života o školách a jejich práci
+prostředek umožňující školám rozhodovat na základě
+znalosti věci
+
+předpoklad udržitelnosti kvality práce škol a další.
+
+**Přístupy k pedagogické evaluaci:**
+
+**Tradiční**
+
+snaha hledat objektivitu a uplatňovat tzv. vědecké přístupy skrze hodnotící standardy, je poměrně příznačné, že dominantní hodnoty, které se v tomto procesu uplatňují, vycházejí především s priorit hodnotitele
+v tomto paradigmatu se také často spoléhá na kvantitativní měření, na data, která lze sečíst, srovnat, vyjádřit kvantitativně; naproti tomu kvalitativní aspekty (subjektivní) je tendence je opomíjet, upozaďovat
+
+**Participativní, dialogické**
+
+evaluace je organická součást rozvoje/změny, v tomto případě evaluace obsahuje reflexi a její význam se doceňuje, dá se hovořit o snaze docenit reflexi akce
+subjektivita má svou hodnotu, evaluace se zaměřuje nejen na měření konkrétních hodnot
+podstatně méně se používají formální metody, často jde o postupy, jako jsou nestrukturované rozhovory, pozorování a akcentuje se silně komunikace zúčastněných/dialog
+Průběh
+Evaluace není jednorázový akt, ale má více kroků. Je to ucelený proces, který by se dal nazvat jako „proces řízení kvality“ na úrovni organizace či jednotlivce.
+
+**Skládá se ze tří fází:**
+
+**Příprava**  Stanovení cílů a kompetencí, které budou rozvíjeny. Plánování metod a techniky na základě znalosti cílové skupiny a znalosti stanovených cílů
+
+**Realizace**  Realizace všech naplánovaných aktivit. Plánu není nutné se striktně držet. Hodnocení probýhá průběžně, na základě čehož se mění směr a případná mprovace.
+
+**Vyhodnocení** Vyhodnocení toho, zda byl splněn plán a jakým způsobem. Vyvození závěrů, zda byla odhalena slabá místa. Návrhy možných zlepšení.
+Cílem evaluace je kontrola průběhu aktivit a následné objevení slabých míst, za účelem zlepšení.
+
+**Pedagogická evaluace v ČR**
+Hlavním vnějším evaluátorem v České republice je Česká školní inspekce. Jedná se o státem řízený orgán, který pracuje na základně objednávky ministerstva nebo stížnosti rodičů. Hlavní podstatou této činnosti je zaručení odpovědnosti škol vůči veřejnosti.
+
+Výsledky hodnocení Českou školní inspekcí zaznamenané v inspekční zprávě, jsou velmi důležitou informací nejen pro státní správu, ale i pro samotnou školu. Jsou jí důležitou zpětnou vazbou a východiskem pro další práci. Hodnocení tohoto inspekčního orgánu vychází ze studia materiálů a závěrů z pozorování, které ne vždy umožňuje proniknout do podstaty problémů. Proto by jedním z nových podkladů pro její práci měla být zpráva o vnitřním hodnocení školy. Dle Národního programu rozvoje vzdělávání by ČŠI neměla plnit jen funkci kontrolní, ale zabývat se i činností poradenskou a konzultační, a pomáhat tak školám v zavádění jejich vnitřní evaluace, a tím i tzv. evaluační kultury.
+
+Dalším evaluátorem mohou být i samotní rodiče studentů, kteří přinášejí podnětné připomínky a kritiku.
+
+**Oblasti pedagogické evaluace:**
+
+Evaluace vzdělávacích potřeb
+
+Evaluace vzdělávacích programů
+
+Evaluace učebnic
+
+Evaluace reálné výuky
+
+Evaluace edukačního prostředí
+
+Vzdělávací výsledky a jejich evaluace
+
+Evaluace prostřednictvím standardů
+
+Evaluace efektů vzdělávání
+
+Evaluace efektivnosti škol
+
+Evaluace na základě indikátorů
+
+Autoevaluace škol
+
+Evaluace pedagogického výzkumu
 
 
 
