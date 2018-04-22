@@ -1,11 +1,12 @@
-1A. Pedagogika a základní pedagogické disciplíny
+**1A. Pedagogika a základní pedagogické disciplíny**
+...
 
 Pedagogika je věda, která se zabývá výchovou a vzděláváním, které chápe
 jako cílevědomý a záměrný proces na utváření a formování osobnosti
 člověka.
 
 Výchova je cílevědomá činnost zaměřená na předávání vzorců, norem a
-pravidel chování platných ve společnosti („umravňování“).
+pravidel chování platných ve společnosti („umravňování“).
 
 Složky výchovy: mravní (utvářející systém hodnot a norem jedince),
 rozumovou (formující a rozvíjející intelekt člověka), tělesnou,
@@ -14,19 +15,19 @@ uměleckou atd.
 Cíl výchovy: Vytvoření svědomí, které odpovídá společenské morálce.
 Cílem výchovy je jedinec, který si zvnitřní (interiorizuje) normy
 chování, hodnoty, postoje, které vycházejí ze společenské morálky a
-reálně se podle nich v životě chová (extetizuje).
+reálně se podle nich v životě chová (extetizuje).
 
 Vzdělávání je cílený proces zaměřený na získávání, předávání a
 osvojování poznatků, vědomostí a dovedností. Výsledkem vzdělávání je
 vzdělání. Vzdělání je souhrn vědomostí, poznatků a dovedností potřebných
 pro občanský, rodinný a profesní život. Vzdělávání je nejčastěji
 realizováno prostřednictví školního vzdělávání, které nazýváme vyučování
-při němž dochází k nějakému druhu učení.
+při němž dochází k nějakému druhu učení.
 
 Pedagogika musí splňovat požadavky: měla by přinést nějaký *užitek –
 reálný význam pro společnost* (výchovné zásady), musí mít jasně
 definovaný *předmět zkoumání* (výchova a vzdělávání), musí mít *soubor
-výzkumných metod* (rozhovor, pozorování), *vymezený vztah k jiným vědám
+výzkumných metod* (rozhovor, pozorování), *vymezený vztah k jiným vědám
 (*dějiny pedagogiky, pedagogická psychologie …), musí být *prováděna
 odbornými pracovníky (*VŠ pedagogické a filozofické fakulty
 
@@ -37,14 +38,14 @@ sociální P, P osobnostního a sociálního vývoje, Enviromentální výchova,
 Multikulturní výchova, Ekonomika vzdělání ,Školská statistika, Školní
 zdravotnictví a školní hygiena, Kybernetická P, Teorie řízení školních
 zařízení , Dramatická výchova) a *aplikované pedagogické disciplíny:*
-dělíme z hlediska A) věkových stadií rozvoje osobnosti (předškolní ped.,
+dělíme z hlediska A) věkových stadií rozvoje osobnosti (předškolní ped.,
 ped. ZŠ /tzv. primární ped/, středoškolská ped., vysokoškolská ped.,
 andragogika, gerontopedagogika),
 
-B\) z  hlediska společenských oblastí( P. podnikového vzdělávání, volného
+B\) z  hlediska společenských oblastí( P. podnikového vzdělávání, volného
 času, masově vzdělávacích prostředků atd.),
 
-C\) z hlediska výchovných zařízení,zahrnuje i školské hledisko
+C\) z hlediska výchovných zařízení,zahrnuje i školské hledisko
 (Předškolní pedagogika, Školní pedagogika, Mimoškolní pedagogika, Na
 hranici mezi školní a mimoškolní pedagogikou se rozvíjejí (Andragogika,
 Gerontopedagogika, Pedagogická prognostika, ale i Oborové didaktiky
@@ -52,7 +53,7 @@ Gerontopedagogika, Pedagogická prognostika, ale i Oborové didaktiky
 Polytechnické pedagogik, Pedagogika sportu)
 
 **2A. Nejvýznamnější problémy současného školství, kurikulární reforma,
-alternativní školy **
+alternativní školy**
 
 **Reforma školství** –ŠVP, RVP, státní maturity, Pravomoce učitelů,
 Agresivita žáků, Postavení učitelů ve škole, Úbytek dětí ve školství –
@@ -62,7 +63,7 @@ vědecké poznání, Obměna pedagogické profese, Příprava učitelů na VŠ
 /didaktika/ „Jak učit.“
 
 **Kurikulum -** obsah veškeré zkušenosti, kterou žáci získávají ve škole
-a v činnostech ke škole se vztahující tj. vědomosti, dovednosti,
+a v činnostech ke škole se vztahující tj. vědomosti, dovednosti,
 hodnoty, postoje, názory. Kurikulum je ovlivňováno:
 
 Žáky = věk, počet, schopnosti a dovednosti,
@@ -93,20 +94,20 @@ sebehodnocení žáka, Aktivní podíl rodičů na utváření školního život
 
 ***Waldorfské školy***
 
-- první škola vycházející z antroposofie, filozoficko-pedagogická
-koncepce Rakušana Rudolfa Steinera, založil ji v roce 1919 v německé
+- první škola vycházející z antroposofie, filozoficko-pedagogická
+koncepce Rakušana Rudolfa Steinera, založil ji v roce 1919 v německé
 obci Waldorf Emil Molt, u nás počátkem 90.let 20.století, je 12-letá
 všeobecně vzdělávací škola, má rozvíjet aktivitu dětí, jejich zájmy a
-potřeby, klade důraz na rozvoj dětí v praktických a uměleckých oborech,
+potřeby, klade důraz na rozvoj dětí v praktických a uměleckých oborech,
 vyučovací předměty se dělí na hlavní a vedlejší, vyučování hlavní
-předmětů probíhá v epochách /100 a 120minutové ranní vyučovací bloky/,
+předmětů probíhá v epochách /100 a 120minutové ranní vyučovací bloky/,
 důraz na kooperaci a rozvoj sociálního cítění žáků, žáci si vedou
 epochové sešity, dát žákům základní kostru poznatků
 
 ***Montessoriovské školy***
 
 Maria Montessori, italská lékařka,originální systém antiautoritavní
-výchovy, k základním principům patří úcta ke svobodě dítěte a k jeho
+výchovy, k základním principům patří úcta ke svobodě dítěte a k jeho
 spontánním projevům, klade důraz na didakticky kladně upraveného
 prostředí, které napomáhají přirozenému vývoji dítěte, při přípravě
 prostředí hraje důležitou roli smyslový materiál, vychovatel sám zůstává
@@ -118,9 +119,9 @@ pokračuje svobodnou pracovní fází
 **3A. Výukové metody – klasifikace, charakteristiky**
 
 **výchovně vzdělávací metoda:**způsob práce učitele jímž organizuje
-činnost žáků k dosažení výchovně vzdělávacích cílů
+činnost žáků k dosažení výchovně vzdělávacích cílů
 
-**Volbu výchovně vzdělávací metody v praxi ovlivňuje:** druh a stupeň
+**Volbu výchovně vzdělávací metody v praxi ovlivňuje:** druh a stupeň
 vzdělávací instituce či školy, charakter předmětu či oboru, počet
 vyučovaných žáků , učební možnosti žáků, jejich osobnostní předpoklady
 (věkové, úroveň studijní připravenosti, osobnostní charakteristika
@@ -130,14 +131,14 @@ vyučovacích metod, psychologické charakteristiky žáků a třídy (sociáln�
 skupiny) jako celku, zvláštnosti vnějších podmínek vyučování (
 prostorové uspořádání místa výuky, geografické podmínky), osobnost
 učitele (úroveň teoretické a praktické přípravy, schopnost metodického
-mistrovství, osobnostní předpoklady, vlastní zkušenosti z oboru, atd.)
+mistrovství, osobnostní předpoklady, vlastní zkušenosti z oboru, atd.)
 
 *Dělení výchovně vzdělávací metody:*
 
 **A) monologické** (založené na využívání souvislého mluveného projevu
 jednotlivce – učitele či žáka): **vyprávění:** konkrétnost, epičnost,
 živost, bohatost představ, **vysvětlování:** důležitým rysem je logika
-výkladu, **výklad:** nejčastější v ČR, logické vysvětlení, Struktura
+výkladu, **výklad:** nejčastější v ČR, logické vysvětlení, Struktura
 výkladu (i přednášky): sdělení tématu (úvod), jádro výkladu, praktické
 příklady, zajímavosti a fakta, **přednáška:** větší strohostí, při
 objasňování rozsáhlejších a důležitých témat, měla by shrnovat nové
@@ -146,8 +147,8 @@ prostá informovanost o nějakém postupu, širší instruktáže – praxe či
 exkurze, **Souvislé vystoupení studenta:** například při prezentaci
 referátu
 
-**B) práce s textem** (založené na práci s textovými pomůckami):
-**Reproduktivní** – žák se učí informacím, které jsou v textu obsaženy,
+**B) práce s textem** (založené na práci s textovými pomůckami):
+**Reproduktivní** – žák se učí informacím, které jsou v textu obsaženy,
 **Produktivní** (tvořivé) – text podněcuje tvořivou činnost žáka.
 
 **C) dialogické** (založené především na činnostním principu rozhovoru):
@@ -156,17 +157,17 @@ jiné metody, objasňující, opakující, shrnující. **Panelová diskuse:**
 skupiny nebo jednotlivci hovoří o jednom problémovém tématu (problému),
 na kterou se dívají posluchači a sledují ji (mohou se i ptát).
 **Technika konfrontace:** hovoří se na volné téma, každý přijde
-s příspěvkem, který se odpřednáší a na základě toho se dále diskutuje.
+s příspěvkem, který se odpřednáší a na základě toho se dále diskutuje.
 B**rainstorming, mapování mysli** D) NÁZORNĚ-DEMONSTRAČNÍ M.: založené
 především na pozorovací činnosti žáků, žákům se něco ukáže (např. děj,
-proces, životní situace) a poté se s tím dále pracuje (názory, postoje,
+proces, životní situace) a poté se s tím dále pracuje (názory, postoje,
 další možnosti řešení), nejjednodušší formou demonstračních metod je
 ilustrace, která doplňuje slovní výklad
 
 E\) ROZBOROVÉ M.: žáci provádějí analýzu např. textových materiálů,
-chování osob, stanovisek k různým problémům, historických pramenů,
+chování osob, stanovisek k různým problémům, historických pramenů,
 schémat, …F) SITUAČNÍ M.: předmětem analýzy je ucelená reálná situace
-z profesního či osobního života, cílem je pak věcný rozbor situace
+z profesního či osobního života, cílem je pak věcný rozbor situace
 
 G\) PROJEKTOVÉ M.: založena na analyticko-syntetické činnosti, učitel
 vytvoří se třídou nějaký projekt, H) INSCENAČNÍ M.: praktické
@@ -190,16 +191,16 @@ se opírají o didaktický trojúhelník.
 
 ***a) individuální vyučování*** učitel řídí jednotlivé žáky nezávisle na
 sobě, student pracuje svým tempem a výběr učiva záleží na učiteli, který
-pracuje s jednotlivcem nebo malou skupinkou, je zde vedena dvousměrná
-komunikace, každého s každým, kladem je individuální tempo +
+pracuje s jednotlivcem nebo malou skupinkou, je zde vedena dvousměrná
+komunikace, každého s každým, kladem je individuální tempo +
 přizpůsobování se zcela žákovi, záporem pak nákladnost, absence kontaktu
-s druhými dětmi, nepatrné dosažené výsledky
+s druhými dětmi, nepatrné dosažené výsledky
 
 ***b) hromadné vyučování*** učitel řídí učební činnost velké skupiny
 žáků současně, nejběžnější způsob organizace vyučovacího procesu ve
-škole, vertikální dvousměrná komunikace učitele na žáky, v níž se
-uplatňuje vzájemná komunikace učitele s jednotlivými žáky ve třídě, na 1
-učitele připadá skupina žáků, učí se ve třídě v rámci vyučovacích hodin,
+škole, vertikální dvousměrná komunikace učitele na žáky, v níž se
+uplatňuje vzájemná komunikace učitele s jednotlivými žáky ve třídě, na 1
+učitele připadá skupina žáků, učí se ve třídě v rámci vyučovacích hodin,
 učivo uspořádáno do předmětů
 
 ***c) smíšené formy vyučování -*** kombinované formy snažící se využít
@@ -211,13 +212,13 @@ předmětů)
 2\. hledisko časové rozložení učiva do dnů, týdnů a školních let, délka a
 struktura hodiny
 
-3\. hledisko místa (prostoru) vyučování v kmenové či jiné třídě,
-v odborných pracovnách, v laboratořích, v tělocvičně, v bazéně, na
-školním pozemku, v mimoškolních zařízeních (exkurze, praxe)
+3\. hledisko místa (prostoru) vyučování v kmenové či jiné třídě,
+v odborných pracovnách, v laboratořích, v tělocvičně, v bazéně, na
+školním pozemku, v mimoškolních zařízeních (exkurze, praxe)
 
 ***Formy výuky:*** 1. **třídně hodinový systém -** frontální výuka, žáci
 jsou rozdělováni do tříd, orientována na kognitivní procesy, učivo
-uspořádáno v učebních předmětech, vyučování probíhá v předem určených
+uspořádáno v učebních předmětech, vyučování probíhá v předem určených
 časových jednotkách (45 min), prostorové uspořádání výuky podřízeno
 hromadnému vyučování, + s malými náklady vzdělává velký počet žáků, -
 uniformita žáků, potlačuje samostatnost a tvořivost
@@ -230,14 +231,14 @@ metody skupinového vyuč. – skupinová diskuze, skupinová argumentace
 
 3.**kooperativní vyučování** – práce ve skupině jejíž cílem je
 individuální a osobnostně sociální rozvoj jednotlivce – je založeno na
-principu spolupráce, celá skupina má prospěch z činnosti jednotlivce
+principu spolupráce, celá skupina má prospěch z činnosti jednotlivce
 
 4\. **inovační formy** vyučování - např. problémové vyučování
 
 **5A. Didaktické zásady ve výuce,význam,realizace**
 
 ***DIDAKTIKA*** = nauka či teorie vyučování, základní vědecká disciplína
-v ped.
+v ped.
 
 ***Dělení didaktiky:* Obecná** (obecné zásady či zákonitosti vyučování),
 **Oborová** (obecné zásady či zákonitosti při vyučování určitého oboru),
@@ -247,13 +248,13 @@ se speciálně vzdělávacími potřebami)
 
 **Didaktické zásady** jsou zobecněné a ověřené postupy, které zvyšují
 efektivitu a účinnost vyučování (výchovně vzdělávacího procesu),
-Didaktické zásady se obecně vztahují k didaktickému trojúhelníku: vztah
-k učivu, vztah k činnosti učitele, vztah k činnosti žáků
+Didaktické zásady se obecně vztahují k didaktickému trojúhelníku: vztah
+k učivu, vztah k činnosti učitele, vztah k činnosti žáků
 
 **Příklady didaktických zásad**: od jednoduššího ke složitějšímu,
 názornost = využívat všech smyslů, střídání činností, opakování matka
 moudrosti, škola hrou, aneb kdo si hraje nezlobí,kdo nezaujme, ten
-neexistuje,příklady táhnou, dobrá motivace polovina úspěchu, s úsměvem
+neexistuje,příklady táhnou, dobrá motivace polovina úspěchu, s úsměvem
 jde všechno líp (humor, smích, bavit)
 
 Druhy didaktických zásad: <span
@@ -271,7 +272,7 @@ vědeckosti** (Učitel se musí mít nové poznatky věd (např. rychlý vývoj 
 oblasti informatiky, biologie apod.), a trendy v rámci učitelské profese
 (např. nové pedagogické metody apod.), <span
 id="Z.C3.A1sada_spojen.C3.AD_teorie_s_prax.C"
-class="anchor"></span>**Zásada spojení teorie s praxí,** <span
+class="anchor"></span>**Zásada spojení teorie s praxí,** <span
 id="Z.C3.A1sada_p.C5.99im.C4.9B.C5.99enosti"
 class="anchor"></span>**Zásada přiměřenosti**<span
 id="Z.C3.A1sada_individu.C3.A1ln.C3.ADho_p.C" class="anchor"></span>**,
@@ -307,7 +308,7 @@ prevence, inkluze, integrace, pozitivní diskriminace, depistáž – cílené
 vyhledávání, dispenzarizace – cílený dohled, osvěta (osvětové programy),
 edukace, reedukace
 
-*Reálně se jedná zejména o práci s:* s národnostním menšinami (romové,
+*Reálně se jedná zejména o práci s:* s národnostním menšinami (romové,
 sově. Svaz, asijské státy atd.), práce s problémovými skupinami (drogy,
 nezaměstnaní atd.), „kapsy chudoby“, sociální péče (různé sociální
 programy, pouliční pracovníci, komunitní centra), práce ve volném čase
@@ -345,46 +346,46 @@ bývalý sovětský svaz, větnam atd.
 Hlavní problémy: socializace a resocializace tj. zejména oblast výchovy
 a vzdělávání, soužití majoritní a minoritní společnosti (mravní normy,
 hodnoty, rodinné tradice atd.), integrace a reintegrace, kapsy
-sociálního vyloučení a chudoby, **IV. Lidé v a z nápravně výchovných
+sociálního vyloučení a chudoby, **IV. Lidé v a z nápravně výchovných
 zařízeních, V. Sekty **
 
 **7A . Výchova – vymezení pojmu, složky výchovy, výchovné cíle**
 
 Výchova je cílevědomá činnost zaměřená na předávání vzorců, norem a
-pravidel chování platných ve společnosti, tj. je to cílevědomá činnost
+pravidel chování platných ve společnosti, tj. je to cílevědomá činnost
 zaměřená na utváření osobnosti člověka. Výchovu lze pojímat jako
 specifický druh socializace (začleňování jedince do společnosti)
 Pedagogika je vědou o výchově.
 
-*Rysy a stránky výchovy:* výchova vede k formování a zdokonalování
-osobnosti, výchova připravuje k plnému žití, výchova připravuje jedince
-pro různé aktivity a práci, výchova vede k osvojení lidské kultury,
-morálky a k osvojování společenských rolí, výchova pomáhá vytvořit si
+*Rysy a stránky výchovy:* výchova vede k formování a zdokonalování
+osobnosti, výchova připravuje k plnému žití, výchova připravuje jedince
+pro různé aktivity a práci, výchova vede k osvojení lidské kultury,
+morálky a k osvojování společenských rolí, výchova pomáhá vytvořit si
 vztah ke světu atd…
 
-Výchova a vzdělání jsou v praxi zpravidla vzájemně spjaty. Vždy, když
+Výchova a vzdělání jsou v praxi zpravidla vzájemně spjaty. Vždy, když
 vychovávám, tak i vzdělávám a naopak*. *
 
 Složky výchovy - Mravní – etická (správné x špatné, dobro x a zlo,
 etické chování), Estetická – nauka o krásnu (co je hezké, ošklivé,
-vkus), Tělesná – fýzis=tělo, výhova k pohybu, zdravému živ. stylu,
-Pracovní – k práci, radost z práce, z výsledků, vážit si práce druhých,
+vkus), Tělesná – fýzis=tělo, výhova k pohybu, zdravému živ. stylu,
+Pracovní – k práci, radost z práce, z výsledků, vážit si práce druhých,
 Matematicko – logická – analýza a syntéza, logické uvažování,
-Emocionální – citová – umět vyjadřovat, vnímat a zacházet s city,
+Emocionální – citová – umět vyjadřovat, vnímat a zacházet s city,
 psychikou, Hudební – tóny, rytmy
 
 Výchovně vzdělávací cíle je očekávaný a předem zamýšlený výsledek
-výchovně vzdělávacího procesu, ke kterému vzdělavatel v součinnosti
-s žákem směřuje.
+výchovně vzdělávacího procesu, ke kterému vzdělavatel v součinnosti
+s žákem směřuje.
 
-***VV cíle:** Cíle v oblasti učiva* – zpravidla určují, jaké vědomosti
+***VV cíle:** Cíle v oblasti učiva* – zpravidla určují, jaké vědomosti
 (fakta, pojmy, vztahy) mají být osvojeny a kterým dovednostem je třeba
-se naučit), *Cíle v oblasti rozvoje osobnosti* – rozvíjí osobnost a
+se naučit), *Cíle v oblasti rozvoje osobnosti* – rozvíjí osobnost a
 morální strán. jedince, dělí se na a) **osobnostně rozvojové cíle**
 (sebepoznání, psychohygiena, organizace vlastního života…), b)
-**sociálně rozvojové cíle** (pěstování dobrých vztahů s lidmi,
-komunikace, kooperace, chování v různých rolích) c) **eticky rozvojové
-cíle** (vztah k sobě samému, mezilidské vztahy, hodnotové žebříčky žáka)
+**sociálně rozvojové cíle** (pěstování dobrých vztahů s lidmi,
+komunikace, kooperace, chování v různých rolích) c) **eticky rozvojové
+cíle** (vztah k sobě samému, mezilidské vztahy, hodnotové žebříčky žáka)
 
 **VV cíle mají tyto funkce:** motivační, kontrolní, organizační,
 ideologickou, syntetizující (slučovací)
@@ -412,16 +413,16 @@ výchovně-vzdělávacího procesu školy**
 **Diagnostický proces je** období kdy se zjišťují informace o žákovi,
 události, jevu atd**.**
 
-**Základní diagnostické metody** používané v rámci diagnostického
+**Základní diagnostické metody** používané v rámci diagnostického
 procesu**: Anamnéza („rozpomínání na předchorobí“), retrospektivní
 rozhovor – osobní, rodinná, pracovní atd. Studium materiálů, prací,
 výtvorů** *( analýza výsledků práce žáků, písemných prací na dané téma.
-Dále např. i kresba stromu s názvem člena rodiny značí svou velikostí
+Dále např. i kresba stromu s názvem člena rodiny značí svou velikostí
 důležitost postavení atd. )***Analýza pedagogické dokumentace,
 Didaktické testy, Sociometrie, Diagnostický rozhovor, Šetření (rodina,
 škola, skupina), Pozorování , Dotazníkové metody atd**
 
- Výsledkem diagnostického procesu je **diagnóza.**  Z diagnózy vychází
+ Výsledkem diagnostického procesu je **diagnóza.**  Z diagnózy vychází
 intervence(zásah, opatření, reedukace léčba, atd.) pak se zhodnotí.
 
 **PED.-PSYCHOL. DIAGNOSTIKA** = je součástí celého VV procesu. Neboli od
@@ -431,16 +432,16 @@ vzdělávacího procesu, jeho podmínkami a výsledky: *porovnání zvládnutí
 učiva žákem a předem definovanou normou* – zpětná vazba pro učitele i
 žáky ( např. porovnání znalostí před výukou se znalostmi po výuce,
 *porovnání výsledků žáků mezi sebou navzájem* – cílem je roztřídit žáky
-dle znalostí, *individuální sledování pokroku žáka v učení*[^1] - na
+dle znalostí, *individuální sledování pokroku žáka v učení*[^1] - na
 základě řady časových testů zjistíme pokrok žáka, *porovnání výsledku
-žáka s výsledkem populace* – na základě standardizovaných testů
-zjistíme, na jakém místě v populaci by se žák s daným výkonem umístil,
+žáka s výsledkem populace* – na základě standardizovaných testů
+zjistíme, na jakém místě v populaci by se žák s daným výkonem umístil,
 *porovnávání výsledků skupin žáků*: porovnání výsledků skupin žáků.
 
 **B)** **psychikou** žáků, ped. pracovníků, zákonných zástupců
 
 **Oblasti diagnostiky při posuzování dítěte**: zdravotní obtíže
-v minulosti a současný **zdravotní stav**, **schopnosti** – rozumové,
+v minulosti a současný **zdravotní stav**, **schopnosti** – rozumové,
 motivace, temperament, úroveň koncentrace, vnímání sebe samého, prožitky
 a zkušenosti, paměť, řeč, zájmy, sebepojetí, sebehodnocení, zraková
 percepce, sluchová p., pravolevá a prostorová orientace, kinestetické
@@ -451,21 +452,21 @@ vnímání, hmat, jemná a hrubá motorika, grafomotorika, vrozené a zděděné
 prostředí .
 
 **Může se provádět *ve škole: ***Učitel, výchovný poradce, preventiva,
-školní psycholog, vedení, externisti – SPC, PPP, ČŠI atd. 
+školní psycholog, vedení, externisti – SPC, PPP, ČŠI atd. 
 
-***Mimo školu:*** Specializovaná pracoviště: **1. PPP –
+***Mimo školu:*** Specializovaná pracoviště: **1. PPP –
 pedagogicko-psychologická poradna , 2. SPC – speciální pedagogické
 centrum zaměřená na různé oblasti** *,* **3. SVP – střediska výchovné
 péče** , **4. Výzkumný ústav odborného školství, 5.Informační a
-poradenská střediska UP** *( pomoc na úřadu práce ),* **6. Kliničtí
+poradenská střediska UP** *( pomoc na úřadu práce ),* **6. Kliničtí
 psychologové**
 
 **9A. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY HODNOCENÍ**
 
 **Školní hodnocení**/evaluaci/ představuje vyjadřování kladného nebo
-záporného stanoviska učitelů k žákovi, vzhledem k jeho vědomostem,
+záporného stanoviska učitelů k žákovi, vzhledem k jeho vědomostem,
 dovednostem, postojům, vlastnostem. **Smyslem a funkcí** je poskytnout
-informaci žákům o dosažených výsledcích procesu učení. V tomto smyslu
+informaci žákům o dosažených výsledcích procesu učení. V tomto smyslu
 chápeme hodnocení jako výchovný prostředek. Hodnocení je důležité pro
 učitele, žáky i rodiče, ovlivňuje kvalitu výchovně vzdělávacího procesu
 a podílí se na vytváření sebepojetí žáka.
@@ -480,33 +481,33 @@ efektivnosti jeho pedagogické činnosti
 ***Pro žáky***- zpětná vazba o zvládnutí požadavků stanovených
 vzdělávacím programem, učí žáka sebehan.
 
-***Pro rodiče*** významnou informací, která nemá vést k postihování, ale
+***Pro rodiče*** významnou informací, která nemá vést k postihování, ale
 má ukázat cestu k nápravě
 
-Hodnocení – **jedna z nejnáročnějších a nejtěžších činností učitele.**
-Hodnocení – má obrovský význam z hlediska sociálního pro žáka, rodiče i
+Hodnocení – **jedna z nejnáročnějších a nejtěžších činností učitele.**
+Hodnocení – má obrovský význam z hlediska sociálního pro žáka, rodiče i
 společnost!!!!!, ovlivňuje psychiku i zdraví.
 
 ***Citlivě vycházet z:***legislativy, školního řádu, individuality žáka,
 složení třídy, rodinného prostředí
 
 **Negativní stránky hodnocení:** odvádí žáka od podstaty učení,
-nahrazuje přirozenou motivaci, motivací vnější, vede k vyhýbání se
+nahrazuje přirozenou motivaci, motivací vnější, vede k vyhýbání se
 neúspěchu všemi prostředky, konfirmace dispozic k negativním morálním
 vlastnostem, sociální diferenciace třídy, může vést ke zdravotním
 obtížím
 
-**Nástroje k hodnocení (prostředky evaluace):** didaktické testy – snaha
+**Nástroje k hodnocení (prostředky evaluace):** didaktické testy – snaha
 po maximální objektivitě, hodnocení na základě číselné škály (např.
 1-5), výkonové grafy, výkonové křivky, slovní hodnocení žáků – ocenění
 individua konkrétním popisný hodnocením na základě obsahu vyučování,
 sebehodnocení – nejtěžší, nejnáročnější, problém objektivity, ale do
-života nejlepší aktivizace žáka směrem k samostatnému rozhodování
+života nejlepší aktivizace žáka směrem k samostatnému rozhodování
 
 Hodnocením pokud možno posilovat tj. evaluovat, né snižovat tj.
 devalvovat.Každý chce být úspěšný.
 
-Důležitost zpětné vazby.Práce s chybou je přirozenou součástí procesu
+Důležitost zpětné vazby.Práce s chybou je přirozenou součástí procesu
 hledání, Vytváří postoje a dovednosti pro celoživotní vzdělávání
 
 **Typy hodnocení: *formativní/ průběžné/***- posuzuje pokrok žáků ve
@@ -518,7 +519,7 @@ konkrétních učebních jednotek a slouží jako podklad pro konstatování
 stupně prospěchu
 
 Zásadním problémem hodnocení je jeho objektivnost či subjektivnost, míra
-spravedlnosti. Je tedy důležité, kdo hodnotí, jaký má vztah k žákům,
+spravedlnosti. Je tedy důležité, kdo hodnotí, jaký má vztah k žákům,
 jakou má autoritu a jakou úctu požívá.
 
 **10A. Diferenciace a individualizace; rozvoj aktivity, samostatnosti a
@@ -583,9 +584,9 @@ akceptovaná pravidla hry, Fantazie se meze nekladou
 
 **11B. Pedagogická komunikace ve výuce, řešení problémových situací**
 
-Pedagogická komunikace vychází obecně z lidské komunikace, jedním z
+Pedagogická komunikace vychází obecně z lidské komunikace, jedním z
 prostředků pedagogické interakce, což je vzájemné působení dvou nebo
-více subjektů v průběhu výchovně vzdělávacího procesu (vzájemné působení
+více subjektů v průběhu výchovně vzdělávacího procesu (vzájemné působení
 – žák – učitel, žák – žák, rodič - učitel apod.).
 
 Verbální K 20 % – zvuková, písemná i grafická forma řeči. Řeč je
@@ -593,7 +594,7 @@ nejsrozumitelnějším prostředkem K, při přenosu informací se nejméně
 ztrácí smysl sdělení, může být prezentováno jasné vyjádření obsahu i
 vztahu. Je doprovázena tzv. paralingvistickými aspekty: plynulost a
 rychlost řeči,tón hlasu a jeho zabarvení, délka doby slovního projevu,
-přestávky a pauzy v řeči, přesnost řeči a projevu, způsob předávání
+přestávky a pauzy v řeči, přesnost řeči a projevu, způsob předávání
 slova, kladení otázek a jejich zodpovídání, latenci odpovědí.
 
 **Neverbální K 80 %** – specifické formy sdělování beze
@@ -619,15 +620,15 @@ zákonného zástupce (inteligence, úrovní vnímání, znalost jazyka,
 zdravotním stavem, sociálními vztahy a podmínkami, motivací)
 
 Zásady pedagogické komunikace: Důraz na komunikativní pojetí výchovy:
-dítě jako aktivní partner dialogu (orientace na žáka, respekt k dítě,
+dítě jako aktivní partner dialogu (orientace na žáka, respekt k dítě,
 zajistit si komunikační kanál (vnímá mě ? a já jeho?, umím naslouchat,
-ověřit si zda informaci přijal, nezaměňujme dialog s monologem
+ověřit si zda informaci přijal, nezaměňujme dialog s monologem
 ,nesnižujme osobní důstojnost druhé strany, dialog vyžaduje kázeň hl. ze
-strany pedagoga x kantor musí mít určitou míru emocionality a umět s ní
+strany pedagoga x kantor musí mít určitou míru emocionality a umět s ní
 pracovat, ale konflikty řešit zejména racionálně tj. rozumem, tvrzení
 bez věcných důkazů nevydávejme za argument,pojímejme druhého jako
-partnera při hledání pravdy (trojí úcta při dialogu – k pravdě,
-k druhému a k sobě),snažme se druhému porozumět sledovat nejen toho „co“
+partnera při hledání pravdy (trojí úcta při dialogu – k pravdě,
+k druhému a k sobě),snažme se druhému porozumět sledovat nejen toho „co“
 nám říká, ale všímat i toho „proč“ nám to říká, „čeho“ tím chce
 dosáhnout,
 
@@ -647,9 +648,9 @@ biflování, memorování, učení se faktů, třídně hodinový systém,
 usměrňuje a kontroluje veškeré aktivity ve vyučovací hodině), žáci jsou
 rozděleni do tříd , **komunikace mezi žáky je nežádoucí,** výuka -
 kognitivní (poznávací) procesy (cíl = osvojit si maximální počet
-poznatků), učivo je uspořádáno v učebních předmětech, hodina trvá 45
-minut, vyučování probíhá v jedné místnosti určené pro jednu třídu
-(prostorové uspořádání výuky), **s malými finančními náklady vzděláván
+poznatků), učivo je uspořádáno v učebních předmětech, hodina trvá 45
+minut, vyučování probíhá v jedné místnosti určené pro jednu třídu
+(prostorové uspořádání výuky), **s malými finančními náklady vzděláván
 velký počet žáků, předávání velkého rozsahu poznatků**
 
 **MODERNÍ P** opak tradiční, učitel = rádce, partner
@@ -679,10 +680,10 @@ motivující, podporující pozitivní sebehodnocení žáka, Převážně slovn
 motivující hodnocení, podporující pozitivní sebehodnocení žáka, Aktivní
 podíl rodičů na utváření školního života
 
-**V kurikulu je tedy zahrnuta obsahová stránka (standardy) a procesuální
+**V kurikulu je tedy zahrnuta obsahová stránka (standardy) a procesuální
 stránka.**Nejen obsah vzdělávacího předmětu, kurzu, programu, ale patří
 sem i způsob hodnocení, metody práce, výstupy, profil absolventů,
-celkový projekt konkrétního předmětu i s učebním plánem
+celkový projekt konkrétního předmětu i s učebním plánem
 
 **13B.** **OSOBNOSTNÍ A KVALIFIKAČNÍ PŘEDPOKLADY PEDAG. PROFESE**
 
@@ -704,17 +705,17 @@ pedagogických pracovnících - 563/2004
 Tři základní trendy pregraduální přípravy (Svatoš Holý, 2002)
 
 **1/ vědní (naukový)** předmětově odborná způsobilost budoucího pedagoga
-a její neustálé rozšiřování (negace: možné problémy v psychodidaktické
+a její neustálé rozšiřování (negace: možné problémy v psychodidaktické
 či sociálně komunikační složce)
 
 **2/ činnostní (praxeologický)** praktické učitelské dovednosti
-uplatnitelné v konkrétních pedagogických situacích (negace: systém
+uplatnitelné v konkrétních pedagogických situacích (negace: systém
 poznatků nahrazuje praktickými ilustracemi, bez vytváření logických
 vztahů a souvislostí)
 
 **3/osobnostní** hodnotové struktury učitele i žáků-lidské porozumění i
 dorozumění, méně se zdůrazňují znalosti, pojmy, fakta a více se mluví o
-vzájemné komunikaci, otevírání se v názorech a postojích, vzájemném
+vzájemné komunikaci, otevírání se v názorech a postojích, vzájemném
 akceptování, empatii, řešení konfliktů apod.
 
 **Úskalí učitelské profese -** nároky jsou značně vysoké, Škola jako
@@ -761,21 +762,21 @@ pedagogické pracovníky)
 ***učební plán*** schválený MŠMT, ***znalost zákonů (předpisů)*** –
 platné vyhlášky celostátně, ***znalost právních norem na konkrétní
 škole*** – školní řád a klasifikační řád (vymezení mého hřiště),
-***stanovení obecných VV cílů*** – o co nám či mě půjde, k čemu směřuji,
+***stanovení obecných VV cílů*** – o co nám či mě půjde, k čemu směřuji,
 dříve ***učební osnovy*** předmětů – rozpracovaný plán výuky jednoho
 předmětu (rozdělení podle ročníku a hodin), dnes ***RVP*** a ***ŠVP,***
-témata – je třeba pamatovat také na mezipředmětové vztahy v rámci RVP,
-zhodnotit podmínky k výuce na té které škole (jaké budu vyučovat žáky,
+témata – je třeba pamatovat také na mezipředmětové vztahy v rámci RVP,
+zhodnotit podmínky k výuce na té které škole (jaké budu vyučovat žáky,
 vyučovací jednotka, prostory, vybavení atd.) – pozor ideální žák x
 reálný žák!!!!, roční plán na jednotlivý školní rok, způsob hodnocení
-v průběhu jednoho roku, další vzdělávání učitelů, návštěvy seminářů –
+v průběhu jednoho roku, další vzdělávání učitelů, návštěvy seminářů –
 plán osobního rozvoje….!!! Myslet na svoje zdraví duševní a tělesné!!!
 
 1.  Střednědobá - tématické celky, měsíční a týdenní plány, způsob
-    hodnocení v průběhu jednoho měsíce či týdne, motivace studentů –
+    hodnocení v průběhu jednoho měsíce či týdne, motivace studentů –
     strategie vedení!!!!
 
-***Pořád myslet co mohu v současnosti nabízet:*** pozitivní vztah
+***Pořád myslet co mohu v současnosti nabízet:*** pozitivní vztah
 (přijetí a respekt), zkušenost, vzor (příklad), syntetizování informací
 zajímavým (poutavým) způsobem (zprostředkovatel vědomostí)
 
@@ -783,19 +784,19 @@ zajímavým (poutavým) způsobem (zprostředkovatel vědomostí)
 
 *Veledůležité:*Začínám učit předmět – zásada stanovit jasná a co
 nejjednodušší pravidla hry tak, aby byla pochopena všemi
-zúčastněnými.V ideálním případě se žáci podílejí na vytváření těchto
-pravidel a většina se s nimi identifikuje (přijme je za své –
+zúčastněnými.V ideálním případě se žáci podílejí na vytváření těchto
+pravidel a většina se s nimi identifikuje (přijme je za své –
 zvnitřnění=interiorizace)
 
-Využívám pozitivní manipulace k dosažení stanovených VV cílů.
+Využívám pozitivní manipulace k dosažení stanovených VV cílů.
 
 *Učitel by si měl řádně stanovit a ujasnit:* cíl vyučovací hodiny, obsah
 vyučování, výukové metody, kterými chce obsah vyučování žákům
-zprostředkovat připravit strukturu vyučovací hodiny s časovým
+zprostředkovat připravit strukturu vyučovací hodiny s časovým
 rozvržením.
 
 Učitel musí mít na paměti:pomůcky, materiál a učebnice, se kterými bude
-chtít v hodinách pracovat, důležité je i uspořádání učebny, které se
+chtít v hodinách pracovat, důležité je i uspořádání učebny, které se
 odráží od probíraného učiva, počtu žáků ve třídě, vyučovaného předmětu i
 od velikosti samotné učebny. motivace žáků (kdo nezaujme – pedagogicky
 neexistuje) Před každou hodinou je možné připravit si určitou strukturu
@@ -803,7 +804,7 @@ naší vyučovací hodiny.
 
 Při přípravách vždy pedagog dbá na základní didaktické zásady:
 
-postupujeme v návaznosti od známého k neznámému, jednoduchého ke
+postupujeme v návaznosti od známého k neznámému, jednoduchého ke
 složitějšímu
 
 snažíme se o názornost, individuální přístup, opakování, soustavnost a
@@ -814,7 +815,7 @@ cykličnost
 ****Základní vzdělávání**** je občanská povinnost, hlavní a
 nejdůležitější cíl vzdělávání a rozvoje osobnosti doplněný o mravní a
 morální dovednosti. **Rodina má hlavní zodpovědnost za výchovu svých
-dětí**, v rodině se v pozitivním i negativním smyslu promítají celkové
+dětí**, v rodině se v pozitivním i negativním smyslu promítají celkové
 dlouhodobé důsledky výchovy jejich dětí, od určitého věku dětí nemůže
 rodina zabezpečit komplexní a multikulturní rozvoj svými vlastními
 silami, je tedy odkázána na specializované instituce = **sekundární
@@ -822,15 +823,15 @@ silami, je tedy odkázána na specializované instituce = **sekundární
 církevní, sportovní, zdravotnické, ekonomické, odborné), sdělovací
 prostředky, apod.
 
-**Vymezení základních právních norem** z této oblasti vymezuje zákon – o
+**Vymezení základních právních norem** z této oblasti vymezuje zákon – o
 rodině a školský zákon!
 
-**Vztah školy k rodině (zákonným zástupcům)** Škola poskytuje **výchovně
+**Vztah školy k rodině (zákonným zástupcům)** Škola poskytuje **výchovně
 vzdělávací služby** Škola a její všichni zaměstnanci by měli jasně vědět
 jaké jsou jejich zákonné povinnosti a pravomoci a současně vědět, kde
 tyto pravomoci končí tj. znát HRANICE (LIMITY) výchovně vzdělávacího
 působení! Zákonní zástupci (rodina) a žáci jsou klienti školy, kterým
-škola poskytuje výchovně vzdělávací služby tj. škola by se k nim měla
+škola poskytuje výchovně vzdělávací služby tj. škola by se k nim měla
 chovat jako ke klientům – zákazníkům od prvního kontaktu !!!!
 
 ***Škola by se měla snažit o:*** slušnost a přívětivost, otevřenou
@@ -847,16 +848,16 @@ zájmů dítěte
 **DRUHY VÝCHOVY: hyperprotektivní** přes míru ochraňující, tolerantní,
 rozmazlující, rodič vše dítěti usnadňuje, převaha pochval a ochrany před
 nemocemi, stresem, starostmi …zejména u dětí postižených, u dětí rodičů
-s reprodukčními problémy …taková výchova *vede k nesamostatnosti a
-pasivitě v dospělém životě,* **autoritářská** orientace na bezmeznou
-poslušnost,s narušenou strukturou osobnosti, *vede k ustrašenosti,
-méněcennosti či naopak ke ztotožnění se s agresorem,* **extrémně volná –
+s reprodukčními problémy …taková výchova *vede k nesamostatnosti a
+pasivitě v dospělém životě,* **autoritářská** orientace na bezmeznou
+poslušnost,s narušenou strukturou osobnosti, *vede k ustrašenosti,
+méněcennosti či naopak ke ztotožnění se s agresorem,* **extrémně volná –
 libertinská** ponechává na dítěti, aby si samo nacházelo vlastní cesty a
 řešení, rodič zde respektuje spontánní projevy a činorodost dětí a
-povzbuzuje je, *vede k prosazování všech práv dítěte a nerespektování
+povzbuzuje je, *vede k prosazování všech práv dítěte a nerespektování
 jeho povinností*
 
--   **demokratická – směřující k sebevýchově** pravidla, vyváženost
+-   **demokratická – směřující k sebevýchově** pravidla, vyváženost
     odměn a trestů, vysvětlování a osobní příklad rodiče, spolupráce,
     nejvíce náročná na vychovatele (rodiče), *vede ke spolupráci a
     partnerství, naučí rozhodovat a nést za tato rozhodnutí následky*
@@ -865,12 +866,12 @@ jeho povinností*
 nedomluví na pravidlech, dítě pak hledá snadnější cestu,
 **perfekcionistická –** přesné a vysoké nároky na dítě, to je pak
 úzkostlivé a bojí se rodičů, **nedostatečná výchova** – zanedbávání
-dítěte, může vést až k týraní; máme ohlašovací povinnost
+dítěte, může vést až k týraní; máme ohlašovací povinnost
 
 **Možné formy spolupráce školy a rodiny** zápis, přijímací řízení, dny
 otevřených dveří, třídní schůzky, mailové služební adresy, telefony,
 individuální konzultace, konzultační hodiny kantorů a vedení, společná
-setkání s rodiči – zahájení a ukončení školního roku, zápisy, předávání
+setkání s rodiči – zahájení a ukončení školního roku, zápisy, předávání
 vysvědčení, školní
 
 **16B. Metodologie pedagogického výzkumu**
@@ -878,21 +879,21 @@ vysvědčení, školní
 **Metodologie** - Nauka o metodách vědeckého poznání.
 
 **Metodologie pedagogická** – nauka (věda) o metodách vědecké práce
-v pedagogice, celý komplex různorodých poznávacích postupů a praktických
-operací, které směřují k  získávání vědeckých poznatků
+v pedagogice, celý komplex různorodých poznávacích postupů a praktických
+operací, které směřují k  získávání vědeckých poznatků
 
 *3 zdroje vědeckého bádání:* kriticky zhodnocené historické dědictví
 pedagogiky, poznávání a srovnávání různých **pedagogických** teorií a
-výchovných a vzdělávacích systémů doma i v zahraničí, poznatky
+výchovných a vzdělávacích systémů doma i v zahraničí, poznatky
 empirického výzkumu
 
-*V pedagogice se nejčastěji zkoumají:* podmínky výchovy a vliv prostředí
+*V pedagogice se nejčastěji zkoumají:* podmínky výchovy a vliv prostředí
 na proces výchovy a vzdělávání, cíl vzdělávání a jeho obsah, organizaci
 vzdělávání...,práci učitelů a vychovatelů, hodnocení výsledků vzdělávání
 
 **Základní výzkum** – badatelská činnost zaměřená na řešení klíčových
 problémů pedagogiky, **Aplikovaný výzkum** – je zaměřen na získávání
-poznatků bezprostředně využitelných v pedagogické praxi
+poznatků bezprostředně využitelných v pedagogické praxi
 
 **A. Empirický výzkum :Empirie** je zkušenost získaná pozorováním,
 případně pokusem
@@ -903,7 +904,7 @@ založené na opakovatelných a ověřitelných experimentech. Na základě
 známých poznatků se formuluje ***vědecká hypotéza ***
 
 ***Metody empirického zkoumání (nejčastější výzkumné metody
-v pedagogice):***
+v pedagogice):***
 
 -   **Pozorování –** cíl zkoumání, okruh pedagogických jevů**,** Přímé
     pozorování, Nepřímé pozorování, Krátkodobé pozorování, Dlouhodobé
@@ -916,7 +917,7 @@ v pedagogice):***
 
 -   Testy inteligence: vědomosti, osobnosti, didaktické
 
-    -   **Dotazníková metoda -** Jedna z nejčastějších, Respondenti –
+    -   **Dotazníková metoda -** Jedna z nejčastějších, Respondenti –
         pro koho je, kdo ho vyplňoval atd.
 
 Jasně formulované otázky, Otevřené položky, Uzavřené položky, Škálování
@@ -958,27 +959,27 @@ MATEŘSKÉ ŠKOLY, B,PŘÍPRAVNÉ TŘÍDY,* **ZÁKLADNÍ VZDĚLÁVÁNÍ**
 
 **STŘEDNÍ VŠEOBECNÉ A ODBORNÉ VZDĚLÁVÁNÍ:** *A, STŘEDNÍ VZDĚLÁNÍ
 (praktické školy,* 1 – 2 roky studia denní formou, *B, STŘEDNÍ VZDĚLÁNÍ
-S VÝUČNÍM LISTEM(střední odborné učiliště, odborné učiliště),* 2 – 3
-roky studia denní formou, *C, STŘEDNÍ VZDĚLÁNÍ S MATURITNÍ ZKOUŠKOU
+S VÝUČNÍM LISTEM(střední odborné učiliště, odborné učiliště),* 2 – 3
+roky studia denní formou, *C, STŘEDNÍ VZDĚLÁNÍ S MATURITNÍ ZKOUŠKOU
 (střední odborná škola),* 4 roky studia denní formou, *D, GYMNAZIÁLNÍ
-VZDĚLÁNÍ (maturitní zkouška),* 4 roky studia denní formou , v případech
+VZDĚLÁNÍ (maturitní zkouška),* 4 roky studia denní formou , v případech
 víceletých gymnázií 8 nebo 6 let
 
 **KONZERVATOŘE** studium je na 6 let, ve 4. ročníku student vykonává
-maturitní zkoušku, v 6. ročníku absolvent vykonává absolventské žkoušky,
+maturitní zkoušku, v 6. ročníku absolvent vykonává absolventské žkoušky,
 po absolvování 6 let získává titup Dipl. um.
 
 **VYŠŠÍ ODBORNÉ ŠKOLY** studium je na 3 roky, absolvent získává titul
 DiS.(diplomovaný specialista)
 
 **ZÁKLADNÍ UMĚLECKÉ Školy (ZUŠky)** poskytují základy vzdělání
-v uměleckých oborech – hudební, taneční, výtvarné, literárně dramatické
+v uměleckých oborech – hudební, taneční, výtvarné, literárně dramatické
 
-**JAZYKOVÉ ŠKOLY S PRÁVEM STÁTNÍ JAZYKOVÉ ZKOUŠKY**
+**JAZYKOVÉ ŠKOLY S PRÁVEM STÁTNÍ JAZYKOVÉ ZKOUŠKY**
 
 ***B. ŠKOLSKÁ ZAŘÍZENÍ A ŠKOLSKÉ SLUŽBY*** poskytují služby a
 vzdělávání, která doplňují nebo podporují vzdělávání ve školách nebo
-s ním přímo souvisejí, nebo zajišťují ústavní a ochranou výchovu anebo
+s ním přímo souvisejí, nebo zajišťují ústavní a ochranou výchovu anebo
 preventivní výchovnou péči (dále jen školské služby), jsou nedílnou
 součástí školské soustavy
 
@@ -994,7 +995,7 @@ internáty, výchovné ústavy - celodenní výchova, vzdělávání a ubytován
 **Zařízení školního stravování (ŠJ), školská účelová zařízení (Střediska
 službám škole)** napomáhají školám při jejich činnosti (mat. tech.
 Služby, poradenské, ekonomicko-administrativní služby, knihovnické a
-informační služby pro žáky, zaměstnance atd., místa k praktickému
+informační služby pro žáky, zaměstnance atd., místa k praktickému
 vyučování (dílny)
 
 ***VYSOKÉ ŠKOLY j***sou samostatným článkem české vzdělávací soustavy, •
@@ -1206,33 +1207,33 @@ efektivní.
 
 **Kompetence** = souhrn **vědomostí, dovedností, schopností, postojů a
 hodnot** důležitých pro osobní rozvoj a uplatnění každého člena ve
-společnosti. Vycházejí *z obecně přijímaných a sdílených hodnot ve
-společnosti*. *Vše, co se ve škole děje, má směřovat k utváření a
+společnosti. Vycházejí *z obecně přijímaných a sdílených hodnot ve
+společnosti*. *Vše, co se ve škole děje, má směřovat k utváření a
 rozvíjení těchto kompetencí.*
 
 Žáci si dnes ****neosvojují pouze vědomosti, ale kompetence****.
 **Vědomosti** – důraz kladen na složku poznávací (***kognitivní***),
 rozumovou a paměťovou. **U kompetencí** je „vědomostní“ učení rozšířené
 o ***rozměr reálné dovednosti (konativní***) tj. jak svoje vědomosti
-dokážu ***reálně, prakticky využít v běžném životě*** kde se chovám
+dokážu ***reálně, prakticky využít v běžném životě*** kde se chovám
 podle svého ***svědomí (hodnotového žebříčku) a zaujímám postoje***.
-Klíčové kompetence jsou vymezeny v RVP pro všechny stupně a typy škol a
+Klíčové kompetence jsou vymezeny v RVP pro všechny stupně a typy škol a
 školy ve svých ŠVP tyto kompetence dále specifikují a snaží se jich u
 svých žáků dosahovat.
 
-1.  ***Klíčové kompetence základního vzdělání :* kompetence k učení** –
-    naučit se učit, nutné celoživotní vzdělávání, **kompetence k řešení
+1.  ***Klíčové kompetence základního vzdělání :* kompetence k učení** –
+    naučit se učit, nutné celoživotní vzdělávání, **kompetence k řešení
     problémů** – život neustálá šňůra problémů, které řešíme,
     **kompetence komunikativní** – celý život komunikujeme, měli bychom
     vědět jak, proč, kdy apod.**kompetence sociální a personální** –
-    žijeme mezi lidmi, vytvářet vztahy, udržovat je, být v nich úspěšní,
+    žijeme mezi lidmi, vytvářet vztahy, udržovat je, být v nich úspěšní,
     **kompetence občanské** – vědět jak žít a jak jsou naše práva a
-    povinnost vzhledem k státu(zemi) ve kterém žijeme, **kompetence
-    pracovní** – předpoklad k vykonání určitého povolání
+    povinnost vzhledem k státu(zemi) ve kterém žijeme, **kompetence
+    pracovní** – předpoklad k vykonání určitého povolání
 
 ***2. Klíčové kompetence středního odborného vzdělávání:*kompetence
-k učení** např. mít pozitivní vztah k učení a vzdělávání, ovládat různé
-techniky učení, **Kompetence k řešení problémů** např. porozumět zadání
+k učení** např. mít pozitivní vztah k učení a vzdělávání, ovládat různé
+techniky učení, **Kompetence k řešení problémů** např. porozumět zadání
 úkolu nebo určit jádro problému, získat informace potřebné k řešení
 problému, **Kompetence komunikativní,** **personální a sociální
 kompetence** posuzovat reálně své fyzické a duševní možnosti, odhadovat
@@ -1240,13 +1241,13 @@ důsledky svého jednání a chování v různých situacích, **občanské
 kompetence a kulturní povědomí** jednat odpovědně, samostatně a
 iniciativně , **kompetence k pracovnímu uplatnění a podnikatelským
 aktivitám , matematické kompetence**, **kompetence využívat prostředky
-informačních a komunikačních technologií a pracovat s informacemi **
+informačních a komunikačních technologií a pracovat s informacemi **
 
 ***3. Klíčové kompetence učitelů oborově předmětová*** – je odborník
-v předmětech, které učí, vzdělání (563/2004), **obecně pedagogická a
+v předmětech, které učí, vzdělání (563/2004), **obecně pedagogická a
 didaktická** – „umí učit“ umí svůj předmět učit, předat, nadchnout,
 zaujmout, **psychologická, diagnostická a intervenční** – má znalosti
-z psychologie, dokáže rozpoznat a řešit problémy v duševní oblasti žáků,
+z psychologie, dokáže rozpoznat a řešit problémy v duševní oblasti žáků,
 rodičů i spolupracovníků, **sociální, psychosociální a komunikativní** –
 dokáže navazovat sociální vztahy, být vstřícný a komunikativní,
 **manažerská a normativní** – dokáže organizovat a řídit, vytvářet
@@ -1260,17 +1261,17 @@ smysl pro humor a nadhled
 
 **20B. RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE**
 
-RVP a ŠVP jsou **kurikulární dokumenty** vytvářené v souladu s novými
+RVP a ŠVP jsou **kurikulární dokumenty** vytvářené v souladu s novými
 principy **kurikulární politiky MŠMT**. Kurikulární dokumenty vznikají
 na 2 úrovních : **státní a školní**
 
-**Kurikulum** v **užším** významu vymezuje: obsah školního učiva, jeho
-výběr a uspořádání v určitém institucionálním rámci (např. v určitém
-předmětu, na určitém stupni vzdělávání).V **širším** významu zahrnuje
+**Kurikulum** v **užším** významu vymezuje: obsah školního učiva, jeho
+výběr a uspořádání v určitém institucionálním rámci (např. v určitém
+předmětu, na určitém stupni vzdělávání).V **širším** významu zahrnuje
 komplex problémů: proč, koho, čemu, jak, kdy, za jakých podmínek a
-s jakými očekávanými efekty učit. Tyto principy jsou zformulovány
-v ***Národním programu rozvoje vzdělávání v ČR* (tzv. Bílá kniha)** a
-zakotveny v **Z*ákoně č. 561/2004 Sb.,* školský zákon.**
+s jakými očekávanými efekty učit. Tyto principy jsou zformulovány
+v ***Národním programu rozvoje vzdělávání v ČR* (tzv. Bílá kniha)** a
+zakotveny v **Z*ákoně č. 561/2004 Sb.,* školský zákon.**
 
 **RVP: **Státní úroveň: ****MŠMT připravuje RVP – kde stanový závazný
 rámec vzdělání a vymezený standard vzdělání pro danou etapu vzdělání.
@@ -1289,7 +1290,7 @@ společnosti, zkušeností učitelů se ŠVP i podle měnících se potřeb a
 zájmů žáků).
 
 **ŠVP: **Školní úroveň******:** Každá škola si pak připravuje vlastní
-ŠVP – vychází z příslušného RVP a specifikuje vzdělání na dané škole.
+ŠVP – vychází z příslušného RVP a specifikuje vzdělání na dané škole.
 ŠVP musí být vytvořen nejpozději do 2 let po vydání RVP pro danou školu.
 ŠVP - stálý materiál, který má přesně vymezenou strukturu.
 
@@ -1301,10 +1302,10 @@ aplikace, informační a komunikační technologie, člověk a jeho svět,
 
 Ze **vzdělávacího oblasti** může vzniknout **vzdělávací obor -
 předmět**: **jeden** předmět, nebo **více** předmětů, anebo **jeden**
-předmět v němž se realizuje učivo z více vzděl. oblastí
+předmět v němž se realizuje učivo z více vzděl. oblastí
 
 **vzdělávací obor** – rozdělení vzdělávacích oblastí na ucelené okruhy
-zkoumání – v podstatě klasické „předměty“ (v RVP pro základní vzdělávání
+zkoumání – v podstatě klasické „předměty“ (v RVP pro základní vzdělávání
 např. pro oblast *Člověk a příroda* to jsou předměty *Fyzika*, *Chemie*,
 *Přírodopis*, *Zeměpis*)
 
