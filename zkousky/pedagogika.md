@@ -1,3 +1,8 @@
+**Obsah:**
+
+[1A. Pedagogika a základní pedagogické disciplíny](#1a-pedagogika-a-z%C3%A1kladn%C3%AD-pedagogick%C3%A9-discipl%C3%ADny) 
+[2A. Nejvýznamnější problémy současného školství,kurikulární reforma,alternativní školy](#2a-nejv%C3%BDznamn%C4%9Bj%C5%A1%C3%AD-probl%C3%A9my-sou%C4%8Dasn%C3%A9ho-%C5%A1kolstv%C3%ADkurikul%C3%A1rn%C3%AD-reformaalternativn%C3%AD-%C5%A1koly)
+
 **1A. Pedagogika a základní pedagogické disciplíny**
 ---
 
