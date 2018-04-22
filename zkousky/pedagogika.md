@@ -191,16 +191,16 @@ Pedagogika se dělí na základní, hraniční a aplikované pedagogické
 disciplíny<br>
  Základní pedagogické disciplíny:
 
-a<br>) Obecná pedagogika – zabývá se obecnými teoretickými základy
+a) Obecná pedagogika – zabývá se obecnými teoretickými základy
 pedagog-giky, zkoumá vědosloví a postavení pedagogiky v systému věd o
 člověku
 
-b<br>) Metodologie pedagogiky – rozvíjí především výzkumné metody jimiž se
+b) Metodologie pedagogiky – rozvíjí především výzkumné metody jimiž se
 zkoumají pedagogické jevy a procesy,(odhaluje a měří pedagogické
 zákonitosti). Usiluje o vytvoření soustavy poznatků o základech a
 struktuře pedagogické teorie,
 
-c<br>) Dějiny pedagogiky – zabývá se studiem vývoje výchovy a vzdělávání v
+c) Dějiny pedagogiky – zabývá se studiem vývoje výchovy a vzdělávání v
 dějinách lidstva<br>
 d) Srovnávací pedagogika – zabývá se srovnáváním výchovně vzdělávacích
 systémů v různých zemích<br>
@@ -478,7 +478,7 @@ na pozorovací činnosti žáků a na vlastní praktické aktivitě)<br>
 analyticko-syntetické činnosti žáka a na principu „hraní rolí“)<br>
  F) didaktická hra a soutěž jako vyučovací metody
 
-A<br>) MONOLOGICKÉ METODY:<br>
+A) MONOLOGICKÉ METODY:<br>
 jsou založené na využití souvislého mluveného projevu jednotlivce –
 učitele či žáka
 
@@ -523,7 +523,7 @@ podobě – soubor pokynů a návodů pro výkon určité činnosti, kterou maj�
 
 Souvislé vystoupení studenta: například při prezentaci referátu
 
-B<br>) PRÁCE S TEXTEM: podstatou činnosti je práce s textem, kde zdrojem
+B) PRÁCE S TEXTEM: podstatou činnosti je práce s textem, kde zdrojem
 poznání je především slovo (učebnice, používání pracovních sešitů,
 textů). Může mít podobu:<br>
 Reproduktivní – žák se učí informacím, které jsou v textu obsaženy<br>
@@ -532,7 +532,7 @@ Produktivní (tvořivé) – text podněcuje tvořivou činnost žáka
 Osvojování metod samostatné práce s učebnicí a tištěnými texty je
 předpokladem dalšího sebevzdělávání a seberozvoje člověka.
 
-C<br>) DIALOGICKÉ METODY: slovní interpretace mezi učitele a žáky<br>
+C) DIALOGICKÉ METODY: slovní interpretace mezi učitele a žáky<br>
 Výukový rozhovor: má reproduktivní charakter, navazuje na výklad či jiné
 metody, objasňující, opakující, shrnující<br>
 Heuretický (problémový) rozhovor: metoda, kterou se dávají řešit
@@ -2085,7 +2085,7 @@ jejich základě můžeme předpovídat, jak se člověk zachová či jak bude
 jednat.<br>
 Dále viz. psychologie…..:-))
 
-b<br>) Kompetenční struktury osobnosti učitele (Zdeněk Helus, 1995)
+b) Kompetenční struktury osobnosti učitele (Zdeněk Helus, 1995)
 
 1/ odborně předmětová<br>
 2/ psychologická<br>
@@ -2109,7 +2109,7 @@ neplánovaných interpersonálních interakcí se žáky, od prostého kontaktu
 očima, po vážné kázeňské incidenty).při určitém množství zkušeností
 učitele se stávají tyto reakce zčásti automatickými
 
-c<br>) Sedm základních okruhů pedagogických dovedností, které spolu navzájem
+c) Sedm základních okruhů pedagogických dovedností, které spolu navzájem
 souvisejí a ovlivňují se:<br>
 1/plánování a příprava<br>
 2/realizace vyučovací jednotky<br>
@@ -2130,9 +2130,9 @@ oceňují tyto dovednosti:
 – důslednost,<br>
 – umění pochválit žáky
 
-e<br>) Hodnocení učitelů z pohledu žáků
+e) Hodnocení učitelů z pohledu žáků
 
-a<br>) žáci nižších ročníků ( první stupeň ZŠ )<br>
+a) žáci nižších ročníků ( první stupeň ZŠ )<br>
 kladou důraz na milost a přátelskost<br>
 b) žáci vyšších ročníků ( druhý stupeň ZŠ )<br>
 kladou převážně důraz na porozumění<br>
@@ -2145,7 +2145,7 @@ spravedlnost, přátelskost, a odbornou zdatnost
 Kvalifikační předpoklady učitele jsou jasně dané viz. Zákon o
 pedagogických pracovnících – 563/2004
 
-a<br>) Tři základní trendy pregraduální přípravy (Svatoš Holý, 2002)<br>
+a) Tři základní trendy pregraduální přípravy (Svatoš Holý, 2002)<br>
 1/ vědní (naukový)<br>
 předmětově odborná způsobilost budoucího pedagoga a její neustálé
 rozšiřování (negace: možné problémy v psychodidaktické či sociálně
@@ -2160,7 +2160,7 @@ se zdůrazňují znalosti, pojmy, fakta a více se mluví o vzájemné
 komunikaci, otevírání se v názorech a postojích, vzájemném akceptování,
 empatii, řešení konfliktů apod.
 
-b<br>) Standardy učitelské kvalifikace a učitelské profese
+b) Standardy učitelské kvalifikace a učitelské profese
 
 Národní program rozvoje vzdělávání ( Národní program 2002 ) upozorňuje
 na současný stav přípravy učitelů. Ukázalo se, že základní
@@ -2211,7 +2211,7 @@ Syndrom vyhoření – ztráta důvěry ve vlastní schopnosti, ztráta
 smysluplnosti práce, povolání pro člověka ztrácí veškerý smysl<br>
 Jak se bránit stresu a syndromu vyhoření?
 
-a<br>) vhodný životní styl – koníčky, zájmy, tj. mít čas pro sebe<br>
+a) vhodný životní styl – koníčky, zájmy, tj. mít čas pro sebe<br>
 b) mezilidské vztahy – mít sociální sítě (kamarádi, kamarádky, rodina<br>
 c) přijetí sebe samého – mít se rád, vážit si sebe sama, ocenit se,<br>
 d) dělat si radost<br>
@@ -3149,7 +3149,7 @@ vztahy, udržovat je, být v nich úspěšní<br>
 vzhledem k státu(zemi) ve kterém žijeme<br>
 6. kompetence pracovní – předpoklad k vykonání určitého povolání
 
-B<br>) Klíčové kompetence středního odborného vzdělávání pro žáky dle RVP:<br>
+B) Klíčové kompetence středního odborného vzdělávání pro žáky dle RVP:<br>
 1. kompetence k učení<br>
 např. mít pozitivní vztah k učení a vzdělávání, ovládat různé techniky
 učení, uplatňovat různé způsoby práce s textem (zvl. studijní a
