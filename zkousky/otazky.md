@@ -43,7 +43,7 @@ G - Sociální interakce mezi subjekty ve škole
 
 7.A) Výchova – vymezení pojmu, složky výchovy, výchovné cíle.
 
-*7.B) Druhy učení, styly učení žáků.*
+**7.B) Druhy učení, styly učení žáků.**
 
 8.A) Pedagogicko-psychologická diagnostika – součást výchovně-vzdělávacího procesu školy.
 
@@ -87,7 +87,7 @@ G - Sociální interakce mezi subjekty ve škole
 
 18.A) Rysy osobnosti, temperament a charakter.
 
-*18.B) Procesy a prostředky evaluace a autoevaluace.*
+**18.B) Procesy a prostředky evaluace a autoevaluace.**
 
 19.A) Sociální komunikace, sociální učení, zátěž, sebeřízení.
 
