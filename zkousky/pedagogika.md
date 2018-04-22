@@ -60,26 +60,28 @@ PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY](#15)
 
 **1. PEDAGOGIKA – její předmět, základní ped. disciplíny**
 
-Osnova:
+*Osnova:*
 
-1\. Definice pedagogiky\
-2. Definice výchovy definice výchovy a její cíle\
+1. Definice pedagogiky
+2. Definice výchovy definice výchovy a její cíle
 3. Definice vzdělání vzdělávání
 
-4\. Pedagogika jako věda – 5 základních požadavků\
-– užitek, reálný význam pro společnost\
-– předmět zkoumání\
-– soubor výzkumných metod\
-– vymezený vztah k jiným vědám\
+4. Pedagogika jako věda – 5 základních požadavků
+– užitek, reálný význam pro společnost
+– předmět zkoumání
+– soubor výzkumných metod
+– vymezený vztah k jiným vědám
 – reálně prováděna odb. pracovníky
 
-5\. Dělení pedagogických disciplín\
-– Základní ped. dis.\
-– Hraniční ped. dis.\
-– Aplikované ped. dis.\
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-Ad 1)\
-Definice pedagogiky:\
+5. Dělení pedagogických disciplín
+– Základní ped. dis.
+– Hraniční ped. dis.
+– Aplikované ped. dis.
+
+<hr>
+
+**Ad 1)**
+Definice pedagogiky:
 Pedagogika je věda, která se zabývá výchovou a vzděláváním, které chápe
 jako cílevědomý a záměrný proces na utváření a formování osobnosti
 člověka.
@@ -87,7 +89,7 @@ jako cílevědomý a záměrný proces na utváření a formování osobnosti
 Patří mezi humanitní vědy tj. vědy o člověku stejně jako např. –
 filozofie, sociologie, psychologie…
 
-Ad 2)\
+**Ad 2)**
 Definice výchovy:\
 Výchova je cílevědomá činnost zaměřená na předávání vzorců, norem a
 pravidel chování platných ve společnosti („umravňování“)
@@ -136,12 +138,12 @@ Ad 4)\
 Pedagogika stejně jako jakákoliv jiná věda musí splňovat těchto pět
 základních požadavků:
 
- Jakákoliv vědní disciplína by lidem měla být užitečná – měla by
+ Jakákoliv vědní disciplína by lidem měla být užitečná – měla by
 přinést nějaký\
 užitek – reálný význam pro společnost (v ped. např. výchovné a
 didaktické postupy, a zásady).
 
- Aby věda mohla být vědou, musí mít jasně definovaný předmět zkoumání
+ Aby věda mohla být vědou, musí mít jasně definovaný předmět zkoumání
 (v pedagogice výchova a vzdělávání).
 
  Každá vědní disciplína musí mít soubor výzkumných metod,\
@@ -153,7 +155,7 @@ Každá věda musí mít vymezený vztah k jiným vědám\
 mezioborové disciplíny – sociologie výchovy, dějiny pedagogiky,
 pedagogická psychologie …).
 
- Každá vědní disciplína musí být reálně prováděna odbornými pracovníky
+ Každá vědní disciplína musí být reálně prováděna odbornými pracovníky
 tj. – vědci v určitých věd. institucích\
 (institucionalizace vědy – VŠ pedagogické a filozofické a jiné fakulty
 různých uni-verzit, výzkumné ústavy, akademie věd apod.)
@@ -162,7 +164,7 @@ Ad 5)\
 Základní pedagogické disciplíny:\
 Pedagogika se dělí na základní, hraniční a aplikované pedagogické
 disciplíny\
- Základní pedagogické disciplíny:
+ Základní pedagogické disciplíny:
 
 a\) Obecná pedagogika – zabývá se obecnými teoretickými základy
 pedagog-giky, zkoumá vědosloví a postavení pedagogiky v systému věd o
@@ -190,7 +192,7 @@ umožňuje odhalovat nejen poruch a problémy, ale i dosaženou úroveň
 činností. Je základem pro evaluaci a auto evaluaci\
 i) Andragogika – VV dospělých
 
- Hraniční vědní disciplíny disciplíny:\
+ Hraniční vědní disciplíny disciplíny:\
 a) Pedagogická psychologie (pedagogika x psychologie)\
 b) Sociologie výchovy (sociologie x pedagogiky)\
 c) Sociální pedagogika\
@@ -381,54 +383,54 @@ Ad 1)\
 Metoda – pojem odvozený z řeckého slova methodos (cesta k něčemu, postup
 k určitému cíli)\
 Definice výchovně vzdělávacích metod:\
- způsob práce učitele jímž organizuje činnost žáků k dosažení výchovně
+ způsob práce učitele jímž organizuje činnost žáků k dosažení výchovně
 vzdělávacích cílů\
 Ad 2)\
 Volbu výchovně vzdělávací metody v praxi ovlivňuje:\
- druh a stupeň vzdělávací instituce či školy\
- charakter předmětu či oboru\
- počet vyučovaných žáků\
- učební možnosti žáků, jejich osobnostní předpoklady (věkové, úroveň
+ druh a stupeň vzdělávací instituce či školy\
+ charakter předmětu či oboru\
+ počet vyučovaných žáků\
+ učební možnosti žáků, jejich osobnostní předpoklady (věkové, úroveň
 studijní připravenosti, osobnostní charakteristika jedince)\
- čas, časová jednotka (vyučovací hodina např. 45 min, nebo 90 min. VŠ)\
- zasazení konkrétní metody do celého systému ostatních vyučovacích
+ čas, časová jednotka (vyučovací hodina např. 45 min, nebo 90 min. VŠ)\
+ zasazení konkrétní metody do celého systému ostatních vyučovacích
 metod\
- psychologické charakteristiky žáků a třídy (sociální skupiny) jako
+ psychologické charakteristiky žáků a třídy (sociální skupiny) jako
 celku\
- zvláštnosti vnějších podmínek vyučování ( prostorové uspořádání místa
+ zvláštnosti vnějších podmínek vyučování ( prostorové uspořádání místa
 výuky, geografické podmínky)\
- osobnost učitele (úroveň teoretické a praktické přípravy, schopnost
+ osobnost učitele (úroveň teoretické a praktické přípravy, schopnost
 metodického mistrovství, osobnostní předpoklady, vlastní zkušenosti z
 oboru, atd.)
 
 V případě, že uvažujeme o konkrétních metodách na základě formulace cíle
 vyučovací hodiny, je třeba upozornit na několik podstatných
 skutečností:\
- zvážení vztahu metody a organizační formy (žáci řeší problém
+ zvážení vztahu metody a organizační formy (žáci řeší problém
 kolektivně, individuálně či ve skupinách?)\
- u aktivizujících metod přesně důkladně promyslet formulaci otázky a
+ u aktivizujících metod přesně důkladně promyslet formulaci otázky a
 učební úlohy\
- zvážení využití materiálních prostředků (zpětný projektor)\
- promyslet vzhledem k cíli a učivu optimální poměr reproduktivních a
+ zvážení využití materiálních prostředků (zpětný projektor)\
+ promyslet vzhledem k cíli a učivu optimální poměr reproduktivních a
 produktivních metod či reproduktivní a produktivní varianty jedné
 metody)\
- zamyslet se nad výchovnými a vzdělávacími efekty metod (rozvoj vůle,
+ zamyslet se nad výchovnými a vzdělávacími efekty metod (rozvoj vůle,
 citovosti, charakteru, spolupráce, rozhodovacích schopností)\
- uvážit to, že v užití metody se v konkrétní učební situaci koncentruje
+ uvážit to, že v užití metody se v konkrétní učební situaci koncentruje
 jednota cílů, učiva, organizační formy, materiálních prostředků a
 činností učitele a žáka.
 
 Ad 3)\
 Dělení výchovně vzdělávací metody:\
- A) monologické (založené na využívání souvislého mluveného projevu
+ A) monologické (založené na využívání souvislého mluveného projevu
 jednotlivce – učitele či žáka)\
- B) práce s textem (založené na práci s textovými pomůckami)\
- C) dialogické (založené především na činnostním principu rozhovoru)\
- D) názorně–demonstrační a metody praktických činností žáků (založené
+ B) práce s textem (založené na práci s textovými pomůckami)\
+ C) dialogické (založené především na činnostním principu rozhovoru)\
+ D) názorně–demonstrační a metody praktických činností žáků (založené
 na pozorovací činnosti žáků a na vlastní praktické aktivitě)\
- E) rozborové, situační, projektové a inscenační (založené na
+ E) rozborové, situační, projektové a inscenační (založené na
 analyticko-syntetické činnosti žáka a na principu „hraní rolí“)\
- F) didaktická hra a soutěž jako vyučovací metody
+ F) didaktická hra a soutěž jako vyučovací metody
 
 A\) MONOLOGICKÉ METODY:\
 jsou založené na využití souvislého mluveného projevu jednotlivce –
@@ -449,17 +451,17 @@ nové poznatky, odkazovat na argumentace, řečnické otázky. Užívá se
 hlavně na vysoké škole, je poměrně strohá. Přednáška předpokládá, že si
 žáci sami dělají záznam do sešitu.\
 Typy přednášek:\
- týmová – přednášejí dva až tři přednášející na stejné téma\
- přednáška na principu „tiskové konference“ – před přednáškou jsou
+ týmová – přednášejí dva až tři přednášející na stejné téma\
+ přednáška na principu „tiskové konference“ – před přednáškou jsou
 sesbírány dotazy k tématu, lektor zapracuje odpovědi na tyto otázky do
 přednášky\
- přednáška ve spojení s diskusí – vhodné pro výukové situace, v nichž
+ přednáška ve spojení s diskusí – vhodné pro výukové situace, v nichž
 je důležitá výměna názorů mezi učitelem a žáky i mezi žáky navzájem. Lze
 rozlišit na přednášku s diskuzí na základě tezí, se skupinovou diskusí a
 s pódiovou diskusí.\
- přednáška ex katedra – podobná klasické přednášce, navíc je zde
+ přednáška ex katedra – podobná klasické přednášce, navíc je zde
 doslovné čtení textu\
- interaktivní přednášky – v souč. době se prosazují stále více, jde o
+ interaktivní přednášky – v souč. době se prosazují stále více, jde o
 postup, kdy učitel i během svého monologu vstupuje do většího kontaktu
 (interakce) se žáky
 
@@ -613,7 +615,7 @@ c\) smíšené formy vyučování\
 = jedná se o kombinované formy snažící se využít výhod individuálního a
 hromadného vyučování\
 = patří sem tyto formy vyučování:\
- vyučování individualizované\
+ vyučování individualizované\
 učební činnost žáků učitel neřídí bezprostředně, žáci řeší zadané úkoly
 (učební programy) samostatně, řízení jejich činnost je zprostředkované
 učebním úkolem\
@@ -621,11 +623,11 @@ učebním úkolem\
 individuálním možnostem popřípadě přáním žáků\
 tato forma zajišťuje přizpůsobování se potřebám každého jednotlivce,
 činnost žáka vychází z jeho možností\
- vzájemné vyučování\
+ vzájemné vyučování\
 kompromis mezi hromadným a individuálním vyučováním\
 na 1 učitele připadá skupina žáků, přičemž se žáci učí mezi sebou pomocí
 nejšikovnějšího – nejchytřejšího ve skupině (=tutoři=pomocníci kantora)\
- diferenciované vyučování = výběrové\
+ diferenciované vyučování = výběrové\
 je založeno na rozlišování různých předpokladů u jednotlivých žáků a
 jejich spojování do stejnorodých skupin (podle zájmů, intelektu,
 speciálních schopností, nadání, financí a možností dané školy)\
@@ -634,7 +636,7 @@ cesty k poznatkům, která nejlépe odpovídá jeho osobnostním předpokladům\
 záporem je, že často studenti na začátku studia SŠ přesně neznají své
 budoucí povolání či jeho volbu v průběhu studia mění a pak je těžké
 přecházet ze základní úrovně do úrovně vyšší\
- projektové vyučování\
+ projektové vyučování\
 výuka se točí kolem ústředního tématu a zahrnuje látku ze všech
 předmětů\
 2. hledisko časové\
@@ -1070,21 +1072,21 @@ c) eticky rozvojové cíle (vztah k sobě samému, mezilidské vztahy,
 hodnotové žebříčky žáka)
 
 Ad 4) VV cíle mají tyto funkce:\
- motivační\
- kontrolní\
- organizační\
- ideologickou\
- syntetizující (slučovací)
+ motivační\
+ kontrolní\
+ organizační\
+ ideologickou\
+ syntetizující (slučovací)
 
 Ad 5) Dělení VV cílů:\
 VV cíle dělíme podle:\
-1. Obecnosti:  obecné\
- specifické\
-2. Časové následnosti:  blízké\
- vzdálené\
- etapové\
-3. Působení na osobnost:  vzdělávací\
- výchovné\
+1. Obecnosti:  obecné\
+ specifické\
+2. Časové následnosti:  blízké\
+ vzdálené\
+ etapové\
+3. Působení na osobnost:  vzdělávací\
+ výchovné\
 Poznámka:\
 VV cíle se mění dle vývoje společnosti\
 Obecné cíle vzdělávání jsou ve školském zákoně 561/2004 v § 2 odstavec
@@ -2531,23 +2533,23 @@ Metodologie pedagogická – nauka (věda) o metodách vědecké práce v
 pedagogice.
 
 Rozumí se tím:\
- věda o metodách a procedurách vědecké práce\
- věda o řízení, plánování a organizaci vědecké práce\
- celý komplex různorodých poznávacích postupů a praktických operací,
+ věda o metodách a procedurách vědecké práce\
+ věda o řízení, plánování a organizaci vědecké práce\
+ celý komplex různorodých poznávacích postupů a praktických operací,
 které směřují k získávání vědeckých poznatků
 
 3 zdroje vědeckého bádání\
- kriticky zhodnocené historické dědictví pedagogiky\
- poznávání a srovnávání různých pedagogických teorií a výchovných a
+ kriticky zhodnocené historické dědictví pedagogiky\
+ poznávání a srovnávání různých pedagogických teorií a výchovných a
 vzdělávacích systémů doma i v zahraničí\
- poznatky empirického výzkumu
+ poznatky empirického výzkumu
 
 V pedagogice se nejčastěji zkoumají:\
- podmínky výchovy a vliv prostředí na proces výchovy a vzdělávání\
- cíl vzdělávání a jeho obsah\
- organizaci vzdělávání…\
- práci učitelů a vychovatelů\
- hodnocení výsledků vzdělávání\
+ podmínky výchovy a vliv prostředí na proces výchovy a vzdělávání\
+ cíl vzdělávání a jeho obsah\
+ organizaci vzdělávání…\
+ práci učitelů a vychovatelů\
+ hodnocení výsledků vzdělávání\
 a mnoho dalších pedagogických jevů
 
 Základní výzkum – badatelská činnost zaměřená na řešení klíčových
@@ -2556,20 +2558,20 @@ Aplikovaný výzkum – je zaměřen na získávání poznatků bezprostředně
 využitelných v pedagogické praxi
 
 Práce podle postavení autora nebo autorů jsou práce :\
- individuální\
- souborné\
- kolektivní
+ individuální\
+ souborné\
+ kolektivní
 
 Výzkumy podle délky trvání :\
- krátkodobé\
- střednědobé\
- dlouhodobé (longitudinální)
+ krátkodobé\
+ střednědobé\
+ dlouhodobé (longitudinální)
 
 Významné kriterium rozlišení ped. výzkumu – kvantitativní či
 kvalitativní výzkum filozofické základy :
 
- Kvantitativní – realita je poznatelná a měřitelná\
- Kvalitativní – existuje více realit popisovaných různými způsoby
+ Kvantitativní – realita je poznatelná a měřitelná\
+ Kvalitativní – existuje více realit popisovaných různými způsoby
 
 Ad 2. Empirický výzkum :\
 Empirie (z řec. empeiros, zkušený) je zkušenost získaná pozorováním,
@@ -2596,37 +2598,37 @@ podle toho:\
 – Koho\
 – V jakém čase atd
 
- Volba metody těsně spjata s tím,\
- jak si klademe otázku\
- jaká je vedoucí idea výzkumu\
- jak formulujeme hypotézu\
- Postihuje zvolená metoda jádro problému?\
- Reálné podmínky k uplatnění metody v praxi\
- uskutečnění přirozeného experimentu ve škole\
- časový faktor\
- Pedagogické riziko metody – sociometrie\
- Metodické vědomosti a zkušenosti výzkumného pracovníka\
+ Volba metody těsně spjata s tím,\
+ jak si klademe otázku\
+ jaká je vedoucí idea výzkumu\
+ jak formulujeme hypotézu\
+ Postihuje zvolená metoda jádro problému?\
+ Reálné podmínky k uplatnění metody v praxi\
+ uskutečnění přirozeného experimentu ve škole\
+ časový faktor\
+ Pedagogické riziko metody – sociometrie\
+ Metodické vědomosti a zkušenosti výzkumného pracovníka\
 ´\
 Úroveň výsledků vlastní výzkumné práce vždy podstatně závisí na výběru
 vhodných metod a na metodické úrovni jejich použití.
 
 Metody empirického zkoumání (nejčastější výzkumné metody v pedagogice):
 
- Pozorování – cíl zkoumání, okruh pedagogických jevů\
- Přímé pozorování\
- Nepřímé pozorování\
- Krátkodobé pozorování\
- Dlouhodobé pozorování\
- Ústní a písemné zkoušky\
- Objektivnost\
- Modelový charakter\
- Standardizovanost\
- Reliabilita Reliabilita (angl. reliability – spolehlivost,
+ Pozorování – cíl zkoumání, okruh pedagogických jevů\
+ Přímé pozorování\
+ Nepřímé pozorování\
+ Krátkodobé pozorování\
+ Dlouhodobé pozorování\
+ Ústní a písemné zkoušky\
+ Objektivnost\
+ Modelový charakter\
+ Standardizovanost\
+ Reliabilita Reliabilita (angl. reliability – spolehlivost,
 hodnověrnost) je statistická veličina, udávající spolehlivost testu. Lze
 ji vyjádřit jako relativní nepřítomnost chyby při měření a lze ji také
 chápat jako charakteristiku testové metody.\[1\] V těchto významech je
 používána ve statistických vědách, psychometrice, ekonometrii apod\
- Validita Validita (z lat. validus, statný, silný, zdravý) znamená
+ Validita Validita (z lat. validus, statný, silný, zdravý) znamená
 platnost, například dokumentu, vědeckého postupu nebo argumentu.
 Odvozeno od validní – platný, uznaný; například „validní argument“ nebo
 „validní dokument“. Opak je invalidní, poškozený, neplatný.\
@@ -2639,87 +2641,87 @@ anebo nezávislá kvantitativní validace je důležitá zejména tam, kde
 zkoumaný jev nelze úplně oddělit od dalších vlivů a kde je interpretace
 výsledků složitá. Validizace se používá při kvantitativním i
 kvalitativním výzkumu a existují také různé postupy jejího vyčíslení.\
- Testy inteligence\
- vědomosti\
- osobnosti\
- didaktické\
- Dotazníková metoda\
- Jedna z nejčastějších\
- Respondenti – pro koho je, kdo ho vyplňoval atd.\
- Jasně formulované otázky\
- Otevřené položky\
- Uzavřené položky\
- Škálování atd.\
- Metoda rozhovoru – interview\
- Individuální rozhovor\
- Skupinový rozhovor\
- Standartizované, nestandartizované\
- Obsahová analýza pedagogických dokumentů\
- Oficiální dokumenty\
- Neoficiální dokumenty\
- Pedagogický experiment\
- Klasický experiment\
- Vícefaktorový experiment\
- Vybrané techniky měření\
- Přímé měření\
- Nepřímé měření\
- Projektivní techniky\
- Sociometrie
+ Testy inteligence\
+ vědomosti\
+ osobnosti\
+ didaktické\
+ Dotazníková metoda\
+ Jedna z nejčastějších\
+ Respondenti – pro koho je, kdo ho vyplňoval atd.\
+ Jasně formulované otázky\
+ Otevřené položky\
+ Uzavřené položky\
+ Škálování atd.\
+ Metoda rozhovoru – interview\
+ Individuální rozhovor\
+ Skupinový rozhovor\
+ Standartizované, nestandartizované\
+ Obsahová analýza pedagogických dokumentů\
+ Oficiální dokumenty\
+ Neoficiální dokumenty\
+ Pedagogický experiment\
+ Klasický experiment\
+ Vícefaktorový experiment\
+ Vybrané techniky měření\
+ Přímé měření\
+ Nepřímé měření\
+ Projektivní techniky\
+ Sociometrie
 
 Hypotéza = předpoklad, v němž se na základě řady faktů vytváří závěr o
 existenci objektu, souvislosti nebo příčiny jevu, přičemž tento závěr
 nelze pokládat za zcela dokázaný.\
- Hypotéza je tvrzení\
- Hypotéza vyjadřuje vztah mezi dvěma proměnnými\
- Hypotéza musí být empiricky ověřitelná
+ Hypotéza je tvrzení\
+ Hypotéza vyjadřuje vztah mezi dvěma proměnnými\
+ Hypotéza musí být empiricky ověřitelná
 
  
 
  
 
 Vědecká hypotéza (předpoklad)\
- vzniká na hlubším teoretickém základě\
- má přesnou formu výpovědi\
- vyjadřuje domněnku o existujících vztazích mezi jevy nebo jejich
+ vzniká na hlubším teoretickém základě\
+ má přesnou formu výpovědi\
+ vyjadřuje domněnku o existujících vztazích mezi jevy nebo jejich
 zákonitostmi, existenci určitého jevu, vlastnostmi nebo výsledky\
- pravdivost hypotézy – ověření výzkumem
+ pravdivost hypotézy – ověření výzkumem
 
 Podmínky kladené na hypotézu\
- musí souhlasit s fakty nebo alespoň být s přesnými dobře ověřenými
+ musí souhlasit s fakty nebo alespoň být s přesnými dobře ověřenými
 fakty slučitelná
 
 Zdůvodňování a ověřování hypotéz\
- Zdůvodňování hypotézy nejdříve\
- logické prvky v hypotéze\
- intuitivní dohady v hypotéze\
- vědecká fantazie – empirický výzkum\
- Ověření hypotézy = verifikace hypotézy\
- jedna nebo celá soustava dílčích ověřitelných hypotéz\
- hypotézy ověřovány\
- pozorováním\
- experimentováním\
- různými druhy praktických činností\
- Hypotézy po ověření\
- stávají se vědeckou teorií\
- mění svou podobu\
- jsou zamítány\
- Ověřování hypotéz – volba vhodných výzkumných metod
+ Zdůvodňování hypotézy nejdříve\
+ logické prvky v hypotéze\
+ intuitivní dohady v hypotéze\
+ vědecká fantazie – empirický výzkum\
+ Ověření hypotézy = verifikace hypotézy\
+ jedna nebo celá soustava dílčích ověřitelných hypotéz\
+ hypotézy ověřovány\
+ pozorováním\
+ experimentováním\
+ různými druhy praktických činností\
+ Hypotézy po ověření\
+ stávají se vědeckou teorií\
+ mění svou podobu\
+ jsou zamítány\
+ Ověřování hypotéz – volba vhodných výzkumných metod
 
 Ad 3. Teoretický výzkum :\
 uplatňuje se tzv.historická metoda\
- Abstrakce\
- Analýza a syntéza\
- Klasifikační analýzy\
- Vztahová analýza\
- Kauzální analýza\
- Dialektická analýzy\
- Srovnávání\
- Zobecňování a konkretizace\
- Indukce a dedukce\
- Metody modelování\
- Modelový experiment\
- Myšlenkový experiment\
- Metody formalizace
+ Abstrakce\
+ Analýza a syntéza\
+ Klasifikační analýzy\
+ Vztahová analýza\
+ Kauzální analýza\
+ Dialektická analýzy\
+ Srovnávání\
+ Zobecňování a konkretizace\
+ Indukce a dedukce\
+ Metody modelování\
+ Modelový experiment\
+ Myšlenkový experiment\
+ Metody formalizace
 
 http://www.csicr.cz/cz/O-nas/Testy-pouzite-pri-pilotnim-testovani
 
