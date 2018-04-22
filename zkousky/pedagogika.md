@@ -1,4 +1,4 @@
-<a name="">
+<hr><br /> <a name="">
  
 **PEDAGOGIKA OBSAH:**
 
@@ -44,8 +44,7 @@ PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY](#15)
 
 [17. Současný školský systém ČR](#17)
 
-[18. Výchova a vzdělávání žáků se speciálními vzdělávacími
-potřebami](#18)
+[18. Procesy a prostředky evaluace a autoevaluace.](#18)
 
 [19. Klíčové kompetence pedagogických pracovníků a žáků](#19)
 
@@ -55,7 +54,7 @@ potřebami](#18)
 
 ------------------------------------------------------------------------
 
-<a name="1">
+<hr><br /> <a name="1">
 
 [Zpět k obsahu](#)
 
@@ -228,7 +227,7 @@ w Teorie mravní, náboženské nebo estetické výchovy\
 w Polytechnické pedagogiky\
 w Pedagogika sportu
 
-<a name="2">
+<hr><br /> <a name="2">
 
 [Zpět k obsahu](#)
 
@@ -367,7 +366,7 @@ pedagogika, resp. obecná didaktika.\
 jejich protagonisté opírat i o dobrou znalost edukační praxe a o
 empirické výzkumy.
 
-<a name="3">
+<hr><br /> <a name="3">
 
 [Zpět k obsahu](#)
 
@@ -548,7 +547,7 @@ Vališová Alena, Kasíková Hana a kolektiv, Grada Publishing 2007, str.
 193 – 210
 
 
-<a name="4">
+<hr><br /> <a name="4">
 
 [Zpět k obsahu](#)
 
@@ -672,7 +671,7 @@ např. problémové vyuč., projektové vyuč., otevřené
 
  
 
-<a name="5">
+<hr><br /> <a name="5">
 
 [Zpět k obsahu](#)
 
@@ -785,7 +784,7 @@ Ad 3. Význam didaktiky:\
 Ad 4. Realizace didaktických zásad v praxi Jak to dělám já v předmětech
 u sebe, v předmětu, škole nebo doma….:-))
 
-<a name="6">
+<hr><br /> <a name="6">
 
 [Zpět k obsahu](#)
 
@@ -1000,7 +999,7 @@ skupině vyvolených.\
 Nebezpečí je v jejich fanatismu, nesnášenlivosti, pocitu výjimečnosti.
 Autoritářství vůdčích osobností.
 
-<a name="7">
+<hr><br /> <a name="7">
 
 [Zpět k obsahu](#)
 
@@ -1111,7 +1110,7 @@ ochraně zdraví.
 
 §2 (3) Vzdělávání poskytované podle tohoto zákona je veřejnou službou.
 
-<a name="8">
+<hr><br /> <a name="8">
 
 [Zpět k obsahu](#)
 
@@ -1298,7 +1297,7 @@ Pedagogickou diagnostikou souvisí i problematiky – Autoevaluace školy –
 což je soustavný a hodnotící (diagnostický) proces za účelem zvyšování
 kvality a efektivity výchovně vzdělávací práce.
 
-<a name="9">
+<hr><br /> <a name="9">
 
 [Zpět k obsahu](#)
 
@@ -1402,7 +1401,7 @@ jakou má autoritu a jakou úctu požívá.
 
  
 
-<a name="10">
+<hr><br /> <a name="10">
 
 [Zpět k obsahu](#)
 
@@ -1511,7 +1510,7 @@ dramatizace atd.\
 – Fantazie se meze nekladou\
 – Věnovat neustále pozornost
 
-<a name="11">
+<hr><br /> <a name="11">
 
 [Zpět k obsahu](#)
 
@@ -1712,7 +1711,7 @@ d) prošetřit,\
 e) dát zpětnou vazbu, poděkovat a případně nabídnout další spolupráci\
 f) případně provést nápravu, opatření, zásah,
 
-<a name="12">
+<hr><br /> <a name="12">
 
 [Zpět k obsahu](#)
 
@@ -1943,7 +1942,7 @@ trénink:plánovitý proces vedoucí ke změně postoje, vědomostí nebo
 chování prostřednictvím učební zkušenosti za účelem dosažení efektivního
 výkonu v nějaké aktivitě nebo řadě aktivit
 
-<a name="13">
+<hr><br /> <a name="13">
 
 [Zpět k obsahu](#)
 
@@ -2103,7 +2102,7 @@ g) exkurze, náslechy\
 h) supervize\
 i) hranice držet si je – nenechat se sežrat prací, rodinou, atd.
 
-<a name="14">
+<hr><br /> <a name="14">
 
 [Zpět k obsahu](#)
 
@@ -2211,7 +2210,7 @@ Při přípravách vždy pedagog dbá na základní didaktické zásady:\
 • opákování\
 • soustavnost a cykličnost
 
-<a name="15">
+<hr><br /> <a name="15">
 
 [Zpět k obsahu](#)
 
@@ -2516,7 +2515,7 @@ světě, apod.\
 – nezletilí žáci s vysokou neomluvenou absencí a projevy asociálního
 jednání
 
-<a name="16">
+<hr><br /> <a name="16">
 
 [Zpět k obsahu](#)
 
@@ -2837,7 +2836,7 @@ již po ukončení 5. (7.) ročníku ZŠ = osmi(šesti)letá gymnázia – vyš�
 odborné školy ve smyslu pomaturitního studia, na západě však řešeno
 formou VŠ
 
-<a name="17">
+<hr><br /> <a name="17">
 
 [Zpět k obsahu](#)
 
@@ -2954,169 +2953,16 @@ již po ukončení 5. (7.) ročníku ZŠ = osmi(šesti)letá gymnázia – vyš�
 odborné školy ve smyslu pomaturitního studia, na západě však řešeno
 formou VŠ
 
-<a name="18">
+<hr><br /> <a name="18">
 
 [Zpět k obsahu](#)
 
-**18. Výchova a vzdělávání žáků se speciálními vzdělávacími potřebami**
-
-Osnova:\
-1. Procentuální zastoupení dětí se SVP\
-2. Rozdělení žáků se SVP\
-3. Formy vzdělávání
-
-Ad 1.\
-Gausova křivka – většinový vzdělávací systém – pro 80 % populace, 20 %
-speciální vzdělávací potřeby
-
-Právní úprava:
-
-Školský zákon 561/2004 paragrafy 16, 17, 18, 19, 40, 41, 42,\
-Vyhláška 73/2005 Sb. o vzdělávání dětí, žáků a studentů se speciálními
-vzdělávacími potřebami dětí, žáků a studentů mimořádně nadaných\
-Vyhláška 72/2005 Sb o poradenských službách
-
-Ad 2.\
-Mezi žáky se speciálními vzdělávacími potřebami řadíme:\
-• žáky se zdravotním postižením a zdravotním znevýhodněním\
-• žáky se sociálním znevýhodněním\
-• žáky s mimořádným nadáním
-
-Zdravotně postižení žáci:\
-• mentálně postižení\
-• tělesně postižení\
-• sluchově postižení\
-• zrakově postižení\
-• žáci s kombinovaným postižením\
-• žáci s autismem\
-• žáci s vývojovými poruchami učení a chování\
-Zdravotně znevýhodnění:\
-• zdravotní oslabení,\
-• dlouhodobá nemoc\
-• nebo lehčí zdravotní poruchy vedoucí k poruchám učení a chování, které
-vyžadují zohlednění při vzdělávání.\
-Sociálně znevýhodnění žáci:\
-• rodinné prostředí s nízkým sociálně kulturním postavením\
-• ohrožení sociálně patologickými jevy\
-• nařízená ústavní výchova\
-• uložená ochranná výchova
-
-Speciální vzdělávací potřeby dětí, žáků a studentů zjišťuje školské
-poradenské zařízení.\
-Děti a studenti se speciálními vzdělávacími potřebami mají právo na
-vzdělání odpovídající jejich vzdělávacím potřebám a možnostem. Žáci se
-zdravotním postižením mají právo bezplatně užívat speciální učební
-pomůcky (speciální učebnice, speciální didaktické učební pomůcky
-poskytované školou…).
-
-Ad 3\
-Formy speciálního vzdělávání
-
-V běžné škole:\
-• Individuální integrace – podle individuálního vzdělávacího plánu (
-popřípadě s pedagogickým asistentem)\
-• Skupinová integrace – třída žáků se stejnými vzdělávacími potřebami
-
-Na základní škole speciální:\
-• Žáci s mentálním postižením\
-• Žáci s více vadami\
-• Žáci s autismem
-
-Vzdělávání žáků mimořádně nadaných
-
-Nadaní žáci potřebují speciální přístup učitelů pro rozvíjení svých
-schopností. Pečovat o rozvoj talentovaných žáků patří mezi důležité
-zájmy moderní společnosti.
-
-• Vzdělávání může probíhat podle individuálního vzdělávacího plánu –
-dochází k časové a obsahové úpravě učiva určitého předmětu.\
-• Anebo dochází k přeřazení žáka do vyššího ročníku bez absolvování
-předešlého, na základě zkoušky před komisí, kterou stanoví ředitel
-školy.
-
-Typy vzdělávacích programů:
-
-Základní škola praktická – dříve zvláštní\
-Základní škola speciální – dříve pomocná
-
-Praktická škola jednoletá (pro pomocňáky) a dvouletá(pro zvláštníky)
-
-561/2004 § 16:
-
-Děti, žáci a studenti se speciálními vzdělávacími potřebami mají právo
-na vzdělávání, jehož obsah, formy a metody odpovídají jejich vzdělávacím
-potřebám a možnostem, na vytvoření nezbytných podmínek, které toto
-vzdělávání umožní, a na poradenskou pomoc školy a školského poradenského
-zařízení. Pro žáky a studenty se zdravotním postižením a zdravotním
-znevýhodněním se při přijímání ke vzdělávání a při jeho ukončování
-stanoví vhodné podmínky odpovídající jejich potřebám. Při hodnocení žáků
-a studentů se speciálními vzdělávacími potřebami se přihlíží k povaze
-postižení nebo znevýhodnění. Délku středního a vyššího odborného
-vzdělávání může ředitel školy ve výjimečných případech jednotlivým žákům
-nebo studentům se zdravotním postižením prodloužit, nejvýše však o 2
-školní roky.
-
-\(7) Děti, žáci a studenti se zdravotním postižením mají právo bezplatně
-užívat při vzdělávání speciální učebnice a speciální didaktické a
-kompenzační učební pomůcky poskytované školou. Dětem, žákům a studentům,
-kteří nemohou vnímat řeč sluchem, se zajišťuje právo na bezplatné
-vzdělávání pomocí nebo prostřednictvím znakové řeči. Dětem, žákům a
-studentům, kteří nemohou číst běžné písmo zrakem, se zajišťuje právo na
-vzdělávání s použitím Braillova hmatového písma. Dětem, žákům a
-studentům, kteří se nemohou dorozumívat mluvenou řečí, se zajišťuje
-právo na bezplatné vzdělávání pomocí nebo prostřednictvím náhradních
-způsobů dorozumívání.
-
-\(8) Vyžaduje-li to povaha zdravotního postižení, zřizují se pro děti,
-žáky a studenty se zdravotním postižením školy, popřípadě v rámci školy
-jednotlivé třídy, oddělení nebo studijní skupiny s upravenými
-vzdělávacími programy. Žáci se středně těžkým a těžkým mentálním
-postižením, žáci se souběžným postižením více vadami a žáci s autismem
-mají právo se vzdělávat v základní škole speciální, nejsou-li vzděláváni
-jinak. Příprava na vzdělávání dětem se středně těžkým a těžkým mentálním
-postižením, se souběžným postižením více vadami nebo s autismem se může
-poskytovat v přípravném stupni základní školy speciální.
-
-\(9) Ředitel mateřské školy, základní školy, základní školy speciální,
-střední školy, konzervatoře a vyšší odborné školy může ve třídě nebo
-studijní skupině, ve které se vzdělává dítě, žák nebo student se
-speciálními vzdělávacími potřebami, zřídit funkci asistenta pedagoga. V
-případě dětí, žáků a studentů se zdravotním postižením a zdravotním
-znevýhodněním je nezbytné vyjádření školského poradenského zařízení.
-
-\(10) Ke zřízení jednotlivé třídy, oddělení nebo studijní skupiny s
-upravenými vzdělávacími programy v rámci školy podle odstavce 8 a ke
-zřízení funkce asistenta pedagoga podle odstavce 9 je v případě škol
-zřizovaných ministerstvem či registrovanými církvemi nebo náboženskými
-společnostmi, kterým bylo přiznáno oprávnění k výkonu zvláštního práva
-zřizovat církevní školy, nezbytný souhlas ministerstva, v případě škol
-zřizovaných ostatními zřizovateli souhlas krajského úřadu.
-
-§ 17
-
-Vzdělávání nadaných dětí, žáků a studentů
-
-\(1) Školy a školská zařízení vytvářejí podmínky pro rozvoj nadání dětí,
-žáků a studentů.
-
-\(2) K rozvoji nadání dětí, žáků a studentů lze uskutečňovat rozšířenou
-výuku některých předmětů nebo skupin předmětů. Třídám se sportovním
-zaměřením nebo žákům a studentům vykonávajícím sportovní přípravu může
-ředitel školy odlišně upravit organizaci vzdělávání.
-
-\(3) Ředitel školy může mimořádně nadaného nezletilého žáka na žádost
-osoby, která je v souladu se zvláštním právním předpisem12) nebo s
-rozhodnutím soudu oprávněna jednat za dítě nebo nezletilého žáka (dále
-jen „zákonný zástupce“), a mimořádně nadaného zletilého žáka nebo
-studenta na jeho žádost přeřadit do vyššího ročníku bez absolvování
-předchozího ročníku. Součástí žádosti žáka, který plní povinnou školní
-docházku, je vyjádření školského poradenského zařízení a registrujícího
-praktického lékaře pro děti a dorost. Podmínkou přeřazení je vykonání
-zkoušek z učiva nebo části učiva ročníku, který žák nebo student nebude
-absolvovat. Obsah a rozsah zkoušek stanoví ředitel školy.
+**18.B) Procesy a prostředky evaluace a autoevaluace.**
 
 
-<a name="19">
+
+
+<hr><br /> <a name="19">
 
 [Zpět k obsahu](#)
 
@@ -3302,7 +3148,7 @@ způsobilost učitele, která není totožná se způsobilostí odbornou,
 předmětovou ani pedagogickou např. smysl pro humor, odvaha riskovat,
 schopnost rychle se rozhodovat, atd.
 
-<a name="20">
+<hr><br /> <a name="20">
 
 [Zpět k obsahu](#)
 
