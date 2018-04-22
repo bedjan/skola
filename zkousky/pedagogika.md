@@ -367,7 +367,7 @@ pedagogika, resp. obecná didaktika.\
 jejich protagonisté opírat i o dobrou znalost edukační praxe a o
 empirické výzkumy.
 
-[](){#3}
+<a name="3">
 
 [Zpět k obsahu](#)
 
@@ -547,8 +547,8 @@ Toto téma je zpracováno podrobněji v učebnici Pedagogika pro učitele –
 Vališová Alena, Kasíková Hana a kolektiv, Grada Publishing 2007, str.
 193 – 210
 
- \
-[]()
+
+<a name="4">
 
 [Zpět k obsahu](#)
 
@@ -672,7 +672,7 @@ např. problémové vyuč., projektové vyuč., otevřené
 
  
 
-[](){#5}
+<a name="5">
 
 [Zpět k obsahu](#)
 
@@ -785,8 +785,7 @@ Ad 3. Význam didaktiky:\
 Ad 4. Realizace didaktických zásad v praxi Jak to dělám já v předmětech
 u sebe, v předmětu, škole nebo doma….:-))
 
- \
-[]()
+<a name="6">
 
 [Zpět k obsahu](#)
 
@@ -1001,8 +1000,7 @@ skupině vyvolených.\
 Nebezpečí je v jejich fanatismu, nesnášenlivosti, pocitu výjimečnosti.
 Autoritářství vůdčích osobností.
 
- \
-[]()
+<a name="7">
 
 [Zpět k obsahu](#)
 
@@ -1113,8 +1111,7 @@ ochraně zdraví.
 
 §2 (3) Vzdělávání poskytované podle tohoto zákona je veřejnou službou.
 
- \
-[]()
+<a name="8">
 
 [Zpět k obsahu](#)
 
@@ -1301,7 +1298,7 @@ Pedagogickou diagnostikou souvisí i problematiky – Autoevaluace školy –
 což je soustavný a hodnotící (diagnostický) proces za účelem zvyšování
 kvality a efektivity výchovně vzdělávací práce.
 
-[](){#9}
+<a name="9">
 
 [Zpět k obsahu](#)
 
@@ -1405,7 +1402,7 @@ jakou má autoritu a jakou úctu požívá.
 
  
 
-[](){#10}
+<a name="10">
 
 [Zpět k obsahu](#)
 
@@ -1514,7 +1511,7 @@ dramatizace atd.\
 – Fantazie se meze nekladou\
 – Věnovat neustále pozornost
 
-[](){#11}
+<a name="11">
 
 [Zpět k obsahu](#)
 
@@ -1715,8 +1712,7 @@ d) prošetřit,\
 e) dát zpětnou vazbu, poděkovat a případně nabídnout další spolupráci\
 f) případně provést nápravu, opatření, zásah,
 
- \
-[]()
+<a name="12">
 
 [Zpět k obsahu](#)
 
@@ -1947,9 +1943,7 @@ trénink:plánovitý proces vedoucí ke změně postoje, vědomostí nebo
 chování prostřednictvím učební zkušenosti za účelem dosažení efektivního
 výkonu v nějaké aktivitě nebo řadě aktivit
 
- 
-
-[](){#13}
+<a name="13">
 
 [Zpět k obsahu](#)
 
@@ -2109,8 +2103,7 @@ g) exkurze, náslechy\
 h) supervize\
 i) hranice držet si je – nenechat se sežrat prací, rodinou, atd.
 
- \
-[]()
+<a name="14">
 
 [Zpět k obsahu](#)
 
@@ -2218,7 +2211,7 @@ Při přípravách vždy pedagog dbá na základní didaktické zásady:\
 • opákování\
 • soustavnost a cykličnost
 
-[](){#15}
+<a name="15">
 
 [Zpět k obsahu](#)
 
@@ -2523,9 +2516,7 @@ světě, apod.\
 – nezletilí žáci s vysokou neomluvenou absencí a projevy asociálního
 jednání
 
- 
-
-[](){#16}
+<a name="16">
 
 [Zpět k obsahu](#)
 
@@ -2846,9 +2837,7 @@ již po ukončení 5. (7.) ročníku ZŠ = osmi(šesti)letá gymnázia – vyš�
 odborné školy ve smyslu pomaturitního studia, na západě však řešeno
 formou VŠ
 
- 
-
-[](){#17}
+<a name="17">
 
 [Zpět k obsahu](#)
 
@@ -2965,7 +2954,7 @@ již po ukončení 5. (7.) ročníku ZŠ = osmi(šesti)letá gymnázia – vyš�
 odborné školy ve smyslu pomaturitního studia, na západě však řešeno
 formou VŠ
 
-[](){#18}
+<a name="18">
 
 [Zpět k obsahu](#)
 
@@ -3126,9 +3115,8 @@ praktického lékaře pro děti a dorost. Podmínkou přeřazení je vykonání
 zkoušek z učiva nebo části učiva ročníku, který žák nebo student nebude
 absolvovat. Obsah a rozsah zkoušek stanoví ředitel školy.
 
- 
 
-[](){#19}
+<a name="19">
 
 [Zpět k obsahu](#)
 
@@ -3314,9 +3302,7 @@ způsobilost učitele, která není totožná se způsobilostí odbornou,
 předmětovou ani pedagogickou např. smysl pro humor, odvaha riskovat,
 schopnost rychle se rozhodovat, atd.
 
- 
-
-[](){#20}
+<a name="20">
 
 [Zpět k obsahu](#)
 
