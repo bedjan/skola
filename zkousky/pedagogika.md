@@ -52,6 +52,8 @@ Gerontopedagogika, Pedagogická prognostika, ale i Oborové didaktiky
 (zeměpis, jazyky atd., Teorie mravní, náboženské nebo estetické výchov,
 Polytechnické pedagogik, Pedagogika sportu)
 
+```
+
 **2A. Nejvýznamnější problémy současného školství,kurikulární reforma,alternativní školy**
 ```
 
