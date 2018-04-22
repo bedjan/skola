@@ -271,7 +271,7 @@ Osnova:
 
 <hr>
 
-1<br>. Nejvýznamnější problémy :
+1) Nejvýznamnější problémy :
 
 a. Reforma školství –ŠVP, RVP, státní maturity
 
@@ -304,7 +304,7 @@ nepokrývají všechny sféry života moderní společnosti, které by si měl
 každý příslušník společnosti osvojit (např. technika, politika,
 medicína, psychologie aj.).
 
-2<br>. Kurikulární reforma :
+2) Kurikulární reforma :
 
 Kurikulum dříve OBSAH, „obsah“ s věcmi co se mají naučit.
 
@@ -323,7 +323,7 @@ Kurikulum je ovlivňováno<br>
 Dnes už ne obsahy x ale osvojit si KOMPETENCE (schopnosti). K …učení,
 komunikaci atd. viz. ŠVP pro ZŠ
 
-3<br>. Alternativní školy :<br>
+3) Alternativní školy :<br>
 Je jiná možnost vzdělávání ke státnímu systému či většinovému systému
 
 Největší rozvoj mezi světovými válkami 19. – 20. století<br>
@@ -644,7 +644,7 @@ didaktický trojúhelník = učitel-učivo-žák
 #### Ad2)<br>
 Dělení OFV – dle 3 hledisek:
 
-1<br>. hledisko vztahu žáka – učitele<br>
+1) hledisko vztahu žáka – učitele<br>
 – podle hlediska vztahu učitel – žák rozlišujeme 3 typy organizace
 vyučování:<br>
 
@@ -932,7 +932,7 @@ Antisociální chování – protispolečenské a protiprávní ( trestná činn
 
 Poruchy chování žáků v mladším a středním školním věku se dělí na:
 
-1<br>. vzdorovitost<br>
+1) vzdorovitost<br>
 – neúměrné prosazování osobního názoru, odmítání poslušnosti (
 předvádění se před spolužáky )<br>
 2. lhaní a podvody<br>
@@ -973,7 +973,7 @@ PPP, SPC, SVP (střediska výchovné péče), výchovné a přestupkové komise
 městských a obecných úřadů
 
 
-II<br>. Závislosti<br>
+II) Závislosti<br>
 Závislosti se dělí na dvě skupiny:<br>
 a) na látkách – společensky přijatelné (např. Alkohol) a společensky
 nepřijatelné drogy (pervitin)<br>
@@ -1053,7 +1053,7 @@ Pomoc rodičům a blízkým lidem<br>
 Pomoc často vyhledávají rodiče, protože o pomoc nestojí ( nemají problém
 ). Informace, emoční podpora (tzv. druhotná závislost)
 
-III<br>. Menšiny etnické a národnostní menšiny
+III) Menšiny etnické a národnostní menšiny
 
 Nejčastější oblasti<br>
 – romové (velké téma a problém v ČR, ale nejenom u nás)<br>
@@ -1066,7 +1066,7 @@ rodinné tradice atd.)<br>
 – integrace a reintegrace<br>
 – kapsy sociálního vyloučení a chudoby atd.
 
-IV<br>. Lidé v a z nápravně výchovných zařízeních<br>
+IV) Lidé v a z nápravně výchovných zařízeních<br>
 Hlavní problémy:<br>
 Opět socializace a resocializace ve výkonu trestu, po výkonu trestu.<br>
 Problém vazebních věznic!
@@ -1256,11 +1256,11 @@ zájmových oddílů, zájmových kroužků)<br>
 Diagnostický proces je možné dělit:<br>
 a) podle času
 
-a<br>. krátkodobý<br>
+a) krátkodobý<br>
 b. dlouhodobý<br>
 b) podle přístupy k diagnostice:
 
-1<br>. edumetrický – využívá kvantitativní metody (testy, číselné údaje,
+1) edumetrický – využívá kvantitativní metody (testy, číselné údaje,
 které se vysvětlují a interpretují<br>
 2. kasuistická přístup – přístup individuální, cílem je kvalitativní
 pohled, je to podrobné hodnocení jednoho případu, umožňuje hlubší
@@ -1523,7 +1523,7 @@ Osnova:<br>
 
 <hr>
 
-1<br>. Diferenciace a individualizace – vymezení pojmů<br>
+1) Diferenciace a individualizace – vymezení pojmů<br>
 A. Diferenciace – rozdělování, dělení
 
 Diferenciací je myšleno rozdělování, členění kolektivu žáků na základně
@@ -1562,7 +1562,7 @@ jeho možností.<br>
 Smyslem individualizace je vytvářet situace, které každému žákovi<br>
 umožní nalézt optimální cestu pro vlastní vzdělávání.
 
-2<br>. Způsoby diferenciace
+2) Způsoby diferenciace
 
 • Diferenciace školou<br>
 ◦ vedle sebe existují různé druhy škol<br>
@@ -1605,7 +1605,7 @@ nutné k těmto způsobům vyučování.<br>
 Sociopolitické – Jak dosáhnout spravedlivého rozdělení žáků. A je
 jakékoli rozdělování vůbec spravedlivé? Nejde o diskriminaci?
 
-3<br>. Rozvoj aktivity, samostatnosti a tvořivosti žáků<br>
+3) Rozvoj aktivity, samostatnosti a tvořivosti žáků<br>
 Žáci v dnešních školách jsou vychovávání spíše v tom, aby pasivně
 sledovali výklad učitele.
 
@@ -1705,7 +1705,7 @@ V rámci ped. komunikace dochází k výměně informací mezi mluvčím
 (vysílačem) a posluchačem (přijímačem) viz. nákres a popis obecné schéma
 komunikace
 
-2<br>. Obecné schéma komunikace: (vysílač, přijímač, komunikační kanál)
+2) Obecné schéma komunikace: (vysílač, přijímač, komunikační kanál)
 
 Osoba 1 předává informaci, musí mít myšlenku dále musí myšlenku
 zakódovat do slov, ale i mimoslovní zakódovaní (mimika, gestikulace)
@@ -1722,7 +1722,7 @@ Podobné schéma z pohledu sociálního:
 Schéma sociální komunikace reakcí na ně je ovlivňuje ovlivňuje reakcí na ně je
 
 
-3<br>. Faktory limitující pedagogickou komunikaci<br>
+3) Faktory limitující pedagogickou komunikaci<br>
 – prostorové omezení (učebny, dílny, tělocvična, laboratoře apod.)<br>
 – časová limitovanost (rozvrh hodin, délka vyučovací jednotky, absence
 komunikace učitele – domácí práce žáků apod.),<br>
@@ -1738,7 +1738,7 @@ individualizované)<br>
 vnímání, znalost jazyka, zdravotním stavem, sociálními vztahy a
 podmínkami, motivací apod)
 
-4<br>. Zásady pedagogické komunikace:
+4) Zásady pedagogické komunikace:
 
 Důraz kladen na komunikativní pojetí výchovy<br>
 – dítě jako aktivní partner dialogu (orientace na žáka, respekt k dítě)<br>
@@ -1795,7 +1795,7 @@ odborné kompetence, ale i kompetence sociálně-psychologické povahy.
 B. Řešení problémů<br>
 Řešení problémových situací:
 
-1<br>. První pravidlo – prevence, aby žádné problémové situace nevznikaly.<br>
+1) První pravidlo – prevence, aby žádné problémové situace nevznikaly.<br>
 2. Doporučení – lidé, kteří chtějí řešit problém jsou obvykle v afektu,
 jednají v emocích je důležité nejprve najít místo, kde je na jednání
 klid, snažit se dotyčného uklidnit, požádat ho, aby se posadil, něco mu
@@ -2071,7 +2071,7 @@ Osnova:<br>
 
 <hr>
 
-1<br>. Osobnostní předpoklady učitele<br>
+1) Osobnostní předpoklady učitele<br>
 a) Vymezení pojmů:
 
 Osobnost – je soustavou vlastností, charakterizujících celistvou
@@ -2141,7 +2141,7 @@ kladou důraz na autoritu, umění učit, důslednost, jak je vyučující
 upraven,<br>
 spravedlnost, přátelskost, a odbornou zdatnost
 
-2<br>. Kvalifikační předpoklady pedagogické profese<br>
+2) Kvalifikační předpoklady pedagogické profese<br>
 Kvalifikační předpoklady učitele jsou jasně dané viz. Zákon o
 pedagogických pracovnících – 563/2004
 
@@ -3138,7 +3138,7 @@ svých žáků dosahovat.
 #### Ad2) Klíčové kompetence žáků na základní škole<br>
 A) Klíčové kompetence základního vzdělání (vymezeny v RVP pro ZŠ):
 
-1<br>. kompetence k učení – naučit se učit, nutné celoživotní vzdělávání<br>
+1) kompetence k učení – naučit se učit, nutné celoživotní vzdělávání<br>
 2. kompetence k řešení problémů – život neustálá šňůra problémů, které
 řešíme<br>
 3. kompetence komunikativní – celý život komunikujeme, měli bychom vědět
@@ -3437,7 +3437,7 @@ nadpředmětový přístup ke vzdělání (na rozdíl od „Fach-idiocie“)
 RVP i ŠVP jsou veřejně přístupné dokumenty a vycházejí z obecných
 principů:
 
-1<br>. nová strategie vzdělání<br>
+1) nová strategie vzdělání<br>
 2. uplatnění získaných vědomostí a dovedností v pracovním životě<br>
 3. celoživotní učení<br>
 4. základní vzdělávací úroveň stanovená pro všechny absolventy
