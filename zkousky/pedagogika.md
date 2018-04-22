@@ -1,3 +1,5 @@
+<a name="">
+ 
 **PEDAGOGIKA OBSAH:**
 
 
@@ -53,7 +55,7 @@ potřebami](#18)
 
 ------------------------------------------------------------------------
 
-[](){#1}
+<a name="1">
 
 [Zpět k obsahu](#)
 
@@ -226,7 +228,7 @@ w Teorie mravní, náboženské nebo estetické výchovy\
 w Polytechnické pedagogiky\
 w Pedagogika sportu
 
-[](){#2}
+<a name="2">
 
 [Zpět k obsahu](#)
 
