@@ -1,7 +1,7 @@
 <hr><br /> <a name="obsah">
 
 __OBSAH RYCHLÝ:__
-[1](#1)
+[1](https://raw.githubusercontent.com/bedjan/skola/master/zkousky/pedagogika.md#1)
 [2](#2)
 [3](#3)
 [4](#4)
@@ -20,14 +20,14 @@ __OBSAH RYCHLÝ:__
 [17](#17)
 [18](#18)
 [19](#19)
-[20](#20)
+[20](https://raw.githubusercontent.com/bedjan/skola/master/zkousky/pedagogika.md#20)
 
 
 
 **PEDAGOGIKA OBSAH:**
 
 
-[1. PEDAGOGIKA – její předmět, základní ped. disciplíny](#1)
+[1. PEDAGOGIKA – její předmět, základní ped. disciplíny](https://raw.githubusercontent.com/bedjan/skola/master/zkousky/pedagogika.md#1)
 
 [2. Nejvýznamnější problémy současné pedagogiky, kurikulární reforma,
 alternativní školy](#2)
@@ -72,7 +72,7 @@ PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY](#15)
 
 [19. Klíčové kompetence pedagogických pracovníků a žáků](#19)
 
-[20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE](#20)
+[20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE](https://raw.githubusercontent.com/bedjan/skola/master/zkousky/pedagogika.md#20)
 
 ------------------------------------------------------------------------
 
