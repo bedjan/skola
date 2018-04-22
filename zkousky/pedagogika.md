@@ -1,4 +1,4 @@
-**1A. Pedagogika a základní pedagogické disciplíny**
+**1A. Pedagogika a základní pedagogické disciplíny**:
 ...
 
 Pedagogika je věda, která se zabývá výchovou a vzděláváním, které chápe
