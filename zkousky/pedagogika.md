@@ -80,7 +80,7 @@ PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY](#15)
 
 <hr>
 
-**Ad 1)**
+####Ad1)
 Definice pedagogiky:
 Pedagogika je věda, která se zabývá výchovou a vzděláváním, které chápe
 jako cílevědomý a záměrný proces na utváření a formování osobnosti
@@ -89,7 +89,7 @@ jako cílevědomý a záměrný proces na utváření a formování osobnosti
 Patří mezi humanitní vědy tj. vědy o člověku stejně jako např. –
 filozofie, sociologie, psychologie…
 
-**Ad 2)**
+####Ad2)
 Definice výchovy:\
 Výchova je cílevědomá činnost zaměřená na předávání vzorců, norem a
 pravidel chování platných ve společnosti („umravňování“)
@@ -114,7 +114,8 @@ poznámka:\
 Cílem výchovy je jedinec, který si zvnitřní (interiorizuje) normy
 chování, hodnoty, postoje, které vycházejí ze společenské morálky a
 reálně se podle nich v životě chová (extetizuje).\
-Ad 3)\
+
+####Ad3)\
 Definice vzdělávání (edukace):\
 Vzdělávání je cílený proces zaměřený na získávání, předávání a
 osvojování poznatků, vědomostí a dovedností.
@@ -134,7 +135,7 @@ společnosti a jedince\
 společnosti)\
 – výchovou a vzděláváním se může ovlivnit velká většina národa
 
-Ad 4)\
+####Ad4)\
 Pedagogika stejně jako jakákoliv jiná věda musí splňovat těchto pět
 základních požadavků:
 
@@ -146,7 +147,7 @@ didaktické postupy, a zásady).
  Aby věda mohla být vědou, musí mít jasně definovaný předmět zkoumání
 (v pedagogice výchova a vzdělávání).
 
- Každá vědní disciplína musí mít soubor výzkumných metod,\
+ Každá vědní disciplína musí mít soubor výzkumných metod,\
 kterými zkoumá daný předmět výzkumné metody (rozhovor, pozorování, expe-
 riment, srovnávací metody, dotazník, test, expertní šetření …).
 
@@ -160,7 +161,7 @@ tj. – vědci v určitých věd. institucích\
 (institucionalizace vědy – VŠ pedagogické a filozofické a jiné fakulty
 různých uni-verzit, výzkumné ústavy, akademie věd apod.)
 
-Ad 5)\
+####Ad5)\
 Základní pedagogické disciplíny:\
 Pedagogika se dělí na základní, hraniční a aplikované pedagogické
 disciplíny\
@@ -206,7 +207,7 @@ j) Kybernetická pedagogika (kybernetiky x pedagogiky)\
 k) Teorie řízení školních zařízení (managementu)(management x
 pedagogiky)\
 l) Dramatická výchova\
- Aplikované pedagogické disciplíny – členění:\
+ Aplikované pedagogické disciplíny – členění:\
 1. – z hlediska věkových stadií rozvoje osobnosti (předškolní ped., ped.
 ZŠ /tzv. primární ped/, středoškolská ped., vyso-koškolská ped.,
 andragogika, gerontopedago-gika).\
@@ -216,41 +217,58 @@ volného času, masově vzdělávacích prostředků atd.).\
 a) Předškolní pedagogika\
 b) Školní pedagogika\
 c) Mimoškolní pedagogika: w Rodinná výchova\
-w Pedagogika dětských a mládežnických organizací\
-w Pedagogika dospělých\
-w Vojenská pedagogika\
+- Pedagogika dětských a mládežnických organizací\
+- Pedagogika dospělých\
+- Vojenská pedagogika\
 d) Na hranici mezi školní a mimoškolní pedagogikou se rozvíjejí:\
-w Andragogika\
-w Gerontopedagogika\
-w Pedagogická prognostika\
+- Andragogika\
+- Gerontopedagogika\
+- Pedagogická prognostika\
 ale i\
-w Oborové didaktiky (zeměpis, jazyky atd.)\
-w Teorie mravní, náboženské nebo estetické výchovy\
-w Polytechnické pedagogiky\
-w Pedagogika sportu
+- Oborové didaktiky (zeměpis, jazyky atd.)\
+- Teorie mravní, náboženské nebo estetické výchovy\
+- Polytechnické pedagogiky\
+- Pedagogika sportu
 
 <hr><br /> <a name="2">
 
 [Zpět k obsahu](#obsah)
 
 **2. Nejvýznamnější problémy současné pedagogiky, kurikulární reforma,
-alternativní školy.**\
-Osnova:\
-1. Nejvýznamnější problémy\
-2. Kurikulární reforma\
+alternativní školy.** 
+
+Osnova:
+
+1. Nejvýznamnější problémy
+
+2. Kurikulární reforma
+
 3. Alternativní školy
 
-1\. Nejvýznamnější problémy :\
-a. Reforma školství –ŠVP, RVP, státní maturity\
-b. Pravomoce učitelů\
-c. Agresivita žáků\
-d. Postavení učitelů ve škole\
-e. Úbytek dětí ve školství – (optimalizace škol)\
-f. Odměňování pedagogických pracovníků\
-g. Feminizace\
-h. Financování školství\
-i. Obsah základního vzděláváními – teorie a praxe a vědecké poznání\
-j. Obměna pedagogické profese\
+<hr>
+
+1\. Nejvýznamnější problémy :
+
+a. Reforma školství –ŠVP, RVP, státní maturity
+
+b. Pravomoce učitelů
+
+c. Agresivita žáků
+
+d. Postavení učitelů ve škole
+
+e. Úbytek dětí ve školství – (optimalizace škol)
+
+f. Odměňování pedagogických pracovníků
+
+g. Feminizace
+
+h. Financování školství
+
+i. Obsah základního vzděláváními – teorie a praxe a vědecké poznání
+
+j. Obměna pedagogické profese
+
 k. Příprava učitelů na VŠ /didaktika/ „Jak učit.“
 
 V současné době však nastává ve vzdělávání určitý krizový moment,
@@ -376,16 +394,20 @@ empirické výzkumy.
 
 Osnova:\
 1. Definice výchovně vzdělávacích metod\
+
 2. Faktory ovlivňující výběr výchovně vzdělávacích metod\
+
 3. Dělení výchovně vzdělávacích metod
 
-Ad 1)\
+<hr>
+
+####Ad1)\
 Metoda – pojem odvozený z řeckého slova methodos (cesta k něčemu, postup
 k určitému cíli)\
 Definice výchovně vzdělávacích metod:\
  způsob práce učitele jímž organizuje činnost žáků k dosažení výchovně
 vzdělávacích cílů\
-Ad 2)\
+####Ad2)\
 Volbu výchovně vzdělávací metody v praxi ovlivňuje:\
  druh a stupeň vzdělávací instituce či školy\
  charakter předmětu či oboru\
@@ -420,7 +442,7 @@ citovosti, charakteru, spolupráce, rozhodovacích schopností)\
 jednota cílů, učiva, organizační formy, materiálních prostředků a
 činností učitele a žáka.
 
-Ad 3)\
+####Ad3)\
 Dělení výchovně vzdělávací metody:\
  A) monologické (založené na využívání souvislého mluveného projevu
 jednotlivce – učitele či žáka)\
@@ -508,30 +530,37 @@ nápadů a v jejich první strukturaci, využívá spolupráce levé a pravé
 mozkové hemisféry, např.: podstatu problému napíšeme doprostřed velkého
 papíru a necháme žáky kreslit a psát to, co jim přináší mozková činnost
 (co je právě napadne)\
+
 D) NÁZORNĚ-DEMONSTRAČNÍ METODY: založené především na pozorovací
 činnosti žáků, žákům se něco ukáže (např. děj, proces, životní situace)
 a poté se s tím dále pracuje (názory, postoje, další možnosti řešení),
 demonstrace znamená názornou ukázku předmětu či procesu – nejjednodušší
 formou demonstračních metod je ilustrace, která doplňuje většinou slovní
 výklad\
+
 E) ROZBOROVÉ METODY: v jejím rámci žáci provádějí analýzu např.
 textových materiálů, chování osob, stanovisek k různým problémům,
 historických pramenů, schémat, …\
+
 F) SITUAČNÍ METODY: předmětem analýzy je ucelená reálná situace – i
 konfliktní povahy – z profesního či osobního života, cílem je pak věcný
 rozbor situace, jádra problému, rozbor chování aktérů této situace.
 Podstata této metody je v analýze situace a pochopení základních vztahů,
 které tuto situaci vytvářejí.\
+
 G) PROJEKTOVÉ METODY: založena na analyticko- syntetické činnosti,
 učitel vytvoří se třídou nějaký projekt, kterému se poté věnuje určitý
 čas, po který se mu věnuje (ve všech předmětech)\
+
 H) INSCENAČNÍ METODY: je postupem, který vychází z principu situační
 metody, vyjadřuje vytvoření projektu a z něj vycházející praktické
 simulování, hraní určité sociální situace a přijímání konkrétní sociální
 role. Dramatizace, přehrání nějaké situace (např. přijímacího
 pohovoru).\
+
 CH) VÝCVIKOVÉ METODY: dovednost žáka je opakována, až se zautomatizuje –
 např. autoškola\
+
 I) DIDAKTICKÁ HRA A SOUTĚŽ JAKO VYUČOVACÍ METODY: herní situace mají pro
 pedagogiku velký význam, hra má řadu aspektů (poznávací, procvičovací,
 sociální, diagnostický, terapeutický aj.). Soutěž je nutné od hry
@@ -556,11 +585,16 @@ Vališová Alena, Kasíková Hana a kolektiv, Grada Publishing 2007, str.
 **4. Organizační formy výuky či vzdělávání (OFV)**
 
 Osnova:\
+
 1. Vymezení organizačních forem výuky – definice\
+
 2. Dělení OFV\
+
 3. Formy výuky
 
-Ad 1)\
+<hr>
+
+####Ad1)\
 Organizační formy výuky patří mezi jednu ze čtyř základních pedagog.
 kategorií (další = cíle, metody, obsahy) – vzájemně se ovlivňují
 
@@ -583,12 +617,13 @@ Všechny organizační formy vyučování – se opírají o didaktický
 trojúhelník.\
 didaktický trojúhelník = učitel-učivo-žák
 
-Ad 2)\
+####Ad2)\
 Dělení OFV – dle 3 hledisek:
 
 1\. hledisko vztahu žáka – učitele\
 – podle hlediska vztahu učitel – žák rozlišujeme 3 typy organizace
 vyučování:\
+
 a) individuální vyučování\
 = nejstarší OFV převládající ve starověku a středověku\
 = dnes: ve výuce jazyků, ve výuce zaostávajících žáků nebo naopak žáků
@@ -601,6 +636,7 @@ nebo malou skupinkou\
 = kladem je individuální tempo + přizpůsobování se zcela žákovi\
 = záporem pak nákladnost, absence kontaktu s druhými dětmi, nepatrné
 dosažené výsledky se srovnáním s vynaloženým úsilím\
+
 b) hromadné vyučování = frontální (opak individuálního vyučování)\
 = učitel řídí učební činnost velké skupiny žáků současně\
 = jedná se o nejběžnější způsob organizace vyučovacího procesu ve škole\
@@ -611,7 +647,7 @@ uplatňuje vzájemná komunikace učitele s jednotlivými žáky ve třídě\
 = na jednoho učitele připadá skupina žáků, učí se ve třídě v rámci
 vyučovacích hodin, učivo uspořádáno do předmětů
 
-c\) smíšené formy vyučování\
+c) smíšené formy vyučování\
 = jedná se o kombinované formy snažící se využít výhod individuálního a
 hromadného vyučování\
 = patří sem tyto formy vyučování:\
@@ -639,17 +675,19 @@ přecházet ze základní úrovně do úrovně vyšší\
  projektové vyučování\
 výuka se točí kolem ústředního tématu a zahrnuje látku ze všech
 předmětů\
+
 2. hledisko časové\
 – časové rozložení učiva do dnů, týdnů a školních let (rozvrh hodin dle
 zásad duševní hygieny) + délka a struktura vyučovací hodiny jako časové
 jednotky vyučování (vyučovací hodina – obvykle trvá 45 minut, na VŠ
 dávají přednost délce 1,5 hodiny, v případě exkurzí a jiné mimoškolní
 činnosti mluvíme o delší časové jednotce)\
+
 3. hledisko místa (prostoru)\
 – vyučování v kmenové či jiné třídě, v odborných pracovnách, v
 laboratořích, v tělocvičně, v bazéně, na školním pozemku, v mimoškolních
 zařízeních (exkurze, praxe)\
-Ad 3)\
+####Ad3)\
 Formy výuky\
 1 – třídně hodinový systém\
 – frontální výuka\
@@ -679,12 +717,18 @@ např. problémové vyuč., projektové vyuč., otevřené
 
 **5. Didaktické zásady ve výuce,význam,realizace**\
 Osnova:\
+
 1. Definice didaktiky a její dělení\
+
 2. Didaktické zásady\
+
 3. Význam didaktiky\
+
 4. Realizace didaktických zásad v praxi
 
-Ad 1. Definice didaktiky:
+<hr>
+
+####Ad1. Definice didaktiky:
 
 DIDAKTIKA = nauka či teorie vyučování, základní vědecká disciplína v
 ped.\
@@ -700,7 +744,8 @@ speciálně vzdělávacími potřebami)
 
 za tvůrce moderních didaktických metod je považován J.A.Komenský
 
-Ad 2. Didaktické zásady:\
+####Ad2. Didaktické zásady:\
+
 Definice:\
 Didaktické zásady jsou zobecněné a ověřené postupy, které zvyšují
 efektivitu a účinnost vyučování (výchovně vzdělávacího procesu)\
@@ -708,7 +753,7 @@ Didaktické zásady se obecně vztahují k didaktickému trojúhelníku:\
 – vztah k učivu\
 – vztah k činnosti učitele\
 – vztah k činnosti žáků\
-Příklady zobecněných didaktických zásad či hesel:\
+Příklady zobecněných didaktických zás####Adči hesel:\
 – od jednoduššího ke složitějšímu\
 – názornost = využívat všech smyslů\
 – střídání činností\
@@ -720,6 +765,7 @@ Příklady zobecněných didaktických zásad či hesel:\
 – s úsměvem jde všechno líp (humor, smích, bavit)
 
 Druhy didaktických zásad\
+
 o Zásada uvědomělosti a aktivity\
 o Učitel se snaží, aby žáka pro učení získal, dále aby žák přijal cíle
 výuky za své a v konečném důsledku vyvíjel žádoucí aktivitu směřující k
@@ -778,12 +824,14 @@ o Na základě zpětné vazby učitel získá informace o postupu žáka k
 vytčenému učebnímu cíli, jaká je kvalita výuky a její výsledky.
 Diagnostikuje (určuje, nalézá) chyby, které jsou přirozenou částí
 procesu učení, vysvětlí, kde se chyba stala a eventuálně znovu provede
-výklad nepochopeného učiva.\
-Ad 3. Význam didaktiky:\
+výkl####Adnepochopeného učiva.\
+
+####Ad3. Význam didaktiky:\
 – usnadnění práce učitele\
 – zvyšuje efektivitu výuky\
 – převádí teoretické (vědecké) poznatky do praxe\
-Ad 4. Realizace didaktických zásad v praxi Jak to dělám já v předmětech
+
+####Ad4. Realizace didaktických zás####Adv praxi Jak to dělám já v předmětech
 u sebe, v předmětu, škole nebo doma….:-))
 
 <hr><br /> <a name="6">
@@ -792,16 +840,26 @@ u sebe, v předmětu, škole nebo doma….:-))
 
 **6. SOCIÁLNÍ PEDAGOGIKA ( vybrané pojmy, hlavní okruhy problémů )**\
 Osnova:\
+
 1. Definice sociální pedagogiky\
+
 2. Metody sociální pedagogiky\
+
 3. Hlavní okruhy problémů\
+
 I) poruch chování\
+
 II) závislosti\
+
 III) menšiny\
+
 IV) občané ve výkonu trestu a po propuštění\
+
 V) sekty
 
-Ad 1. Definice sociální pedagogiky\
+<hr>
+
+####Ad1. Definice sociální pedagogiky\
 Sociální pedagogika\
 – zkoumá vliv prostředí na výchovu a vzdělávání jedince\
 – věda zabývající se působením prostředí na formování osobnosti jedince\
@@ -815,7 +873,7 @@ Odstranění sociálně patologických jevů ve společnosti a začlenění tj.
 socializace či resocializace jedinců či skupin do společnosti formou
 výchovy a vzdělávání.
 
-Ad 2. Metody sociální pedagogiky\
+####Ad2. Metody sociální pedagogiky\
 Obecně:\
 – socializace\
 – resocializace\
@@ -838,7 +896,7 @@ Reálně se jedná zejména o práci s:\
 centra)\
 – práce ve volném čase prevence zločinnosti
 
-Ad 3. Hlavní okruhy problémů\
+####Ad3. Hlavní okruhy problémů\
 I. Poruchy chování\
 Etopedie – zabývá se výchovou a vzděláním dětí, mládeže a dospělých,
 kteří mají poruchy chování\
@@ -890,9 +948,6 @@ jevů, speciální pedagog, školní psycholog),\
 PPP, SPC, SVP (střediska výchovné péče), výchovné a přestupkové komise
 městských a obecných úřadů
 
- 
-
- 
 
 II\. Závislosti\
 Závislosti se dělí na dvě skupiny:\
@@ -1007,15 +1062,23 @@ Autoritářství vůdčích osobností.
 
 **7. Výchova – vymezení pojmu, složky výchovy, výchovně vzdělávací
 cíle**\
+
 Osnova:\
+
 1. Definice výchovy\
+
 2. Složky výchovy\
+
 3. Výchovně vzdělávací cíle\
+
 4. Funkce výchovně vzdělávacích cílů\
+
 5. Dělení výchovně vzdělávacích cílů\
 6. Cíle v
 
-Ad 1) Definice výchovy – vymezení pojmu (viz. otázka č. 1)\
+<hr>
+
+####Ad1) Definice výchovy – vymezení pojmu (viz. otázka č. 1)\
 Výchova je cílevědomá činnost zaměřená na předávání vzorců, norem a
 pravidel chování platných ve společnosti.\
 tj. je to cílevědomá činnost zaměřená na utváření osobnosti člověka
@@ -1035,7 +1098,7 @@ Vztah výchovy a vzdělávání\
 Výchova a vzdělání jsou v praxi zpravidla vzájemně spjaty. Vždy, když
 vychovávám, tak i vzdělávám a naopak.
 
-Ad 2) Složky výchovy\
+####Ad2) Složky výchovy\
 Mezi základní složky výchovy patří:\
 a) Mravní – etická (správné x špatné, dobro x a zlo, etické chování)\
 b) Estetická – nauka o krásnu (co je hezké, ošklivé, vkus)\
@@ -1047,7 +1110,7 @@ f) Emocionální – citová – umět vyjadřovat, vnímat a zacházet s city,
 psychikou\
 g) Hudební – tóny, rytmy
 
-Ad 3) Výchovně vzdělávací cíle\
+####Ad3) Výchovně vzdělávací cíle\
 VV cíle patří mezi základní čtyři pedagogické kategorie.\
 Definice výchovně vzdělávacího cíle:\
 VV cíl je očekávaný a předem zamýšlený výsledek výchovně vzdělávacího
@@ -1071,14 +1134,14 @@ komunikace, kooperace, chování v různých rolích)\
 c) eticky rozvojové cíle (vztah k sobě samému, mezilidské vztahy,
 hodnotové žebříčky žáka)
 
-Ad 4) VV cíle mají tyto funkce:\
+####Ad4) VV cíle mají tyto funkce:\
  motivační\
  kontrolní\
  organizační\
  ideologickou\
  syntetizující (slučovací)
 
-Ad 5) Dělení VV cílů:\
+####Ad5) Dělení VV cílů:\
 VV cíle dělíme podle:\
 1. Obecnosti:  obecné\
  specifické\
@@ -1119,17 +1182,25 @@ ochraně zdraví.
 **\
 8. Pedagogicko-psychologická diagnostika – součást výchovně-vzdělávacího
 procesu školy**\
+
 Osnova:\
+
 1. Diagnóza – vymezení pojmu\
+
 2. Diagnostický proces\
+
 3. Pedagogicko psychologická diagnostika\
+
 4. Význam pedagogické psychologické diagnostiky pro školu
 
-Ad 1) Diagnóza – vymezení pojmu\
+<hr>
+
+
+####Ad1) Diagnóza – vymezení pojmu\
 DIAGNÓZA = rozpoznání, pojmenování stavu, situace,nemoci\
 ( z řečtiny Diagnózis – skrze poznání)
 
-Ad 2) Diagnostický proces\
+####Ad2) Diagnostický proces\
 Diagnostický proces je období kdy se zjišťují informace o žákovi,
 události, jevu atd.\
 Základní diagnostické metody používané v rámci diagnostického procesu:\
@@ -1174,7 +1245,7 @@ které vývoj ovlivňuje\
 Výsledkem diagnostického procesu je diagnóza.\
 Z diagnózy vychází intervence(zásah, opatření, reedukace léčba, atd.)
 pak se zhodnotí.\
-Ad 3) PEDAGOGICKO-PSYCHOLOGICKÁ DIAGNOSTIKA\
+####Ad3) PEDAGOGICKO-PSYCHOLOGICKÁ DIAGNOSTIKA\
 PEDAGOGICKO-PSYCHOLOGICKÁ DIAGNOSTIKA = je součástí celého VV procesu.
 Neboli od začátku (zápis) do konce (výsledky diagnostiky).\
 Pedagogicko-psychologická diagnostika je vědecká disciplína, která se
@@ -1234,7 +1305,7 @@ nabídnou pomoc, sezení, terapie )\
 4. Výzkumný ústav odborného školství\
 5.Informační a poradenská střediska UP ( pomoc na úřadu práce )\
 6. Kliničtí psychologové\
-Ad 4) Význam pedagogické psychologické diagnostiky pro školu :\
+####Ad4) Význam pedagogické psychologické diagnostiky pro školu :\
 Význam PP diagnostiky pro školu\
 – Poruchy učení\
 – nejoblíbenější učitel\
@@ -1305,14 +1376,22 @@ kvality a efektivity výchovně vzdělávací práce.
 
 **9. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY ŠKOLNÍHO
 HODNOCENÍ**\
+
 Osnova:\
+
 1. Hodnocení – vymezení pojmu\
+
 2. Funkce hodnocení\
+
 3. Negativní stránky hodnocení\
+
 4. Nástroje k hodnocení\
+
 5. Typy hodnocení
 
-ad 1) Hodnocení – vymezení pojmu\
+<hr>
+
+####Ad1) Hodnocení – vymezení pojmu\
 V obecném smyslu lze považovat za školní hodnocení/evaluaci/ zaujímání a
 vyjadřování kladného nebo záporného stanoviska učitelů k žákovi,
 vzhledem k jeho\
@@ -1327,7 +1406,7 @@ jako výchovný prostředek.\
 Hodnocení je důležité pro učitele, žáky i rodiče, ovlivňuje kvalitu
 výchovně vzdělávacího procesu a podílí se na vytváření sebepojetí žáka.
 
-Ad 2) Funkce hodnocení\
+####Ad2) Funkce hodnocení\
 Informativní funkce evaluace – informace o dosaženém výsledku
 (+informace kontrolní, příp. diagnostická) – v současném školství hlavní
 důraz\
@@ -1361,7 +1440,7 @@ před ostatními, informovat žáka, rodiče, mít vše podložené\
 Číslo (známka) – nese minimum informací, doprovázet slovem, vysvětlovat,
 motivovat……….Velmi těžké!!!!!
 
-Ad 3) Negativní stránky hodnocení\
+####Ad3) Negativní stránky hodnocení\
 Negativní atributy klasifikace (známkování momentálního výkonu žáka)\
 – odvádí žáka od podstaty učení\
 – nahrazuje přirozenou motivaci motivací vnější\
@@ -1370,7 +1449,7 @@ Negativní atributy klasifikace (známkování momentálního výkonu žáka)\
 – sociální diferenciace třídy\
 – může vést ke zdravotním obtížím
 
-Ad 4) Nástroje k hodnocení (prostředky evaluace)\
+####Ad4) Nástroje k hodnocení (prostředky evaluace)\
 Prostředky evaluace\
 – didaktické testy – snaha po maximální objektivitě\
 – hodnocení na základě číselné škály (např. 1-5)\
@@ -1389,7 +1468,7 @@ Důležitost zpětné vazby.\
 Práce s chybou je přirozenou součástí procesu hledání\
 Vytváří postoje a dovednosti pro celoživotní vzdělávání
 
-Ad 5) Typy hodnocení\
+####Ad5) Typy hodnocení\
 formativní/ průběžné/\
 – posuzuje pokrok žáků ve vztahu ke konkrétním cílům určité etapy
 vyučování a pomáhá učiteli se rozhodnout, jak dále pokračovat\
@@ -1409,10 +1488,16 @@ jakou má autoritu a jakou úctu požívá.
 
 **10. Diferenciace a individualizace; rozvoj aktivity, samostatnosti a
 tvořivosti žáků**\
+
 Osnova:\
+
 1. Diferenciace a individualizace – vymezení pojmů\
+
 2. Způsoby diferenciace\
+
 3. Rozvoj aktivity, samostatnosti a tvořivosti žáků
+
+<hr>
 
 1\. Diferenciace a individualizace – vymezení pojmů\
 A. Diferenciace – rozdělování, dělení
@@ -1517,14 +1602,22 @@ dramatizace atd.\
 [Zpět k obsahu](#obsah)
 
 **11. Pedagogická komunikace ve výuce, řešení problémových situací**\
+
 Osnova:\
+
 A. Pedagogická komunikace ve výuce\
+
 1. Pedagogická komunikace – vymezení\
+
 2. Obecné schéma komunikace\
+
 3. Faktory ovlivňující pedagogickou komunikaci\
+
 4. Zásady pedagogické komunikace
 
 B. Řešení problémových situací
+
+<hr>
 
 A. Pedagogická komunikace ve výuce\
 1. Pedagogická komunikace\
@@ -1602,19 +1695,8 @@ komunikační kanál otevřen a přijímač vnímal vysílač.
 
 Podobné schéma z pohledu sociálního:
 
-Schéma sociální komunikace
+Schéma sociální komunikace reakcí na ně je ovlivňuje ovlivňuje reakcí na ně je
 
- 
-
-reakcí na ně je
-
- 
-
-ovlivňuje ovlivňuje reakcí na ně je
-
- 
-
- 
 
 3\. Faktory limitující pedagogickou komunikaci\
 – prostorové omezení (učebny, dílny, tělocvična, laboratoře apod.)\
@@ -1719,13 +1801,20 @@ f) případně provést nápravu, opatření, zásah,
 
 **12. Pedagogika tradiční, moderní, základní pedagogické pojmy,\
 inovace výuky**\
+
 Osnova:\
+
 1. Pedagogika tradiční\
+
 2. Pedagogika moderní\
+
 3. Alternativní školy\
+
 4. Základní pedagogické pojmy
 
-ad 1. PEDAGOGIKA TRADIČNÍ\
+<hr>
+
+####Ad1. PEDAGOGIKA TRADIČNÍ\
 Za zakladatele tradiční pedagogiky je považován J. F. Herbart
 (1776-1841)\
 X\
@@ -1750,7 +1839,7 @@ uspořádání výuky)\
 velkého rozsahu\
 poznatků
 
-ad 2. MODERNÍ PEDAGOGIKA\
+####Ad2. MODERNÍ PEDAGOGIKA\
 – opak tradiční, učitel = rádce, partner\
 – převzetí pozitivních rysů z reformní i tradiční pedagogiky\
 cíl:\
@@ -1775,7 +1864,7 @@ praktičnost, efektivita, dialog žáka a učitele\
 
  
 
-ad 3. ALTERNATIVNÍ PEDAGOGIKA (viz. otázka č. 2)\
+####Ad3. ALTERNATIVNÍ PEDAGOGIKA (viz. otázka č. 2)\
 Jiná možnost k většinovému (státnímu) vzdělávání\
 Největší rozvoj mezi světovými válkami 19. – 20. století\
 Zakladatelské země a velký rozvoj : Francie, Německo, Itálie, USA.\
@@ -1892,7 +1981,7 @@ Celestin Freinet (1896-1966)\
 „Na počátku každého pochopení stojí zkušenost, cvičení a práce, týdenní
 plán práce,třídní noviny, korespondence
 
-Ad 4. Základní pedagogické pojmy\
+####Ad4. Základní pedagogické pojmy\
 pedagogika: věda o výchově a vzdělávání, cílený proces utváření
 osobnosti,\
 výchova: záměrná, cílevědomá soustava činností, proces změřený k
@@ -1949,9 +2038,14 @@ výkonu v nějaké aktivitě nebo řadě aktivit
 [Zpět k obsahu](#obsah)
 
 **13. OSOBNOSTNÍ A KVALIFIKAČNÍ PŘEDPOKLADY PEDAG. PROFESE**\
+
 Osnova:\
+
 1. Osobnostní předpoklady učitele\
+
 2. Kvalifikační předpoklady pedagogické profese
+
+<hr>
 
 1\. Osobnostní předpoklady učitele\
 a) Vymezení pojmů:
@@ -2109,12 +2203,18 @@ i) hranice držet si je – nenechat se sežrat prací, rodinou, atd.
 [Zpět k obsahu](#obsah)
 
 **14. Příprava učitele na výuku**\
+
 Osnova:\
+
 1. Příprava na výuku dlouhodobá\
+
 2. Příprava na výuku střednědobá\
+
 3. Příprava na výuku krátkodobá
 
-Ad 1. Dlouhodobá
+<hr>
+
+####Ad1. Dlouhodobá
 
 Pregraduální vzdělávání – učíme se učit, splňovat kvalifikační
 předpoklady pro pedagogickou činnost dle zákona o pedagogických
@@ -2141,7 +2241,7 @@ reálný žák!!!!\
 • další vzdělávání učitelů, návštěvy seminářů – plán osobního
 rozvoje….!!! Myslet na svoje zdraví duševní a tělesné!!!
 
-ad 2. Střednědobá\
+####Ad2. Střednědobá\
 • tématické celky\
 • měsíční a týdenní plány\
 • způsob hodnocení v průběhu jednoho měsíce či týdne\
@@ -2154,13 +2254,9 @@ Pořád myslet co mohu v současnosti nabízet:\
 – syntetizování informací zajímavým (poutavým) způsobem
 (zprostředkovatel vědomostí)
 
- 
 
- 
 
- 
-
-ad 3. Krátkodobá
+####Ad3. Krátkodobá
 
 Jedná se o přípravu na jednotlivé hodiny.
 
@@ -2218,15 +2314,24 @@ Při přípravách vždy pedagog dbá na základní didaktické zásady:\
 
 **15. VÝCHOVNÉ PŮSOBENÍ ŠKOLY A RODINY,\
 PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY**\
+
 Osnova:\
+
 1. Vymezení základních pojmů\
+
 2. Vymezení základních právních norem\
+
 3. Vztah školy k rodině\
+
 4. Předpoklady úspěšného výchovného působení školy a rodiny\
+
 5. Možné formy spolupráce školy a rodiny\
+
 6. Práva a povinnosti žáků, zákonných zástupců a školy
 
-Ad 1) Vymezení základních pojmů\
+<hr>
+
+####Ad1) Vymezení základních pojmů\
 • RODINA = základní sociální jednotka společnosti tvořená jedinci
 spojenými pokrevními svazky (rodiče a děti, sourozenci) a jistým právním
 vztahem, který vzniká uzavřením sňatku.\
@@ -2350,11 +2455,11 @@ specializované instituce = sekundární činitelé, jako je např. škola a
 různé instituce a organizace (např. církevní, sportovní, zdravotnické,
 ekonomické, odborné), sdělovací prostředky, apod.
 
-Ad 2) Vymezení základních právních norem z této oblasti
+####Ad2) Vymezení základních právních norem z této oblasti
 
 Základní práva a povinnosti vymezuje zákon – o rodině a školský zákon!
 
-Ad 3) Vztah školy k rodině (zákonným zástupcům)
+####Ad3) Vztah školy k rodině (zákonným zástupcům)
 
 Z pohledu školského zákona:\
 Škola poskytuje výchovně vzdělávací služby (viz. paragraf …..školského
@@ -2380,7 +2485,7 @@ Cílem školy by mělo být:\
 – spokojený zákonný zástupce\
 – spokojený zřizovatel
 
-Ad 4) Předpoklady úspěšného výchovného působení školy a rodiny\
+####Ad4) Předpoklady úspěšného výchovného působení školy a rodiny\
 PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY\
 • soustavnost\
 • jednotnost\
@@ -2428,7 +2533,7 @@ a bojí se rodičů\
 nedostatečná výchova – zanedbávání dítěte, může vést až k týraní; máme
 ohlašovací povinnost
 
-ad 5) Možné formy spolupráce školy a rodiny
+####Ad5) Možné formy spolupráce školy a rodiny
 
 Na škole je jak dokáže nabídnout rodině možnosti spolupráce a
 informovanosti.\
@@ -2450,7 +2555,7 @@ předávání vysvědčení\
 atd.\
 – http://rodicevitani.cz/
 
-ad 6) Práva a povinnosti žáků, zákonných zástupců a školy vymezuje
+####Ad6) Práva a povinnosti žáků, zákonných zástupců a školy vymezuje
 školský zákon
 
 PRÁVA ŽÁKŮ A ZÁKONNÝCH ZÁSTUPCŮ NEZLETILÝCH ŽÁKŮ\
@@ -2522,12 +2627,18 @@ jednání
 [Zpět k obsahu](#obsah)
 
 **16. Metodologie pedagogického výzkumu**\
+
 Osnova:\
+
 1. Vymezení základních pojmů – metodologie\
+
 2. Empirický výzkum\
+
 3. Teoretický výzkum
 
-Ad 1. Vymezení základních pojmů\
+<hr>
+
+####Ad1. Vymezení základních pojmů\
 Metodologie (z řečtiny) – Nauka o metodách vědeckého poznání.\
 Metodologie pedagogická – nauka (věda) o metodách vědecké práce v
 pedagogice.
@@ -2573,7 +2684,7 @@ kvalitativní výzkum filozofické základy :
  Kvantitativní – realita je poznatelná a měřitelná\
  Kvalitativní – existuje více realit popisovaných různými způsoby
 
-Ad 2. Empirický výzkum :\
+####Ad2. Empirický výzkum :\
 Empirie (z řec. empeiros, zkušený) je zkušenost získaná pozorováním,
 případně pokusem (experimentem).
 
@@ -2707,7 +2818,7 @@ Zdůvodňování a ověřování hypotéz\
  jsou zamítány\
  Ověřování hypotéz – volba vhodných výzkumných metod
 
-Ad 3. Teoretický výzkum :\
+####Ad3. Teoretický výzkum :\
 uplatňuje se tzv.historická metoda\
  Abstrakce\
  Analýza a syntéza\
@@ -2723,130 +2834,28 @@ uplatňuje se tzv.historická metoda\
  Myšlenkový experiment\
  Metody formalizace
 
-http://www.csicr.cz/cz/O-nas/Testy-pouzite-pri-pilotnim-testovani
-
-17\. Současný školský systém ČR\
-Osnova: 1.Základní legislativa 2. Školy 3. Školská zařízení 4.Vysoké
-školy 5.Zvláštnosti našeho školského systému
-
-Ad 1.Základní legislativa\
-• vzdělávací systém je upravován zákonem č. 561/2004 sb. O předkošlním ,
-základním, středním, vyšším odborném a jiném vzdělávání a zákonem o
-vysokých školách č. 111/1998 Sb\
-1, ŠKOLY (MŠ, ZŠ, SŠ, konzervatoře,VOŠ,ZUŠ, JŠsPSJZ)\
-Vzdělávací soustava\
-2,ŠKOLSKÁ ZAŘÍZENÍ\
-Musí být zapsány v rejstříku škol, aby byly uznány státem tj. doklady o
-vzdělání atd.
-
-Ad 2. ŠKOLY\
-PŘEDŠKOLNÍ VZDĚLÁVÁNÍ\
-• počáteční stupeň veřejného vzdělávání, který je řízený pokyny MŠMT\
-• předškolní vzdělávání se realizuje v :\
-A,MATEŘSKÉ ŠKOLY A SPECIÁLNÍ MATEŘSKÉ ŠKOLY\
-• doplňují rodinnou výchovu, podílejí se na socializaci dítěte\
-• pomáhají vyrovnávat rozdíly způsobené kulturním a sociální zázemím v
-rodinách\
-• zřizovatelem je většinou obec, MŠ a SMŠ se řídí rámcovým programem pro
-předškolní vzdělávání\
-B,PŘÍPRAVNÉ TŘÍDY\
-• proces vzdělávání v PT je založen na respektování snížení sociální
-adaptability či zvýšené potřeby výchovy a vzdělávání v některé oblasti\
-ZÁKLADNÍ VZDĚLÁVÁNÍ\
-• základní vzdělávání občanů, povinná devítiletá školní docházka, která
-se člení na 1. a 2. stupeň\
-• stupeň může být absolvován na nižším stupno šesti nebo osmi letého
-gymnázia\
-vzdělávání může probíhat v několika vzdělávacích programů ZÁKLADNÍ
-ŠKOLA, OBECNÁ ŠKOLA, NÁRODNÍ ŠKOLA(končí, nahrazení RVP a ŠVP),
-ALTERNATIVNÍ ŠKOLY.\
-• dále také existují základní školy s rozšířenou výukou různých předmětů
-(JAZYKY,MATEMATIKA, PŘÍRODOPIS, HUDEBNÍ VÝCHOVA…) → vyšší hodinové
-dotace na tyto předměty\
-STŘEDNÍ VŠEOBECNÉ A ODBORNÉ VZDĚLÁVÁNÍ\
-• poskytuje žákům obsahově širší všeobecné nebo odborné vzdělání\
-• příprava k celoživotnímu učení, příprava na v ýkon povolání nebo na
-pracovní činnost\
-A, STŘEDNÍ VZDĚLÁNÍ (praktické školy)\
-• 1 – 2 roky studia denní formou\
-B, STŘEDNÍ VZDĚLÁNÍ S VÝUČNÍM LISTEM(střední odborné učiliště, odborné
-učiliště)\
-• 2 – 3 roky studia denní formou\
-C, STŘEDNÍ VZDĚLÁNÍ S MATURITNÍ ZKOUŠKOU (střední odborná škola)\
-• 4 roky studia denní formou\
-D, GYMNAZIÁLNÍ VZDĚLÁNÍ (maturitní zkouška)\
-• 4 roky studia denní formou , v případech víceletých gymnázií 8 nebo 6
-let\
-KONZERVATOŘE\
-• studium je na 6 let, ve 4. ročníku student vykonává maturitní zkoušku,
-v 6. ročníku absolvent vykonává absolventské žkoušky, po absolvování 6
-let získává titup Dipl. um.\
-VYŠŠÍ ODBORNÉ ŠKOLY\
-• studium je na 3 roky, absolvent získává titul DiS.(diplomovaný
-specialista)\
-ZÁKLADNÍ UMĚLECKÉ Školy (ZUŠky)\
-• poskytují základy vzdělání v uměleckých oborech – hudební, taneční,
-výtvarné, literárně dramatické\
-• studium je poskytováno za úplatu, výuka probíhá individuálně nebo ve
-skupinách\
-• formy studia: přípravné studium, základní studium prvního a druhého
-stupně, studium s rozšířeným počtem hodin a studium pro dospělé\
-JAZYKOVÉ ŠKOLY S PRÁVEM STÁTNÍ JAZYKOVÉ ZKOUŠKY\
-• studium je poskytováno za úplatu, výuka probíhá individuálně nebo ve
-skupinách\
-• stát uznává státní jazykové zkoušky, či mezinárodní jazykové zkoušky,\
-• denní studium či večerní v určitém hod. rozsahu uznává jako soustavnou
-přípravu na „povolání“ tj, platí i zdravotní a sociální.(?????)
-
-Ad 3. ŠKOLSKÁ ZAŘÍZENÍ A ŠKOLSKÉ SLUŽBY\
-• poskytují služby a vzdělávání, která doplňují nebo podporují
-vzdělávání ve školách nebo s ním přímo souvisejí, nebo zajišťují ústavní
-a ochranou výchovu anebo preventivní výchovnou péči (dále jen školské
-služby)\
-• jsou nedílnou součástí školské soustavy\
-Zařízení pro další vzdělávání pedagogických pracovníků (NIDV)\
-• zajišťují vzdělávání pedagogických pracovníků škol nebo školských
-zařízení\
-Školská poradenská zařízení (PPP, SPC, SVP)\
-• zajišťují informační, diagnostickou, poradenskou a metodickou činnost,
-poskytují odborné pedagogicko – psychologické, speciálně pedagogické
-služby\
-Školská zařízení pro zájmové vzdělávání (DDM)\
-• např. zájmové a rekreační akce, osvětová činnost\
-Školská výchovná a ubytovací zařízení (ŠD,ŠK, VU,DM)\
-• volnočasové aktivity, sportovní akce – internáty\
-• výchovné ústavy – celodenní výchova, vzdělávání a ubytování\
-Zařízení školního stravování (ŠJ)\
-• školní jídelny, jídelny dětských domovů…\
-Školská účelová zařízení (Střediska službám škole)\
-• napomáhají školám při jejich činnosti (mat. tech. Služby, poradenské,
-ekonomicko-administrativní služby, knihovnické a informační služby pro
-žáky, zaměstnance atd.\
-• místa k praktickému vyučování (dílny)
-
-Ad 4. VYSOKÉ ŠKOLY\
-• jsou samostatným článkem české vzdělávací soustavy\
-• jsou upravovány zákonem č. 111/1998 Sb., o vysokých školách\
-• vysoké školy máme univerzitní (UJEP, UK..) a neuniverzitní (VŠFS,
-VŠCHT)\
-• VŠ dělíme také na veřejné, soukromé a státní.
-
-Ad 5. Zvláštnosti našeho vzdělávacího systému\
-Jako celek je české školství podobné školstvím v cizích zemích , lze
-však registrovat nejdůležitější odlišnosti : – diferenciace vzdělávání
-již po ukončení 5. (7.) ročníku ZŠ = osmi(šesti)letá gymnázia – vyšší
-odborné školy ve smyslu pomaturitního studia, na západě však řešeno
-formou VŠ
 
 <hr><br /> <a name="17">
 
 [Zpět k obsahu](#obsah)
 
 **17. Současný školský systém ČR**\
-Osnova: 1.Základní legislativa 2. Školy 3. Školská zařízení 4.Vysoké
-školy 5.Zvláštnosti našeho školského systému
 
-Ad 1.Základní legislativa\
+Osnova:
+
+1.Základní legislativa
+
+2. Školy
+
+3. Školská zařízení
+
+4.Vysoké školy
+
+5.Zvláštnosti našeho školského systému
+
+<hr>
+
+####Ad1.Základní legislativa\
 • vzdělávací systém je upravován zákonem č. 561/2004 sb. O předkošlním ,
 základním, středním, vyšším odborném a jiném vzdělávání a zákonem o
 vysokých školách č. 111/1998 Sb\
@@ -2856,7 +2865,7 @@ Vzdělávací soustava\
 Musí být zapsány v rejstříku škol, aby byly uznány státem tj. doklady o
 vzdělání atd.
 
-Ad 2. ŠKOLY\
+####Ad2. ŠKOLY\
 PŘEDŠKOLNÍ VZDĚLÁVÁNÍ\
 • počáteční stupeň veřejného vzdělávání, který je řízený pokyny MŠMT\
 • předškolní vzdělávání se realizuje v :\
@@ -2915,7 +2924,7 @@ skupinách\
 • denní studium či večerní v určitém hod. rozsahu uznává jako soustavnou
 přípravu na „povolání“ tj, platí i zdravotní a sociální.(?????)
 
-Ad 3. ŠKOLSKÁ ZAŘÍZENÍ A ŠKOLSKÉ SLUŽBY\
+####Ad3. ŠKOLSKÁ ZAŘÍZENÍ A ŠKOLSKÉ SLUŽBY\
 • poskytují služby a vzdělávání, která doplňují nebo podporují
 vzdělávání ve školách nebo s ním přímo souvisejí, nebo zajišťují ústavní
 a ochranou výchovu anebo preventivní výchovnou péči (dále jen školské
@@ -2941,14 +2950,14 @@ ekonomicko-administrativní služby, knihovnické a informační služby pro
 žáky, zaměstnance atd.\
 • místa k praktickému vyučování (dílny)
 
-Ad 4. VYSOKÉ ŠKOLY\
+####Ad4. VYSOKÉ ŠKOLY\
 • jsou samostatným článkem české vzdělávací soustavy\
 • jsou upravovány zákonem č. 111/1998 Sb., o vysokých školách\
 • vysoké školy máme univerzitní (UJEP, UK..) a neuniverzitní (VŠFS,
 VŠCHT)\
 • VŠ dělíme také na veřejné, soukromé a státní.
 
-Ad 5. Zvláštnosti našeho vzdělávacího systému\
+####Ad5. Zvláštnosti našeho vzdělávacího systému\
 Jako celek je české školství podobné školstvím v cizích zemích , lze
 však registrovat nejdůležitější odlišnosti : – diferenciace vzdělávání
 již po ukončení 5. (7.) ročníku ZŠ = osmi(šesti)letá gymnázia – vyšší
@@ -3056,11 +3065,16 @@ Evaluace pedagogického výzkumu
 **19. Klíčové kompetence pedagogických pracovníků a žáků**
 
 Osnova:\
+
 1. Definice pojmu kompetence\
+
 2. Klíčové kompetence žáků na základní škole\
+
 3. Klíčové kompetence učitelů
 
-Ad 1) Definice pojmu kompetence\
+<hr>
+
+####Ad1) Definice pojmu kompetence\
 Klíčové kompetence = nový prvek ve vymezování vzdělávacích obsahů,
 
 Kompetence = souhrn vědomostí, dovedností, schopností, postojů a hodnot
@@ -3097,7 +3111,7 @@ Klíčové kompetence jsou vymezeny v RVP pro všechny stupně a typy škol a
 školy ve svých ŠVP tyto kompetence dále specifikují a snaží se jich u
 svých žáků dosahovat.
 
-Ad 2) Klíčové kompetence žáků na základní škole\
+####Ad2) Klíčové kompetence žáků na základní škole\
 A) Klíčové kompetence základního vzdělání (vymezeny v RVP pro ZŠ):
 
 1\. kompetence k učení – naučit se učit, nutné celoživotní vzdělávání\
@@ -3201,7 +3215,7 @@ poštou, získávat informace z otevřených zdrojů, zejména pak s využitím
 Internetu, pracovat s informacemi z různých zdrojů nesenými na různých
 médiích, posuzovat rozdílnou věrohodnost různých informačních zdrojů a
 kriticky přistupovat k získaným informacím, být mediálně gramotní\
-Ad 3) Klíčové kompetence učitelů\
+####Ad3) Klíčové kompetence učitelů\
 Návrh profesní standardy podle J. Vašutové – učitel všeobecně
 vzdělávacích předmětů 2. stupeň ZŠ a SŠ :
 
@@ -3242,9 +3256,15 @@ schopnost rychle se rozhodovat, atd.
 **20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE**
 
 Osnova:\
+
 1. Úvod do školské reformy – základní dokumenty\
+
 2. RVP\
+
 3. ŠVP\
+
+<hr>
+
 Rámcový vzdělávací program (RVP) a Školní vzdělávací program (ŠVP) jsou
 kurikulární dokumenty vytvářené v souladu s novými principy kurikulární
 politiky MŠMT.\
@@ -3341,7 +3361,7 @@ vzdělávání)\
 • vzdělávací oblast – orientační rozdělení vzdělávacího obsahu (v RVP
 pro základní vzdělávání např. oblast Člověk a příroda)
 
-Příklad – RVP pro základní vzdělání je vzdělávací obsah rozdělen do 9
+Příkl####Ad– RVP pro základní vzdělání je vzdělávací obsah rozdělen do 9
 vzdělávacích oblastí\
 1. jazyk a jazyková komunikace\
 2. matematika a její aplikace\
