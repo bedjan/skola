@@ -1,5 +1,5 @@
 **1A. Pedagogika a základní pedagogické disciplíny**
-```
+---
 
 Pedagogika je věda, která se zabývá výchovou a vzděláváním, které chápe
 jako cílevědomý a záměrný proces na utváření a formování osobnosti
@@ -52,10 +52,9 @@ Gerontopedagogika, Pedagogická prognostika, ale i Oborové didaktiky
 (zeměpis, jazyky atd., Teorie mravní, náboženské nebo estetické výchov,
 Polytechnické pedagogik, Pedagogika sportu)
 
-```
 
 **2A. Nejvýznamnější problémy současného školství,kurikulární reforma,alternativní školy**
-```
+---
 
 **Reforma školství** –ŠVP, RVP, státní maturity, Pravomoce učitelů,
 Agresivita žáků, Postavení učitelů ve škole, Úbytek dětí ve školství –
@@ -119,7 +118,7 @@ ve věkově odlišných skupinách, výuka obvykle začíná ranním kruhem,
 pokračuje svobodnou pracovní fází
 
 **3A. Výukové metody – klasifikace, charakteristiky**
-```
+---
 
 **výchovně vzdělávací metoda:**způsob práce učitele jímž organizuje
 činnost žáků k dosažení výchovně vzdělávacích cílů
@@ -177,7 +176,7 @@ vytvoří se třídou nějaký projekt, H) INSCENAČNÍ M.: praktické
 simulování,dramatizace CH) VÝCVIKOVÉ M. I) DID.HRA
 
 **4A. Organizační formy výuky (OFV)**
-```
+---
 
 Organizační formy výuky patří mezi jednu ze čtyř **základních pedagog.
 kategorií** (další = cíle, metody, obsahy) – vzájemně se ovlivňují.
@@ -240,7 +239,7 @@ principu spolupráce, celá skupina má prospěch z činnosti jednotlivce
 4\. **inovační formy** vyučování - např. problémové vyučování
 
 **5A. Didaktické zásady ve výuce,význam,realizace**
-```
+---
 
 ***DIDAKTIKA*** = nauka či teorie vyučování, základní vědecká disciplína
 v ped.
@@ -295,7 +294,7 @@ zpětné vazby**
 výuky, převádí teoretické (vědecké) poznatky do praxe
 
 **6A. Sociální pedagogika**
-```
+---
 
 **Sociální pedagogika** zkoumá vliv prostředí na výchovu a vzdělávání
 jedince, věda zabývající se působením prostředí na formování osobnosti
@@ -356,7 +355,7 @@ sociálního vyloučení a chudoby, **IV. Lidé v a z nápravně výchovných
 zařízeních, V. Sekty **
 
 **7A . Výchova – vymezení pojmu, složky výchovy, výchovné cíle**
-```
+---
 
 Výchova je cílevědomá činnost zaměřená na předávání vzorců, norem a
 pravidel chování platných ve společnosti, tj. je to cílevědomá činnost
@@ -414,7 +413,7 @@ Vzdělávání poskytované podle tohoto zákona je veřejnou službou.
 
 **8A. Pedagogicko-psychologická diagnostika – součást
 výchovně-vzdělávacího procesu školy**
-```
+---
 
 **DIAGNÓZA =** rozpoznání, pojmenování stavu, situace,nemoci,
 
@@ -470,7 +469,7 @@ poradenská střediska UP** *( pomoc na úřadu práce ),* **6. Kliničtí
 psychologové**
 
 **9A. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY HODNOCENÍ**
-```
+---
 
 **Školní hodnocení**/evaluaci/ představuje vyjadřování kladného nebo
 záporného stanoviska učitelů k žákovi, vzhledem k jeho vědomostem,
@@ -533,7 +532,7 @@ jakou má autoritu a jakou úctu požívá.
 
 **10A. Diferenciace a individualizace; rozvoj aktivity, samostatnosti a
 tvořivosti žáků**
-```
+---
 
 *Diferenciací* je myšleno rozdělování, členění kolektivu žáků na
 základně určitých **kritérií:** věku, pohlaví, podle inteligenčního
@@ -593,7 +592,7 @@ VV metody, střídat činnosti, prostředí, Ukázat smysl, cíl , jasná a
 akceptovaná pravidla hry, Fantazie se meze nekladou
 
 **11B. Pedagogická komunikace ve výuce, řešení problémových situací**
-```
+---
 
 Pedagogická komunikace vychází obecně z lidské komunikace, jedním z
 prostředků pedagogické interakce, což je vzájemné působení dvou nebo
@@ -649,7 +648,7 @@ nabídnout další spolupráci,případně provést nápravu, opatření, zásah
 
 **12B. Pedagogika tradiční, moderní, základní pedagogické pojmy, inovace
 výuky**
-```
+---
 
 PEDAGOGIKA TRADIČNÍ *zakladatel J. F. Herbart (1776-1841)*
 
@@ -698,7 +697,7 @@ sem i způsob hodnocení, metody práce, výstupy, profil absolventů,
 celkový projekt konkrétního předmětu i s učebním plánem
 
 **13B.** **OSOBNOSTNÍ A KVALIFIKAČNÍ PŘEDPOKLADY PEDAG. PROFESE**
-```
+---
 
 **Osobnost** - je soustavou vlastností, charakterizujících celistvou
 individualitu konkrétního člověka.
@@ -761,7 +760,7 @@ pedagogickém působení, jak vnímají a vykládají chování žáků a jak na
 reagují.
 
 **14B. Příprava učitele na výuku**
-```
+---
 
 1.  Dlouhodobá
 
@@ -825,7 +824,7 @@ snažíme se o názornost, individuální přístup, opakování, soustavnost a
 cykličnost
 
 **15B. VÝCHOVNÉ PŮSOBENÍ ŠKOLY, RODINY, PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY**
-```
+---
 
 ****Základní vzdělávání**** je občanská povinnost, hlavní a
 nejdůležitější cíl vzdělávání a rozvoje osobnosti doplněný o mravní a
@@ -890,7 +889,7 @@ setkání s rodiči – zahájení a ukončení školního roku, zápisy, před�
 vysvědčení, školní
 
 **16B. Metodologie pedagogického výzkumu**
-```
+---
 
 **Metodologie** - Nauka o metodách vědeckého poznání.
 
@@ -963,7 +962,7 @@ modelování, Modelový experiment, Myšlenkový experiment, Metody
 formalizace
 
 **17B. Současný školský systém ČR**
-```
+---
 
 Vzdělávací systém je upravován zákonem č. 561/2004 sb. O předkošlním ,
 základním, středním, vyšším odborném a jiném vzdělávání a zákonem o
@@ -1019,7 +1018,7 @@ vyučování (dílny)
 jsou upravovány zákonem č. 111/1998 Sb., o VŠ
 
 **18B. Procesy a prostředky evaluace a autoevaluace.**
-```
+---
 
 **Evaluace, autoevaluace a sebehodnocení **
 
@@ -1220,7 +1219,7 @@ do sebereflexe patří i ocenění toho, co se ve výuce podařilo nebo bylo
 efektivní.
 
 **19B. Klíčové kompetence pedagogických pracovníků a žáků**
-```
+---
 
 **Klíčové kompetence** = nový prvek ve vymezování vzdělávacích obsahů.
 
@@ -1279,7 +1278,7 @@ a fyzickou zdatnost, dobrý aktuální zdravotní stav, mravní bezúhonnost,
 smysl pro humor a nadhled
 
 **20B. RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE**
-```
+---
 
 RVP a ŠVP jsou **kurikulární dokumenty** vytvářené v souladu s novými
 principy **kurikulární politiky MŠMT**. Kurikulární dokumenty vznikají
