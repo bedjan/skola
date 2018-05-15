@@ -74,6 +74,24 @@ add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společ
 
 #### 4. Organizační formy výuky či vzdělávání (OFV)
 
+**základní pedagogické kategorie** = organizační formy výuky, cíle, netody, obsahy
+
+**organizační formy výuky** = uspořádání vnějších podmínek procesu VV (opírají se o didaktický trojuhelník = učitel-učivo-žák )
+
+**organizační formy výuky - podmínky** = čas,prostor (prostředí),personální,materiální,počty žáků, organizace vzájemné součinnosti učitele a žáků
+
+**organizační formy výuky - ovlivňují** = činnosti učitele, činnosti žáků, struktury učiva, řízení vyučování
+
+**organizační formy výuky - hlediska** = 
+
+*a) vztah žák x učitel* = a1) individuální vyučování, a2)hromadné, a3) smíšené
+
+*b) časové*
+
+*c) místa*
+
+**formy výuky** = a) třídně hodinové, b) skupinové, c) kooperativní, d) inovační
+
 ----
 
 #### 5. Didaktické zásady ve výuce,význam,realizace
