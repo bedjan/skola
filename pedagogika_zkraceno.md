@@ -12,12 +12,12 @@
 
 **pedagogika-požadavky** = užitečnost, definice předmětu vědy(výchova a vzdělávání=VV), výzkumné metody, multidisciplinarita, odborníci
 
-**pedagogika-disciplíny** =
+**pedagogika-disciplíny** = základní, hraniční, apikované
 
- *a)základní* (obecná, metodika, dějiny, srovnávací, didaktika (teorie výuky),teorie výchovy, speciální, diagnostika, andragogika(VV dospělých); 
+add *a) základní* (obecná, metodika, dějiny, srovnávací, didaktika (teorie výuky),teorie výchovy, speciální, diagnostika, andragogika(VV dospělých); 
 
-*b)hraniční*-pedagogická psychologie(ped. x psy., sociologie výchovy(ped. x soc.), soc. pedagogika, pedagogika osob. a soc. vývoje, envir. výchova, multikult. výchova, ekonomika vzdělání (ekon. x pedag. ) ; 
+add *b) hraniční*-pedagogická psychologie(ped. x psy., sociologie výchovy(ped. x soc.), soc. pedagogika, pedagogika osob. a soc. vývoje, envir. výchova, multikult. výchova, ekonomika vzdělání (ekon. x pedag. ) ; 
 
-*c)aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společenských oblastí( podnikové,..) , c) výchovných zařízení (předškolní, školní, mimoškolní, na hranici mezi školní a mimiškolní)
+add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společenských oblastí( podnikové,..) , c) výchovných zařízení (předškolní, školní, mimoškolní, na hranici mezi školní a mimiškolní)
 
 
