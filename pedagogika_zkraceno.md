@@ -1,3 +1,6 @@
+### Pedagogika
+----
+
 #### 1. PEDAGOGIKA – její předmět, základní ped. disciplíny
 
 **pedagogika** =věda o výchově a vzdělávání (VV), proces formování osobnosti
@@ -20,6 +23,8 @@ add *b) hraniční*-pedagogická psychologie(ped. x psy., sociologie výchovy(pe
 
 add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společenských oblastí( podnikové,..) , c) výchovných zařízení (předškolní, školní, mimoškolní, na hranici mezi školní a mimiškolní)
 
+----
+
 #### 2. Nejvýznamnější problémy současné pedagogiky, kurikulární reforma, alternativní školy
 
 **Nejvýznamnější problémy**(škola nedokáže držet krok s vědou)  = Reforma školství –ŠVP(školní vzdělávací program), RVP (rámcový vzdělávací program), státní maturity; Pravomoce učitelů; Agresivita žáků; Postavení učitelů ve škole; Úbytek dětí ve školství – (optimalizace škol); Odměňování pedagogických pracovníků; Feminizace; Financování školství; Obsah základního vzděláváními – teorie a praxe a vědecké poznání; Obměna pedagogické profese; Příprava učitelů na VŠ
@@ -30,6 +35,8 @@ add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společ
 
 *waldorf* = výuka do hloubky s výslednou "kostrou" učiva
 *montessori*= spontánnost a svoboda, vedení k samostatnosti
+
+----
 
 #### 3. Výukové metody – klasifikace, charakteristiky
 
@@ -63,39 +70,71 @@ add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společ
 
 *add i)* = hra rozvíjí mnoho aspektů
 
+----
+
 #### 4. Organizační formy výuky či vzdělávání (OFV)
+
+----
 
 #### 5. Didaktické zásady ve výuce,význam,realizace
 
+----
+
 #### 6. SOCIÁLNÍ PEDAGOGIKA ( vybrané pojmy, hlavní okruhy problémů )
+
+----
 
 #### 7. Výchova – vymezení pojmu, složky výchovy, výchovně vzdělávací cíle
 
+----
+
 #### 8. Pedagogicko-psychologická diagnostika – součást výchovně-vzdělávacího procesu školy
+
+----
 
 #### 9. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY ŠKOLNÍHO HODNOCENÍ
 
+----
+
 #### 10. Diferenciace a individualizace; rozvoj aktivity, samostatnosti a tvořivosti žáků
+
+----
 
 #### 11. Pedagogická komunikace ve výuce, řešení problémových situací
 
-#### 12. Pedagogika tradiční, moderní, základní pedagogické pojmy,
-inovace výuky
+----
+
+#### 12. Pedagogika tradiční, moderní, základní pedagogické pojmy,inovace výuky
+
+----
 
 #### 13. OSOBNOSTNÍ A KVALIFIKAČNÍ PŘEDPOKLADY PEDAG. PROFESE
 
+----
+
 #### 14. Příprava učitele na výuku
 
-#### 15. VÝCHOVNÉ PŮSOBENÍ ŠKOLY A RODINY,
-PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY
+----
+
+#### 15. VÝCHOVNÉ PŮSOBENÍ ŠKOLY A RODINY,PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY
+
+----
 
 #### 16. Metodologie pedagogického výzkumu
 
+----
+
 #### 17. Současný školský systém ČR
+
+----
 
 #### 18. Výchova a vzdělávání žáků se speciálními vzdělávacími potřebami
 
+----
+
 #### 19. Klíčové kompetence pedagogických pracovníků a žáků
+
+----
 
 #### 20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE
 
