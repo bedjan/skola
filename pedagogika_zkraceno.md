@@ -96,9 +96,39 @@ add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společ
 
 #### 5. Didaktické zásady ve výuce,význam,realizace
 
+**didaktika** = teorie vyučování, základ pedagogiky ( moderní - Komenský)
+
+**didaktika - dělení** = obecná, oborová, předmětová, speciální
+
+**didaktika - význam** = usnadnit práci učitele, zvýšení efektivity výuky, teorie do praxe
+
+**didaktické zásady - definice** = obecné a ověřené postupy VV, vztah k didaktickému trojuhelníku (učivo, učitel, žák)
+
+**didaktické zásady - zobecnění** = od jednoduchého ke složitému, názornost, střídání činností, opakování, hra, zaujmout, jít příkladem, motivace, úsměv
+
+**didaktické zásady - druhy** = uvědomělost, komplexnost, vědeckost, teorie do praxe, priměřenost, individuální přístup, emocionálnost, trvalost, názornost, soustavnost, zpětná vazba (feedback)
 ----
 
 #### 6. SOCIÁLNÍ PEDAGOGIKA ( vybrané pojmy, hlavní okruhy problémů )
+
+
+**sociální pedagogika** = věda řešící vliv prostředí na VV proces a osobnost jedince (cílem je odstranění sociálně patologických jevů )
+
+**sociální pedagogika - metody** (drogy, národnostní menšiny, chudoba, zločiny=řešením je škola, rodina, další instituce) = 
+a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevence - primární, sekundární a terciální, inkluze, integrace, pozitivní diskriminace, depistáž – cílené vyhledávání, dispenzarizace – cílený dohled, osvěta, edukace, reedukace
+
+**okruhy problémů** = a) poruchy chování (etopedie) - od mírných po zásadní chování: disociáloní, asociální, antisociální; b) závislosti; c) menšiny etnické a národnostní menšiny; d) lidé v a z nápravně výchovných zařízeních; e) sekty
+
+*add a)* = vzdor, lži, podvody, krádeže, záškoláctví, potulka, šikana
+
+*add b)* = závislost na látce nebo procesu
+
+
+*add c)* = nejvíce romové a migranti (socializace, soužití, integrace, vyloučení, chudoba)
+
+*add d)* = socializace a resocializace ve, nebo po výkonu trestu
+
+*add e)* = malá náboženská skupina, opozice církvy a ideologii
 
 ----
 
