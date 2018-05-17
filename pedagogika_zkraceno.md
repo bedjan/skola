@@ -422,6 +422,7 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 
 **učitel předpoklady** = psychickou odolnost a fyzickou zdatnost, dobrý aktuální zdravotní stav,
 mravní bezúhonnost, smysl pro humor a nadhled
+
 ----
 
 #### 20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE
