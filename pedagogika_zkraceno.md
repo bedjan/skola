@@ -66,6 +66,8 @@ add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společ
 
 #### 3. Výukové metody – klasifikace, charakteristiky
 
+[Zpět k obsahu](#)
+
 **metoda** =postup
 
 **VV metoda** = organizace žáků k dosažení VV cílů
@@ -100,6 +102,8 @@ add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společ
 
 #### 4. Organizační formy výuky či vzdělávání (OFV)
 
+[Zpět k obsahu](#)
+
 **základní pedagogické kategorie** = organizační formy výuky, cíle, netody, obsahy
 
 **organizační formy výuky** = uspořádání vnějších podmínek procesu VV (opírají se o didaktický trojuhelník = učitel-učivo-žák )
@@ -122,6 +126,8 @@ add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společ
 
 #### 5. Didaktické zásady ve výuce,význam,realizace
 
+[Zpět k obsahu](#)
+
 **didaktika** = teorie vyučování, základ pedagogiky ( moderní - Komenský)
 
 **didaktika - dělení** = obecná, oborová, předmětová, speciální
@@ -137,6 +143,8 @@ add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společ
 ----
 
 #### 6. SOCIÁLNÍ PEDAGOGIKA ( vybrané pojmy, hlavní okruhy problémů )
+
+[Zpět k obsahu](#)
 
 
 **sociální pedagogika** = věda řešící vliv prostředí na VV proces a osobnost jedince (cílem je odstranění sociálně patologických jevů )
@@ -161,6 +169,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 
 #### 7. Výchova – vymezení pojmu, složky výchovy, výchovně vzdělávací cíle
 
+[Zpět k obsahu](#)
+
+
 **výchova** =předávání společenských vzorců, utváření osobnosti
 
 **výchova - složky** = Mravní, Estetická, Tělesná, Pracovní, Matematicko – logická, Emocionální, Hudební
@@ -175,6 +186,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 ----
 
 #### 8. Pedagogicko-psychologická diagnostika – součást výchovně-vzdělávacího procesu školy
+
+[Zpět k obsahu](#)
+
 
 **diagnóza** = pojmenování stavu
 
@@ -192,6 +206,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 
 #### 9. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY ŠKOLNÍHO HODNOCENÍ
 
+[Zpět k obsahu](#)
+
+
 **hodnocení** (evaluace) = hodnocení žáka učitelem ( vědomosti, dovednosti, postoje, vlastnosti), náročné pro učitele
 
 **hodnocení - funkce** = informativní, formativní (pro učitele, žáky, rodiče )
@@ -206,6 +223,7 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 
 #### 10. Diferenciace a individualizace; rozvoj aktivity, samostatnosti a tvořivosti žáků
 
+[Zpět k obsahu](#)
 
 **Diferenciace a individualizace – vymezení pojmů** = diferenciace(dělení), individualizace (dle možnosti každého žáka)
 
@@ -216,6 +234,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 ----
 
 #### 11. Pedagogická komunikace ve výuce, řešení problémových situací
+
+[Zpět k obsahu](#)
+
 
 **pedagogická komunikace – vymezení** =  jedním z prostředků pedagogické interakce (vzájemné působení – žák – učitel, žák – žák, rodič - učitel); komunikace -verbální 20%, neverbální 80% (posturologie, gestika, proxemika, haptika, mimika), paralingvistickými aspekty (tón a plynulost řeči )
 
@@ -231,6 +252,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 ----
 
 #### 12. Pedagogika tradiční, moderní, základní pedagogické pojmy,inovace výuky
+
+[Zpět k obsahu](#)
+
 
 **pedagogika tradiční** = zakladatel Herbart (18.stol.), potlačení aktivity, kreativity
 
@@ -272,6 +296,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 
 #### 13. OSOBNOSTNÍ A KVALIFIKAČNÍ PŘEDPOKLADY PEDAG. PROFESE
 
+[Zpět k obsahu](#)
+
+
 **osobnostní předpoklady učitele (profesionalita)** = Kompetenční struktury osobnosti učitele (Helus): odborně předmětová, psychologická, pedagogicko-didakticko-psychologická, komunikativní, řídící (manažerskou), poradensko-konzultativní, plánovací (projektová)
 
 **kvalifikační předpoklady pedagogické profese** =  trendy pregraduální přípravy (Svatoš): vědní, činnostní, osobnostní; standardy učitelské kvalifikace (NP) 
@@ -280,6 +307,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 ----
 
 #### 14. Příprava učitele na výuku
+
+[Zpět k obsahu](#)
+
 
 **příprava na výuku dlouhodobá** = pregraduální a postgraduální vzdělávání - učební plán MŠMT, znalost zákonů, stanovení VV, RVP, ŠVP
 
@@ -291,6 +321,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 ----
 
 #### 15. VÝCHOVNÉ PŮSOBENÍ ŠKOLY A RODINY,PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY
+
+[Zpět k obsahu](#)
+
 
 **vymezení základních pojmů** : 
 
@@ -329,10 +362,12 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 
 **škola povinna** = má oznamovací povinnost sdělit obecnímu úřadu obce s rozšířenou působností skutečnosti, které nasvědčují, že jde o děti (zák. č. 359/1999),...
 
-
 ----
 
 #### 16. Metodologie pedagogického výzkumu
+
+[Zpět k obsahu](#)
+
 
 **metodologie** = nauka o metodách ( základní a aplikovaný výzkum)
 
@@ -345,6 +380,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 ----
 
 #### 17. Současný školský systém ČR
+
+[Zpět k obsahu](#)
+
 
 **základní legislativa** = vzdělávací systém je upravován zákonem č. 561/2004 sb. O předkošlním , základním, středním, vyšším odborném a jiném vzdělávání; zákonem o vysokých školách č. 111/1998 Sb, ŠKOLY (MŠ, ZŠ, SŠ, konzervatoře,VOŠ,ZUŠ, JŠsPSJZ)
 
@@ -360,6 +398,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 
 #### 18. Výchova a vzdělávání žáků se speciálními vzdělávacími potřebami
 
+[Zpět k obsahu](#)
+
+
 **procentuální zastoupení dětí se SVP ( speciální výchovné péče)** = Gausova křivka populace– většinový vzdělávací systém pro 80 % , 20 % pro speciální (Školský zákon 561/2004;  Vyhl. 73/2005 Sb. o vzdělávání dětí a 72/2005 Sb o poradenských službách)
 
 **rozdělení žáků se SVP** = žáci se zdravotním postižením a zdravotním znevýhodněním; se sociálním znevýhodněním; s mimořádným nadáním
@@ -369,6 +410,9 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 ----
 
 #### 19. Klíčové kompetence pedagogických pracovníků a žáků
+
+[Zpět k obsahu](#)
+
 
 **kompetence** = souhrn vědomostí, dovedností, schopností, postojů a hodnot důležitých pro osobní rozvoj a uplatnění 
 
@@ -381,6 +425,9 @@ mravní bezúhonnost, smysl pro humor a nadhled
 ----
 
 #### 20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE
+
+[Zpět k obsahu](#)
+
 
 **úvod do školské reformy** = Rámcový vzdělávací program (RVP) a Školní vzdělávací program (ŠVP) jsou kurikulární dokumenty vytvářené v souladu s novými principy kurikulární politiky MŠMT.
 
