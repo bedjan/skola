@@ -1,5 +1,5 @@
-__OBSAH PEDAGOGIKA:__
-[1](#1)
+__PEDAGOGIKA:__
+[1](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#1-pedagogika--jej%C3%AD-p%C5%99edm%C4%9Bt-z%C3%A1kladn%C3%AD-ped-discipl%C3%ADny)
 [2](#2)
 [3](#3)
 [4](#4)
