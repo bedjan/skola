@@ -107,6 +107,7 @@ add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společ
 **didaktické zásady - zobecnění** = od jednoduchého ke složitému, názornost, střídání činností, opakování, hra, zaujmout, jít příkladem, motivace, úsměv
 
 **didaktické zásady - druhy** = uvědomělost, komplexnost, vědeckost, teorie do praxe, priměřenost, individuální přístup, emocionálnost, trvalost, názornost, soustavnost, zpětná vazba (feedback)
+
 ----
 
 #### 6. SOCIÁLNÍ PEDAGOGIKA ( vybrané pojmy, hlavní okruhy problémů )
@@ -184,16 +185,35 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 
 **Způsoby diferenciace** = školou, uvnitř školy, uvnitř třídy
 
-**Rozvoj aktivity, samostatnosti a tvořivosti žáků** = 
-
+**Rozvoj aktivity, samostatnosti a tvořivosti žáků** = Snažit se o toto: motivace, příklad, důvěra, partnerství, ocenění, VV metody, smysl, pravidla hry, fantazie, pozornost
 
 ----
 
 #### 11. Pedagogická komunikace ve výuce, řešení problémových situací
 
+**pedagogická komunikace – vymezení** =  jedním z prostředků pedagogické interakce (vzájemné působení – žák – učitel, žák – žák, rodič - učitel); komunikace -verbální 20%, neverbální 80% (posturologie, gestika, proxemika, haptika, mimika), paralingvistickými aspekty (tón a plynulost řeči )
+
+**obecné schéma komunikace** = moje komunikace -> reakce->subjektivní dojem-> komunikace druhé osoby->reakce-> můj subjektivní dojem->
+
+**faktory ovlivňující pedagogickou komunikaci** =
+
+**zásady pedagogické komunikace** = komunikativní pojetí výchovy -přijmout, porozumět, nesnižovat důstojnost, umět přiznat chybu
+
+**řešení problémových situací** = prevence, klidné místo, pochopení, nepřistoupit na okamžitá  řešení, vidět problém z druhé strany
+
+
 ----
 
 #### 12. Pedagogika tradiční, moderní, základní pedagogické pojmy,inovace výuky
+
+**pedagogika tradiční** = 
+
+**pedagogika moderní** = 
+
+**alternativní školy** = 
+
+**základní pedagogické pojmy** =  
+
 
 ----
 
