@@ -1,24 +1,24 @@
 __PEDAGOGIKA:__
 [1](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#1-pedagogika--jej%C3%AD-p%C5%99edm%C4%9Bt-z%C3%A1kladn%C3%AD-ped-discipl%C3%ADny)
-[2](#2)
-[3](#3)
-[4](#4)
-[5](#5)
-[6](#6)
-[7](#7)
-[8](#8)
-[9](#9)
-[10](#10)
-[11](#11)
-[12](#12)
-[13](#13)
-[14](#14)
-[15](#15)
-[16](#16)
-[17](#17)
-[18](#18)
-[19](#19)
-[20](#20)
+[2](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#2-nejv%C3%BDznamn%C4%9Bj%C5%A1%C3%AD-probl%C3%A9my-sou%C4%8Dasn%C3%A9-pedagogiky-kurikul%C3%A1rn%C3%AD-reforma-alternativn%C3%AD-%C5%A1koly)
+[3](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#3-v%C3%BDukov%C3%A9-metody--klasifikace-charakteristiky)
+[4](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#4-organiza%C4%8Dn%C3%AD-formy-v%C3%BDuky-%C4%8Di-vzd%C4%9Bl%C3%A1v%C3%A1n%C3%AD-ofv)
+[5](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#5-didaktick%C3%A9-z%C3%A1sady-ve-v%C3%BDucev%C3%BDznamrealizace)
+[6](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#6-soci%C3%81ln%C3%8D-pedagogika--vybran%C3%A9-pojmy-hlavn%C3%AD-okruhy-probl%C3%A9m%C5%AF-)
+[7](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#7-v%C3%BDchova--vymezen%C3%AD-pojmu-slo%C5%BEky-v%C3%BDchovy-v%C3%BDchovn%C4%9B-vzd%C4%9Bl%C3%A1vac%C3%AD-c%C3%ADle)
+[8](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#8-pedagogicko-psychologick%C3%A1-diagnostika--sou%C4%8D%C3%A1st-v%C3%BDchovn%C4%9B-vzd%C4%9Bl%C3%A1vac%C3%ADho-procesu-%C5%A1koly)
+[9](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#9-hodnocen%C3%8D-v%C3%9Dsledk%C5%AE-v%C3%9Duky-typy-hodnocen%C3%8D-probl%C3%89my-%C5%A0koln%C3%8Dho-hodnocen%C3%8D)
+[10](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#10-diferenciace-a-individualizace-rozvoj-aktivity-samostatnosti-a-tvo%C5%99ivosti-%C5%BE%C3%A1k%C5%AF)
+[11](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#11-pedagogick%C3%A1-komunikace-ve-v%C3%BDuce-%C5%99e%C5%A1en%C3%AD-probl%C3%A9mov%C3%BDch-situac%C3%AD)
+[12](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#12-pedagogika-tradi%C4%8Dn%C3%AD-modern%C3%AD-z%C3%A1kladn%C3%AD-pedagogick%C3%A9-pojmyinovace-v%C3%BDuky)
+[13](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#13-osobnostn%C3%8D-a-kvalifika%C4%8Cn%C3%8D-p%C5%98edpoklady-pedag-profese)
+[14](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#14-p%C5%99%C3%ADprava-u%C4%8Ditele-na-v%C3%BDuku)
+[15](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#15-v%C3%9Dchovn%C3%89-p%C5%AEsoben%C3%8D-%C5%A0koly-a-rodinyp%C5%98edpoklady-%C3%9Asp%C4%9A%C5%A0nosti-v%C3%9Dchovy)
+[16](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#16-metodologie-pedagogick%C3%A9ho-v%C3%BDzkumu)
+[17](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#17-sou%C4%8Dasn%C3%BD-%C5%A1kolsk%C3%BD-syst%C3%A9m-%C4%8Cr)
+[18](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#18-v%C3%BDchova-a-vzd%C4%9Bl%C3%A1v%C3%A1n%C3%AD-%C5%BE%C3%A1k%C5%AF-se-speci%C3%A1ln%C3%ADmi-vzd%C4%9Bl%C3%A1vac%C3%ADmi-pot%C5%99ebami)
+[19](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#19-kl%C3%AD%C4%8Dov%C3%A9-kompetence-pedagogick%C3%BDch-pracovn%C3%ADk%C5%AF-a-%C5%BE%C3%A1k%C5%AF)
+[20](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#20-rvp-a-%C5%A0vp--v%C3%9Dznam-z%C3%81kladn%C3%8D-principy-realizace)
 
 ----
 
@@ -227,46 +227,158 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 
 #### 12. Pedagogika tradiční, moderní, základní pedagogické pojmy,inovace výuky
 
-**pedagogika tradiční** = 
+**pedagogika tradiční** = zakladatel Herbart (18.stol.), potlačení aktivity, kreativity
 
-**pedagogika moderní** = 
+**pedagogika moderní** = opak tradiční, partnerství, samostatné myšlení
 
-**alternativní školy** = 
+**alternativní školy** = jiná možnost k většinovému (státnímu) vzdělávání
+
+*walfdorf* = bez učebnic (epochové sešity), kostra, slovní hodnocení
+
+*montessori* = svoboda, vychovatl jen v pozadí, 
 
 **základní pedagogické pojmy** =  
 
+*pedagogika* = věda o VV a utváření osobnosti
+
+*vzdělávání* = osvojování vědomostí
+
+*vzdělání* = úroveň dosažená vzděláváním
+
+*edukační proces* = činnosti s učením
+
+*evaluace* = hodnocení
+
+*autoevaluace* = samohodnocení
+
+*vyučování* = aktivita učitele
+
+*učení* = navozování aktivity 
+
+*kurikulum* = komplexní projekt vyučování, realizace, kontroly, a hodnocení 
+
+*diferenciace* = různorodost
+
+*integrace* = začlenění
+
+*trénink* = proces  vedoucí ke změně postoje
 
 ----
 
 #### 13. OSOBNOSTNÍ A KVALIFIKAČNÍ PŘEDPOKLADY PEDAG. PROFESE
 
+**osobnostní předpoklady učitele (profesionalita)** = Kompetenční struktury osobnosti učitele (Helus): odborně předmětová, psychologická, pedagogicko-didakticko-psychologická, komunikativní, řídící (manažerskou), poradensko-konzultativní, plánovací (projektová)
+
+**kvalifikační předpoklady pedagogické profese** =  trendy pregraduální přípravy (Svatoš): vědní, činnostní, osobnostní; standardy učitelské kvalifikace (NP) 
+
+
 ----
 
 #### 14. Příprava učitele na výuku
+
+**příprava na výuku dlouhodobá** = pregraduální a postgraduální vzdělávání - učební plán MŠMT, znalost zákonů, stanovení VV, RVP, ŠVP
+
+**příprava na výuku střednědobá** = tématické celky, měsíční a týdenní plány, způsob hodnocení v průběhu jednoho měsíce či týdne
+
+**příprava na výuku krátkodobá** = na jednotlivé hodiny (cíl, obsah, metody, struktura)
+
 
 ----
 
 #### 15. VÝCHOVNÉ PŮSOBENÍ ŠKOLY A RODINY,PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY
 
+**vymezení základních pojmů** : 
+
+*rodina* = základní sociální jednotka
+
+*manželství* = trvalé společenství muže a ženy
+
+*rozvod* = zákonné ukončení manželství
+
+*škola* = zařízení ve školském rejstříku, pracuje dle školského zákona
+
+*výchova* = působení na jedince
+
+*vzdělání* = osvojení vědomosti ve škole i mimo ni
+
+*základní vzdělávání* = občanská povinnost
+
+*rodina - fáze* = volba partnera, předškolní dítě, školní dítě, opuštění hnízda, krize, rozchody, nevhodné chování, vztahy
+
+
+**vymezení základních právních norem** = základní práva a povinnosti vymezuje zákon – o rodině a školský zákon
+
+**vztah školy k rodině** = školský zákon: škola poskytuje výchovně vzdělávací služby
+
+**předpoklady úspěšného výchovného působení školy a rodiny** = soustavnost, jednotnost, důslednost, posloupnost, přiměřenost, názornost, odůvodnění odměn a trestů, nepřehlížení přestupků, být osobním příkladem,  respektování osobnosti a zájmů dítěte
+
+**pasivní týrání** = nesvědomitost a nedostatečné uspokojování základní péče, i neúmyslné
+
+**možné formy spolupráce školy a rodiny** = zápis, přijímací řízení ,dny otevřených dveří, třídní schůzky, mailové služební adresy, telefony, individuální konzultace, konzultační hodiny kantorů a vedení, společná setkání s rodiči 
+
+**práva a povinnosti žáků, zákonných zástupců a školy** =
+
+*práva žáků*: na vzdělávání,informace  o výsledcích , volit a být voleni do školské rady,zakládat v e škole samosprávné orgány, vyjadřovat k podstatných záležitostem jejich vzdělávání, na informace a poradenskou pomoc školy nebo školského poradenského zařízení
+
+**zákonní zástupci povinni** = dítě a žák docházel řádně do školy nebo školského zařízení,..
+
+**škola povinna** = má oznamovací povinnost sdělit obecnímu úřadu obce s rozšířenou působností skutečnosti, které nasvědčují, že jde o děti (zák. č. 359/1999),...
+
+
 ----
 
 #### 16. Metodologie pedagogického výzkumu
+
+**metodologie** = nauka o metodách ( základní a aplikovaný výzkum)
+
+**empirický výzkum** = empirie je zkušenost z pozorování, nebo pokusu; předmět, cíl, metody , hypotézy
+
+*metody* = dotazníková, rozhovoru
+
+**teoretický výzkum** = historická metoda (abstakce, analýza, syntéza)
 
 ----
 
 #### 17. Současný školský systém ČR
 
+**základní legislativa** = vzdělávací systém je upravován zákonem č. 561/2004 sb. O předkošlním , základním, středním, vyšším odborném a jiném vzdělávání; zákonem o vysokých školách č. 111/1998 Sb, ŠKOLY (MŠ, ZŠ, SŠ, konzervatoře,VOŠ,ZUŠ, JŠsPSJZ)
+
+**školy** =  předškolní, základní, střední, konzervatoře, vyšší, umělecké, jazykové
+
+**školská zařízení, služby** = vzdělaní pedagogů (nidv), poradny( ppp, spc, svp ), zájmová, výchovná, stravovací
+
+**vysoké školy** = samostatným článkem české vzdělávací soustavy, 111/1998 Sb., o vysokých školách
+
+**zvláštnosti našeho školského systému** = české školství podobné školstvím v cizích zemích , lze však registrovat nejdůležitější odlišnosti : - diferenciace vzdělávání již po ukončení 5. (7.) ročníku ZŠ = osmi(šesti)letá gymnázia - vyšší odborné školy ve smyslu pomaturitního studia, na západě však řešeno formou VŠ
 ----
 
 #### 18. Výchova a vzdělávání žáků se speciálními vzdělávacími potřebami
+
+**procentuální zastoupení dětí se SVP ( speciální výchovné péče)** = Gausova křivka populace– většinový vzdělávací systém pro 80 % , 20 % pro speciální (Školský zákon 561/2004;  Vyhl. 73/2005 Sb. o vzdělávání dětí a 72/2005 Sb o poradenských službách)
+
+**rozdělení žáků se SVP** = žáci se zdravotním postižením a zdravotním znevýhodněním; se sociálním znevýhodněním; s mimořádným nadáním
+
+**formy vzdělávání** = v běžné škole: Individuální, nebo skupinová integrace; ve speciální škole: žáci s mentálním postižením;s více vadami; s autismem
 
 ----
 
 #### 19. Klíčové kompetence pedagogických pracovníků a žáků
 
+**kompetence** = souhrn vědomostí, dovedností, schopností, postojů a hodnot důležitých pro osobní rozvoj a uplatnění 
+
+**klíčové kompetence žáků na základní škole** = k učení, řešení problémů, komunikativní, sociální a personální, občanské, pracovní
+
+**klíčové kompetence učitelů** = oborově předmětová (563/2004); obecně pedagogická a didaktická; psychologická, diagnostická a intervenční; sociální, psychosociální a komunikativní; manažerská a normativní; profesně a osobně kultivující
+
+**učitel předpoklady** = psychickou odolnost a fyzickou zdatnost, dobrý aktuální zdravotní stav,
+mravní bezúhonnost, smysl pro humor a nadhled
 ----
 
 #### 20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE
 
+**úvod do školské reformy** = Rámcový vzdělávací program (RVP) a Školní vzdělávací program (ŠVP) jsou kurikulární dokumenty vytvářené v souladu s novými principy kurikulární politiky MŠMT.
 
+**RVP** = rámcové vzdělávací programy (MŠMT připravuje RVP – kde stanový závazný rámec vzdělání a vymezený standard vzdělání pro danou etapu vzdělání)
+
+**ŠVP** = školní vzdělávací programy (každá škola si pak připravuje vlastní ŠVP – vychází z příslušného RVP a specifikuje vzdělání na dané škole)
 
