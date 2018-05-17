@@ -19,55 +19,13 @@ __PEDAGOGIKA:__
 [18](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#18-v%C3%BDchova-a-vzd%C4%9Bl%C3%A1v%C3%A1n%C3%AD-%C5%BE%C3%A1k%C5%AF-se-speci%C3%A1ln%C3%ADmi-vzd%C4%9Bl%C3%A1vac%C3%ADmi-pot%C5%99ebami)
 [19](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#19-kl%C3%AD%C4%8Dov%C3%A9-kompetence-pedagogick%C3%BDch-pracovn%C3%ADk%C5%AF-a-%C5%BE%C3%A1k%C5%AF)
 [20](https://github.com/bedjan/skola/blob/master/pedagogika_zkraceno.md#20-rvp-a-%C5%A0vp--v%C3%9Dznam-z%C3%81kladn%C3%8D-principy-realizace)
-----
-**PEDAGOGIKA OBSAH:**
-
-[1\. PEDAGOGIKA – její předmět, základní ped. disciplíny](#1)
-
-[2\. Nejvýznamnější problémy současné pedagogiky, kurikulární reforma, alternativní školy](#2)
-
-[3\. Výukové metody – klasifikace, charakteristiky](#3)
-
-[4\. Organizační formy výuky či vzdělávání (OFV)](#4)
-
-[5\. Didaktické zásady ve výuce,význam,realizace](#5)
-
-[6\. SOCIÁLNÍ PEDAGOGIKA ( vybrané pojmy, hlavní okruhy problémů )](#6)
-
-[7\. Výchova – vymezení pojmu, složky výchovy, výchovně vzdělávací cíle](#7)
-
-[8\. Pedagogicko-psychologická diagnostika – součást výchovně-vzdělávacího procesu školy](#8)
-
-[9\. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY ŠKOLNÍHO HODNOCENÍ](#9)
-
-[10\. Diferenciace a individualizace; rozvoj aktivity, samostatnosti a tvořivosti žáků](#10)
-
-[11\. Pedagogická komunikace ve výuce, řešení problémových situací](#11)
-
-[12\. Pedagogika tradiční, moderní, základní pedagogické pojmy,
-inovace výuky](#12)
-
-[13\. OSOBNOSTNÍ A KVALIFIKAČNÍ PŘEDPOKLADY PEDAG. PROFESE](#13)
-
-[14\. Příprava učitele na výuku](#14)
-
-[15\. VÝCHOVNÉ PŮSOBENÍ ŠKOLY A RODINY,
-PŘEDPOKLADY ÚSPĚŠNOSTI VÝCHOVY](#15)
-
-[16\. Metodologie pedagogického výzkumu](#16)
-
-[17\. Současný školský systém ČR](#17)
-
-[18\. Výchova a vzdělávání žáků se speciálními vzdělávacími potřebami](#18)
-
-[19\. Klíčové kompetence pedagogických pracovníků a žáků](#19)
-
-[20 RVP A ŠVP – VÝZNAM, ZÁKLADNÍ PRINCIPY REALIZACE](#20)
 
 ----
 ----
 
 #### 1. PEDAGOGIKA – její předmět, základní ped. disciplíny
+
+[Zpět k obsahu](#)
 
 **pedagogika** =věda o výchově a vzdělávání (VV), proces formování osobnosti
 
@@ -92,6 +50,8 @@ add *c) aplikované, dle* -a) věku( předškolní, ZŠ, SŠ,VŠ,..), b) společ
 ----
 
 #### 2. Nejvýznamnější problémy současné pedagogiky, kurikulární reforma, alternativní školy
+
+[Zpět k obsahu](#)
 
 **Nejvýznamnější problémy**(škola nedokáže držet krok s vědou)  = Reforma školství –ŠVP(školní vzdělávací program), RVP (rámcový vzdělávací program), státní maturity; Pravomoce učitelů; Agresivita žáků; Postavení učitelů ve škole; Úbytek dětí ve školství – (optimalizace škol); Odměňování pedagogických pracovníků; Feminizace; Financování školství; Obsah základního vzděláváními – teorie a praxe a vědecké poznání; Obměna pedagogické profese; Příprava učitelů na VŠ
 
