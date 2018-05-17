@@ -134,17 +134,58 @@ a) obecné - socializace, resocializace; b) konkrétní - rekvalifikace, prevenc
 
 #### 7. Výchova – vymezení pojmu, složky výchovy, výchovně vzdělávací cíle
 
+**výchova** =předávání společenských vzorců, utváření osobnosti
+
+**výchova - složky** = Mravní, Estetická, Tělesná, Pracovní, Matematicko – logická, Emocionální, Hudební
+
+**VV cíle - oblasti** = učiva, rozvoje osobnosti ( osobnostně rozvojové, sociálně rozvojové, eticky )
+
+**VV cíle - funkce** = motivační, kontrolní, organizační, ideologickou, syntetizující (slučovací)
+
+**VV cíle - dělení** = obecnosti, časové následnosti, působení na osobnost (rozvoj osobnosti, VV, demokracie, etika,..) 
+
+
 ----
 
 #### 8. Pedagogicko-psychologická diagnostika – součást výchovně-vzdělávacího procesu školy
+
+**diagnóza** = pojmenování stavu
+
+**diagnóza - proces** = doba analýzy stavu, diagnostické metody - anamnéza (rozpomínání), analýza, Didaktické testy, Sociometrie, Diagnostický rozhovor, Šetření, Pozorování, Dotazníkové metody
+
+**Pedagogicko psychologická diagnostika** = součást VV, diagnóza po celou dobu ( ve škole - učitel, poradce; mimoškolu - poradny ppp, spc, spv, úp, klinický psycholog)
+
+**Význam pedagogické psychologické diagnostiky pro školu** = Poruchy učení, nejoblíbenější učitel, zvláštní nadání, názor rodičů na školu, Šikana, nejlepší třída, sociální klima ve třídě, školní zralost, Efektivita nových metod atd.
+
+**golem efekt** = znevažování
+
+**pygmalion efekt** = nadhodnocení (protekce)
 
 ----
 
 #### 9. HODNOCENÍ VÝSLEDKŮ VÝUKY, TYPY HODNOCENÍ, PROBLÉMY ŠKOLNÍHO HODNOCENÍ
 
+**hodnocení** (evaluace) = hodnocení žáka učitelem ( vědomosti, dovednosti, postoje, vlastnosti), náročné pro učitele
+
+**hodnocení - funkce** = informativní, formativní (pro učitele, žáky, rodiče )
+
+**hodnocení - negativní stránky** = odvádí žáka od podstaty učení, motivace, moralitě, sociální diferenciace, zdravotní obtíže
+
+**hodnocení - nástroje** = didaktické testy, známky (1-5), výkonové grafy a křivky, slovní hodnocení, sebehodnocení (Hodnocením pokud možno posilovat tj. evaluovat, né snižovat tj. devalvovat)
+
+**hodnocení - typy** = a) formativní (průběžné) - pomáhá učiteli rozhodnout jak dále pokračovat; b)finální (sumativní) - po dokončení konkrétních učebních jednotek- podklad pro stupeň prospěchu
+
 ----
 
 #### 10. Diferenciace a individualizace; rozvoj aktivity, samostatnosti a tvořivosti žáků
+
+
+**Diferenciace a individualizace – vymezení pojmů** = diferenciace(dělení), individualizace (dle možnosti každého žáka)
+
+**Způsoby diferenciace** = školou, uvnitř školy, uvnitř třídy
+
+**Rozvoj aktivity, samostatnosti a tvořivosti žáků** = 
+
 
 ----
 
