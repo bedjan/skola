@@ -99,7 +99,7 @@ __Psychologie:__
 
 **bdění** = vnímání (jasné, snížené, zastřené)
 
-**spánek**obnovení organismu po tělesné a psychické stránce
+**spánek** = obnovení organismu po tělesné a psychické stránce
 
 ----
 
@@ -107,17 +107,19 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
-**pozorování** = 
+**pozorování** = bez záměrného zásahu psychologa (příležitostné, systematické)
 
-**experiment** = 
+**experiment** = záměrný zásah psychologa, umožňuje ověřovat hypotézy a budovat teorie
 
-**rozbor slov, sebepoznání** = 
+**rozbor slov, sebepoznání** = analýza slovních projevů (rozhovor, dotazník)
 
-**rozbor výsledků** = 
+**rozbor výsledků** = výsledky školních prací, zájmových činností
 
-**posuzování a měření** = 
+**posuzování a měření** =  zpracování údajů získaných jinými metodami
 
-**projekce** = 
+**standardizované psychodiagnostické metody** = testy a osobní dotazníky
+
+**projekce** =  zvláštní skupina metod (kresba)
 
 ----
 
@@ -125,13 +127,19 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
-**učení** =
+**učení** = získávání zkušeností, pozměňování jedince v průběhu jeho život
 
-**paměť** = 
+**vědomost** = soustava osvojených informací 
 
-**učení** =
+**dovednost** = naučený předpoklad k výkonu určitému činnosti
 
-**myšlení** = 
+**návyk** = naučený předpoklad pobízející k určitému chování
+
+**paměť** = soubor procesů, které umožňují osvojení informací, jejich uchování a vybavení ( krátkodobá, pracovní, dlouhodobá); 
+
+**paměť - formy** = neuvědomé, vědomé, názorné, logické
+
+**myšlení** = zakládá se na ostatních poznávacích procesech, vstupuje  do nich (konkrétní - pohyb, obrazy, abstraktní); (dedukce- obecné výroky, indukce - jednotlivé výroky ); ( reprodukce - opakování postupu, produkce - tvoření postupu); (konvergence - jediný cíl, divergence - různé paralelní cíle)
 
 ----
 
@@ -139,6 +147,11 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**styly učení** = individuální způsob učení
+
+**styly učení - dělení dle motivace a záměru** = povrchový(nebaví), hloubkový(baví), strategický (co nejlepší známky)
+
+**styly učení - dělení dominujícího smyslu** = sluch, zrak, hmat, pohyb, řeč
 
 ----
 
@@ -146,6 +159,15 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**skupina - charakteristika** = min. 3 osoby, vztahy racionální a emocionální, osoby mají společný znak, formuje jedince, uspokojování potřeb, sociální role
+
+**skupina - znaky** = interakce členů; vnímaní člena jako "my"; společné hodnoty a cíle; vlastní role, sankce; rozvoj vzájemných vztahů
+
+**skupiny - druhy podle** = velikosti; vzniku a stylu komunikace; trvání; migrace členů
+
+**sociální role** = soubor očekávaných souborů chování (žena, matka,..)
+
+**sociální skupina** = klima třídy - vliv skupiny na jedince; ovlivnění = zjistit přání, klima třídy, proměnné, porovnání údajů, oblasti kde zlepšovat, promyslet pedagogické postupy, provádět vše cíleně, vyhodnotit účinnost
 
 ----
 
