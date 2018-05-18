@@ -107,7 +107,17 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**pozorování** = 
 
+**experiment** = 
+
+**rozbor slov, sebepoznání** = 
+
+**rozbor výsledků** = 
+
+**posuzování a měření** = 
+
+**projekce** = 
 
 ----
 
@@ -115,6 +125,13 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**učení** =
+
+**paměť** = 
+
+**učení** =
+
+**myšlení** = 
 
 ----
 
