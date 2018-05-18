@@ -32,7 +32,7 @@ __Psychologie:__
 
 **psychoterapie** =  je záměrné a cílené používání psychoterapeutických prostředků kvalifikovaným odborníkem
 
-**PSYCHOTERAPIE V PRÁCI UČITELŮ A ŽÁKŮ ** = předpokladem kladného působení učitele na dušení zdraví žáků je jeho emocionální vyrovnanost; výchova k spolupráci, přátelství
+**PSYCHOTERAPIE V PRÁCI UČITELŮ A ŽÁKŮ** = předpokladem kladného působení učitele na dušení zdraví žáků je jeho emocionální vyrovnanost; výchova k spolupráci, přátelství
 
 ----
 
