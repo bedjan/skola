@@ -53,6 +53,7 @@ __Psychologie:__
 **talent** = vysoký stupeň nadání
 
 **tvořivost** = soubor vlastností umožňující tvoření
+
 ----
 
 #### 3. Motivační, emoční a volní procesy
