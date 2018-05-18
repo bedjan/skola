@@ -27,6 +27,12 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**psychohygiena** = duševní a mentální hygiena; rady pro duševní rovnováhu ( lékařství; psychologie, sociální vědy); konflikty a neúspěchy narušují mentální zdraví
+
+
+**psychoterapie** =  je záměrné a cílené používání psychoterapeutických prostředků kvalifikovaným odborníkem
+
+**PSYCHOTERAPIE V PRÁCI UČITELŮ A ŽÁKŮ ** = předpokladem kladného působení učitele na dušení zdraví žáků je jeho emocionální vyrovnanost; výchova k spolupráci, přátelství
 
 ----
 
@@ -34,13 +40,42 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**schopnosti** = vlastnosti umožňující člověku naučit se určitým činnostem a dobře je vykonávat
 
+**schopnosti - druhy** = slovní, číselné, prostorové, paměťové, sociální, vnímavost (percepce)
+
+**inteligence** = soubor poznávacích schopností, učení a řešení problémů
+
+**vloha** = vrozený předpoklad pro rozvinutí schopností
+
+**nadání** = soubor rozvinutých schopností 
+
+**talent** = vysoký stupeň nadání
+
+**tvořivost** = soubor vlastností umožňující tvoření
 ----
 
 #### 3. Motivační, emoční a volní procesy
 
 [Zpět k obsahu](#)
 
+**motivace - vnitřní, vnější** = souhrn hybných momentů v činnostech, prožívání, chování osobnosti
+
+**instinkt** = chování společné se zvířaty
+
+**pud** = biologicky daný ( hlad, žízeň, sex )
+
+**maslow. hierarchie** = fyziologie (homeostáze), bezpečí, láska, uznání, seberealizace
+
+**emoce** = hodnotící procesy různé skutečnosti, situace, události, průběh a výsledky činnosti jedince – z hlediska potřeb, cílů a sociálního významu
+
+**ambivalence** = střídavý kladný a záporný vztah
+
+**afekt** = vztek, strach, bouřlivá radost
+
+**vůle** = procesy k dosahování cílů
+
+**volní procesy** = ve všech fázích činnosti ( přípravná, následující ), spjaty s řečí (vnitřní dialog)
 
 ----
 
@@ -48,12 +83,30 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**vlastnost** = znak člověka, který je dlouhodobý a stálý
+
+**stav** = člověk nebo i neživý předmět v určité době a situaci
+
+**aktivační úroveň (aktivace)** = celkový stav organismu, mění se pod vlivem podmětů ; nízká (spánek), snížená (bdění), střední, zvýšená, vysoká
+
+**inspirace** = výborné poznávací procesy
+
+**pozornost** = stav projevující se soustředěním 
+
+**zaměřenost** = zahrnuje pozornost a motivaci, vytčení cíle (volní procesy )
+
+**vědomí** = úrověň aktivace a pozornosti
+
+**bdění** = vnímání (jasné, snížené, zastřené)
+
+**spánek**obnovení organismu po tělesné a psychické stránce
 
 ----
 
 #### 5. Nejvýznamnější psychologické metody
 
 [Zpět k obsahu](#)
+
 
 
 ----
