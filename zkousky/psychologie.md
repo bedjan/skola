@@ -1,5 +1,3 @@
-<hr><br /> <a name="obsah">
-
 __OBSAH RYCHLÝ:__
 [1](#1)
 [2](#2)
@@ -77,9 +75,11 @@ adolescence](#20)
 
 ------------------------------------------------------------------------
 
-<hr><br /> <a name="1">
+<a id="1"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
+
+
 
 **1. PSYCHOHYGIENA A PSYCHOTERAPIE V PRÁCI UČITELŮ A ŽÁKŮ**
 
@@ -135,9 +135,9 @@ psychoterapeut).
 
 ZÁKLADNÍ FORMY PST individuální, skupinová, rodinná, komunitní terapie
 
-<hr><br /> <a name="2">
+<a id="2"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **2. SCHOPNOSTI A KREATIVITA JAKO PSYCHOLOGICKÁ KATEGORIE**<br>
 Schopnosti: jsou vlastnosti, které umožňují člověku naučit se určitým
@@ -187,9 +187,9 @@ Tvořivé děti mají problémy s vrstevníky (konflikty) i v rodině (rodiče
 jim často vyčítají, že se odlišují od ostatních dětí nebo na ně mají
 velmi vysoké nároky – očekávají jen vynikající výsledky a úspěchy)
 
-<hr><br /> <a name="3">
+<a id="3"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **3. Motivační, emoční a volní procesy**<br>
 Definice motivace:<br>
@@ -406,9 +406,9 @@ učebních, pracovních<br>
 5. Jsou spjaty navzájem s psychickými stavy a vlastnostmi osobnosti<br>
 6. Jsou variabilní, vykazují značné individuelní rozdíly
 
-<hr><br /> <a name="4">
+<a id="4"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **4. Psychické stavy, vědomí, aktivace, pozornost – význam<br>
 pro edukační proces**
@@ -513,9 +513,9 @@ sociální determinace a komunikace a bez psychologického hlediska se
 ztrácí osobnost a její specifičnost, je ovlivněné vnímání, nálady, emoce
 i zdraví.
 
-<hr><br /> <a name="5">
+<a id="5"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **5. Nejvýznamnější psychologické metody**
 
@@ -600,9 +600,9 @@ lidí v krátké době<br>
 cenné poznání individuálních vlastností v psychickém vývoji. Je to
 výzkum přínosný, ale velmi náročný.
 
-<hr><br /> <a name="6">
+<a id="6"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **6. Pojem UČENÍ , paměť, učení a myšlení**<br>
  patří mezi kognitivní (poznávací) procesy<br>
@@ -772,9 +772,9 @@ implikace
  Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích (viz
 mapa a otázka č. 4. mozek)
 
-<hr><br /> <a name="7">
+<a id="7"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **7. Druhy učení, styly učení žáků.**<br>
 
@@ -863,9 +863,9 @@ Faktory, které ovlivňují učení dělí Dunnová do pěti skupin:
 *R. Dunnová považuje styly učení za silně zakotvené v biologické podmíněnosti člověka, proto je jejich změna velice obtížná.*
 
 
-<hr><br /> <a name="8">
+<a id="8"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **8. Školní třída jako sociální skupina, utváření klimatu školní třídy**
 
@@ -998,9 +998,9 @@ rozhovorů se žáky i učiteli
 Klima našich školních tříd na důkladné zmapování teprve čeká, práce to
 bude lákavá, nesnadná a velmi užitečná.
 
-<hr><br /> <a name="9">
+<a id="9"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **9. Vývoj, zrání a interakce jedince s prostředím, dědičnost a
 prostředí<br>
@@ -1177,9 +1177,9 @@ konflikty:<br>
  všechny uvedené koncepce se prolínají a navzájem doplňují k
 ucelenějšímu vystižení vývoje osobnosti
 
-<hr><br /> <a name="10">
+<a id="10"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **10. Psychologické podmínky (činitelé) školní úspěšnosti žáků**
 
@@ -1275,9 +1275,9 @@ ale také vnějších mimo-intelektových podmínek učení.
 rodiny, chyby ve výchově, rozpornost požadavků, rozdíly socio-kulturních
 tradic ….
 
-<hr><br /> <a name="11">
+<a id="11"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **11. PSYCHOLOGIE – předmět, hlavní odvětví**<br>
  Definice a úvod: psychologie je věda o psychice a patří do věd o
@@ -1383,9 +1383,9 @@ pedagogických pracovníků.<br>
 • Proč jsou mezi mládeží velké rozdíly v odpovědnosti, vytrvalosti, ve
 vztazích k lidem, v postoji k práci a jak tyto rozdíly vznikají?
 
-<hr><br /> <a name="12">
+<a id="12"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **12. KOGNITIVNÍ (poznávací) PROCESY – součást intelektuálního vývoje
 žáka**<br>
@@ -1698,9 +1698,9 @@ implikace
 
 Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích
 
-<hr><br /> <a name="13">
+<a id="13"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **13. PROCESY UČENÍ A PAMĚTI**<br>
  patří mezi kognitivní (poznávací) procesy<br>
@@ -1806,9 +1806,9 @@ je funkcí levé poloviny mozku
 • Zapomínání = změny v uchování a ve vybavování, ke kterým dochází v
 průběhu času
 
-<hr><br /> <a name="14">
+<a id="14"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **14. IMAGINATIVNÍ PROCESY , představy, fantazie**<br>
 Názorné poznání skutečnosti zahrnuje vnímání a s ním těsně spjaté
@@ -1867,9 +1867,9 @@ lepší sebepoznání i pro lepší řešení životních problémů, pro realiz
 vnitřního dialogu, který je podstatnou podmínkou pro sebepoznání a pro
 duševní zdraví, pro dobrý vývoj osobnosti.
 
-<hr><br /> <a name="15">
+<a id="15"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **15. MYŠLENÍ – charakteristika, druhy myšlení, myšlenkové operace**<br>
  je vrcholný proces lidského poznávání
@@ -1937,9 +1937,9 @@ implikace
  Lidské myšlení je funkcí mnoha částí mozku ve vzájemných vztazích (viz
 mapa a otázka č. 4. mozek)
 
-<hr><br /> <a name="16">
+<a id="16"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **16. Pojem osobnost, problémy jeho psychologických koncepcí**<br>
 Osobnost<br>
@@ -2097,9 +2097,9 @@ to, pomoci člověku najít životní smysl (logos) přitom si tento smysl má
 jedinec možnost nalézt aktivně, nemůže mu být dán. Zdůrazněna svoboda
 osoby a možnost volky, zaujetí, postoje.
 
-<hr><br /> <a name="17">
+<a id="17"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **17. Struktura osobnosti**<br>
 Osobnost<br>
@@ -2234,9 +2234,9 @@ pudů.<br>
 5. Genitální stadium – (12 let a výše), období, kdy je člověk schopen
 pohlavního styku.
 
-<hr><br /> <a name="18">
+<a id="18"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **18. Rysy osobnosti, temperament a charakter**<br>
 Osobnost zahrnuje množství povahových vlastností – rys osobnosti.<br>
@@ -2336,9 +2336,9 @@ pohlavími je vyjádřen např. již v reakcích na zátěž.
 vlastnostech jsou pro učitele nástrojem lepšího poznání žáků. Zároveň
 jsou předpokladem k pochopení poznatků o vývoji a formování osobnosti.
 
-<hr><br /> <a name="19">
+<a id="19"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **19. Sociální komunikace a její základní druhy. Efektivní komunikace**<br>
 Komunikace = společně něco sdílet<br>
@@ -2461,9 +2461,9 @@ důležité předpoklady úspěšnosti budoucího odborníka, pedagoga, a to z
 hlediska rozvoje jeho osobnosti, tak i z hlediska vytvoření předpokladů
 pro poznávání, výchovu a vzdělávání jiných.
 
-<hr><br /> <a name="20">
+<a id="20"></a>
 
-[Zpět k obsahu](#obsah)
+[Zpět k obsahu](#)
 
 **20. Průběh vývoje osobnosti s důrazem na období puberty a
 adolescence**<br>
