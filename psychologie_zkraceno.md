@@ -260,9 +260,11 @@ __Psychologie:__
 
 **myšlení** = proces poznávání
 
-**myšlení - umožňuje** = 
+**myšlení - umožňuje** = zakládá se na ostatních poznávacích procesech
 
+**myšlení - formy** = vývojové ( motorické, imaginativní, propoziční); deduktivní a induktivní ( deduktivní, induktivní ); reproduktivní a produktivní myšlení; konvergentní a divergentní myšlení
 
+**myšlení -realizace procesy** = analýza a syntéza, abstrakce a konkretizace, generalizace a zobecnění, srovnávání a uspořádání a třídění
 
 ----
 
@@ -270,6 +272,9 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**učení** = získávání zkušeností,proměňování jedince
+
+**viz. otázka 6**
 
 ----
 
@@ -277,6 +282,7 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**viz. otázka 12**
 
 ----
 
@@ -284,6 +290,11 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**myšlení** = zakládá se na ostatních poznávacích procesech, vstupuje  do nich (konkrétní - pohyb, obrazy, abstraktní); (dedukce- obecné výroky, indukce - jednotlivé výroky ); ( reprodukce - opakování postupu, produkce - tvoření postupu); (konvergence - jediný cíl, divergence - různé paralelní cíle)
+
+**myšlení - nástroj** = vnější a vnitřní řeč
+
+**myšlení - druhy,formy** = formy:motorické, imaginativní, propoziční; myšlení: deduktivní a induktivní,reproduktivní a produktivní, konvergentní a divergentní
 
 ----
 
@@ -291,6 +302,31 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**osobnost** = charakteristika člověka,utvářena lidmi,prostředím
+
+**osobnost - psychická struktura** = tvořena vvlastnostmi a rysy
+
+**osobnost - typ** = vyjadřuje vlastnosti a rysy
+
+**osobnost - struktura** = souhrn psychických vlastností (extroverze, přívětivost, svědomitost, emocionální stabilita, intelekt)
+
+**charakter** = jaký jsem
+
+**temperament** = jak reaguji
+
+**inteligence** = co zvládnu
+
+**motivace a vůle** = co chci
+
+**osobnost - typologie** =  sagvinik, flegmatik, melancholik, cholerik
+
+**osobnost- typy** = pyknik,leptosom,  atletik
+
+**osobnost - jung** = extrovert, introvert
+
+**osobnost - etapy** = prenatál,dětství, předškolní, školní, dospělost, stáří
+
+**osobnost - vývoj** = orální, anální, falické, latence, genitální
 
 ----
 
@@ -298,12 +334,14 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**osobnost - struktura** = tvořena vlastnostmi a rysy (relativně trvalé)
 
 ----
 
 #### 18. Rysy osobnosti, temperament a charakter
 
 [Zpět k obsahu](#)
+
 
 
 ----
