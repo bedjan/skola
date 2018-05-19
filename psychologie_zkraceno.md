@@ -172,10 +172,17 @@ __Psychologie:__
 
 ----
 
-#### 9. Vývoj, zrání a interakce jedince s prostředím, dědičnost a prostředí Vývoj
+#### 9. Vývoj, zrání a interakce jedince s prostředím, dědičnost a prostředí 
 
 [Zpět k obsahu](#)
 
+**vývoj** = jedinec se mění v průběhu času (zrání, vzájemné ovlivňování jedince a prostředí ); genová a vrozená výbava, socializace
+
+**formování osobnosti - podmínky** = vnější - rodina, vrstevníci, skupiny, škola; vnitřní - dědičnost, geny, vrozené, konstituce těla, individuální
+
+**vývoj - průběh** = prenatální(nenarozené), rané dětství (<3) ( novorozenec - 1 měs., kojenec - 1-12 měs., batole - 1-3 rok), předškolní a mladší školní(6-12 r.), střední a starší školní(12-20 r.), dospělost(20-65 r.), stáří(>65 r.)
+
+**koncepce morálky** = bez ohledu na druhé, řízení konvencemi, vlastní principy
 
 ----
 
@@ -184,12 +191,19 @@ __Psychologie:__
 [Zpět k obsahu](#)
 
 
+**žákova školní zralost** = motivace k učení, osobnost učitele, výuka, prostředí, aktuální stav
+
+**úspěšnost** = výsledek intelektových schopností,píle, vnějších mimo-intelektových podmínek učení
+
 ----
 
 #### 11. PSYCHOLOGIE – předmět, hlavní odvětví
 
 [Zpět k obsahu](#)
 
+**psychologie ** = věda o psychice (duši, člověku); studuje podmínky a zákonitosti chování (behavior) a prožívání vzhledem k vnitřním a vnějším podmínkám
+
+**psychologie - pomáhá** = poznat lidi, vysvětlit chování a prožívání, předvídat vývoj, působit na lidi, lépe poznat sebe, utvořit podmínky
 
 ----
 
