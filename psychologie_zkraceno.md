@@ -342,7 +342,7 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
-
+**viz otázka 17**
 
 ----
 
@@ -350,11 +350,19 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**komunikace** = společně něco sdílet (interakce s lidmi); komunikátor, komunikační kanál, komunikant
+
+**komunikace - směry** = jednosměrná, dvousměrná (faktory: inteligence, tělesný stav,zkušenosti, očekávání, temperament, psych. stav, atmosféra)
+
+**komunikace - druhy** = verbální (efektivní komunikace,aktivní naslouchání),neverbální (mimika, pohledy, proxemika, posturologie, kinetika, gestika,haptika,vzhled, prostředí, paralingvistika
+
+**komunikace - pedagogická** = spolupůsobení žák,učitel, třída
+
+**učení sociální** = soubor forem učení jednotlivce s komunikací s jinými
 
 ----
 
 #### 20. Průběh vývoje osobnosti s důrazem na období puberty a adolescence
-
 
 [Zpět k obsahu](#)
 
