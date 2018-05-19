@@ -201,9 +201,13 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
-**psychologie ** = věda o psychice (duši, člověku); studuje podmínky a zákonitosti chování (behavior) a prožívání vzhledem k vnitřním a vnějším podmínkám
+**psychologie** = věda o psychice (duši, člověku); studuje podmínky a zákonitosti chování (behavior) a prožívání vzhledem k vnitřním a vnějším podmínkám
 
 **psychologie - pomáhá** = poznat lidi, vysvětlit chování a prožívání, předvídat vývoj, působit na lidi, lépe poznat sebe, utvořit podmínky
+
+**prožívání (experience) ** = vnitřní subjektivní prožívání; vědomé a nevědomé stavy
+
+**psychologie - disciplíny** = *základní* (obecná, psychofyziologie, osobnosti, sociální, vývojová, dějiny psychologie, metodologie psychologie, psychopatologie); *aplikované* (zdravotnická, pedagogická, školní, práce, poradenská, soudní, environmentální)); *speciální* (psycholingvistika, zoopsychologie, psychohygiena, biopsychologie, farmakopsychologie)
 
 ----
 
