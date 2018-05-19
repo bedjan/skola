@@ -205,7 +205,7 @@ __Psychologie:__
 
 **psychologie - pomáhá** = poznat lidi, vysvětlit chování a prožívání, předvídat vývoj, působit na lidi, lépe poznat sebe, utvořit podmínky
 
-**prožívání (experience) ** = vnitřní subjektivní prožívání; vědomé a nevědomé stavy
+**prožívání (experience)** = vnitřní subjektivní prožívání; vědomé a nevědomé stavy
 
 **psychologie - disciplíny** = *základní* (obecná, psychofyziologie, osobnosti, sociální, vývojová, dějiny psychologie, metodologie psychologie, psychopatologie); *aplikované* (zdravotnická, pedagogická, školní, práce, poradenská, soudní, environmentální)); *speciální* (psycholingvistika, zoopsychologie, psychohygiena, biopsychologie, farmakopsychologie)
 
@@ -214,6 +214,54 @@ __Psychologie:__
 #### 12. KOGNITIVNÍ (poznávací) PROCESY – součást intelektuálního vývoje žáka
 
 [Zpět k obsahu](#)
+
+
+**kognitivní (poznávací) procesy** = vnímání, počitek, vjem; procesy učení a paměti; fantazie; představivost; myšlení spojené s řečí a problémy
+
+**kognitivní proces - funkce** = poznávání, řízení, komunikace, uvědomění emocí, 
+
+**vnímání** = poznávání ( analýza pohybu, stavu vnitřních orgánu)
+
+**vnímání - druhy** = zrak, sluch, čich, chuť, hmat
+
+**vnímání - zážitky** = počitek ( obraz některého jednotlivého znaku vnímaného předmětu - počitek červené, kyselé ); vjem ( obraz předmětu nebo procesu jako celku -vjem jablka )
+
+**figura** = předmět v soustředění
+
+**pozadí** = ostatní v soustředění
+
+**transdukce** = převod zrakových vjemů nervům
+
+**mapování** = vnitřní mapa, model
+
+**učení** = získávání zkušeností a utváření žáka
+
+**učení - funkce** = pro tvořivý život, učí přizpůsobování změnám
+
+**učení - formy dle** = *a) převažujících výsledků* ; *b) psychologické mechanismy* (tvoření asociací) - klasické (pavlovův reflex), instrumentální (po určitém chování bude následovat určitá událost), učení komplexní a sociální 
+
+**učení - typy** = signálům, tvoření spojů, řetězení, slovní asociace, mnohonásobná diskriminace, pojmy, principy, řešení problémů
+
+**paměť** = procesy osvojující informace
+
+**paměť - procesy** = uložení, uchování, vybavení
+
+**paměť - druhy** = krátkodobá, pracovní, dlouhodobá
+
+**paměť - formy** = nevědomé, vědomé, názorné, logické
+
+**zapomínání** = změny v uchování paměti
+
+**imaginativní procesy** = názorné poznání skutečnosti
+
+**představa** = obraz nepůsobící na naše smysly
+
+**fantazie (obrazotvornost)** = vytváření představ ( rekonstrukční, tvůrčí, záměrná)
+
+**myšlení** = proces poznávání
+
+**myšlení - umožňuje** = 
+
 
 
 ----
