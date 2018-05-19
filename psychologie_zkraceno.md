@@ -358,7 +358,11 @@ __Psychologie:__
 
 **komunikace - pedagogická** = spolupůsobení žák,učitel, třída
 
-**učení sociální** = soubor forem učení jednotlivce s komunikací s jinými
+**sociální učení** = soubor forem učení jednotlivce s komunikací s druhými (přejímání sociálních rolí)
+
+**sociální učení - formy**= přímé sociální posilování, napodobování, ztotožňování, observační (pozorující)
+
+**sebeřízení** = demokrat. společnost vyžaduje rozvinutého, vzdělaného a tvořivého člověka ( edukace, sebevýchova,sebepoznání, sebehodnocení)
 
 ----
 
@@ -366,3 +370,8 @@ __Psychologie:__
 
 [Zpět k obsahu](#)
 
+**vývoj** = soubor životních drah (biodromální psychologie)
+
+**vývoj - období** = prenatální, rané dětství, 
+
+**vývoj - období** = **viz. otázka 9**
